@@ -126,4 +126,4 @@ class Sequence:
 
 		shuffledSequence = ''.join(listOfChars)
 
-		return shuffledSequence
+		return Sequence(shuffledSequence)
