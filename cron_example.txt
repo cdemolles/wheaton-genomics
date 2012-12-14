@@ -1,0 +1,1 @@
+00 2    * * *   root    cd /home/chris/Documents/microbes/Scripts && python check_for_new_files.py && ./rename_files.sh
