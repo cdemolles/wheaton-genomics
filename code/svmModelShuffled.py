@@ -44,8 +44,8 @@ def main():
 	targetRNA  = targetRNA[orderTargetRNA].astype(np.int)
 
 	datasetDNA = datasetDNA[orderDNA]
-    targetDNA  = targetDNA[orderTargetDNA].astype(np.int)
-    labelsDNA  = labelsDNA[orderDNA]
+	targetDNA  = targetDNA[orderTargetDNA].astype(np.int)
+	labelsDNA  = labelsDNA[orderDNA]
 
 	# training set (90% of the sample)
 	# take the first percentage * sampleSize rows along with all the columns from the dataset
@@ -54,8 +54,8 @@ def main():
 	labelsTrainRNA  = labelsRNA[:testing]
 
 	datasetTrainDNA = datasetDNA[:testing]
-    targetTrainDNA  = targetDNA[:testing]
-    labelsTrainDNA  = labelsDNA[:testing]
+	targetTrainDNA  = targetDNA[:testing]
+	labelsTrainDNA  = labelsDNA[:testing]
 
 	# testing set (10% of the sample)
 	# take the last percentage * sampleSize rows along with all the columns from the dataset
@@ -64,8 +64,8 @@ def main():
 	labelsTestRNA  = labelsRNA[testing:]
 
 	datasetTestDNA = datasetDNA[testing:]
-    targetTestDNA  = targetDNA[testing:]
-    labelsTestDNA  = labelsDNA[testing:]
+	targetTestDNA  = targetDNA[testing:]
+	labelsTestDNA  = labelsDNA[testing:]
 
 	datasetTrain = np.concatenate((datasetTrainRNA, datasetTrainDNA))
 	targetTrain  = np.concatenate((targetTrainRNA, targetTrainDNA))
