@@ -100,11 +100,10 @@ def main():
 		else:
 			countsIncorrect[intToClassification(targetTest[i])] = countsIncorrect[intToClassification(targetTest[i])] + 1
 
-
-	print countsCorrect
-	print countsIncorrect
-
-	#print clf.score(datasetTest, targetTest)
+	print 'RNA labeled correctly:    ', countsCorrect['RNA']
+	print 'RNA mislabeled as notRNA: ', countsIncorrect['RNA']
+	print 'notRNA labeled correctly: ', countsCorrect['notRNA']
+	print 'notRNA mislabeled as RNA: ', countsIncorrect['notRNA']
 
 def classificationToInt(x):
 
