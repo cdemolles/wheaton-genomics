@@ -82,12 +82,26 @@ def main():
 	# predict the target values for datasetTest using the model
 	results = clf.predict(datasetTest).astype(np.int)
 
+	# count how many were labeled correctly
+	countsCorrect   = {'RNA':0, 'notRNA':0}
+
+	# count how many RNA were labeled as notRNA and how many notRNA were labeled as RNA
+	countsIncorrect = {'RNA':0, 'notRNA':0}
+
 	print 'Label\tPredicted Classification\tActual Classification'	
 	for i in range(len(results)):
 
 		print labelsTest[i] + '\t' + str(results[i]) + '\t' + str(targetTest[i])
 
-	print clf.score(datasetTest, targetTest)
+		if results[i] == targetTest[i]:
+			countsCorrect[intToClassification(targetTest[i])] = countsCorrect[intToClassification(targetTest[i])] + 1
+		else:
+			countsIncorrect[intToClassification(targetTest[i])] = countsIncorrect[intToClassification(targetTest[i])] + 1
+
+	print 'RNA labeled correctly:    ', countsCorrect['RNA']
+	print 'RNA mislabeled as notRNA: ', countsIncorrect['RNA']
+	print 'notRNA labeled correctly: ', countsCorrect['notRNA']
+	print 'notRNA mislabeled as RNA: ', countsIncorrect['notRNA']
 
 def classificationToInt(x):
 
