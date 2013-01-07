@@ -110,5 +110,12 @@ def classificationToInt(x):
 	else:
 		return 1.0
 
+def intToClassification(x):
+
+	if x == 0:
+		return 'notRNA'
+	else:
+		return 'RNA'
+
 if __name__ == '__main__':
 	main()
