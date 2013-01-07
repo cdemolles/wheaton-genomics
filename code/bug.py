@@ -133,7 +133,7 @@ class Bug:
 
 
 	#==============================================================================================#
-	def readMetaDataFromFile(f, skipRows, columnMap, type, outputDictionary):
+	def readMetaDataFromFile(self, f, skipRows, columnMap, type, outputDictionary):
 
 		f.seek(0)
 
@@ -152,5 +152,5 @@ class Bug:
 			if name == '-':
 				name = 'unknown'
 
-			sequences[begin] = {'start':begin, 'end':end, 'strand':strand, 'type':type, 'name':name}
+			outputDictionary[begin] = {'start':begin, 'end':end, 'strand':strand, 'type':type, 'name':name}
 

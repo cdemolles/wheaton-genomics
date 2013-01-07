@@ -7,8 +7,8 @@ import dnaFunctions
 
 def main():
 
-	svmOutputRNA = open('/home/chris/SVM_RNA.txt', 'w')
-	svmOutputDNA = open('/home/chris/SVM_DNA.txt', 'w')
+	svmOutputRNA = open('../data/SVM_RNA.tsv', 'w')
+	svmOutputDNA = open('../data/SVM_DNA.tsv', 'w')
 	
 	allPossibleFourMers = dnaFunctions.allPossibleMotifs(4)
 
@@ -77,11 +77,11 @@ def outputData(outputFile, data, bugName, type, allPossibleFourMers):
 		outputName = ''
 
 		if type == 'DNA':
-			outputName = 'unknown'
+			outputName = 'XXX'
 		else:
 			outputName = sequenceName
 
-		outputName = bugName + '_' + outputName + '_' + str(sequence.start) + '_' + str(sequence.end) + '_' + strandName + '_' + type
+		outputName = bugName + '_' + type + '_' + outputName + '_' + str(sequence.start) + '_' + str(sequence.end) + '_' + strandName
 
 		outputFile.write(outputName)
 		outputFile.write('\t')
