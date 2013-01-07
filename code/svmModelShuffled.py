@@ -27,12 +27,15 @@ def main():
 	percentage = .9
 	testing = 250
 
-	# see random generator
+	# seed random generator
 	np.random.seed()
 
 	# create a permutation of sampleSize numbers (to be used to shuffle the datasets)
 	orderRNA = np.random.permutation(sampleSizeRNA)
 	orderDNA = np.random.permutation(sampleSizeDNA)
+
+	# reseed random number generator
+	np.random.seed()
 
 	# create a permutation of sampleSize numbers (to be used to shuffle the target classifications separately)
 	orderTargetRNA = np.random.permutation(sampleSizeRNA)
