@@ -33,6 +33,33 @@ def reverseComplement(motif):
 	return reverseComplement
 
 
+def reverseComplementMismatches(motif, numberOfMismatches):
+
+	rComplement = reverseComplement(motif)
+
+	if numberOfMismatches == 1:
+
+		mismatches = set()
+
+		for i in range(len(rComplement)):
+
+			for basePair in allPossibleMotifs(1):
+
+				reverseComplementList = list(rComplement)
+				reverseComplementList[i] = basePair
+
+				mismatch = ''.join(reverseComplementList)
+				mismatches.add(mismatch)
+
+		mismatches = list(mismatches)
+
+		return mismatches
+
+	else:
+
+		return [rComplement]
+
+
 #==============================================================================================#
 def allPossibleMotifs(length):
 
