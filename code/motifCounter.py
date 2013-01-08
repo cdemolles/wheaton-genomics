@@ -7,8 +7,8 @@ import dnaFunctions
 
 def main():
 
-	svmOutputRNA = open('../data/SVM_RNA.tsv', 'w')
-	svmOutputDNA = open('../data/SVM_DNA.tsv', 'w')
+	svmOutputRNA = open('../data/SVM_RNA_2.tsv', 'w')
+	svmOutputDNA = open('../data/SVM_DNA_2.tsv', 'w')
 	
 	allPossibleFourMers = dnaFunctions.allPossibleMotifs(4)
 
@@ -48,13 +48,13 @@ def outputHeading(outputFile, allPossibleFourMers):
 		outputFile.write(motif)
 		outputFile.write('\t')
 
-	outputFile.write('IRs of Length 3')
+	outputFile.write('IRs of Length 6')
 	outputFile.write('\t')
 
-	outputFile.write('IRs of Length 4')
+	outputFile.write('IRs of Length 8')
 	outputFile.write('\t')
 
-	outputFile.write('IRs of Length 5')
+	outputFile.write('IRs of Length 10')
 	outputFile.write('\t')
 
 	outputFile.write('Type')
