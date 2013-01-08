@@ -116,10 +116,13 @@ class Sequence:
 								identifier = motif + '_' + reverseComplement + '_' + str(motifLocation) + '_' + str(reverseComplementLocation)
 							elif reverseComplementLocation < motifLocation:
 								identifier = reverseComplement + '_' + motif + '_' + str(reverseComplementLocation) + '_' + str(motifLocation)
+							else:
+								identifier = None
 
 							# add the identifier to the set of potential inverted repeats
 							# the data structure is a set so if the identifer is already in the set, it will not be added again
-							potentialInvertedRepeats.add(identifier)
+							if identifier is not None:
+								potentialInvertedRepeats.add(identifier)
 
 			# get the length of the motif
 			key = len(motif)
