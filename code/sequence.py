@@ -20,6 +20,12 @@ class Sequence:
 
 
 	#==============================================================================================#
+	def __len__(self):
+
+		return len(self.sequence)
+
+
+	#==============================================================================================#
 	def motifs(self, min, max):
 
 		# tack on a dummy character to the sequence so the actual first character in the sequence
@@ -70,44 +76,64 @@ class Sequence:
 
 
 	#==============================================================================================#
-	def countInvertedRepeats(self, min, max, relativePercentages=True):
+	def countInvertedRepeats(self, min, max, mismatches, relativePercentages=True):
 
 		countsOfIRs = {}
 
 		motifs = self.motifs(min, max)
 
+		# loop over each motif in the list of motifs
 		for motif in motifs:
 
-			count = 0
+			# make a set to store the potential inverted repeats
+			# using a set to avoid adding the same element multiple times
+			potentialInvertedRepeats = set()
 
 			# take the reverse complement of the motif
-			reverseComplement = DNA.reverseComplement(motif)
+			reverseComplementMismatches = DNA.reverseComplementMismatches(motif, mismatches)
 
-			# if the reverse complement is also in the dictionary, then we know we have a possible IR
-			if motifs.has_key(reverseComplement):
+			# for each reverse complement with one or more mismatched base pairs
+			for reverseComplement in reverseComplementMismatches:
 
-				motifLocations = motifs[motif]
-				reverseComplementLocations = motifs[reverseComplement]
+				# if the reverse complement is also in the dictionary, then we know we have a possible IR
+				if motifs.has_key(reverseComplement):
 
-				for motifLocation in motifLocations:
+					# get the location(s) where this motif occurs
+					motifLocations = motifs[motif]
 
-					for reverseComplementLocation in reverseComplementLocations:
+					# get the location(s) where the reverse complement occurs
+					reverseComplementLocations = motifs[reverseComplement]
 
-						if motifLocation < reverseComplementLocation:
+					# loop over each starting position in the list of location(s) where the motif occurs
+					for motifLocation in motifLocations:
 
-							count = count + 1
+						# loop over each starting position in the list of location(s) where the reverse complement occurs
+						for reverseComplementLocation in reverseComplementLocations:
+
+							# construct a unique identifier for each motif and its reverse complement along with the starting locations
+							# this is to avoid counting the same thing multiple times
+							if motifLocation < reverseComplementLocation:
+								identifier = motif + '_' + reverseComplement + '_' + str(motifLocation) + '_' + str(reverseComplementLocation)
+							elif reverseComplementLocation < motifLocation:
+								identifier = reverseComplement + '_' + motif + '_' + str(reverseComplementLocation) + '_' + str(motifLocation)
+
+							# add the identifier to the set of potential inverted repeats
+							# the data structure is a set so if the identifer is already in the set, it will not be added again
+							potentialInvertedRepeats.add(identifier)
 
 			# get the length of the motif
 			key = len(motif)
 
+			# if we've already begun counting IRs of length 2 * key, then union the exisiting set with the generated set of potential inverted repeats
 			if countsOfIRs.has_key(key):
-				countsOfIRs[key] = countsOfIRs[key] + count
+				countsOfIRs[key] = countsOfIRs[key].union(potentialInvertedRepeats)
+			# otherwise, initialize an empty set
 			else:
-				countsOfIRs[key] = count
+				countsOfIRs[key] = set()
 
 		for key in countsOfIRs.keys():
 
-			countsOfIRs[key] = countsOfIRs[key] / 2
+			countsOfIRs[key] = len(countsOfIRs[key])
 
 			if relativePercentages == True:
 				countsOfIRs[key] = float(countsOfIRs[key]) / (len(self.sequence) - key + 1)
@@ -119,6 +145,7 @@ class Sequence:
 		return countsOfIRs
 
 
+	#==============================================================================================#
 	def shuffle(self):
 
 		listOfChars = list(self.sequence)
