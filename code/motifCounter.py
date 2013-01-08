@@ -65,7 +65,7 @@ def outputData(outputFile, data, bugName, type, allPossibleFourMers):
 	for sequenceName, sequence in data.iteritems():
 
 		motifs          = sequence.countMotifs(4, 4)
-		invertedRepeats = sequence.countInvertedRepeats(3, 5)
+		invertedRepeats = sequence.countInvertedRepeats(3, 5, 0)
 
 		strandName = ''
 
