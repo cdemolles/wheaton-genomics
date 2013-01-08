@@ -47,7 +47,7 @@ class Bug:
 
 			self.dna = self.cacheSequences('DNA')
 
-			return self.dna
+		return self.dna
 
 
 	#==============================================================================================#
