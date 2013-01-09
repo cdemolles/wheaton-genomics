@@ -51,6 +51,16 @@ class Bug:
 
 
 	#==============================================================================================#
+	def getSequence(self, start, end, strand='+'):
+
+		f = open(self.genomeFileName, 'r')
+		sequence = self.readFromFile(f, start, end, strand)
+		f.close()
+
+		return sequence
+
+
+	#==============================================================================================#
 	def readFromFile(self, readFile, start, end, strand):
 
 		readLength = end - start + 1
