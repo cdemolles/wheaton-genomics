@@ -70,7 +70,8 @@ class Sequence:
 			motifCounts[motif] = len(motifs[motif])
 
 			if relativePercentages == True:
-				motifCounts[motif] = float(motifCounts[motif]) / (len(self.sequence) - len(motif) + 1)
+				motifCounts[motif] = float(motifCounts[motif]) / len(self.sequence)
+				#motifCounts[motif] = float(motifCounts[motif]) / (len(self.sequence) - len(motif) + 1)
 
 		return motifCounts
 
@@ -139,7 +140,8 @@ class Sequence:
 			countsOfIRs[key] = len(countsOfIRs[key])
 
 			if relativePercentages == True:
-				countsOfIRs[key] = float(countsOfIRs[key]) / (len(self.sequence) - key + 1)
+				countsOfIRs[key] = float(countsOfIRs[key]) / len(self.sequence)
+				#countsOfIRs[key] = float(countsOfIRs[key]) / (len(self.sequence) - key + 1)
 
 		for i in range(min, max+1):
 			if not countsOfIRs.has_key(i):
