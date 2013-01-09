@@ -7,8 +7,8 @@ import dnaFunctions
 
 def main():
 
-	svmOutputRNA = open('../data/SVM_RNA_2.tsv', 'w')
-	svmOutputDNA = open('../data/SVM_DNA_2.tsv', 'w')
+	svmOutputRNA = open('../data/SVM_RNA_mismatch.tsv', 'w')
+	svmOutputDNA = open('../data/SVM_DNA_mismatch.tsv', 'w')
 	
 	allPossibleFourMers = dnaFunctions.allPossibleMotifs(4)
 
@@ -57,6 +57,12 @@ def outputHeading(outputFile, allPossibleFourMers):
 	outputFile.write('IRs of Length 10')
 	outputFile.write('\t')
 
+	outputFile.write('IRs 1 Mismatch Length 6')
+	outputFile.write('\t')
+
+	outputFile.write('IRs 1 Mismatch Length 8')
+	outputFile.write('\t')
+
 	outputFile.write('Type')
 	outputFile.write('\n')
 
@@ -66,6 +72,7 @@ def outputData(outputFile, data, bugName, type, allPossibleFourMers):
 
 		motifs          = sequence.countMotifs(4, 4)
 		invertedRepeats = sequence.countInvertedRepeats(3, 5, 0)
+		invertedRepeatsMismatch = sequence.countInvertedRepeats(3, 4, 1)
 
 		strandName = ''
 
@@ -101,6 +108,10 @@ def outputData(outputFile, data, bugName, type, allPossibleFourMers):
 		outputFile.write(str(invertedRepeats[4]))
 		outputFile.write('\t')
 		outputFile.write(str(invertedRepeats[5]))
+		outputFile.write('\t')
+		outputFile.write(str(invertedRepeatsMismatch[3]))
+		outputFile.write('\t')
+		outputFile.write(str(invertedRepeatsMismatch[4]))
 		outputFile.write('\t')
 
 		if type == 'DNA':
