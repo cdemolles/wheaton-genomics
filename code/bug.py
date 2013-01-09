@@ -54,10 +54,11 @@ class Bug:
 	def getSequence(self, start, end, strand='+'):
 
 		f = open(self.genomeFileName, 'r')
-		sequence = self.readFromFile(f, start, end, strand)
+		seqStr = self.readFromFile(f, start, end, strand)
+		seq    = Sequence(seqStr)
 		f.close()
 
-		return sequence
+		return seq
 
 
 	#==============================================================================================#
