@@ -13,7 +13,6 @@ class Bug:
 		rootDirectory = '/home/chris/Documents/microbes/HMP_new/'
 
 		self.name = name
-		self.genome = None
 		self.rna  = None
 		self.dna  = None
 		self.sequenceMetaData = None
@@ -21,6 +20,17 @@ class Bug:
 		self.genomeFileName   = glob.glob(rootDirectory + name + '*/*_complete_genome.fna.oneline')[0]
 		self.pttFileName      = glob.glob(rootDirectory + name + '*/*_complete_genome.ptt')[0]
 		self.rntFileName      = glob.glob(rootDirectory + name + '*/*_complete_genome.rnt')[0]
+
+		f = open(self.genomeFileName)
+		genomeStr = f.readline()
+		genomeStr = genomeStr.strip()
+		genomeStr = genomeStr[1:]
+		self.genome = Sequence(genomeStr)
+
+
+	def __getitem__(self, key):
+
+		sequenceSlice = self.genome[key]
 
 
 	#==============================================================================================#
@@ -52,14 +62,12 @@ class Bug:
 
 
 	#==============================================================================================#
-	def getSequence(self, start, end, strand='+'):
+	def shuffle(self):
 
-		f = open(self.genomeFileName, 'r')
-		seqStr = self.readFromFile(f, start, end, strand)
-		seq    = Sequence(seqStr)
-		f.close()
+		shuffledBug = Bug(self.name)
+		shuffledBug.genome.shuffle()
 
-		return seq
+		return shuffledBug
 
 
 	#==============================================================================================#
@@ -81,14 +89,20 @@ class Bug:
 
 		listOfSequences = {}
 
-		genomeFile = open(self.genomeFileName, 'r')
+		#genomeFile = open(self.genomeFileName, 'r')
 
 		for value in self.sequenceMetaData.values():
 
 			if value['type'] == type:
 
-				sequenceString = self.readFromFile(genomeFile, value['start'], value['end'], value['strand'])
-				sequence = Sequence(sequenceString, value['start'], value['end'], value['strand'])
+				sequence = self.genome[value['start']:value['end']+1]
+
+				if value['strand'] == '-':
+					sequence = sequence.reverseComplement()
+
+				sequence.start = value['start']
+				sequence.end   = value['end']
+				sequence.strand = value['strand']
 
 				if type == 'DNA':
 
@@ -100,7 +114,7 @@ class Bug:
 					if not listOfSequences.has_key(value['name']):
 						listOfSequences[value['name']] = sequence
 
-		genomeFile.close()
+		#genomeFile.close()
 
 		return listOfSequences
 
