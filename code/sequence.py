@@ -26,6 +26,22 @@ class Sequence:
 
 
 	#==============================================================================================#
+	def __getitem__(self, key):
+
+		section = 'X' + self.sequence
+		return section[key]
+
+
+	#==============================================================================================#
+	def reverseComplement(self):
+
+		rComplement = DNA.reverseComplement(self.sequence)
+		rComplement = Sequence(rComplement)
+
+		return rComplement
+
+
+	#==============================================================================================#
 	def motifs(self, min, max):
 
 		# tack on a dummy character to the sequence so the actual first character in the sequence
@@ -71,7 +87,6 @@ class Sequence:
 
 			if relativePercentages == True:
 				motifCounts[motif] = float(motifCounts[motif]) / len(self.sequence)
-				#motifCounts[motif] = float(motifCounts[motif]) / (len(self.sequence) - len(motif) + 1)
 
 		return motifCounts
 
@@ -141,7 +156,6 @@ class Sequence:
 
 			if relativePercentages == True:
 				countsOfIRs[key] = float(countsOfIRs[key]) / len(self.sequence)
-				#countsOfIRs[key] = float(countsOfIRs[key]) / (len(self.sequence) - key + 1)
 
 		for i in range(min, max+1):
 			if not countsOfIRs.has_key(i):
