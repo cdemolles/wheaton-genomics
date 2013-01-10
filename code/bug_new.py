@@ -31,6 +31,7 @@ class Bug:
 	def __getitem__(self, key):
 
 		sequenceSlice = self.genome[key]
+		return sequenceSlice
 
 
 	#==============================================================================================#
