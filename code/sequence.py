@@ -29,7 +29,7 @@ class Sequence:
 	def __getitem__(self, key):
 
 		section = 'X' + self.sequence
-		return section[key]
+		return Sequence(section[key])
 
 
 	#==============================================================================================#
