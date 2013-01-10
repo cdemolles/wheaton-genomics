@@ -66,7 +66,7 @@ class Bug:
 	def shuffle(self):
 
 		shuffledBug = Bug(self.name)
-		shuffledBug.genome.shuffle()
+		shuffledBug = shuffledBug.genome.shuffle()
 
 		return shuffledBug
 
