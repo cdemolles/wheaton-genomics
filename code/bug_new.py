@@ -181,3 +181,52 @@ class Bug:
 
 			outputDictionary[begin] = {'start':begin, 'end':end, 'strand':strand, 'type':type, 'name':name}
 
+
+	#==============================================================================================#
+	def printReport(self):
+
+		rna = self.getRna()
+		dna = self.getDna()
+		
+		print '=================================================================================='
+		print 'The name of this bug is', self.name
+		print 'The length of its genome is', len(self.genome)
+		print ''
+
+		for rnaName, sequence in rna:
+
+			perfectIRs = sequence.countInvertedRepeats(3, 4, 0)
+			IRsOneMismatch = sequence.countInvertedRepeats(3, 4, 1)
+
+			if sequence.strand == '+':
+				strand = 'direct'
+			else:
+				strand = 'indirect'
+
+			print 'There is a', rnaName, 'RNA on the', strand, 'strand that begins at', sequence.begin, 'and ends at', sequence.end
+			print 'The length of the sequence is', len(sequence)
+			print 'The ratio of potential perfect IRs of length 6 to the length of the sequence is', perfectIRs[3]
+			print 'The ratio of potential perfect IRs of length 8 to the length of the sequence is', perfectIRs[4]
+			print 'The ratio of potential IRs of length 6 with 1 mismatch to the length of the sequence is', IRsOneMismatch[3]
+			print 'The ratio of potential IRs of length 8 with 1 mismatch to the length of the sequence is', IRsOneMismatch[4]
+			print ''
+
+		for dnaStart, sequence in dna:
+
+			perfectIRs = sequence.countInvertedRepeats(3, 4, 0)
+			IRsOneMismatch = sequence.countInvertedRepeats(3, 4, 1)
+
+			if sequence.strand == '+'
+				strand = 'direct'
+			else:
+				strand = 'indirect'
+
+			print 'There is a DNA sequence on the', strand, 'strand that begins at', sequence.begin, 'and ends at', sequence.end
+			print 'The length of the sequence is', len(sequence)
+			print 'The ratio of potential perfect IRs of length 6 to the length of the sequence is', perfectIRs[3]
+			print 'The ratio of potential perfect IRs of length 8 to the length of the sequence is', perfectIRs[4]
+			print 'The ratio of potential IRs of length 6 with 1 mismatch to the length of the sequence is', IRsOneMismatch[3]
+			print 'The ratio of potential IRs of length 8 with 1 mismatch to the length of the sequence is', IRsOneMismatch[4]
+			print ''
+
+		print '=================================================================================='
