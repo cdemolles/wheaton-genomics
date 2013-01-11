@@ -203,7 +203,7 @@ class Bug:
 			else:
 				strand = 'indirect'
 
-			print 'There is a', rnaName, 'RNA on the', strand, 'strand that begins at', sequence.begin, 'and ends at', sequence.end
+			print 'There is a', rnaName, 'RNA on the', strand, 'strand that begins at', sequence.start, 'and ends at', sequence.end
 			print 'The length of the sequence is', len(sequence)
 			print 'The ratio of potential perfect IRs of length 6 to the length of the sequence is', perfectIRs[3]
 			print 'The ratio of potential perfect IRs of length 8 to the length of the sequence is', perfectIRs[4]
@@ -221,7 +221,7 @@ class Bug:
 			else:
 				strand = 'indirect'
 
-			print 'There is a DNA sequence on the', strand, 'strand that begins at', sequence.begin, 'and ends at', sequence.end
+			print 'There is a DNA sequence on the', strand, 'strand that begins at', sequence.start, 'and ends at', sequence.end
 			print 'The length of the sequence is', len(sequence)
 			print 'The ratio of potential perfect IRs of length 6 to the length of the sequence is', perfectIRs[3]
 			print 'The ratio of potential perfect IRs of length 8 to the length of the sequence is', perfectIRs[4]
