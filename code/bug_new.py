@@ -216,7 +216,7 @@ class Bug:
 			perfectIRs = sequence.countInvertedRepeats(3, 4, 0)
 			IRsOneMismatch = sequence.countInvertedRepeats(3, 4, 1)
 
-			if sequence.strand == '+'
+			if sequence.strand == '+':
 				strand = 'direct'
 			else:
 				strand = 'indirect'
