@@ -193,7 +193,7 @@ class Bug:
 		print 'The length of its genome is', len(self.genome)
 		print ''
 
-		for rnaName, sequence in rna:
+		for rnaName, sequence in rna.iteritems():
 
 			perfectIRs = sequence.countInvertedRepeats(3, 4, 0)
 			IRsOneMismatch = sequence.countInvertedRepeats(3, 4, 1)
@@ -211,7 +211,7 @@ class Bug:
 			print 'The ratio of potential IRs of length 8 with 1 mismatch to the length of the sequence is', IRsOneMismatch[4]
 			print ''
 
-		for dnaStart, sequence in dna:
+		for dnaStart, sequence in dna.iteritems():
 
 			perfectIRs = sequence.countInvertedRepeats(3, 4, 0)
 			IRsOneMismatch = sequence.countInvertedRepeats(3, 4, 1)
