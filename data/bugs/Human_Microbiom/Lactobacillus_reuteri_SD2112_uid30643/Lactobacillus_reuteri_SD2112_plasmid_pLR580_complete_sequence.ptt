@@ -1,0 +1,10 @@
+Lactobacillus reuteri SD2112 plasmid pLR580, complete sequence - 1..7047
+7 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1978..2475	-	165	338202353	-	HMPREF0538_22305	-	-	hypothetical protein
+2965..3522	-	185	338202354	-	HMPREF0538_22306	-	-	hypothetical protein
+3560..4057	-	165	338202355	-	HMPREF0538_22307	-	-	hypothetical protein
+4075..5568	-	497	338202356	-	HMPREF0538_22308	-	-	hypothetical protein
+5877..6131	-	84	338202357	-	HMPREF0538_22309	-	-	hypothetical protein
+6145..6276	+	43	338202358	-	HMPREF0538_22310	-	-	hypothetical protein
+6394..1485	-	712	338202352	-	HMPREF0538_22304	-	-	replication protein

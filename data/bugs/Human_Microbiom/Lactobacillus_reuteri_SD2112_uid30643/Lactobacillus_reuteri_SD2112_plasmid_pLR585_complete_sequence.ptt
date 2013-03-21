@@ -1,0 +1,17 @@
+Lactobacillus reuteri SD2112 plasmid pLR585, complete sequence - 1..14173
+14 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+389..1315	+	308	338202337	-	HMPREF0538_22272	-	COG1131V	ABC transporter ATP-binding protein
+1302..2918	+	538	338202338	-	HMPREF0538_22273	-	COG3559M	polyketide antibiotics exporter
+2915..3553	+	212	338202339	-	HMPREF0538_22274	-	COG1309K	transcriptional regulator
+3672..4253	+	193	338202340	-	HMPREF0538_22275	-	COG1961L	resolvase family site-specific recombinase
+4360..5328	-	322	338202341	-	HMPREF0538_22276	-	COG2826L	transposase
+5539..6357	+	272	338202342	-	HMPREF0538_22277	-	-	mobilization protein
+6663..7148	-	161	338202343	lnuA	HMPREF0538_22278	-	-	lincosamide resistance protein
+7386..8528	+	380	338202344	-	HMPREF0538_22279	-	-	CAAX amino protease
+8572..9030	-	152	338202345	-	HMPREF0538_22280	-	-	transcriptional regulator
+9866..11983	-	705	338202346	-	HMPREF0538_22281	-	-	replication protein
+12274..12672	-	132	338202347	-	HMPREF0538_22282	-	-	replication protein
+12698..13069	-	123	338202348	-	HMPREF0538_22283	-	-	replication associated protein
+13062..13322	-	86	338202349	-	HMPREF0538_22284	-	COG3077L	replication associated protein
+13482..14069	-	195	338202350	-	HMPREF0538_22285	-	-	integrase

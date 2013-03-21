@@ -1,0 +1,1799 @@
+Nitrosopumilus maritimus SCM1 chromosome, complete genome - 1..1645259
+1796 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+146..1348	+	400	161527513	-	Nmar_0001	-	COG1474LO	cell division control protein 6 family protein
+1325..2770	-	481	161527514	-	Nmar_0002	-	COG1311L	DNA polymerase II small subunit
+2881..3387	+	168	161527515	-	Nmar_0003	-	-	hypothetical protein
+3463..4359	+	298	161527516	-	Nmar_0004	-	COG3794C	hypothetical protein
+4356..5072	-	238	161527517	-	Nmar_0005	-	COG2241H	precorrin-6y C5,15-methyltransferase subunit CbiE
+5075..5566	-	163	161527518	-	Nmar_0006	-	-	hypothetical protein
+5639..7168	+	509	161527519	-	Nmar_0007	-	COG0652O	peptidyl-prolyl isomerase
+7169..8524	-	451	161527520	-	Nmar_0008	-	COG1252C	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+8594..9244	-	216	161527521	-	Nmar_0009	-	-	hypothetical protein
+9370..9861	+	163	161527522	-	Nmar_0010	-	COG0071O	heat shock protein HSP20
+9889..12030	+	713	161527523	-	Nmar_0011	-	COG0464O	ATPase AAA
+12340..12783	+	147	161527524	-	Nmar_0012	-	COG2433S	hypothetical protein
+12800..13720	-	306	161527525	-	Nmar_0013	-	COG1405K	transcription factor TFIIB cyclin-related protein
+13897..14136	-	79	161527526	-	Nmar_0014	-	-	hypothetical protein
+14212..14592	+	126	161527527	-	Nmar_0015	-	COG0239D	camphor resistance CrcB protein
+14599..14826	+	75	161527528	-	Nmar_0016	-	-	hypothetical protein
+14827..15099	-	90	161527529	-	Nmar_0017	-	-	hypothetical protein
+15531..15830	+	99	161527530	-	Nmar_0018	-	-	hypothetical protein
+15827..16771	-	314	161527531	-	Nmar_0019	-	-	hypothetical protein
+16889..17794	+	301	161527532	-	Nmar_0020	-	COG1405K	transcription factor TFIIB cyclin-related protein
+17795..19249	-	484	161527533	-	Nmar_0021	-	COG3263P	sodium/hydrogen exchanger
+19365..19907	+	180	161527534	-	Nmar_0022	-	COG3945S	hypothetical protein
+19920..20459	+	179	161527535	-	Nmar_0023	-	COG0529P	adenylylsulfate kinase
+20451..21266	-	271	161527536	-	Nmar_0024	-	COG1218P	inositol monophosphatase
+21275..21481	-	68	161527537	-	Nmar_0025	-	-	hypothetical protein
+21522..22331	-	269	161527538	-	Nmar_0026	-	COG1028IQR	short-chain dehydrogenase/reductase SDR
+22532..22960	-	142	161527539	-	Nmar_0027	-	-	hypothetical protein
+22998..23549	-	183	161527540	-	Nmar_0028	-	-	hypothetical protein
+23675..24322	+	215	161527541	-	Nmar_0029	-	COG5491N	hypothetical protein
+24466..25470	+	334	161527542	-	Nmar_0030	-	-	hypothetical protein
+25473..25946	-	157	161527543	-	Nmar_0031	-	COG1196D	hypothetical protein
+26047..26688	-	213	161527544	-	Nmar_0032	-	-	hypothetical protein
+27032..27292	+	86	161527545	-	Nmar_0033	-	COG3432K	hypothetical protein
+27296..28303	+	335	161527546	-	Nmar_0034	-	COG2512S	hypothetical protein
+28300..28650	+	116	161527547	-	Nmar_0035	-	-	hypothetical protein
+28710..28904	+	64	161527548	-	Nmar_0036	-	-	hypothetical protein
+28946..29659	+	237	161527549	-	Nmar_0037	-	COG0602O	radical SAM protein
+29723..30280	+	185	161527550	-	Nmar_0038	-	COG0302H	GTP cyclohydrolase I
+30258..30575	+	105	161527551	-	Nmar_0039	-	COG4499S	hypothetical protein
+30578..31252	-	224	161527552	-	Nmar_0040	-	COG0603R	ExsB family protein
+31256..32179	-	307	161527553	-	Nmar_0041	-	COG0083E	homoserine kinase
+32179..32937	-	252	161527554	-	Nmar_0042	-	COG1100R	GTPase
+33030..34121	+	363	161527555	-	Nmar_0043	-	COG0392S	hypothetical protein
+34156..34950	+	264	161527556	-	Nmar_0044	-	COG0300R	short-chain dehydrogenase/reductase SDR
+34958..35362	-	134	161527557	-	Nmar_0045	-	-	hypothetical protein
+35374..35685	-	103	161527558	-	Nmar_0046	-	-	hypothetical protein
+35839..37074	-	411	161527559	-	Nmar_0047	-	-	hypothetical protein
+37114..38277	-	387	161527560	-	Nmar_0048	-	COG0301H	thiamine biosynthesis ATP pyrophosphatase-like protein
+38305..39030	+	241	161527561	-	Nmar_0049	-	COG0175EH	adenylylsulfate reductase
+39032..40174	+	380	161527562	-	Nmar_0050	-	COG2046P	sulfate adenylyltransferase
+40206..40871	+	221	161527563	-	Nmar_0051	-	-	hypothetical protein
+40855..41511	-	218	161527564	-	Nmar_0052	-	COG0177L	DNA-(apurinic or apyrimidinic site) lyase
+41561..42715	+	384	161527565	-	Nmar_0053	-	COG1679S	hypothetical protein
+42712..43098	+	128	161527566	-	Nmar_0054	-	COG1786S	hypothetical protein
+43073..45031	-	652	161527567	-	Nmar_0055	-	COG1293K	hypothetical protein
+45126..45602	+	158	161527568	-	Nmar_0056	-	-	hypothetical protein
+45627..46217	+	196	161527569	-	Nmar_0057	-	COG2242H	precorrin-6y C5,15-methyltransferase subunit CbiT
+46253..46975	+	240	161527570	-	Nmar_0058	-	COG2243H	precorrin-2 C(20)-methyltransferase
+46968..47738	+	256	161527571	-	Nmar_0059	-	COG2875H	precorrin-4 C(11)-methyltransferase
+47719..48474	-	251	161527572	-	Nmar_0060	-	COG0796M	glutamate racemase
+48580..49230	+	216	161527573	-	Nmar_0061	-	COG5491N	hypothetical protein
+49278..50438	-	386	161527574	-	Nmar_0062	-	COG0463M	glycosyl transferase family protein
+50600..52057	-	485	161527575	-	Nmar_0063	-	COG0423J	glycyl-tRNA synthetase
+52088..52927	-	279	161527576	-	Nmar_0064	-	COG0648L	apurinic endonuclease Apn1
+53013..54038	+	341	161527577	-	Nmar_0065	-	COG2219L	DNA primase large subunit
+54038..55159	+	373	161527578	-	Nmar_0066	-	COG1467L	DNA primase small subunit
+55201..58062	+	953	161527579	-	Nmar_0067	-	COG1615S	hypothetical protein
+58063..58605	+	180	161527580	-	Nmar_0068	-	COG0518F	class I glutamine amidotransferase
+58640..59602	+	320	161527581	-	Nmar_0069	-	COG5010U	hypothetical protein
+59729..59902	+	57	161527582	-	Nmar_0070	-	-	hypothetical protein
+60101..60514	+	137	161527583	-	Nmar_0071	-	COG2125J	30S ribosomal protein S6e
+60546..61808	+	420	161527584	-	Nmar_0072	-	COG5257J	translation initiation factor IF-2
+61801..62169	+	122	161527585	-	Nmar_0073	-	COG1412R	hypothetical protein
+62205..62654	+	149	161527586	-	Nmar_0074	-	COG1881R	PEBP family protein
+62723..64861	+	712	161527587	-	Nmar_0075	-	COG1287R	dolichyl-diphosphooligosaccharide--protein glycotransferase
+64864..65019	-	51	161527588	-	Nmar_0076	-	COG2260J	RNA-binding protein Nop10p
+65021..65818	-	265	161527589	-	Nmar_0077	-	COG1093J	RNA-binding S1 domain-containing protein
+65859..66389	-	176	161527590	-	Nmar_0078	-	COG2109H	cob(I)alamin adenosyltransferase
+66477..67829	+	450	161527591	-	Nmar_0079	-	COG1797H	cobyrinic acid a,c-diamide synthase
+67818..68459	-	213	161527592	-	Nmar_0080	-	COG2082H	precorrin-8X methylmutase CbiC/CobH
+68449..69201	-	250	161527593	-	Nmar_0081	-	COG2138S	cobalamin (vitamin B12) biosynthesis CbiX protein
+69198..70250	-	350	161527594	-	Nmar_0082	-	COG2073H	cobalamin (vitamin B12) biosynthesis protein CbiG
+70282..71367	-	361	161527595	-	Nmar_0083	-	COG1903H	cobalamin biosynthesis protein CbiD
+71458..72327	+	289	161527596	-	Nmar_0084	-	COG0702MG	NAD-dependent epimerase/dehydratase
+72304..73470	-	388	161527597	-	Nmar_0085	-	COG0192H	methionine adenosyltransferase
+73486..73731	-	81	161527598	-	Nmar_0086	-	COG1958K	like-Sm ribonucleoprotein core
+73840..74493	+	217	161527599	-	Nmar_0087	-	COG0468L	recombinase A
+74592..77333	+	913	161527600	-	Nmar_0088	-	COG1201R	DEAD/DEAH box helicase
+77330..78730	-	466	161527601	-	Nmar_0089	-	COG1599L	OB-fold tRNA/helicase-type nucleic acid binding-protein
+78944..79882	+	312	161527602	-	Nmar_0090	-	COG1131V	ABC transporter
+79866..80627	+	253	161527603	-	Nmar_0091	-	COG1682GM	ABC transporter
+80633..81373	-	246	161527604	-	Nmar_0092	-	COG0677M	UDP-glucose/GDP-mannose dehydrogenase
+81548..82600	-	350	161527605	-	Nmar_0093	-	COG1817S	hypothetical protein
+82664..83803	+	379	161527606	-	Nmar_0094	-	-	hypothetical protein
+83839..84402	+	187	161527607	-	Nmar_0095	-	COG0576O	GrpE protein HSP-70 cofactor
+84405..86315	+	636	161527608	-	Nmar_0096	-	COG0443O	chaperone protein DnaK
+86365..87450	+	361	161527609	-	Nmar_0097	-	COG0484O	chaperone protein DnaJ
+87456..87989	+	177	161527610	-	Nmar_0098	-	COG4502S	hypothetical protein
+88308..90212	-	634	161527611	-	Nmar_0099	-	COG2511J	glutamyl-tRNA(Gln) amidotransferase subunit E
+90221..91510	-	429	161527612	-	Nmar_0100	-	COG0252EJ	glutamyl-tRNA(Gln) amidotransferase subunit D
+91543..93711	-	722	161527613	-	Nmar_0101	-	COG0464O	ATPase AAA
+93816..94550	+	244	161527614	rpl2p	Nmar_0102	-	COG0090J	50S ribosomal protein L2
+94601..94879	+	92	161527615	-	Nmar_0103	-	COG1254C	acylphosphatase
+94876..95208	-	110	161527616	-	Nmar_0104	-	-	hypothetical protein
+95588..96502	-	304	161527617	-	Nmar_0105	-	COG0037D	PP-loop domain-containing protein
+96623..97543	+	306	161527618	-	Nmar_0106	-	COG2227H	methyltransferase type 12
+97656..98852	-	398	161527619	-	Nmar_0107	-	COG0265O	peptidase M50
+98896..99207	+	103	161527620	-	Nmar_0108	-	COG1324P	CutA1 divalent ion tolerance protein
+99204..100253	-	349	161527621	-	Nmar_0109	-	COG1537R	eRF1 domain-containing protein
+100286..100699	-	137	161527622	-	Nmar_0110	-	-	hypothetical protein
+100838..101290	+	150	161527623	-	Nmar_0111	-	COG0432S	hypothetical protein
+101295..101459	-	54	161527624	-	Nmar_0112	-	-	hypothetical protein
+101499..101951	-	150	161527625	-	Nmar_0113	-	COG1321K	DtxR family iron dependent repressor
+101953..102720	-	255	161527626	-	Nmar_0114	-	COG1378K	transcriptional regulator TrmB
+102822..104501	+	559	161527627	-	Nmar_0115	-	COG1964R	radical SAM protein
+104553..105578	+	341	161527628	-	Nmar_0116	-	COG0438M	group 1 glycosyl transferase
+105630..106637	+	335	161527629	-	Nmar_0117	-	COG1086MG	polysaccharide biosynthesis protein CapD
+106639..108219	-	526	161527630	-	Nmar_0118	-	COG1807M	hypothetical protein
+108318..109481	-	387	161527631	-	Nmar_0119	-	COG1377NU	polysaccharide biosynthesis protein
+109495..110676	-	393	161527632	-	Nmar_0120	-	COG0438M	group 1 glycosyl transferase
+110737..111624	-	295	161527633	-	Nmar_0121	-	COG0451MG	NAD-dependent epimerase/dehydratase
+111720..112664	+	314	161527634	-	Nmar_0122	-	COG0451MG	NAD-dependent epimerase/dehydratase
+112659..113699	-	346	161527635	-	Nmar_0123	-	COG1216R	glycosyl transferase family protein
+113741..114796	-	351	161527636	-	Nmar_0124	-	COG1209M	glucose-1-phosphate thymidylyltransferase
+114842..115831	-	329	161527637	-	Nmar_0125	-	COG1088M	dTDP-glucose 4,6-dehydratase
+116426..117607	-	393	161527638	-	Nmar_0126	-	-	GDSL family lipase
+117608..119311	-	567	161527639	-	Nmar_0127	-	COG2192O	carbamoyltransferase
+119311..119658	-	115	161527640	-	Nmar_0128	-	-	hypothetical protein
+119660..119812	-	50	161527641	-	Nmar_0129	-	-	hypothetical protein
+119962..120735	-	257	161527642	-	Nmar_0130	-	-	hypothetical protein
+120842..121897	+	351	161527643	-	Nmar_0131	-	COG2089M	N-acylneuraminate-9-phosphate synthase
+121900..122988	-	362	161527644	-	Nmar_0132	-	COG0399M	glutamine--scyllo-inositol transaminase
+122985..123383	-	132	161527645	-	Nmar_0133	-	-	hypothetical protein
+123483..124076	+	197	161527646	-	Nmar_0134	-	COG0223J	methionyl-tRNA formyltransferase-like protein
+124078..124836	+	252	161527647	-	Nmar_0135	-	COG1861M	acylneuraminate cytidylyltransferase
+124833..125879	-	348	161527648	-	Nmar_0136	-	COG0673R	oxidoreductase domain-containing protein
+125943..127181	-	412	161527649	-	Nmar_0137	-	COG4310R	aminopeptidase domain-containing protein
+127275..127622	+	115	161527650	-	Nmar_0138	-	COG0736I	4'-phosphopantetheinyl transferase
+127631..129448	-	605	161527651	-	Nmar_0139	-	COG0381M	hypothetical protein
+129568..130626	+	352	161527652	-	Nmar_0140	-	COG0119E	pyruvate carboxyltransferase
+130601..132058	+	485	161527653	-	Nmar_0141	-	COG0318IQ	AMP-dependent synthetase and ligase
+132142..132786	+	214	161527654	-	Nmar_0142	-	COG1878R	cyclase family protein
+132804..133049	+	81	161527655	-	Nmar_0143	-	-	hypothetical protein
+133033..133818	+	261	161527656	-	Nmar_0144	-	COG2746V	aminoglycoside N3-acetyltransferase
+133802..134257	-	151	161527657	-	Nmar_0145	-	COG1898M	hypothetical protein
+134267..135256	-	329	161527658	-	Nmar_0146	-	COG1086MG	polysaccharide biosynthesis protein CapD
+135375..136670	+	431	161527659	-	Nmar_0147	-	COG0381M	hypothetical protein
+136667..137995	+	442	161527660	-	Nmar_0148	-	COG0001H	class III aminotransferase
+138001..138744	-	247	161527661	-	Nmar_0149	-	COG1861M	acylneuraminate cytidylyltransferase
+138746..139729	-	327	161527662	-	Nmar_0150	-	COG1089M	NAD-dependent epimerase/dehydratase
+141684..142691	+	335	161527663	-	Nmar_0153	-	COG0673R	oxidoreductase domain-containing protein
+142688..144052	+	454	161527664	-	Nmar_0154	-	COG3119P	sulfatase
+144143..145516	+	457	161527665	-	Nmar_0155	-	-	helix-turn-helix domain-containing protein
+145547..146671	+	374	161527666	-	Nmar_0156	-	COG3119P	sulfatase
+146673..147416	-	247	161527667	-	Nmar_0157	-	COG1213M	sugar nucleotidyltransferase-like protein
+148450..149349	-	299	161527668	-	Nmar_0160	-	COG2513G	phosphoenolpyruvate phosphomutase
+149412..150347	+	311	161527669	-	Nmar_0161	-	COG1454C	iron-containing alcohol dehydrogenase
+150349..150645	-	98	161527670	-	Nmar_0162	-	COG2146PR	Rieske (2Fe-2S) domain-containing protein
+150648..151970	-	440	161527671	-	Nmar_0163	-	COG2220R	hypothetical protein
+152015..152839	-	274	161527672	-	Nmar_0164	-	COG2524K	signal transduction protein
+152989..153954	+	321	161527673	-	Nmar_0165	-	COG0463M	glycosyl transferase family protein
+153960..154847	+	295	161527674	-	Nmar_0166	-	-	sulfotransferase
+154844..155815	-	323	161527675	-	Nmar_0167	-	COG1737K	RpiR family transcriptional regulator
+155950..156876	+	308	161527676	-	Nmar_0168	-	COG1087M	NAD-dependent epimerase/dehydratase
+156890..157927	+	345	161527677	-	Nmar_0169	-	COG0182J	aIF-2BI family translation initiation factor
+157954..158940	+	328	161527678	-	Nmar_0170	-	COG0673R	oxidoreductase domain-containing protein
+158989..159906	+	305	161527679	-	Nmar_0171	-	COG0673R	oxidoreductase domain-containing protein
+159978..160616	+	212	161527680	-	Nmar_0172	-	COG2151R	hypothetical protein
+160619..161266	-	215	161527681	-	Nmar_0173	-	COG1028IQR	short-chain dehydrogenase/reductase SDR
+161293..161532	-	79	161527682	-	Nmar_0174	-	-	hypothetical protein
+161651..162244	+	197	161527683	-	Nmar_0175	-	-	hypothetical protein
+162208..162699	-	163	161527684	-	Nmar_0176	-	-	hypothetical protein
+162861..164036	+	391	161527685	-	Nmar_0177	-	COG0436E	alanine aminotransferase
+164030..164431	-	133	161527686	-	Nmar_0178	-	COG3467R	pyridoxamine 5'-phosphate oxidase-like FMN-binding protein
+164415..164648	-	77	161527687	-	Nmar_0179	-	-	hypothetical protein
+164664..165335	-	223	161527688	-	Nmar_0180	-	COG2085R	coenzyme F420-dependent NADP oxidoreductase
+165387..166010	+	207	161527689	-	Nmar_0181	-	COG0406G	phosphoglycerate mutase
+166066..166326	+	86	161527690	-	Nmar_0182	-	-	hypothetical protein
+166329..166760	+	143	161527691	-	Nmar_0183	-	COG1622C	cytochrome c oxidase subunit II
+166798..168324	+	508	161527692	-	Nmar_0184	-	COG0843C	cytochrome c oxidase subunit I
+168337..169284	+	315	161527693	-	Nmar_0185	-	COG3794C	blue (type1) copper domain-containing protein
+169322..169735	+	137	161527694	-	Nmar_0186	-	COG1612O	hypothetical protein
+169725..170249	-	174	161527695	-	Nmar_0187	-	-	hypothetical protein
+170346..170942	+	198	161527696	-	Nmar_0188	-	COG5637S	hypothetical protein
+171179..172975	+	598	161527697	-	Nmar_0189	-	COG0642T	histidine kinase
+172976..173530	-	184	161527698	-	Nmar_0190	-	COG2226H	methyltransferase type 11
+173569..173730	-	53	161527699	-	Nmar_0191	-	-	hypothetical protein
+173772..174686	-	304	161527700	-	Nmar_0192	-	COG0115EH	branched-chain amino acid aminotransferase
+175136..176551	-	471	161527701	-	Nmar_0193	-	COG0527E	aspartate/glutamate/uridylate kinase
+176568..177590	-	340	161527702	-	Nmar_0194	-	COG0707M	glycosyltransferase family 28 protein
+177763..178044	+	93	161527703	-	Nmar_0195	-	-	hypothetical protein
+178141..178488	-	115	161527704	-	Nmar_0196	-	-	hypothetical protein
+178619..178984	+	121	161527705	-	Nmar_0197	-	-	hypothetical protein
+178988..179500	-	170	161527706	-	Nmar_0198	-	-	hypothetical protein
+179561..179812	+	83	161527707	-	Nmar_0199	-	-	hypothetical protein
+179850..180302	+	150	161527708	-	Nmar_0200	-	-	hypothetical protein
+180299..181180	-	293	161527709	-	Nmar_0201	-	COG1032C	radical SAM protein
+181280..181582	+	100	161527710	-	Nmar_0202	-	COG4742K	ArsR family transcriptional regulator
+181608..181892	+	94	161527711	-	Nmar_0203	-	-	hypothetical protein
+181928..182371	+	147	161527712	-	Nmar_0204	-	-	hypothetical protein
+182361..182717	+	118	161527713	-	Nmar_0205	-	COG0328L	ribonuclease H
+182783..184879	+	698	161527714	-	Nmar_0206	-	COG1042C	CoA-binding domain-containing protein
+184953..186479	+	508	161527715	-	Nmar_0207	-	COG2368Q	vinylacetyl-CoA Delta-isomerase
+186634..187344	-	236	161527716	-	Nmar_0208	-	COG0681U	peptidase S26B, signal peptidase
+187385..188155	-	256	161527717	-	Nmar_0209	-	COG1873S	hypothetical protein
+188271..188597	+	108	161527718	-	Nmar_0210	-	COG3118O	thioredoxin
+188840..189199	+	119	161527719	-	Nmar_0211	-	-	hypothetical protein
+189221..189760	-	179	161527720	-	Nmar_0212	-	-	hypothetical protein
+190362..190625	-	87	161527721	-	Nmar_0213	-	-	hypothetical protein
+190720..192114	+	464	161527722	-	Nmar_0214	-	COG0044F	dihydropyrimidinase
+192117..192944	-	275	161527723	-	Nmar_0215	-	COG1355R	hypothetical protein
+192965..193582	-	205	161527724	-	Nmar_0216	-	COG2078S	AMMECR1 domain-containing protein
+193616..194686	+	356	161527725	-	Nmar_0217	-	COG1180O	radical SAM protein
+194923..195597	-	224	161527726	-	Nmar_0218	-	COG0120G	ribose 5-phosphate isomerase
+195598..196557	-	319	161527727	-	Nmar_0219	-	-	hypothetical protein
+196558..196725	-	55	161527728	rpl37e	Nmar_0220	-	COG2126J	50S ribosomal protein L37e
+196736..196972	-	78	161527729	-	Nmar_0221	-	COG1958K	like-Sm ribonucleoprotein core
+197030..197752	-	240	161527730	-	Nmar_0222	-	COG1402R	creatininase
+197758..198627	-	289	161527731	-	Nmar_0223	-	COG0788F	formyl transferase domain-containing protein
+198788..200137	+	449	161527732	-	Nmar_0224	-	COG1109G	phosphoglucosamine mutase
+200199..200585	+	128	161527733	rpl7ae	Nmar_0225	-	COG1358J	50S ribosomal protein L7Ae
+200582..200794	+	70	161527734	rps28e	Nmar_0226	-	COG2053J	30S ribosomal protein S28e
+200804..201004	+	66	161527735	-	Nmar_0227	-	COG2075J	50S ribosomal protein L24
+201007..201408	+	133	161527736	-	Nmar_0228	-	COG0105F	nucleoside-diphosphate kinase
+201415..203196	+	593	161527737	-	Nmar_0229	-	COG0532J	translation initiation factor IF-2
+203199..203600	-	133	161527738	-	Nmar_0230	-	COG3118O	thioredoxin
+203816..205486	-	556	161527739	-	Nmar_0231	-	COG0810M	Ig family protein
+205565..205981	-	138	161527740	-	Nmar_0232	-	COG1371S	hypothetical protein
+206024..206392	-	122	161527741	-	Nmar_0233	-	COG3324R	glyoxalase
+206483..207019	+	178	161527742	-	Nmar_0234	-	COG0586S	hypothetical protein
+207209..207394	-	61	161527743	-	Nmar_0235	-	COG5466S	hypothetical protein
+207468..208751	+	427	161527744	-	Nmar_0236	-	COG0124J	histidyl-tRNA synthetase
+208732..209397	-	221	161527745	-	Nmar_0237	-	COG1976J	translation initiation factor IF-6
+209508..209999	+	163	161527746	-	Nmar_0238	-	COG1146C	4Fe-4S ferredoxin
+210113..210649	+	178	161527747	-	Nmar_0239	-	COG1143C	4Fe-4S ferredoxin
+210817..211767	-	316	161527748	-	Nmar_0240	-	COG0470L	replication factor C
+211964..212482	+	172	161527749	-	Nmar_0241	-	COG1711S	hypothetical protein
+212475..214562	+	695	161527750	-	Nmar_0242	-	COG1241L	MCM family protein
+214559..216688	+	709	161527751	-	Nmar_0243	-	COG1204R	DEAD/DEAH box helicase
+216685..217677	+	330	161527752	-	Nmar_0244	-	COG0472M	glycosyl transferase family protein
+217901..218377	-	158	161527753	-	Nmar_0245	-	COG1207M	acetyltransferase
+218381..218650	-	89	161527754	-	Nmar_0246	-	COG2835S	hypothetical protein
+218647..219582	-	311	161527755	-	Nmar_0247	-	COG0673R	oxidoreductase domain-containing protein
+219583..220500	-	305	161527756	-	Nmar_0248	-	COG0115EH	branched-chain amino acid aminotransferase
+220541..221920	-	459	161527757	-	Nmar_0249	-	COG4191T	histidine kinase
+221922..222851	-	309	161527758	-	Nmar_0250	-	COG3221P	phosphate/phosphonate ABC transporter periplasmic protein
+222904..223284	+	126	161527759	-	Nmar_0251	-	COG2204T	response regulator receiver protein
+223281..223886	-	201	161527760	-	Nmar_0252	-	COG0669H	hypothetical protein
+223939..224784	-	281	161527761	-	Nmar_0253	-	COG1018C	oxidoreductase FAD/NAD(P)-binding subunit
+224986..225522	-	178	161527762	-	Nmar_0254	-	COG1413C	hypothetical protein
+225638..225925	+	95	161527763	-	Nmar_0255	-	COG1581K	DNA/RNA-binding protein AlbA
+225951..226817	-	288	161527764	-	Nmar_0256	-	COG2513G	methylisocitrate lyase
+227020..227529	-	169	161527765	-	Nmar_0257	-	COG1695K	PadR-like family transcriptional regulator
+227624..229336	+	570	161527766	-	Nmar_0258	-	COG1053C	succinate dehydrogenase or fumarate reductase flavoprotein subunit
+229337..229768	+	143	161527767	-	Nmar_0259	-	COG2009C	hypothetical protein
+229770..230114	+	114	161527768	-	Nmar_0260	-	COG2142C	hypothetical protein
+230117..230866	+	249	161527769	-	Nmar_0261	-	COG0479C	succinate dehydrogenase and fumarate reductase iron-sulfur protein
+230863..231219	-	118	161527770	-	Nmar_0262	-	COG2151R	hypothetical protein
+231236..232693	+	485	161527771	-	Nmar_0263	-	COG0165E	argininosuccinate lyase
+233062..233793	+	243	161527772	-	Nmar_0264	-	COG3064M	hypothetical protein
+233806..234882	+	358	161527773	-	Nmar_0265	-	COG0373H	glutamyl-tRNA reductase
+234888..235055	-	55	161527774	-	Nmar_0266	-	-	hypothetical protein
+235140..235982	-	280	161527775	-	Nmar_0267	-	COG0543HC	oxidoreductase FAD/NAD(P)-binding subunit
+236068..236868	-	266	161527776	-	Nmar_0268	-	COG0483G	inositol-phosphate phosphatase
+236951..238072	+	373	161527777	-	Nmar_0269	-	COG0142H	hypothetical protein
+238081..239238	+	385	161527778	-	Nmar_0270	-	COG0470L	ATPase central domain-containing protein
+239256..239546	+	96	161527779	-	Nmar_0271	-	-	hypothetical protein
+239653..241200	+	515	161527780	-	Nmar_0272	-	COG4799I	carboxyl transferase
+241206..242693	+	495	161527781	-	Nmar_0273	-	COG4770I	carbamoyl-phosphate synthase L chain ATP-binding
+242700..243212	+	170	161527782	-	Nmar_0274	-	COG4770I	biotin/lipoyl attachment domain-containing protein
+243229..243693	-	154	161527783	-	Nmar_0275	-	COG1225O	alkyl hydroperoxide reductase
+243850..244182	+	110	161527784	-	Nmar_0276	-	COG0838C	NADH-ubiquinone/plastoquinone oxidoreductase subunit 3
+244223..244747	+	174	161527785	-	Nmar_0277	-	COG0377C	NADH-quinone oxidoreductase subunit B
+244747..245349	+	200	161527786	-	Nmar_0278	-	COG0852C	NADH dehydrogenase 30 kDa subunit
+245352..246488	+	378	161527787	-	Nmar_0279	-	COG0649C	NADH dehydrogenase
+246489..247787	+	432	161527788	-	Nmar_0280	-	COG1005C	NADH dehydrogenase
+247787..248284	+	165	161527789	-	Nmar_0281	-	COG1143C	4Fe-4S ferredoxin
+248277..248789	+	170	161527790	-	Nmar_0282	-	COG0839C	NADH-ubiquinone/plastoquinone oxidoreductase subunit 6
+248770..249075	+	101	161527791	-	Nmar_0283	-	COG0713C	NADH-ubiquinone oxidoreductase subunit 4L
+249075..250628	+	517	161527792	-	Nmar_0284	-	COG1008C	proton-translocating NADH-quinone oxidoreductase subunit M
+250630..252708	+	692	161527793	-	Nmar_0285	-	COG1009CP	proton-translocating NADH-quinone oxidoreductase subunit L
+252721..254205	+	494	161527794	-	Nmar_0286	-	COG1007C	proton-translocating NADH-quinone oxidoreductase subunit N
+254195..255046	-	283	161527795	-	Nmar_0287	-	COG0142H	polyprenyl synthetase
+255156..255896	+	246	161527796	-	Nmar_0288	-	COG5424H	TENA/THI-4 domain-containing protein
+256122..256727	-	201	161527797	-	Nmar_0289	-	COG0461F	orotate phosphoribosyltransferase
+256778..257860	+	360	161527798	-	Nmar_0290	-	-	hypothetical protein
+257852..258958	-	368	161527799	-	Nmar_0291	-	COG0750M	peptidase M50
+259014..259529	+	171	161527800	-	Nmar_0292	-	COG0456R	ribosomal-protein-alanine acetyltransferase
+259567..259785	+	72	161527801	-	Nmar_0293	-	-	transcriptional regulator
+259787..260614	-	275	161527802	-	Nmar_0294	-	COG2520R	hypothetical protein
+260620..262407	-	595	161527803	-	Nmar_0295	-	COG1245R	ATPase RIL
+262794..264260	-	488	161527804	-	Nmar_0296	-	COG0260E	leucyl aminopeptidase
+264300..264440	-	46	161527805	-	Nmar_0297	-	-	hypothetical protein
+264765..265073	-	102	161527806	-	Nmar_0298	-	-	hypothetical protein
+265235..266902	+	555	161527807	-	Nmar_0299	-	COG3959G	ribulose-phosphate 3-epimerase
+266899..267873	+	324	161527808	-	Nmar_0300	-	COG3958G	transketolase central region
+267870..268538	+	222	161527809	-	Nmar_0301	-	COG0176G	transaldolase
+268579..268839	-	86	161527810	-	Nmar_0302	-	-	hypothetical protein
+268906..269928	-	340	161527811	-	Nmar_0303	-	COG0598P	Mg2 transporter protein CorA family protein
+270335..270724	-	129	161527812	-	Nmar_0304	-	-	hypothetical protein
+270781..271128	-	115	161527813	-	Nmar_0305	-	-	hypothetical protein
+271169..271930	-	253	161527814	-	Nmar_0306	-	-	hypothetical protein
+271956..272225	-	89	161527815	-	Nmar_0307	-	COG1698S	hypothetical protein
+272261..272569	-	102	161527816	-	Nmar_0308	-	COG2146PR	Rieske (2Fe-2S) domain-containing protein
+272612..273388	+	258	161527817	-	Nmar_0309	-	-	N-acetyltransferase GCN5
+273380..274249	-	289	161527818	-	Nmar_0310	-	COG0179Q	5-carboxymethyl-2-hydroxymuconate delta-isomerase
+274255..275964	-	569	161527819	-	Nmar_0311	-	COG0008J	glutamyl-tRNA synthetase
+275986..276966	-	326	161527820	-	Nmar_0312	-	COG0142H	polyprenyl synthetase
+276953..277603	-	216	161527821	-	Nmar_0313	-	COG1443I	isopentenyl-diphosphate delta-isomerase
+277603..278346	-	247	161527822	-	Nmar_0314	-	COG1608R	aspartate/glutamate/uridylate kinase
+278371..279312	-	313	161527823	-	Nmar_0315	-	COG1577I	mevalonate kinase
+279341..279964	-	207	161527824	rps2P	Nmar_0316	-	COG0052J	30S ribosomal protein S2
+279972..281210	-	412	161527825	-	Nmar_0317	-	COG0148G	phosphopyruvate hydratase
+281212..281484	-	90	161527826	-	Nmar_0318	-	COG1644K	DNA-directed RNA polymerase subunit N
+281601..282215	-	204	161527827	-	Nmar_0319	-	COG2178J	translin family protein
+282289..282936	+	215	161527828	-	Nmar_0320	-	COG0062S	carbohydrate kinase
+282933..283541	+	202	161527829	-	Nmar_0321	-	COG0491R	beta-lactamase domain-containing protein
+283546..284607	+	353	161527830	-	Nmar_0322	-	COG2038H	hypothetical protein
+284600..286360	-	586	161527831	-	Nmar_0323	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+286452..287057	-	201	161527832	rps4p	Nmar_0324	-	COG0522J	30S ribosomal protein S4
+287067..287651	-	194	161527833	rps13p	Nmar_0325	-	COG0099J	30S ribosomal protein S13
+287984..288292	+	102	161527834	-	Nmar_0326	-	-	hypothetical protein
+288284..288787	-	167	161527835	-	Nmar_0327	-	-	hypothetical protein
+288926..289897	+	323	161527836	-	Nmar_0328	-	COG0803P	periplasmic solute binding protein
+289894..290664	+	256	161527837	-	Nmar_0329	-	COG1121P	ABC transporter
+290680..291624	+	314	161527838	-	Nmar_0330	-	COG1108P	ATP-binding domain-containing protein
+291621..292727	+	368	161527839	-	Nmar_0331	-	COG1108P	ATP-binding domain-containing protein
+292745..294097	-	450	161527840	-	Nmar_0332	-	COG0053P	cation diffusion facilitator family transporter
+294247..297375	+	1042	161527841	-	Nmar_0333	-	COG2373R	hypothetical protein
+297421..298452	+	343	161527842	-	Nmar_0334	-	COG3087D	hypothetical protein
+298503..298826	+	107	161527843	-	Nmar_0335	-	-	hypothetical protein
+298821..300401	-	526	161527844	-	Nmar_0336	-	COG1032C	radical SAM protein
+300474..301250	-	258	161527845	-	Nmar_0337	-	COG1691R	1-(5-phosphoribosyl)-5-amino-4-imidazole-carboxylate (AIR) carboxylase
+301284..302198	-	304	161527846	-	Nmar_0338	-	COG0039C	malate dehydrogenase
+302289..303509	+	406	161527847	-	Nmar_0339	-	COG1641S	hypothetical protein
+303510..304307	+	265	161527848	-	Nmar_0340	-	COG1606R	ExsB family protein
+304304..305470	+	388	161527849	-	Nmar_0341	-	COG1104E	cysteine desulfurase
+305467..306258	-	263	161527850	-	Nmar_0342	-	-	hypothetical protein
+306364..307248	-	294	161527851	-	Nmar_0343	-	-	hypothetical protein
+307311..308168	-	285	161527852	-	Nmar_0344	-	-	hypothetical protein
+308232..309071	-	279	161527853	-	Nmar_0345	-	COG2373R	hypothetical protein
+309252..309503	+	83	161527854	-	Nmar_0346	-	COG2012K	RNA polymerase Rpb5
+309504..312851	+	1115	161527855	-	Nmar_0347	-	COG0085K	DNA-directed RNA polymerase subunit B
+312851..316642	+	1263	161527856	-	Nmar_0348	-	COG0086K	bifunctional DNA-directed RNA polymerase subunit A'/A''
+316647..316889	+	80	161527857	-	Nmar_0349	-	COG1958K	like-Sm ribonucleoprotein core
+316926..318104	+	392	161527858	-	Nmar_0350	-	-	hypothetical protein
+318160..319821	+	553	161527859	-	Nmar_0351	-	COG4783R	hypothetical protein
+319896..320219	+	107	161527860	-	Nmar_0352	-	COG1911J	50S ribosomal protein L7Ae/L30e/S12e/Gadd45
+320271..320735	+	154	161527861	-	Nmar_0353	-	COG0195K	NusA family protein
+320739..321176	+	145	161527862	rps12P	Nmar_0354	-	COG0048J	30S ribosomal protein S12
+321179..321778	+	199	161527863	-	Nmar_0355	-	COG0049J	30S ribosomal protein S7
+321937..322266	-	109	161527864	-	Nmar_0356	-	-	hypothetical protein
+322289..322993	+	234	161527865	-	Nmar_0357	-	-	hypothetical protein
+322995..323444	+	149	161527866	-	Nmar_0358	-	COG0456R	N-acetyltransferase GCN5
+323446..324444	-	332	161527867	-	Nmar_0359	-	COG0644C	dehydrogenase (flavoprotein)-like protein
+324760..325362	+	200	161527868	-	Nmar_0360	-	COG0778C	nitroreductase
+325543..325788	+	81	161527869	-	Nmar_0361	-	-	hypothetical protein
+326058..326291	+	77	161527870	-	Nmar_0362	-	-	hypothetical protein
+326498..328084	-	528	161527871	-	Nmar_0363	-	COG3416S	periplasmic ligand-binding sensor protein
+328905..329423	+	172	161527872	-	Nmar_0364	-	-	hypothetical protein
+329707..330012	-	101	161527873	-	Nmar_0365	-	-	hypothetical protein
+330106..330759	-	217	161527874	-	Nmar_0366	-	COG1573L	uracil-DNA glycosylase superfamily protein
+330772..333639	-	955	161527875	-	Nmar_0367	-	COG0495J	leucyl-tRNA synthetase
+333646..336315	-	889	161527876	alaS	Nmar_0368	-	COG0013J	alanyl-tRNA synthetase
+336389..337354	+	321	161527877	-	Nmar_0369	-	COG1063ER	alcohol dehydrogenase
+337401..337793	+	130	161527878	-	Nmar_0370	-	-	hypothetical protein
+337790..339022	-	410	161527879	-	Nmar_0371	-	COG2133G	glucose sorbosone dehydrogenase
+339073..340590	-	505	161527880	-	Nmar_0372	-	COG0642T	histidine kinase
+340670..341179	+	169	161527881	-	Nmar_0373	-	-	hypothetical protein
+341230..341547	+	105	161527882	rpl12p	Nmar_0374	-	COG2058J	50S ribosomal protein L12
+341630..342262	+	210	161527883	-	Nmar_0375	-	COG2860S	hypothetical protein
+342391..342768	+	125	161527884	-	Nmar_0376	-	COG2197TK	response regulator receiver protein
+342779..343666	-	295	161527885	-	Nmar_0377	-	COG1269C	hypothetical protein
+343754..343969	-	71	161527886	-	Nmar_0378	-	-	hypothetical protein
+343966..344403	-	145	161527887	-	Nmar_0379	-	-	hypothetical protein
+344405..345478	-	357	161527888	-	Nmar_0380	-	-	hypothetical protein
+345558..346424	-	288	161527889	rplP0	Nmar_0381	-	COG0244J	acidic ribosomal protein P0
+346417..347079	-	220	161527890	-	Nmar_0382	-	COG0081J	50S ribosomal protein L1
+347271..347708	+	145	161527891	-	Nmar_0383	-	COG1522K	AsnC family transcriptional regulator
+348189..348329	+	46	161527892	-	Nmar_0384	-	-	hypothetical protein
+348548..349027	-	159	161527893	-	Nmar_0385	-	COG0080J	50S ribosomal protein L11
+349062..349520	-	152	161527894	-	Nmar_0386	-	COG0250K	NusG antitermination factor
+349523..349696	-	57	298206423	-	Nmar_1800	-	COG2443U	preprotein translocase subunit SecE
+349736..350512	+	258	161527895	-	Nmar_0387	-	COG1650S	hypothetical protein
+350509..350808	+	99	161527896	-	Nmar_0388	-	COG0350L	methylated-DNA--protein-cysteine methyltransferase
+350810..351205	-	131	161527897	-	Nmar_0389	-	COG0346E	glyoxalase/bleomycin resistance protein/dioxygenase
+351250..351705	-	151	161527898	rpl19e	Nmar_0390	-	COG2147J	50S ribosomal protein L19e
+351689..352093	-	134	161527899	-	Nmar_0391	-	COG1717J	50S ribosomal protein L32e
+352349..353848	+	499	161527900	-	Nmar_0392	-	COG1866C	phosphoenolpyruvate carboxykinase
+353850..355832	-	660	161527901	-	Nmar_0393	-	COG1404O	peptidase S8/S53 subtilisin kexin sedolisin
+355951..356571	+	206	161527902	-	Nmar_0394	-	COG0605P	superoxide dismutase
+356654..357091	+	145	161527903	-	Nmar_0395	-	COG1730O	prefoldin subunit alpha
+357095..358636	+	513	161527904	-	Nmar_0396	-	COG0552U	signal recognition particle-docking protein FtsY
+358633..359547	+	304	161527905	-	Nmar_0397	-	COG0078E	ornithine carbamoyltransferase
+359584..360066	+	160	161527906	rpl18p	Nmar_0398	-	COG0256J	50S ribosomal protein L18
+360068..360784	+	238	161527907	rps5p	Nmar_0399	-	COG0098J	30S ribosomal protein S5
+360791..361258	+	155	161527908	rpl30p	Nmar_0400	-	COG1841J	50S ribosomal protein L30
+361260..361724	+	154	161527909	-	Nmar_0401	-	COG0200J	50S ribosomal protein L15
+361717..363147	+	476	161527910	-	Nmar_0402	-	COG0201U	preprotein translocase subunit SecY
+363134..363712	+	192	161527911	-	Nmar_0403	-	COG2019F	adenylate kinase
+363716..364339	+	207	161527912	-	Nmar_0404	-	COG1422S	hypothetical protein
+364336..364896	+	186	161527913	-	Nmar_0405	-	COG1102F	cytidylate kinase
+364893..365891	+	332	161527914	-	Nmar_0406	-	COG0130J	pseudouridylate synthase subunit TruB
+365895..366341	+	148	161527915	-	Nmar_0407	-	-	hypothetical protein
+366847..367329	+	160	161527916	-	Nmar_0408	-	-	secreted protein
+367332..368645	-	437	161527917	-	Nmar_0409	-	COG0579R	FAD dependent oxidoreductase
+368734..369015	+	93	161527918	-	Nmar_0410	-	COG0282C	hypothetical protein
+369033..369413	+	126	161527919	-	Nmar_0411	-	COG3721P	hypothetical protein
+369607..370575	-	322	161527920	-	Nmar_0412	-	COG1052CHR	glyoxylate reductase
+370822..372732	+	636	161527921	-	Nmar_0413	-	COG0674C	pyruvate flavodoxin/ferredoxin oxidoreductase domain-containing protein
+372722..373684	+	320	161527922	-	Nmar_0414	-	COG1013C	pyruvate ferredoxin/flavodoxin oxidoreductase subunit beta
+373734..374174	+	146	161527923	-	Nmar_0415	-	-	hypothetical protein
+374167..374700	-	177	161527924	-	Nmar_0416	-	-	hypothetical protein
+374758..375129	+	123	161527925	-	Nmar_0417	-	-	hypothetical protein
+375131..375700	-	189	161527926	-	Nmar_0418	-	-	hypothetical protein
+375731..376510	-	259	161527927	-	Nmar_0419	-	COG1478S	hypothetical protein
+376584..377852	+	422	161527928	-	Nmar_0420	-	COG0065E	3-isopropylmalate dehydratase
+377852..378334	+	160	161527929	-	Nmar_0421	-	COG0066E	3-isopropylmalate dehydratase small subunit
+378343..379758	+	471	161527930	-	Nmar_0422	-	COG0065E	3-isopropylmalate dehydratase large subunit
+379760..380344	+	194	161527931	-	Nmar_0423	-	COG0066E	3-isopropylmalate dehydratase small subunit
+380322..381041	-	239	161527932	-	Nmar_0424	-	COG1208MJ	nucleotidyl transferase
+381045..381494	-	149	161527933	-	Nmar_0425	-	COG0103J	30S ribosomal protein S9
+381491..381955	-	154	161527934	-	Nmar_0426	-	COG0102J	50S ribosomal protein L13
+381948..382295	-	115	161527935	-	Nmar_0427	-	COG1727J	50S ribosomal protein L15
+382339..383004	-	221	161527936	-	Nmar_0428	-	COG0202K	RNA polymerase insert
+383085..383438	+	117	161527937	-	Nmar_0429	-	-	hypothetical protein
+383542..384228	+	228	161527938	-	Nmar_0430	-	COG1500J	RNA-associated protein
+384228..384908	+	226	161527939	-	Nmar_0431	-	COG1097J	exosome complex RNA-binding protein Rrp4
+384908..385642	+	244	161527940	-	Nmar_0432	-	COG0689J	exosome complex exonuclease 1
+385645..386463	+	272	161527941	-	Nmar_0433	-	COG2123J	exosome complex RNA-binding protein Rrp42
+386465..386677	+	70	161527942	-	Nmar_0434	-	COG1997J	hypothetical protein
+386661..386906	+	81	161527943	-	Nmar_0435	-	COG2892S	hypothetical protein
+386930..387319	+	129	161527944	-	Nmar_0436	-	COG1382O	prefoldin subunit beta
+387372..388058	+	228	161527945	-	Nmar_0437	-	COG1948L	ERCC4 domain-containing protein
+388048..388542	+	164	161527946	-	Nmar_0438	-	COG5010U	hypothetical protein
+388545..389024	-	159	161527947	-	Nmar_0439	-	COG1439R	nucleotide binding protein
+389014..389850	-	278	161527948	-	Nmar_0440	-	COG0061G	ATP-NAD/AcoX kinase
+389913..390758	+	281	161527949	-	Nmar_0441	-	COG2897P	rhodanese domain-containing protein
+390760..391071	+	103	161527950	-	Nmar_0442	-	-	hypothetical protein
+391108..392055	+	315	161527951	-	Nmar_0443	-	COG1146C	4Fe-4S ferredoxin
+392111..394177	+	688	161527952	-	Nmar_0444	-	COG1215M	glycosyl transferase family protein
+394174..395703	-	509	161527953	-	Nmar_0445	-	COG1196D	hypothetical protein
+396135..397460	+	441	161527954	-	Nmar_0446	-	COG0475P	sodium/hydrogen exchanger
+397453..397881	+	142	161527955	-	Nmar_0447	-	-	hypothetical protein
+398023..398286	+	87	161527956	-	Nmar_0448	-	-	hypothetical protein
+398278..398787	-	169	161527957	rpl10e	Nmar_0449	-	COG0197J	50S ribosomal protein L10e
+398850..399449	+	199	161527958	-	Nmar_0450	-	COG1676J	tRNA intron endonuclease
+399439..400095	-	218	161527959	-	Nmar_0451	-	-	DNA repair helicase
+400165..400557	-	130	161527960	-	Nmar_0452	-	COG2204T	response regulator receiver protein
+400592..401197	+	201	161527961	-	Nmar_0453	-	-	hypothetical protein
+401255..401536	+	93	161527962	-	Nmar_0454	-	-	hypothetical protein
+401560..402282	-	240	161527963	-	Nmar_0455	-	-	hypothetical protein
+402319..410613	+	2764	161527964	-	Nmar_0456	-	COG5422	hypothetical protein
+410757..411020	+	87	161527965	-	Nmar_0457	-	-	hypothetical protein
+411035..411481	-	148	161527966	-	Nmar_0458	-	-	hypothetical protein
+411535..412170	-	211	161527967	-	Nmar_0459	-	-	hypothetical protein
+412369..414171	+	600	161527968	-	Nmar_0460	-	COG0642T	histidine kinase
+414853..415629	+	258	161527969	-	Nmar_0461	-	-	hypothetical protein
+415626..416150	-	174	161527970	-	Nmar_0462	-	COG1413C	hypothetical protein
+416242..417243	+	333	161527971	-	Nmar_0463	-	COG0697GER	hypothetical protein
+417353..417952	+	199	161527972	-	Nmar_0464	-	-	hypothetical protein
+418184..418570	+	128	161527973	-	Nmar_0465	-	COG2204T	response regulator receiver protein
+418792..419673	+	293	161527974	-	Nmar_0466	-	-	hypothetical protein
+420220..421641	+	473	161527975	-	Nmar_0467	-	-	hypothetical protein
+421688..422047	+	119	161527976	-	Nmar_0468	-	COG4783R	hypothetical protein
+422050..422526	-	158	161527977	-	Nmar_0469	-	-	hypothetical protein
+422609..423250	+	213	161527978	-	Nmar_0470	-	-	hypothetical protein
+423259..425484	-	741	161527979	-	Nmar_0471	-	COG4880R	copper amine oxidase-like protein
+425604..426323	+	239	161527980	-	Nmar_0472	-	COG1777K	ArsR family transcriptional regulator
+426320..426637	-	105	161527981	-	Nmar_0473	-	-	hypothetical protein
+426726..427178	+	150	161527982	-	Nmar_0474	-	-	hypothetical protein
+427396..428397	+	333	161527983	-	Nmar_0475	-	COG1131V	daunorubicin resistance ABC transporter ATPase subunit
+428394..429179	+	261	161527984	-	Nmar_0476	-	COG0842V	ABC transporter
+429251..430828	+	525	161527985	-	Nmar_0477	-	COG2931Q	NHL repeat-containing protein
+430926..432557	+	543	161527986	-	Nmar_0478	-	-	hypothetical protein
+432960..434213	+	417	161527987	-	Nmar_0479	-	COG0226P	phosphate ABC transporter substrate-binding protein
+434232..434492	-	86	161527988	-	Nmar_0480	-	-	hypothetical protein
+434638..435615	+	325	161527989	-	Nmar_0481	-	COG0573P	phosphate ABC transporter permease
+435612..436544	+	310	161527990	-	Nmar_0482	-	COG0581P	phosphate ABC transporter permease
+436541..437374	+	277	161527991	-	Nmar_0483	-	COG1117P	phosphate ABC transporter ATPase
+437374..438033	+	219	161527992	-	Nmar_0484	-	COG0704P	phosphate uptake regulator PhoU
+438080..439159	+	359	161527993	-	Nmar_0485	-	COG3329R	hypothetical protein
+439159..439461	+	100	161527994	-	Nmar_0486	-	-	hypothetical protein
+439458..439757	-	99	161527995	-	Nmar_0487	-	COG0640K	ArsR family transcriptional regulator
+439798..440196	+	132	161527996	-	Nmar_0488	-	COG0394T	protein tyrosine phosphatase
+440199..440882	+	227	161527997	-	Nmar_0489	-	COG0580G	major intrinsic protein
+440908..442182	+	424	161527998	-	Nmar_0490	-	COG0001H	glutamate-1-semialdehyde-2,1-aminomutase
+442179..443114	+	311	161527999	-	Nmar_0491	-	COG0181H	porphobilinogen deaminase
+443111..443851	+	246	161528000	-	Nmar_0492	-	COG0007H	uroporphyrin-III C-methyltransferase
+443851..444654	+	267	161528001	-	Nmar_0493	-	COG1587H	uroporphyrinogen III synthase HEM4
+444696..444884	+	62	161528002	-	Nmar_0494	-	-	hypothetical protein
+444970..446370	+	466	161528003	-	Nmar_0495	-	COG0719O	FeS assembly protein SufB
+446390..447790	+	466	161528004	-	Nmar_0496	-	COG0719O	FeS assembly protein SufD
+447804..449048	+	414	161528005	-	Nmar_0497	-	COG0520E	SufS subfamily cysteine desulfurase
+449045..449488	+	147	161528006	-	Nmar_0498	-	COG0822C	NifU family SUF system FeS assembly protein
+449490..449834	+	114	161528007	-	Nmar_0499	-	-	hypothetical protein
+449827..451053	-	408	161528008	-	Nmar_0500	-	COG0126G	phosphoglycerate kinase
+451172..451840	+	222	161528009	-	Nmar_0501	-	COG0671I	PA-phosphatase like phosphoesterase
+451829..452140	-	103	161528010	-	Nmar_0502	-	-	hypothetical protein
+452266..453219	+	317	161528011	-	Nmar_0503	-	COG1196D	hypothetical protein
+453282..453887	+	201	161528012	-	Nmar_0504	-	-	hypothetical protein
+453881..454195	-	104	161528013	-	Nmar_0505	-	COG1599L	hypothetical protein
+454758..455378	+	206	161528014	-	Nmar_0506	-	-	hypothetical protein
+455379..455999	+	206	161528015	-	Nmar_0507	-	COG1418R	metal dependent phosphohydrolase
+455996..456307	-	103	161528016	-	Nmar_0508	-	-	hypothetical protein
+456304..457284	-	326	161528017	-	Nmar_0509	-	COG0113H	delta-aminolevulinic acid dehydratase
+457316..458581	-	421	161528018	-	Nmar_0510	-	COG0373H	glutamyl-tRNA reductase
+458578..459231	-	217	161528019	-	Nmar_0511	-	COG1648H	siroheme synthase
+459323..460348	+	341	161528020	-	Nmar_0512	-	COG1522K	AsnC family transcriptional regulator
+460345..460683	-	112	161528021	-	Nmar_0513	-	COG4468G	hypothetical protein
+460691..461689	-	332	161528022	-	Nmar_0514	-	COG0667C	aldo/keto reductase
+461765..462442	-	225	161528023	-	Nmar_0515	-	COG3253S	chlorite dismutase
+462514..463284	-	256	161528024	-	Nmar_0516	-	COG0396O	FeS assembly ATPase SufC
+463382..464338	-	318	161528025	-	Nmar_0517	-	COG1405K	zinc finger TFIIB-type domain-containing protein
+464335..464583	-	82	161528026	-	Nmar_0518	-	COG3277J	hypothetical protein
+464679..464978	-	99	161528027	-	Nmar_0519	-	COG1400U	signal recognition particle subunit SRP19
+464980..465363	-	127	161528028	-	Nmar_0520	-	COG2007J	30S ribosomal protein S8e
+465432..466010	-	192	161528029	-	Nmar_0521	-	COG1386K	chromosome segregation and condensation protein ScpB
+466065..466742	-	225	161528030	-	Nmar_0522	-	COG1354S	chromosome segregation and condensation protein ScpA
+466837..467889	+	350	161528031	-	Nmar_0523	-	COG1064R	alcohol dehydrogenase
+467886..468647	+	253	161528032	-	Nmar_0524	-	COG1427R	hypothetical protein
+468711..469274	-	187	161528033	-	Nmar_0525	-	-	hypothetical protein
+469360..469671	+	103	161528034	-	Nmar_0526	-	COG0361J	translation initiation factor eIF-1A
+469717..469908	+	63	161528035	-	Nmar_0527	-	COG1278K	cold-shock DNA-binding domain-containing protein
+470238..470846	+	202	161528036	-	Nmar_0528	-	-	hypothetical protein
+470881..471291	+	136	161528037	-	Nmar_0529	-	COG0231J	translation initiation factor eIF-5A
+471402..472091	+	229	161528038	-	Nmar_0530	-	COG0018J	ATP-binding protein
+472084..473412	+	442	161528039	-	Nmar_0531	-	COG0541U	GTP-binding signal recognition particle
+473435..474580	+	381	161528040	-	Nmar_0532	-	COG1258J	pseudouridylate synthase-like protein
+474754..475464	+	236	161528041	-	Nmar_0533	-	-	hypothetical protein
+475477..475650	-	57	161528042	-	Nmar_0534	-	COG1998J	30S ribosomal protein S27a
+475650..476093	-	147	161528043	-	Nmar_0535	-	-	hypothetical protein
+476150..476710	+	186	161528044	-	Nmar_0536	-	-	hypothetical protein
+476694..477980	-	428	161528045	-	Nmar_0537	-	COG3635G	phosphoglycerate mutase
+478209..479225	+	338	161528046	-	Nmar_0538	-	COG1085C	galactose-1-phosphate uridylyltransferase
+479268..479714	+	148	161528047	-	Nmar_0539	-	COG1924I	hypothetical protein
+479711..480148	-	145	161528048	-	Nmar_0540	-	COG0456R	N-acetyltransferase GCN5
+480145..480861	-	238	161528049	-	Nmar_0541	-	COG1208MJ	nucleotidyl transferase
+480908..482206	-	432	161528050	-	Nmar_0542	-	COG0351H	phosphomethylpyrimidine kinase
+482942..484270	+	442	161528051	-	Nmar_0543	-	COG0422H	thiamine biosynthesis protein ThiC
+484253..484657	-	134	161528052	-	Nmar_0544	-	COG0494LR	NUDIX hydrolase
+484663..485514	-	283	161528053	-	Nmar_0545	-	COG0287E	prephenate dehydrogenase
+485511..486881	-	456	161528054	-	Nmar_0546	-	COG0436E	class I/II aminotransferase
+486886..487983	-	365	161528055	-	Nmar_0547	-	COG0082E	chorismate synthase
+488310..489578	-	422	161528056	-	Nmar_0548	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+489568..490422	-	284	161528057	-	Nmar_0549	-	COG1685EH	shikimate kinase
+490422..491243	-	273	161528058	-	Nmar_0550	-	COG0169E	shikimate 5-dehydrogenase
+491292..491963	-	223	161528059	-	Nmar_0551	-	COG0710E	3-dehydroquinate dehydratase
+491965..493026	-	353	161528060	-	Nmar_0552	-	COG1465E	3-dehydroquinate synthase
+493019..493801	-	260	161528061	-	Nmar_0553	-	COG1830G	phospho-2-dehydro-3-deoxyheptonate aldolase
+493936..495054	+	372	161528062	-	Nmar_0554	-	COG1060HR	radical SAM protein
+495049..496491	-	480	161528063	-	Nmar_0555	-	COG0043H	UbiD family decarboxylase
+496619..499099	+	826	161528064	-	Nmar_0556	-	COG0683E	histidine kinase
+499165..499548	-	127	161528065	-	Nmar_0557	-	-	hypothetical protein
+499587..500318	+	243	161528066	-	Nmar_0558	-	COG5373S	hypothetical protein
+500703..501698	+	331	161528067	-	Nmar_0559	-	COG5373S	trans-sialidase
+501721..502185	-	154	161528068	-	Nmar_0560	-	COG1225O	alkyl hydroperoxide reductase
+502286..502999	+	237	161528069	-	Nmar_0561	-	COG0580G	major intrinsic protein
+503038..503463	+	141	161528070	-	Nmar_0562	-	-	hypothetical protein
+503460..504278	+	272	161528071	-	Nmar_0563	-	-	hypothetical protein
+504393..504806	-	137	161528072	-	Nmar_0564	-	COG1607I	acyl-CoA hydrolase
+504947..505693	+	248	161528073	-	Nmar_0565	-	COG2226H	methyltransferase type 12
+505750..506082	+	110	161528074	-	Nmar_0566	-	-	hypothetical protein
+506210..506860	+	216	161528075	-	Nmar_0567	-	-	hypothetical protein
+506914..507315	+	133	161528076	-	Nmar_0568	-	COG2905T	signal-transduction protein
+507316..507741	-	141	161528077	-	Nmar_0569	-	-	hypothetical protein
+507793..508344	+	183	161528078	-	Nmar_0570	-	COG2818L	DNA-3-methyladenine glycosylase I
+508373..508744	+	123	161528079	-	Nmar_0571	-	-	hypothetical protein
+508749..510014	+	421	161528080	-	Nmar_0572	-	COG1914P	hypothetical protein
+510081..510596	+	171	161528081	-	Nmar_0573	-	COG1528P	ferritin Dps family protein
+510959..511132	-	57	161528082	-	Nmar_0574	-	-	hypothetical protein
+511164..511466	-	100	161528083	-	Nmar_0575	-	-	hypothetical protein
+511861..512307	+	148	161528084	-	Nmar_0576	-	COG3576R	pyridoxamine 5'-phosphate oxidase-like FMN-binding protein
+512302..513054	-	250	161528085	-	Nmar_0577	-	COG1196D	hypothetical protein
+513299..514888	-	529	161528086	-	Nmar_0578	-	COG1384J	lysyl-tRNA synthetase
+514892..516475	-	527	161528087	-	Nmar_0579	-	COG1243KB	ELP3 family histone acetyltransferase
+516532..516840	-	102	161528088	-	Nmar_0580	-	-	hypothetical protein
+516887..518137	-	416	161528089	-	Nmar_0581	-	COG0475P	sodium/hydrogen exchanger
+518212..519234	-	340	161528090	-	Nmar_0582	-	COG0150F	phosphoribosylformylglycinamidine cyclo-ligase
+519284..520009	-	241	161528091	-	Nmar_0583	-	COG1938R	hypothetical protein
+520425..522080	+	551	161528092	-	Nmar_0584	-	-	hypothetical protein
+522090..522437	-	115	161528093	-	Nmar_0585	-	-	hypothetical protein
+522625..523080	+	151	161528094	-	Nmar_0586	-	COG0347E	nitrogen regulatory protein P-II
+523440..523772	-	110	161528095	-	Nmar_0587	-	COG0347E	nitrogen regulatory protein P-II
+523890..525197	+	435	161528096	-	Nmar_0588	-	COG0004P	ammonium transporter
+525213..525581	+	122	161528097	-	Nmar_0589	-	-	hypothetical protein
+525903..526793	+	296	161528098	-	Nmar_0590	-	COG0530P	CaCA family Na(+)/Ca(+) antiporter
+526808..528166	-	452	161528099	-	Nmar_0591	-	COG0312R	peptidase U62 modulator of DNA gyrase
+528167..529426	-	419	161528100	-	Nmar_0592	-	COG1060HR	radical SAM protein
+529423..530595	-	390	161528101	-	Nmar_0593	-	COG1060HR	radical SAM protein
+530634..531773	-	379	161528102	-	Nmar_0594	-	COG0265O	2-alkenal reductase
+531812..533020	-	402	161528103	-	Nmar_0595	-	COG1215M	glycosyl transferase family protein
+533024..533440	-	138	161528104	-	Nmar_0596	-	COG2867I	cyclase/dehydrase
+533768..534178	+	136	161528105	-	Nmar_0597	-	COG0073R	tRNA-binding domain-containing protein
+534324..534884	-	186	161528106	-	Nmar_0598	-	COG2101K	2-alkenal reductase
+535023..536144	+	373	161528107	-	Nmar_0599	-	COG4046S	hypothetical protein
+536144..536323	+	59	161528108	-	Nmar_0600	-	-	hypothetical protein
+536325..537218	-	297	161528109	-	Nmar_0601	-	COG0024J	methionine aminopeptidase
+537506..537751	+	81	161528110	-	Nmar_0602	-	COG4956R	hypothetical protein
+537875..539041	+	388	161528111	-	Nmar_0603	-	-	hypothetical protein
+539483..540115	+	210	161528112	-	Nmar_0604	-	-	hypothetical protein
+540147..541508	-	453	161528113	-	Nmar_0605	-	COG0732V	restriction modification system DNA specificity subunit
+541510..543081	-	523	161528114	-	Nmar_0606	-	COG0286V	type I restriction-modification system subunit M
+543154..544470	+	438	161528115	-	Nmar_0607	-	COG0732V	restriction modification system DNA specificity subunit
+544537..547557	+	1006	161528116	-	Nmar_0608	-	COG0610V	HsdR family type I site-specific deoxyribonuclease
+547547..548086	+	179	161528117	-	Nmar_0609	-	COG1451R	hypothetical protein
+548173..550365	+	730	161528118	-	Nmar_0610	-	COG0286V	restriction modification system DNA specificity subunit
+550362..550865	+	167	161528119	-	Nmar_0611	-	-	hypothetical protein
+550928..551785	+	285	161528120	-	Nmar_0612	-	-	hypothetical protein
+551790..552731	-	313	161528121	-	Nmar_0613	-	COG4974L	integrase family protein
+552946..553557	+	203	161528122	-	Nmar_0614	-	-	hypothetical protein
+553550..554134	+	194	161528123	-	Nmar_0615	-	-	hypothetical protein
+554316..557606	+	1096	161528124	-	Nmar_0616	-	COG2373R	hypothetical protein
+557641..558132	+	163	161528125	-	Nmar_0617	-	COG2042S	hypothetical protein
+558117..560579	-	820	161528126	-	Nmar_0618	-	COG3889R	solute binding protein-like protein
+560659..561312	+	217	161528127	-	Nmar_0619	-	COG5219R	hypothetical protein
+561296..563041	-	581	161528128	-	Nmar_0620	-	COG3356S	hypothetical protein
+563248..563577	-	109	161528129	-	Nmar_0621	-	COG1645R	hypothetical protein
+563679..563987	+	102	161528130	-	Nmar_0622	-	COG0023J	translation initiation factor SUI1
+563994..564983	+	329	161528131	-	Nmar_0623	-	-	abortive infection protein
+564972..565880	-	302	161528132	-	Nmar_0624	-	COG1405K	transcription factor TFIIB cyclin-related protein
+565999..566637	-	212	161528133	-	Nmar_0625	-	COG1920S	hypothetical protein
+566639..567598	-	319	161528134	-	Nmar_0626	-	COG0391S	LPPG:FO 2-phospho-L-lactate transferase
+567675..569051	+	458	161528135	-	Nmar_0627	-	-	hypothetical protein
+569083..569382	+	99	161528136	-	Nmar_0628	-	-	hypothetical protein
+569705..570328	-	207	161528137	-	Nmar_0629	-	COG2226H	methyltransferase type 11
+570769..573681	+	970	161528138	-	Nmar_0630	-	-	hypothetical protein
+573682..574890	-	402	161528139	-	Nmar_0631	-	COG0644C	geranylgeranyl reductase
+574939..575148	-	69	161528140	-	Nmar_0632	-	-	hypothetical protein
+575347..575928	+	193	161528141	-	Nmar_0633	-	COG1628S	hypothetical protein
+575917..576678	-	253	161528142	-	Nmar_0634	-	COG1028IQR	short-chain dehydrogenase/reductase SDR
+576732..577610	-	292	161528143	-	Nmar_0635	-	COG2084I	2-hydroxy-3-oxopropionate reductase
+577614..578000	-	128	161528144	-	Nmar_0636	-	-	hypothetical protein
+578082..578450	+	122	161528145	-	Nmar_0637	-	-	zinc finger C2H2-type domain-containing protein
+578441..578743	-	100	161528146	-	Nmar_0638	-	-	hypothetical protein
+579023..579685	+	220	161528147	-	Nmar_0639	-	COG1651O	DSBA oxidoreductase
+579686..580165	+	159	161528148	-	Nmar_0640	-	-	hypothetical protein
+580411..581352	+	313	161528149	-	Nmar_0641	-	-	hypothetical protein
+581336..582430	-	364	161528150	-	Nmar_0642	-	COG0389L	DNA-directed DNA polymerase
+582503..582754	+	83	161528151	-	Nmar_0643	-	-	hypothetical protein
+583285..583518	+	77	161528152	-	Nmar_0644	-	COG1581K	DNA-binding protein
+583499..583738	+	79	161528153	-	Nmar_0645	-	-	hypothetical protein
+583735..584355	-	206	161528154	-	Nmar_0646	-	COG1280E	lysine exporter protein LysE/YggA
+584407..585120	-	237	161528155	-	Nmar_0647	-	COG1938R	hypothetical protein
+585157..586098	-	313	161528156	-	Nmar_0648	-	COG1899O	deoxyhypusine synthase
+586202..587296	+	364	161528157	-	Nmar_0649	-	COG1260I	myo-inositol-1-phosphate synthase
+587297..588034	-	245	161528158	-	Nmar_0650	-	COG0388R	nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+588210..591734	+	1174	161528159	-	Nmar_0651	-	COG1196D	SMC domain-containing protein
+591731..592699	-	322	161528160	-	Nmar_0652	-	COG1123R	oligopeptide/dipeptide ABC transporter ATPase
+592793..593812	+	339	161528161	-	Nmar_0653	-	COG4301S	hypothetical protein
+593853..594419	-	188	161528162	-	Nmar_0654	-	COG0431R	NADPH-dependent FMN reductase
+594507..595166	-	219	161528163	-	Nmar_0655	-	COG1651O	DSBA oxidoreductase
+595230..596483	+	417	161528164	-	Nmar_0656	-	COG2205T	histidine kinase
+596491..597801	-	436	161528165	-	Nmar_0657	-	COG1262S	hypothetical protein
+597843..599285	-	480	161528166	-	Nmar_0658	-	COG0442J	prolyl-tRNA synthetase
+599345..599629	-	94	161528167	-	Nmar_0659	-	-	hypothetical protein
+600147..602594	+	815	161528168	-	Nmar_0660	-	COG1080G	hypothetical protein
+602646..603284	+	212	161528169	-	Nmar_0661	-	COG2071R	peptidase C26
+603278..604069	+	263	161528170	-	Nmar_0662	-	COG1213M	hypothetical protein
+604071..605186	+	371	161528171	-	Nmar_0663	-	COG3119P	sulfatase
+605261..606412	-	383	161528172	-	Nmar_0664	-	COG1887M	CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase
+606588..608129	+	513	161528173	-	Nmar_0665	-	COG3119P	hypothetical protein
+608181..608897	+	238	161528174	-	Nmar_0666	-	COG0560E	phosphoserine phosphatase SerB
+608932..609657	+	241	161528175	-	Nmar_0667	-	COG1478S	F420-dependent oxidoreductase
+609714..610628	+	304	161528176	-	Nmar_0668	-	COG0613R	phosphotransferase domain-containing protein
+610696..610932	+	78	161528177	-	Nmar_0669	-	COG0425O	SirA family protein
+610941..611933	+	330	161528178	-	Nmar_0670	-	COG0031E	pyridoxal-5'-phosphate-dependent protein subunit beta
+611934..612407	-	157	161528179	-	Nmar_0671	-	-	hypothetical protein
+612652..613656	-	334	161528180	-	Nmar_0672	-	COG0492O	thioredoxin reductase
+613707..614204	-	165	161528181	-	Nmar_0673	-	COG2905T	signal-transduction protein
+614254..614685	+	143	161528182	-	Nmar_0674	-	COG0589T	UspA domain-containing protein
+614682..615029	+	115	161528183	-	Nmar_0675	-	COG1544J	hypothetical protein
+615047..615958	+	303	161528184	-	Nmar_0676	-	COG0039C	lactate/malate dehydrogenase
+615949..616719	-	256	161528185	-	Nmar_0677	-	-	hypothetical protein
+616743..617561	-	272	161528186	-	Nmar_0678	-	COG1635H	ribulose-1,5-biphosphate synthetase
+617751..619559	+	602	161528187	-	Nmar_0679	-	COG0155P	sulfite reductase ferredoxin
+619556..620353	+	265	161528188	-	Nmar_0680	-	COG2897P	rhodanese domain-containing protein
+620354..621481	-	375	161528189	-	Nmar_0681	-	COG4235O	hypothetical protein
+621596..623224	+	542	161528190	-	Nmar_0682	-	-	triple helix repeat-containing collagen
+623360..623740	-	126	161528191	-	Nmar_0683	-	COG3846U	histone protein
+624050..625159	-	369	161528192	-	Nmar_0684	-	COG1163R	small GTP-binding protein
+625481..626176	+	231	161528193	-	Nmar_0685	-	COG0561R	SPP-like hydrolase
+626178..628064	+	628	161528194	-	Nmar_0686	-	COG0018J	arginyl-tRNA synthetase
+628174..629472	+	432	161528195	-	Nmar_0687	-	COG2957E	peptidyl-arginine deiminase
+629474..629986	-	170	161528196	-	Nmar_0688	-	-	hypothetical protein
+630214..630555	-	113	161528197	-	Nmar_0689	-	-	hypothetical protein
+631181..632062	+	293	161528198	-	Nmar_0690	-	COG2519J	tRNA methyltransferase complex GCD14 subunit
+632107..632970	+	287	161528199	-	Nmar_0691	-	COG0063G	carbohydrate kinase
+632975..634327	+	450	161528200	-	Nmar_0692	-	COG0624E	peptidase M20
+634324..634740	-	138	161528201	-	Nmar_0693	-	COG2259S	DoxX family protein
+634836..635432	+	198	161528202	-	Nmar_0694	-	COG0638O	proteasome endopeptidase complex protein
+635442..635918	-	158	161528203	-	Nmar_0695	-	COG0098J	PUA domain-containing protein
+635915..636925	-	336	161528204	-	Nmar_0696	-	COG0460E	homoserine dehydrogenase
+637018..637425	-	135	161528205	-	Nmar_0697	-	COG0229O	methionine-R-sulfoxide reductase
+637462..639099	-	545	161528206	-	Nmar_0698	-	COG1351F	thymidylate synthase complementing protein ThyX
+639111..639404	-	97	161528207	-	Nmar_0699	-	-	hypothetical protein
+639538..640416	+	292	161528208	-	Nmar_0700	-	COG5373S	hypothetical protein
+640471..642387	+	638	161528209	-	Nmar_0701	-	COG0365I	acetate--CoA ligase
+642384..642908	-	174	161528210	-	Nmar_0702	-	COG2202T	PAS/PAC sensor protein
+642950..643972	-	340	161528211	-	Nmar_0703	-	COG0258L	flap endonuclease-1
+644012..644812	-	266	161528212	-	Nmar_0704	-	-	hypothetical protein
+644805..645656	-	283	161528213	-	Nmar_0705	-	COG1378K	transcriptional regulator TrmB
+645838..646848	+	336	161528214	-	Nmar_0706	-	COG5549O	peptidase M10A and M12B matrixin and adamalysin
+646845..647495	+	216	161528215	-	Nmar_0707	-	COG2201NT	response regulator receiver protein
+647501..647773	+	90	161528216	-	Nmar_0708	-	-	hypothetical protein
+648158..648805	+	215	161528217	-	Nmar_0709	-	COG0778C	nitroreductase
+648858..649091	+	77	161528218	-	Nmar_0710	-	-	AsnC/Lrp family regulatory protein
+649352..649729	+	125	161528219	-	Nmar_0711	-	-	hypothetical protein
+649883..650224	-	113	161528220	-	Nmar_0712	-	-	hypothetical protein
+650279..650740	-	153	161528221	-	Nmar_0713	-	-	hypothetical protein
+650813..652093	+	426	161528222	-	Nmar_0714	-	COG1196D	hypothetical protein
+652125..652526	+	133	161528223	-	Nmar_0715	-	COG1310R	Mov34/MPN/PAD-1 family protein
+652664..652927	+	87	161528224	-	Nmar_0716	-	-	hypothetical protein
+652930..653241	+	103	161528225	-	Nmar_0717	-	-	hypothetical protein
+653242..654609	-	455	161528226	-	Nmar_0718	-	COG1173EP	binding-protein-dependent transporter inner membrane component
+654606..655655	-	349	161528227	-	Nmar_0719	-	COG0601EP	binding-protein-dependent transporter inner membrane component
+655859..656167	+	102	161528228	-	Nmar_0720	-	-	hypothetical protein
+656186..656428	+	80	161528229	-	Nmar_0721	-	-	hypothetical protein
+656430..656702	-	90	161528230	-	Nmar_0722	-	COG1393P	arsenate reductase-like protein
+657033..657980	-	315	161528231	-	Nmar_0723	-	-	hypothetical protein
+658136..658795	+	219	161528232	-	Nmar_0724	-	-	hypothetical protein
+658983..659663	-	226	161528233	-	Nmar_0725	-	COG2047R	hypothetical protein
+659913..661637	+	574	161528234	-	Nmar_0726	-	COG0553KL	SNF2-related protein
+661638..662252	-	204	161528235	-	Nmar_0727	-	-	hypothetical protein
+662287..662850	-	187	161528236	-	Nmar_0728	-	-	hypothetical protein
+662927..663550	+	207	161528237	-	Nmar_0729	-	COG0605P	superoxide dismutase
+663600..664898	+	432	161528238	-	Nmar_0730	-	-	hypothetical protein
+665007..665381	+	124	161528239	-	Nmar_0731	-	-	hypothetical protein
+665435..665686	+	83	161528240	-	Nmar_0732	-	-	hypothetical protein
+665703..665846	-	47	161528241	-	Nmar_0733	-	-	hypothetical protein
+666166..667611	-	481	161528242	-	Nmar_0734	-	COG0277C	FAD linked oxidase domain-containing protein
+667620..668933	-	437	161528243	-	Nmar_0735	-	-	hypothetical protein
+669032..669436	+	134	161528244	-	Nmar_0736	-	-	hypothetical protein
+669433..669981	-	182	161528245	-	Nmar_0737	-	COG0484O	heat shock protein DnaJ domain-containing protein
+669992..670435	-	147	161528246	-	Nmar_0738	-	COG1522K	AsnC family transcriptional regulator
+670559..670786	+	75	161528247	-	Nmar_0739	-	COG5010U	hypothetical protein
+670859..671335	+	158	161528248	-	Nmar_0740	-	COG3063NU	hypothetical protein
+671322..671495	-	57	161528249	-	Nmar_0741	-	-	hypothetical protein
+671572..672669	+	365	161528250	-	Nmar_0742	-	COG1060HR	radical SAM protein
+672666..672971	-	101	161528251	-	Nmar_0743	-	COG0011S	hypothetical protein
+673009..673242	-	77	161528252	-	Nmar_0744	-	-	hypothetical protein
+673391..673681	-	96	161528253	-	Nmar_0745	-	-	hypothetical protein
+673708..674535	-	275	161528254	-	Nmar_0746	-	COG2107R	hypothetical protein
+674573..675526	+	317	161528255	-	Nmar_0747	-	COG2222M	hypothetical protein
+675576..677768	+	730	161528256	-	Nmar_0748	-	COG0480J	elongation factor EF-2
+677860..678438	+	192	161528257	-	Nmar_0749	-	-	hypothetical protein
+678482..678712	+	76	161528258	-	Nmar_0750	-	-	hypothetical protein
+678747..678977	+	76	161528259	-	Nmar_0751	-	-	hypothetical protein
+678980..679405	-	141	161528260	-	Nmar_0752	-	-	hypothetical protein
+679479..679691	-	70	161528261	-	Nmar_0753	-	-	hypothetical protein
+679820..681301	+	493	161528262	-	Nmar_0754	-	COG1196D	hypothetical protein
+681293..681910	-	205	161528263	-	Nmar_0755	-	COG4122R	O-methyltransferase family protein
+682006..682383	+	125	161528264	-	Nmar_0756	-	-	hypothetical protein
+682447..682770	+	107	161528265	-	Nmar_0757	-	-	hypothetical protein
+682965..683177	-	70	161528266	-	Nmar_0758	-	-	hypothetical protein
+683694..683966	+	90	161528267	-	Nmar_0759	-	COG4634S	hypothetical protein
+683963..684529	-	188	161528268	-	Nmar_0760	-	-	hypothetical protein
+684539..684772	-	77	161528269	-	Nmar_0761	-	-	hypothetical protein
+684848..685111	+	87	161528270	-	Nmar_0762	-	-	hypothetical protein
+685116..685928	-	270	161528271	-	Nmar_0763	-	-	hypothetical protein
+685965..687782	-	605	161528272	-	Nmar_0764	-	COG0168P	hypothetical protein
+687923..688366	+	147	161528273	-	Nmar_0765	-	COG1259S	hypothetical protein
+688407..688625	+	72	161528274	-	Nmar_0766	-	-	hypothetical protein
+688854..689246	+	130	161528275	-	Nmar_0767	-	-	hypothetical protein
+689395..689643	+	82	161528276	-	Nmar_0768	-	-	hypothetical protein
+689640..689900	-	86	161528277	-	Nmar_0769	-	-	hypothetical protein
+690338..691429	-	363	161528278	-	Nmar_0770	-	COG1759R	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+691728..692285	+	185	161528279	-	Nmar_0771	-	COG0163H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+692293..692721	+	142	161528280	-	Nmar_0772	-	-	hypothetical protein
+692718..692924	-	68	161528281	-	Nmar_0773	-	COG1826U	sec-independent translocation protein mttA/Hcf106
+692953..693744	-	263	161528282	-	Nmar_0774	-	COG0805U	Sec-independent protein translocase subunit TatC
+693772..694236	-	154	161528283	-	Nmar_0775	-	-	hypothetical protein
+694554..694940	+	128	161528284	-	Nmar_0776	-	-	hypothetical protein
+695077..695337	+	86	161528285	-	Nmar_0777	-	COG1828F	phosphoribosylformylglycinamidine synthase PurS
+695334..695756	-	140	161528286	-	Nmar_0778	-	COG2524K	signal transduction protein
+695828..696514	+	228	161528287	-	Nmar_0779	-	COG0047F	phosphoribosylformylglycinamidine synthase I
+696511..698676	+	721	161528288	-	Nmar_0780	-	COG0046F	phosphoribosylformylglycinamidine synthase II
+698669..700138	+	489	161528289	-	Nmar_0781	-	COG0034F	class II glutamine amidotransferase
+700141..700419	+	92	161528290	-	Nmar_0782	-	COG2343S	hypothetical protein
+700454..700840	+	128	161528291	-	Nmar_0783	-	-	hypothetical protein
+700874..701698	+	274	161528292	-	Nmar_0784	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+702047..702550	+	167	161528293	-	Nmar_0785	-	COG0735P	ArsR family transcriptional regulator
+702588..702908	+	106	161528294	-	Nmar_0786	-	-	hypothetical protein
+702901..703305	+	134	161528295	-	Nmar_0787	-	COG3576R	pyridoxamine 5'-phosphate oxidase-like FMN-binding protein
+703382..703780	-	132	161528296	-	Nmar_0788	-	-	histone protein
+703882..704370	-	162	161528297	-	Nmar_0789	-	-	hypothetical protein
+704520..705113	+	197	161528298	-	Nmar_0790	-	-	hypothetical protein
+705832..706281	-	149	161528299	-	Nmar_0791	-	-	hypothetical protein
+706645..706893	-	82	161528300	-	Nmar_0792	-	-	hypothetical protein
+707231..707518	-	95	161528301	-	Nmar_0793	-	-	hypothetical protein
+707534..708091	-	185	161528302	-	Nmar_0794	-	COG0097J	50S ribosomal protein L6
+708081..708473	-	130	161528303	rps8p	Nmar_0795	-	COG0096J	30S ribosomal protein S8
+708480..708659	-	59	161528304	-	Nmar_0796	-	COG0199J	30S ribosomal protein S14
+708659..709180	-	173	161528305	rpl5p	Nmar_0797	-	COG0094J	50S ribosomal protein L5
+709185..709901	-	238	161528306	-	Nmar_0798	-	COG1471J	30S ribosomal protein S4e
+709901..710407	-	168	161528307	-	Nmar_0799	-	-	KOW domain-containing protein
+710412..710834	-	140	161528308	-	Nmar_0800	-	COG0093J	50S ribosomal protein L14
+710834..711157	-	107	161528309	-	Nmar_0801	-	COG0186J	30S ribosomal protein S17
+711154..711420	-	88	161528310	-	Nmar_0802	-	COG1588J	ribonuclease P
+711417..711623	-	68	161528311	-	Nmar_0803	-	-	50S ribosomal protein L29
+711620..712375	-	251	161528312	-	Nmar_0804	-	COG0092J	30S ribosomal protein S3
+712378..712836	-	152	161528313	-	Nmar_0805	-	COG0091J	50S ribosomal protein L22
+712842..713237	-	131	161528314	rps19p	Nmar_0806	-	COG0185J	30S ribosomal protein S19
+713265..713531	-	88	161528315	-	Nmar_0807	-	COG0089J	50S ribosomal protein L25
+713528..714343	-	271	161528316	rpl4lp	Nmar_0808	-	COG0088J	50S ribosomal protein L4P
+714340..715335	-	331	161528317	rpl3p	Nmar_0809	-	COG0087J	50S ribosomal protein L3P
+715541..716353	-	270	161528318	-	Nmar_0810	-	COG2106S	hypothetical protein
+716385..717122	-	245	161528319	-	Nmar_0811	-	COG0638O	proteasome subunit alpha
+717175..717591	+	138	161528320	-	Nmar_0812	-	COG2090S	hypothetical protein
+717819..718160	+	113	161528321	-	Nmar_0813	-	-	hypothetical protein
+718317..718655	-	112	161528322	-	Nmar_0814	-	-	hypothetical protein
+718761..720380	-	539	161528323	-	Nmar_0815	-	COG3794C	blue (type1) copper domain-containing protein
+720467..721117	-	216	161528324	-	Nmar_0816	-	COG5491N	SNF7 protein
+721209..722318	-	369	161528325	-	Nmar_0817	-	COG0526OC	redoxin domain-containing protein
+722323..723057	-	244	161528326	-	Nmar_0818	-	COG0785O	cytochrome c biogenesis protein transmembrane region
+723259..724383	-	374	161528327	-	Nmar_0819	-	COG0156H	8-amino-7-oxononanoate synthase
+724551..725285	+	244	161528328	-	Nmar_0820	-	COG5549O	peptidase M10A and M12B matrixin and adamalysin
+725326..726306	-	326	161528329	-	Nmar_0821	-	COG0502H	biotin synthase
+726380..727660	-	426	161528330	-	Nmar_0822	-	COG0161H	class III aminotransferase
+728011..728697	+	228	161528331	-	Nmar_0823	-	COG0132H	dethiobiotin synthase
+728698..728925	-	75	161528332	-	Nmar_0824	-	-	hypothetical protein
+729208..730071	+	287	161528333	-	Nmar_0825	-	COG0330O	hypothetical protein
+730087..730380	-	97	161528334	-	Nmar_0826	-	-	hypothetical protein
+730421..730969	-	182	161528335	-	Nmar_0827	-	-	hypothetical protein
+730969..732363	-	464	161528336	-	Nmar_0828	-	COG3425I	hydroxymethylglutaryl-CoA synthase
+732469..733179	-	236	161528337	-	Nmar_0829	-	COG1651O	DSBA oxidoreductase
+733217..733948	-	243	161528338	-	Nmar_0830	-	-	hypothetical protein
+734100..735152	+	350	161528339	-	Nmar_0831	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+735149..736402	-	417	161528340	-	Nmar_0832	-	COG1253R	hypothetical protein
+736555..737892	-	445	161528341	-	Nmar_0833	-	COG0498E	threonine synthase
+737983..738369	+	128	161528342	-	Nmar_0834	-	-	hypothetical protein
+738666..738980	-	104	161528343	-	Nmar_0835	-	-	hypothetical protein
+739036..739842	-	268	161528344	-	Nmar_0836	-	COG3898	hypothetical protein
+739895..740443	-	182	161528345	-	Nmar_0837	-	COG1591L	resolvase, Holliday junction-type
+740761..740955	+	64	161528346	-	Nmar_0838	-	-	hypothetical protein
+741001..741828	+	275	161528347	-	Nmar_0839	-	COG2263J	hypothetical protein
+741821..742129	-	102	161528348	-	Nmar_0840	-	-	hypothetical protein
+742126..743241	-	371	161528349	-	Nmar_0841	-	COG0183I	propanoyl-CoA C-acyltransferase
+743238..744203	-	321	161528350	-	Nmar_0842	-	COG2141C	luciferase family protein
+744462..745130	-	222	161528351	-	Nmar_0843	-	COG1208MJ	nucleotidyl transferase
+745167..745433	-	88	161528352	-	Nmar_0844	-	-	hypothetical protein
+745568..745960	-	130	161528353	-	Nmar_0845	-	-	hypothetical protein
+745994..747136	-	380	161528354	-	Nmar_0846	-	COG0026F	phosphoribosylaminoimidazole carboxylase ATPase subunit
+747236..747811	+	191	161528355	-	Nmar_0847	-	COG0041F	phosphoribosylaminoimidazole carboxylase catalytic subunit
+747812..749020	-	402	161528356	-	Nmar_0848	-	COG1171E	threonine dehydratase
+749201..750037	-	278	161528357	-	Nmar_0849	-	-	hypothetical protein
+750195..751031	+	278	161528358	-	Nmar_0850	-	COG2114T	adenylate/guanylate cyclase
+751329..751700	+	123	161528359	-	Nmar_0851	-	-	hypothetical protein
+751758..752144	+	128	161528360	-	Nmar_0852	-	-	hypothetical protein
+752141..752551	-	136	161528361	-	Nmar_0853	-	COG2514R	glyoxalase/bleomycin resistance protein/dioxygenase
+752586..752804	-	72	161528362	-	Nmar_0854	-	COG1522K	AsnC family transcriptional regulator
+752798..753037	-	79	161528363	-	Nmar_0855	-	-	hypothetical protein
+753166..753432	+	88	161528364	-	Nmar_0856	-	-	hypothetical protein
+753628..753915	+	95	161528365	-	Nmar_0857	-	-	hypothetical protein
+754081..754617	-	178	161528366	-	Nmar_0858	-	COG2096S	ATP--cobalamin adenosyltransferase
+754698..755231	+	177	161528367	-	Nmar_0859	-	COG1896R	metal dependent phosphohydrolase
+755231..755455	+	74	161528368	-	Nmar_0860	-	-	hypothetical protein
+755452..755826	-	124	161528369	-	Nmar_0861	-	-	hypothetical protein
+755829..756176	+	115	161528370	-	Nmar_0862	-	-	hypothetical protein
+756232..757455	+	407	161528371	-	Nmar_0863	-	COG1915S	LOR/SDH bifunctional protein
+757600..758112	+	170	161528372	-	Nmar_0864	-	-	hypothetical protein
+758109..759467	-	452	161528373	-	Nmar_0865	-	COG0436E	class I/II aminotransferase
+759537..761462	-	641	161528374	-	Nmar_0866	-	COG0365I	AMP-dependent synthetase and ligase
+761506..761769	-	87	161528375	-	Nmar_0867	-	-	hypothetical protein
+761773..763176	-	467	161528376	-	Nmar_0868	-	COG0064J	glutamyl-tRNA(Gln) amidotransferase subunit B
+763173..764618	-	481	161528377	-	Nmar_0869	-	COG0154J	glutamyl-tRNA(Gln) amidotransferase subunit A
+764618..764884	-	88	161528378	-	Nmar_0870	-	COG0721J	hypothetical protein
+764895..766205	-	436	161528379	-	Nmar_0871	-	COG0017J	aspartyl-tRNA synthetase
+766788..767813	+	341	161528380	purP	Nmar_0872	-	COG1759R	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+767816..768613	-	265	161528381	-	Nmar_0873	-	COG3639P	phosphonate ABC transporter inner membrane subunit
+768591..769421	-	276	161528382	-	Nmar_0874	-	COG3638P	ABC transporter
+769440..770528	-	362	161528383	-	Nmar_0875	-	COG3221P	phosphonate ABC transporter periplasmic phosphonate-binding protein
+770616..770966	-	116	161528384	-	Nmar_0876	-	-	hypothetical protein
+770972..771304	-	110	161528385	-	Nmar_0877	-	COG2345K	transcriptional regulator
+771370..772098	-	242	161528386	-	Nmar_0878	-	-	hypothetical protein
+772111..772326	-	71	161528387	-	Nmar_0879	-	-	hypothetical protein
+772407..773036	+	209	161528388	-	Nmar_0880	-	-	hypothetical protein
+773072..773716	+	214	161528389	-	Nmar_0881	-	COG1651O	DSBA oxidoreductase
+773772..775052	+	426	161528390	-	Nmar_0882	-	COG1503J	peptide chain release factor 1
+775045..775449	-	134	161528391	-	Nmar_0883	-	COG0537FGR	histidine triad (HIT) protein
+775557..776156	+	199	161528392	-	Nmar_0884	-	-	hypothetical protein
+776161..776355	-	64	161528393	-	Nmar_0885	-	-	hypothetical protein
+776452..778128	+	558	161528394	-	Nmar_0886	-	COG0129EG	dihydroxy-acid dehydratase
+778118..778672	-	184	161528395	-	Nmar_0887	-	-	hypothetical protein
+778828..780228	-	466	161528396	-	Nmar_0888	-	COG1199KL	helicase c2
+780605..780922	+	105	161528397	-	Nmar_0889	-	-	hypothetical protein
+780986..781231	+	81	161528398	-	Nmar_0890	-	-	hypothetical protein
+781540..781806	+	88	161528399	-	Nmar_0891	-	-	hypothetical protein
+781999..782535	-	178	161528400	-	Nmar_0892	-	-	hypothetical protein
+782577..782846	-	89	161528401	-	Nmar_0893	-	-	hypothetical protein
+783332..783580	-	82	161528402	-	Nmar_0894	-	-	hypothetical protein
+783883..784473	+	196	161528403	-	Nmar_0895	-	-	hypothetical protein
+784509..784838	+	109	161528404	-	Nmar_0896	-	-	hypothetical protein
+785551..785784	+	77	161528405	-	Nmar_0897	-	-	hypothetical protein
+785852..786319	+	155	161528406	-	Nmar_0898	-	-	hypothetical protein
+786988..787221	-	77	161528407	-	Nmar_0899	-	-	hypothetical protein
+787291..787641	+	116	161528408	-	Nmar_0900	-	-	hypothetical protein
+788095..788304	+	69	161528409	-	Nmar_0901	-	-	hypothetical protein
+788330..788872	+	180	161528410	-	Nmar_0902	-	-	hypothetical protein
+788897..789313	-	138	161528411	-	Nmar_0903	-	-	hypothetical protein
+789419..789718	+	99	161528412	-	Nmar_0904	-	-	hypothetical protein
+789744..790391	-	215	161528413	-	Nmar_0905	-	-	hypothetical protein
+791128..791799	-	223	161528414	-	Nmar_0906	-	-	hypothetical protein
+791835..792236	-	133	161528415	-	Nmar_0907	-	-	hypothetical protein
+792290..792487	+	65	161528416	-	Nmar_0908	-	-	hypothetical protein
+792948..793280	+	110	161528417	-	Nmar_0909	-	-	hypothetical protein
+793511..794554	+	347	161528418	-	Nmar_0910	-	-	hypothetical protein
+794959..796308	+	449	161528419	-	Nmar_0911	-	COG0147EH	anthranilate synthase
+796305..796901	+	198	161528420	-	Nmar_0912	-	COG0512EH	glutamine amidotransferase of anthranilate synthase
+796898..797944	+	348	161528421	-	Nmar_0913	-	COG0547E	anthranilate phosphoribosyltransferase
+797937..798713	+	258	161528422	-	Nmar_0914	-	COG0134E	indole-3-glycerol-phosphate synthase
+798710..799897	+	395	161528423	-	Nmar_0915	-	COG0133E	tryptophan synthase subunit beta
+799884..800690	+	268	161528424	-	Nmar_0916	-	COG0159E	tryptophan synthase subunit alpha
+801081..801764	-	227	161528425	-	Nmar_0917	-	-	hypothetical protein
+802019..802861	-	280	161528426	-	Nmar_0918	-	COG3794C	hypothetical protein
+802942..804543	+	533	161528427	pyrG	Nmar_0919	-	COG0504F	CTP synthetase
+804551..806068	-	505	161528428	-	Nmar_0920	-	COG0642T	histidine kinase
+806078..807076	-	332	161528429	-	Nmar_0921	-	COG0061G	NAD(+) kinase
+807118..807987	-	289	161528430	-	Nmar_0922	-	COG0524G	ribokinase-like domain-containing protein
+808250..808537	+	95	161528431	-	Nmar_0923	-	COG4830J	30S ribosomal protein S26e
+808540..809112	-	190	161528432	-	Nmar_0924	-	COG0558I	CDP-alcohol phosphatidyltransferase
+809190..810065	-	291	161528433	-	Nmar_0925	-	COG0010E	agmatinase
+810069..811934	-	621	161528434	-	Nmar_0926	-	COG0441J	threonyl-tRNA synthetase
+811992..812327	-	111	161528435	-	Nmar_0927	-	-	hypothetical protein
+812404..813468	+	354	161528436	-	Nmar_0928	-	COG1899O	deoxyhypusine synthase-like protein
+813482..813694	-	70	161528437	-	Nmar_0929	-	-	hypothetical protein
+813793..814104	+	103	161528438	-	Nmar_0930	-	COG3177S	30S ribosomal protein S25e
+814086..814361	-	91	161528439	-	Nmar_0931	-	COG2164S	hypothetical protein
+814486..815034	+	182	161528440	-	Nmar_0932	-	COG1758K	RNA polymerase Rpb6
+815086..815400	+	104	161528441	-	Nmar_0933	-	COG1581K	DNA/RNA-binding protein AlbA
+815397..815813	-	138	161528442	-	Nmar_0934	-	COG2522R	hypothetical protein
+815847..816866	+	339	161528443	-	Nmar_0935	-	COG0367E	asparagine synthase
+817055..817420	-	121	161528444	-	Nmar_0936	-	-	hypothetical protein
+817489..818589	-	366	161528445	-	Nmar_0937	-	COG0667C	aldo/keto reductase
+818620..819510	-	296	161528446	-	Nmar_0938	-	COG1575H	UbiA prenyltransferase
+819822..820223	-	133	161528447	-	Nmar_0939	-	COG4911S	hypothetical protein
+820283..820573	+	96	161528448	-	Nmar_0940	-	-	hypothetical protein
+820570..820974	+	134	161528449	-	Nmar_0941	-	COG3467R	pyridoxamine 5'-phosphate oxidase-like FMN-binding protein
+821297..821575	+	92	161528450	-	Nmar_0942	-	COG0760O	PpiC-type peptidyl-prolyl cis-trans isomerase
+821589..821864	+	91	161528451	-	Nmar_0943	-	-	hypothetical protein
+821861..823369	-	502	161528452	-	Nmar_0944	-	COG1111L	DEAD/DEAH box helicase
+823542..823787	+	81	161528453	-	Nmar_0945	-	-	hypothetical protein
+823811..823999	-	62	161528454	-	Nmar_0946	-	-	hypothetical protein
+824040..824642	+	200	161528455	-	Nmar_0947	-	COG2131F	zinc-binding CMP/dCMP deaminase
+824647..827205	+	852	161528456	-	Nmar_0948	-	COG0417L	DNA polymerase I
+827214..827495	+	93	161528457	-	Nmar_0949	-	COG4095S	hypothetical protein
+827535..828191	+	218	161528458	-	Nmar_0950	-	COG0149G	triosephosphate isomerase
+828219..830882	+	887	161528459	-	Nmar_0951	-	COG0574G	pyruvate phosphate dikinase
+830925..831482	+	185	161528460	-	Nmar_0952	-	COG3620K	XRE family transcriptional regulator
+831494..831889	-	131	161528461	-	Nmar_0953	-	COG3185ER	glyoxalase/bleomycin resistance protein/dioxygenase
+831890..833488	-	532	161528462	-	Nmar_0954	-	COG1884I	methylmalonyl-CoA mutase large subunit
+833495..834412	-	305	161528463	-	Nmar_0955	-	COG1703E	LAO/AO transport system ATPase
+834456..834863	-	135	161528464	-	Nmar_0956	-	-	hypothetical protein
+834865..837357	-	830	161528465	-	Nmar_0957	-	COG0308E	peptidase M1 membrane alanine aminopeptidase
+837459..837881	+	140	161528466	-	Nmar_0958	-	COG2185I	cobalamin B12-binding domain-containing protein
+837893..838891	-	332	161528467	-	Nmar_0959	-	COG0059EH	ketol-acid reductoisomerase
+839050..839580	-	176	161528468	-	Nmar_0960	-	COG1056H	cytidyltransferase-like protein
+839615..840535	-	306	161528469	-	Nmar_0961	-	COG3276J	elongation factor Tu domain-containing protein
+840580..841332	-	250	161528470	-	Nmar_0962	-	COG4782S	hypothetical protein
+841334..842989	-	551	161528471	-	Nmar_0963	-	COG0143J	methionyl-tRNA synthetase
+843027..844268	-	413	161528472	-	Nmar_0964	-	COG0499H	adenosylhomocysteinase
+844342..844644	+	100	161528473	-	Nmar_0965	-	COG2146PR	Rieske (2Fe-2S) domain-containing protein
+844775..845488	+	237	161528474	-	Nmar_0966	-	COG0171H	NAD+ synthetase
+845485..846873	+	462	161528475	-	Nmar_0967	-	COG0215J	cysteinyl-tRNA synthetase
+846886..847200	-	104	161528476	-	Nmar_0968	-	-	hypothetical protein
+847271..847600	-	109	161528477	-	Nmar_0969	-	-	hypothetical protein
+847835..848116	+	93	161528478	-	Nmar_0970	-	-	hypothetical protein
+848117..848935	-	272	161528479	-	Nmar_0971	-	COG3264M	MscS mechanosensitive ion channel
+848940..849716	-	258	161528480	-	Nmar_0972	-	COG2430S	hypothetical protein
+849754..850653	-	299	161528481	-	Nmar_0973	-	-	hypothetical protein
+850799..851326	+	175	161528482	-	Nmar_0974	-	COG3272S	hypothetical protein
+851328..852485	-	385	161528483	-	Nmar_0975	-	COG1602S	hypothetical protein
+852580..853506	+	308	161528484	-	Nmar_0976	-	COG0614P	periplasmic binding protein
+853513..854892	-	459	161528485	-	Nmar_0977	-	COG0702MG	NAD-dependent epimerase/dehydratase
+855102..855944	+	280	161528486	-	Nmar_0978	-	COG5012R	response regulator receiver protein
+856416..857327	+	303	161528487	-	Nmar_0979	-	COG1405K	transcription factor TFIIB cyclin-related protein
+857503..858714	-	403	161528488	-	Nmar_0980	-	COG0012J	translation-associated GTPase
+858749..859114	-	121	161528489	-	Nmar_0981	-	-	hypothetical protein
+859116..859526	-	136	161528490	-	Nmar_0982	-	COG1832R	CoA-binding domain-containing protein
+859607..860128	+	173	161528491	-	Nmar_0983	-	COG1733K	hypothetical protein
+860165..861172	+	335	161528492	-	Nmar_0984	-	COG0340H	biotin--acetyl-CoA-carboxylase ligase
+861173..861535	-	120	161528493	-	Nmar_0985	-	-	hypothetical protein
+861646..863085	+	479	161528494	-	Nmar_0986	-	COG5010U	hypothetical protein
+863158..864105	+	315	161528495	-	Nmar_0987	-	COG1405K	transcription factor TFIIB cyclin-related protein
+864108..864515	-	135	161528496	-	Nmar_0988	-	COG2236R	phosphoribosyltransferase-like protein
+864552..864944	-	130	161528497	-	Nmar_0989	-	-	hypothetical protein
+864998..865576	+	192	161528498	-	Nmar_0990	-	-	hypothetical protein
+865566..866630	+	354	161528499	-	Nmar_0991	-	COG3243I	poly(R)-hydroxyalkanoic acid synthase subunit PhaC
+866668..867096	-	142	161528500	-	Nmar_0992	-	-	hypothetical protein
+867093..867518	-	141	161528501	-	Nmar_0993	-	COG2002K	AbrB family transcriptional regulator
+867555..868400	-	281	161528502	-	Nmar_0994	-	COG0596R	alpha/beta hydrolase
+868653..869105	-	150	161528503	-	Nmar_0995	-	COG0225O	peptide methionine sulfoxide reductase
+869170..869568	-	132	161528504	-	Nmar_0996	-	-	hypothetical protein
+869663..870511	-	282	161528505	-	Nmar_0997	-	COG2226H	methyltransferase type 11
+870928..872469	-	513	161528506	-	Nmar_0998	-	COG3889R	hypothetical protein
+872507..873718	-	403	161528507	-	Nmar_0999	-	COG2433S	hypothetical protein
+873891..875201	-	436	161528508	-	Nmar_1000	-	-	hypothetical protein
+876009..876260	+	83	161528509	-	Nmar_1001	-	COG1522K	AsnC family transcriptional regulator
+876296..876688	+	130	161528510	-	Nmar_1002	-	-	hypothetical protein
+876754..877533	-	259	161528511	-	Nmar_1003	-	COG3741E	N-formylglutamate amidohydrolase
+877530..879155	-	541	161528512	-	Nmar_1004	-	COG0405E	gamma-glutamyltransferase
+879169..879972	-	267	161528513	-	Nmar_1005	-	-	Ion transport protein
+879976..881619	-	547	161528514	-	Nmar_1006	-	COG0598P	magnesium and cobalt transport protein CorA
+881616..882884	-	422	161528515	-	Nmar_1007	-	COG1253R	hypothetical protein
+882881..885112	-	743	161528516	-	Nmar_1008	-	COG1181M	D-alanine--D-alanine ligase
+885569..886492	-	307	161528517	-	Nmar_1009	-	COG1579R	hypothetical protein
+886582..886962	-	126	161528518	-	Nmar_1010	-	-	hypothetical protein
+886990..887979	-	329	161528519	-	Nmar_1011	-	COG0778C	nitroreductase
+888128..888601	+	157	161528520	-	Nmar_1012	-	COG0589T	UspA domain-containing protein
+888605..888904	+	99	161528521	-	Nmar_1013	-	-	hypothetical protein
+889412..890212	-	266	161528522	-	Nmar_1014	-	COG4742K	transcriptional regulator protein-like protein
+890844..891875	-	343	161528523	-	Nmar_1015	-	COG3733Q	proteinase inhibitor I1 Kazal
+892148..892738	+	196	161528524	-	Nmar_1016	-	COG3305S	hypothetical protein
+898088..899395	+	435	161528525	-	Nmar_1017	-	COG0001H	class III aminotransferase
+899385..899747	-	120	161528526	-	Nmar_1018	-	-	hypothetical protein
+899956..900777	+	273	161528527	-	Nmar_1019	-	COG3063NU	hypothetical protein
+900772..901476	-	234	161528528	-	Nmar_1020	-	-	hypothetical protein
+901554..901919	+	121	161528529	-	Nmar_1021	-	-	hypothetical protein
+901921..902376	+	151	161528530	-	Nmar_1022	-	COG1917S	cupin
+902379..902741	+	120	161528531	-	Nmar_1023	-	COG0662G	cupin
+902804..903475	+	223	161528532	-	Nmar_1024	-	COG0484O	heat shock protein DnaJ domain-containing protein
+903476..903883	-	135	161528533	-	Nmar_1025	-	COG0537FGR	histidine triad (HIT) protein
+903919..904224	-	101	161528534	-	Nmar_1026	-	-	hypothetical protein
+904199..904366	-	55	161528535	-	Nmar_1027	-	-	hypothetical protein
+904421..905560	+	379	161528536	-	Nmar_1028	-	COG1250I	3-hydroxybutyryl-CoA dehydrogenase
+905562..905813	-	83	161528537	-	Nmar_1029	-	-	hypothetical protein
+905845..906354	-	169	161528538	-	Nmar_1030	-	COG1611R	Rossmann fold nucleotide-binding protein
+906617..907027	+	136	161528539	-	Nmar_1031	-	-	hypothetical protein
+907229..907432	-	67	161528540	-	Nmar_1032	-	COG1996K	RNA polymerase Rbp10
+907455..907763	-	102	161528541	-	Nmar_1033	-	COG0051J	30S ribosomal protein S10
+907775..909073	-	432	161528542	-	Nmar_1034	-	COG5256J	elongation factor 1-alpha
+909195..910340	+	381	161528543	-	Nmar_1035	-	COG1980G	hypothetical protein
+910408..910815	+	135	161528544	-	Nmar_1036	-	-	hypothetical protein
+910852..912618	+	588	161528545	-	Nmar_1037	-	COG1793L	ATP-dependent DNA ligase I
+912685..913338	+	217	161528546	-	Nmar_1038	-	COG1392P	hypothetical protein
+913430..913966	+	178	161528547	-	Nmar_1039	-	COG1676J	tRNA intron endonuclease
+914012..916327	-	771	161528548	-	Nmar_1040	-	COG3794C	fibronectin type III domain-containing protein
+916375..916752	-	125	161528549	-	Nmar_1041	-	-	hypothetical protein
+916755..916991	-	78	161528550	-	Nmar_1042	-	-	hypothetical protein
+917089..918855	+	588	161528551	-	Nmar_1043	-	COG1028IQR	short-chain dehydrogenase/reductase SDR
+918858..919307	+	149	161528552	-	Nmar_1044	-	-	hypothetical protein
+919387..919764	+	125	161528553	-	Nmar_1045	-	COG2204T	response regulator receiver protein
+919769..921361	+	530	161528554	-	Nmar_1046	-	COG5002T	PAS/PAC sensor protein
+921429..924140	-	903	161528555	-	Nmar_1047	-	COG2706G	fibronectin type III domain-containing protein
+924387..925160	-	257	161528556	-	Nmar_1048	-	COG0730R	hypothetical protein
+925196..925828	-	210	161528557	-	Nmar_1049	-	-	hypothetical protein
+925869..926360	-	163	161528558	-	Nmar_1050	-	COG1430S	hypothetical protein
+926446..927189	+	247	161528559	-	Nmar_1051	-	-	hypothetical protein
+927198..927554	-	118	161528560	-	Nmar_1052	-	-	hypothetical protein
+927691..928155	+	154	161528561	-	Nmar_1053	-	COG1321K	DtxR family iron dependent repressor
+928142..929959	-	605	161528562	-	Nmar_1054	-	COG1855R	ATPase
+930363..931784	+	473	161528563	-	Nmar_1055	-	COG0312R	peptidase U62 modulator of DNA gyrase
+931785..932375	+	196	161528564	-	Nmar_1056	-	COG1573L	phage SPO1 DNA polymerase-related protein
+932353..932916	+	187	161528565	-	Nmar_1057	-	COG2094L	DNA-3-methyladenine glycosylase
+932913..933545	-	210	161528566	-	Nmar_1058	-	COG0586S	hypothetical protein
+933635..934009	+	124	161528567	-	Nmar_1059	-	-	hypothetical protein
+934140..934433	+	97	161528568	-	Nmar_1060	-	-	hypothetical protein
+934517..935347	+	276	161528569	-	Nmar_1061	-	-	hypothetical protein
+935438..936661	+	407	161528570	-	Nmar_1062	-	COG2114T	hypothetical protein
+936667..937221	-	184	161528571	-	Nmar_1063	-	-	hypothetical protein
+937290..938225	-	311	161528572	-	Nmar_1064	-	COG0444EP	oligopeptide/dipeptide ABC transporter ATPase
+938308..938826	+	172	161528573	-	Nmar_1065	-	COG0195K	transcription elongation factor NusA
+938826..940112	+	428	161528574	-	Nmar_1066	-	COG0017J	aspartyl-tRNA synthetase
+940151..940396	+	81	161528575	-	Nmar_1067	-	-	hypothetical protein
+940688..940963	+	91	161528576	-	Nmar_1068	-	-	hypothetical protein
+940960..941973	-	337	161528577	-	Nmar_1069	-	COG0473CE	isopropylmalate/isohomocitrate dehydrogenase
+942007..943524	-	505	161528578	-	Nmar_1070	-	COG0119E	isopropylmalate/citramalate/homocitrate synthase
+943521..944006	-	161	161528579	-	Nmar_1071	-	COG0440E	acetolactate synthase small subunit
+944015..945715	-	566	161528580	-	Nmar_1072	-	COG0028EH	acetolactate synthase large subunit, biosynthetic type
+945910..974667	-	9585	161528581	-	Nmar_1073	-	COG3401R	fibronectin type III domain-containing protein
+975058..976227	-	389	161528582	-	Nmar_1074	-	COG1196D	hypothetical protein
+976264..979884	-	1206	161528583	-	Nmar_1075	-	COG1196D	chromosome segregation ATPase-like protein
+979952..981844	-	630	161528584	-	Nmar_1076	-	COG2205T	sensor protein
+981989..982393	+	134	161528585	-	Nmar_1077	-	-	hypothetical protein
+982395..983390	-	331	161528586	-	Nmar_1078	-	COG1830G	fructose-bisphosphate aldolase
+983428..984456	-	342	161528587	-	Nmar_1079	-	COG1063ER	alcohol dehydrogenase
+984493..984786	-	97	161528588	-	Nmar_1080	-	COG1436C	vacuolar H+transporting two-sector ATPase F subunit
+984872..985174	+	100	161528589	-	Nmar_1081	-	-	hypothetical protein
+985176..985427	-	83	161528590	-	Nmar_1082	-	-	hypothetical protein
+985476..985778	-	100	161528591	-	Nmar_1083	-	COG5431S	hypothetical protein
+985813..986562	+	249	161528592	-	Nmar_1084	-	COG1407R	metallophosphoesterase
+986566..989808	-	1080	161528593	-	Nmar_1085	-	COG0458EF	carbamoyl-phosphate synthase large subunit
+989810..990964	-	384	161528594	-	Nmar_1086	-	COG0505EF	carbamoyl-phosphate synthase small subunit
+991041..992597	-	518	161528595	-	Nmar_1087	-	-	hypothetical protein
+992659..993852	-	397	161528596	-	Nmar_1088	-	COG0464O	ATPase central domain-containing protein
+993863..994363	-	166	161528597	-	Nmar_1089	-	-	hypothetical protein
+994351..994908	-	185	161528598	-	Nmar_1090	-	-	hypothetical protein
+995066..996226	+	386	161528599	-	Nmar_1091	-	COG1378K	transcriptional regulator TrmB
+996256..996711	+	151	161528600	-	Nmar_1092	-	COG0251J	endoribonuclease L-PSP
+996775..998052	+	425	161528601	-	Nmar_1093	-	COG1301C	sodium:dicarboxylate symporter
+998322..998714	+	130	161528602	-	Nmar_1094	-	COG3576R	pyridoxamine 5'-phosphate oxidase family protein
+998697..999185	-	162	161528603	-	Nmar_1095	-	-	hypothetical protein
+999182..1000309	-	375	161528604	-	Nmar_1096	-	-	hypothetical protein
+1000385..1000831	+	148	161528605	-	Nmar_1097	-	COG2259S	DoxX family protein
+1000832..1001974	-	380	161528606	-	Nmar_1098	-	COG2404R	phosphoesterase DHHA1
+1002328..1003491	+	387	161528607	-	Nmar_1099	-	COG0372C	2-methylcitrate synthase/citrate synthase II
+1003495..1003701	-	68	161528608	-	Nmar_1100	-	-	hypothetical protein
+1003778..1004125	+	115	161528609	-	Nmar_1101	-	-	hypothetical protein
+1004439..1005395	+	318	161528610	-	Nmar_1102	-	COG3794C	blue (type1) copper domain-containing protein
+1005416..1007002	-	528	161528611	uvrC	Nmar_1103	-	COG0322L	excinuclease ABC subunit C
+1006999..1009818	-	939	161528612	-	Nmar_1104	-	COG0178L	excinuclease ABC subunit A
+1009805..1011757	-	650	161528613	-	Nmar_1105	-	COG0556L	excinuclease ABC subunit B
+1011807..1012457	-	216	161528614	-	Nmar_1106	-	COG3467R	pyridoxamine 5'-phosphate oxidase-like FMN-binding protein
+1012916..1013344	+	142	161528615	-	Nmar_1107	-	-	hypothetical protein
+1013339..1013578	-	79	161528616	-	Nmar_1108	-	-	hypothetical protein
+1013628..1014734	-	368	161528617	-	Nmar_1109	-	COG2141C	luciferase family protein
+1014829..1015773	-	314	161528618	-	Nmar_1110	-	COG1454C	iron-containing alcohol dehydrogenase
+1015826..1017103	+	425	161528619	-	Nmar_1111	-	COG2379G	hydroxypyruvate reductase
+1017166..1017402	+	78	161528620	-	Nmar_1112	-	-	hypothetical protein
+1017395..1018360	-	321	161528621	-	Nmar_1113	-	COG1236J	hypothetical protein
+1018479..1019054	+	191	161528622	-	Nmar_1114	-	COG0299F	phosphoribosylglycinamide formyltransferase
+1019051..1019371	-	106	161528623	-	Nmar_1115	-	COG0662G	cupin
+1019373..1019657	-	94	161528624	-	Nmar_1116	-	COG3224S	antibiotic biosynthesis monooxygenase
+1019750..1020613	+	287	161528625	-	Nmar_1117	-	COG0190H	methylenetetrahydrofolate dehydrogenase
+1020603..1021166	+	187	161528626	-	Nmar_1118	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+1021157..1022422	-	421	161528627	-	Nmar_1119	-	COG0151F	phosphoribosylamine--glycine ligase
+1022506..1025703	+	1065	161528628	-	Nmar_1120	-	COG0060J	isoleucyl-tRNA synthetase
+1025889..1026476	+	195	161528629	-	Nmar_1121	-	COG2406R	DNA protection protein DPS
+1026579..1026908	+	109	161528630	-	Nmar_1122	-	-	hypothetical protein
+1026949..1028055	+	368	161528631	-	Nmar_1123	-	COG0045C	succinate--CoA ligase
+1028052..1028969	+	305	161528632	-	Nmar_1124	-	COG0074C	CoA-binding domain-containing protein
+1029001..1029168	+	55	161528633	rpl40e	Nmar_1125	-	COG1552J	50S ribosomal protein L40e
+1029171..1029419	-	82	161528634	-	Nmar_1126	-	-	hypothetical protein
+1029839..1030519	+	226	161528635	-	Nmar_1127	-	-	hypothetical protein
+1030587..1031477	-	296	161528636	-	Nmar_1128	-	COG0803P	periplasmic solute binding protein
+1031846..1033210	-	454	161528637	-	Nmar_1129	-	COG3794C	hypothetical protein
+1033565..1034743	-	392	161528638	-	Nmar_1130	-	COG0428P	metal cation transporter
+1034733..1035788	-	351	161528639	-	Nmar_1131	-	COG2132Q	multicopper oxidase type 3
+1035937..1036419	-	160	161528640	-	Nmar_1132	-	COG1321K	DtxR family iron dependent repressor
+1036866..1037891	+	341	161528641	-	Nmar_1133	-	COG3055S	kelch repeat-containing protein
+1037921..1038244	-	107	161528642	-	Nmar_1134	-	-	hypothetical protein
+1038395..1040071	-	558	161528643	-	Nmar_1135	-	COG0421E	spermine synthase
+1040200..1041807	-	535	161528644	-	Nmar_1136	-	COG2132Q	multicopper oxidase type 3
+1041992..1042363	+	123	161528645	-	Nmar_1137	-	-	hypothetical protein
+1042803..1043501	-	232	161528646	-	Nmar_1138	-	COG2717S	hypothetical protein
+1043604..1043813	-	69	161528647	-	Nmar_1139	-	-	hypothetical protein
+1044115..1044795	-	226	161528648	-	Nmar_1140	-	COG1651O	protein-disulfide isomerase-like protein
+1044800..1045402	-	200	161528649	-	Nmar_1141	-	-	hypothetical protein
+1045689..1046150	+	153	161528650	-	Nmar_1142	-	COG3794C	blue (type1) copper domain-containing protein
+1046241..1046906	+	221	161528651	-	Nmar_1143	-	COG1651O	DSBA oxidoreductase
+1046995..1047993	+	332	161528652	-	Nmar_1144	-	COG0785O	cytochrome c biogenesis protein transmembrane region
+1048048..1048350	+	100	161528653	-	Nmar_1145	-	COG0695O	glutaredoxin
+1048465..1049589	-	374	161528654	-	Nmar_1146	-	COG0265O	2-alkenal reductase
+1049659..1050102	-	147	161528655	-	Nmar_1147	-	COG1522K	AsnC family transcriptional regulator
+1050213..1051010	-	265	161528656	-	Nmar_1148	-	COG1651O	DSBA oxidoreductase
+1051125..1051814	-	229	161528657	-	Nmar_1149	-	-	hypothetical protein
+1052123..1052866	-	247	161528658	-	Nmar_1150	-	COG1651O	DSBA oxidoreductase
+1053177..1053431	+	84	161528659	-	Nmar_1151	-	-	hypothetical protein
+1053652..1053921	+	89	161528660	-	Nmar_1152	-	COG4742K	hypothetical protein
+1054157..1054858	-	233	161528661	-	Nmar_1153	-	COG2215R	high-affinity nickel-transporter
+1055312..1056625	-	437	161528662	-	Nmar_1154	-	-	hypothetical protein
+1056647..1057015	+	122	161528663	-	Nmar_1155	-	COG0640K	ArsR family transcriptional regulator
+1057094..1057711	+	205	161528664	-	Nmar_1156	-	COG1230P	cation efflux protein
+1057913..1059058	+	381	161528665	-	Nmar_1157	-	-	hypothetical protein
+1059089..1060267	-	392	161528666	-	Nmar_1158	-	COG2110R	hypothetical protein
+1060419..1061363	-	314	161528667	-	Nmar_1159	-	COG0742L	hypothetical protein
+1061437..1062276	+	279	161528668	-	Nmar_1160	-	COG4422S	Gp37Gp68 family protein
+1062348..1063718	-	456	161528669	-	Nmar_1161	-	COG3794C	hypothetical protein
+1064164..1064547	-	127	161528670	-	Nmar_1162	-	-	hypothetical protein
+1064544..1064774	-	76	161528671	-	Nmar_1163	-	-	hypothetical protein
+1065590..1066066	-	158	161528672	-	Nmar_1164	-	-	hypothetical protein
+1066715..1067632	-	305	161528673	-	Nmar_1165	-	COG4725TK	MT-A70 family protein
+1067629..1067868	-	79	161528674	-	Nmar_1166	-	COG1475K	nuclease
+1067868..1068353	-	161	161528675	-	Nmar_1167	-	-	hypothetical protein
+1068658..1069332	+	224	161528676	-	Nmar_1168	-	-	hypothetical protein
+1069322..1070524	-	400	161528677	-	Nmar_1169	-	-	integrase family protein
+1070692..1071237	+	181	161528678	-	Nmar_1170	-	COG2249R	NAD(P)H dehydrogenase
+1071457..1071837	+	126	161528679	-	Nmar_1171	-	COG3011S	hypothetical protein
+1071834..1073081	-	415	161528680	-	Nmar_1172	-	-	vitamin K-dependent gamma-carboxylase
+1073273..1073404	+	43	161528681	-	Nmar_1173	-	-	hypothetical protein
+1073391..1073876	+	161	161528682	-	Nmar_1174	-	-	hypothetical protein
+1073932..1074471	+	179	161528683	-	Nmar_1175	-	COG0221C	inorganic diphosphatase
+1074473..1074730	+	85	161528684	-	Nmar_1176	-	COG5207O	zinc finger UBP-type protein
+1075014..1076786	+	590	161528685	-	Nmar_1177	-	COG1164E	pepF/M3 family oligoendopeptidase
+1076902..1077474	-	190	161528686	-	Nmar_1178	-	-	hypothetical protein
+1077622..1078767	+	381	161528687	-	Nmar_1179	-	-	hypothetical protein
+1078768..1079319	-	183	161528688	-	Nmar_1180	-	COG1945S	arginine decarboxylase
+1079893..1080690	+	265	161528689	-	Nmar_1181	-	COG1651O	DSBA oxidoreductase
+1080792..1082114	+	440	161528690	-	Nmar_1182	-	COG0513LKJ	DEAD/DEAH box helicase
+1082163..1082396	+	77	161528691	-	Nmar_1183	-	-	AsnC/Lrp family regulatory protein
+1082430..1082720	+	96	161528692	-	Nmar_1184	-	-	hypothetical protein
+1082717..1083412	+	231	161528693	-	Nmar_1185	-	-	hypothetical protein
+1083465..1084223	+	252	161528694	-	Nmar_1186	-	-	hypothetical protein
+1084186..1084641	-	151	161528695	-	Nmar_1187	-	-	hypothetical protein
+1084732..1085529	+	265	161528696	-	Nmar_1188	-	-	hypothetical protein
+1085567..1085911	+	114	161528697	-	Nmar_1189	-	-	hypothetical protein
+1086156..1086416	+	86	161528698	-	Nmar_1190	-	-	hypothetical protein
+1086413..1088440	-	675	161528699	-	Nmar_1191	-	COG1331O	hypothetical protein
+1088479..1088712	-	77	161528700	-	Nmar_1192	-	-	hypothetical protein
+1088792..1089826	+	344	161528701	-	Nmar_1193	-	COG1064R	alcohol dehydrogenase
+1090267..1090794	-	175	161528702	-	Nmar_1194	-	-	hypothetical protein
+1090876..1091124	+	82	161528703	-	Nmar_1195	-	-	hypothetical protein
+1091128..1091814	-	228	161528704	-	Nmar_1196	-	-	hypothetical protein
+1092124..1092354	-	76	161528705	-	Nmar_1197	-	COG1522K	AsnC family transcriptional regulator
+1092421..1093617	-	398	161528706	-	Nmar_1198	-	COG0585S	tRNA pseudouridine synthase TruD
+1093614..1095215	-	533	161528707	-	Nmar_1199	-	COG4257V	hypothetical protein
+1095261..1095635	-	124	161528708	-	Nmar_1200	-	COG1990S	peptidyl-tRNA hydrolase
+1096377..1101503	-	1708	161528709	-	Nmar_1201	-	-	hypothetical protein
+1101856..1102230	+	124	161528710	-	Nmar_1202	-	COG2204T	response regulator receiver protein
+1102252..1103118	-	288	161528711	-	Nmar_1203	-	-	hypothetical protein
+1103274..1104188	+	304	161528712	-	Nmar_1204	-	-	hypothetical protein
+1104185..1105030	+	281	161528713	-	Nmar_1205	-	-	hypothetical protein
+1105027..1105464	-	145	161528714	-	Nmar_1206	-	COG2204T	response regulator receiver protein
+1105436..1107169	-	577	161528715	-	Nmar_1207	-	COG0642T	histidine kinase
+1107755..1108102	+	115	161528716	-	Nmar_1208	-	-	hypothetical protein
+1108392..1108916	+	174	161528717	-	Nmar_1209	-	-	hypothetical protein
+1109414..1110718	-	434	161528718	-	Nmar_1210	-	COG1078R	metal dependent phosphohydrolase
+1110705..1111259	-	184	161528719	-	Nmar_1211	-	COG3465S	hypothetical protein
+1111485..1112732	+	415	161528720	-	Nmar_1212	-	COG0420L	metallophosphoesterase
+1112729..1115149	+	806	161528721	-	Nmar_1213	-	COG0419L	SMC domain-containing protein
+1115220..1116212	-	330	161528722	-	Nmar_1214	-	COG1192D	cobyrinic acid ac-diamide synthase
+1116612..1117013	-	133	161528723	-	Nmar_1215	-	-	hypothetical protein
+1117006..1118508	-	500	161528724	-	Nmar_1216	-	COG1196D	hypothetical protein
+1118505..1118783	-	92	161528725	-	Nmar_1217	-	-	hypothetical protein
+1118837..1119916	+	359	161528726	-	Nmar_1218	-	-	hypothetical protein
+1119907..1120962	-	351	161528727	-	Nmar_1219	-	COG4974L	integrase family protein
+1121044..1122180	+	378	161528728	-	Nmar_1220	-	COG0644C	dehydrogenase (flavoprotein)-like protein
+1122289..1122417	+	42	161528729	-	Nmar_1221	-	COG2888J	hypothetical protein
+1122422..1122703	+	93	161528730	-	Nmar_1222	-	COG2092J	translation elongation factor aEF-1 beta
+1122715..1124880	+	721	161528731	-	Nmar_1223	-	COG0464O	ATPase AAA
+1124883..1125179	+	98	161528732	-	Nmar_1224	-	-	hypothetical protein
+1125183..1126052	-	289	161528733	-	Nmar_1225	-	COG0109O	protoheme IX farnesyltransferase
+1126185..1127261	+	358	161528734	-	Nmar_1226	-	COG3794C	blue (type1) copper domain-containing protein
+1127264..1127656	+	130	161528735	-	Nmar_1227	-	COG1310R	Mov34/MPN/PAD-1 family protein
+1127657..1128040	-	127	161528736	-	Nmar_1228	-	COG2164S	hypothetical protein
+1128090..1128347	+	85	161528737	-	Nmar_1229	-	-	hypothetical protein
+1128406..1128594	+	62	161528738	-	Nmar_1230	-	-	hypothetical protein
+1128591..1130630	-	679	161528739	hppA	Nmar_1231	-	COG3808C	membrane-bound proton-translocating pyrophosphatase
+1130666..1131043	-	125	161528740	-	Nmar_1232	-	-	hypothetical protein
+1131195..1131659	-	154	161528741	-	Nmar_1233	-	COG1909S	hypothetical protein
+1131701..1132813	-	370	161528742	-	Nmar_1234	-	COG0489D	hypothetical protein
+1132962..1133558	+	198	161528743	-	Nmar_1235	-	COG1095K	DNA-directed RNA polymerase subunit E'
+1133560..1133748	+	62	161528744	-	Nmar_1236	-	COG2093K	DNA-directed RNA polymerase subunit E RpoE2
+1133788..1134606	+	272	161528745	-	Nmar_1237	-	COG0157H	nicotinate-nucleotide pyrophosphorylase
+1134603..1134995	-	130	161528746	-	Nmar_1238	-	COG3071H	hypothetical protein
+1135009..1135965	-	318	161528747	-	Nmar_1239	-	COG0379H	quinolinate synthetase complex subunit A
+1136059..1136877	-	272	161528748	-	Nmar_1240	-	COG1712R	aspartate dehydrogenase
+1136958..1137911	+	317	161528749	-	Nmar_1241	-	-	hypothetical protein
+1137977..1138813	+	278	161528750	-	Nmar_1242	-	COG1630S	hypothetical protein
+1138810..1140342	+	510	161528751	-	Nmar_1243	-	COG0433R	hypothetical protein
+1140342..1141484	+	380	161528752	-	Nmar_1244	-	COG0420L	metallophosphoesterase
+1141481..1143562	+	693	161528753	-	Nmar_1245	-	COG0419L	SMC domain-containing protein
+1143628..1144143	+	171	161528754	-	Nmar_1246	-	-	hypothetical protein
+1144197..1145837	+	546	161528755	-	Nmar_1247	-	COG4191T	histidine kinase
+1145914..1146222	+	102	161528756	-	Nmar_1248	-	COG2204T	response regulator receiver protein
+1146219..1147073	-	284	161528757	-	Nmar_1249	-	-	hypothetical protein
+1147717..1148436	-	239	161528758	-	Nmar_1250	-	COG3794C	protease inhibitor Kazal-type
+1148438..1148926	-	162	161528759	-	Nmar_1251	-	COG1413C	HEAT repeat-containing PBS lyase
+1149023..1149688	+	221	161528760	-	Nmar_1252	-	-	alkyl hydroperoxide reductase
+1149923..1150696	-	257	161528761	-	Nmar_1253	-	-	hypothetical protein
+1150749..1151213	-	154	161528762	-	Nmar_1254	-	COG1632J	50S ribosomal protein L15e
+1151421..1152080	+	219	161528763	-	Nmar_1255	-	-	hypothetical protein
+1152077..1152592	+	171	161528764	-	Nmar_1256	-	-	hypothetical protein
+1152589..1153482	-	297	161528765	-	Nmar_1257	-	COG3147S	hypothetical protein
+1153583..1154515	-	310	161528766	-	Nmar_1258	-	COG0111HE	NAD-binding D-isomer specific 2-hydroxyacid dehydrogenase
+1154583..1155995	-	470	161528767	-	Nmar_1259	-	COG2132Q	hypothetical protein
+1156106..1157467	+	453	161528768	-	Nmar_1260	-	COG1027E	fumarate lyase
+1157471..1158739	+	422	161528769	-	Nmar_1261	-	COG0621J	MiaB-like tRNA modifying enzyme
+1158813..1159763	+	316	161528770	-	Nmar_1262	-	COG0206D	tubulin/FtsZ GTPase
+1159800..1160363	-	187	161528771	-	Nmar_1263	-	COG2097J	50S ribosomal protein L31e
+1160364..1160522	-	52	161528772	-	Nmar_1264	-	COG2167J	50S ribosomal protein L39e
+1160560..1161111	-	183	161528773	-	Nmar_1265	-	COG0494LR	NUDIX hydrolase
+1161181..1161918	+	245	161528774	-	Nmar_1266	-	COG0685E	5 10-methylenetetrahydrofolate reductase-like protein
+1161915..1164413	-	832	161528775	-	Nmar_1267	-	COG1410E	methionine synthase
+1164446..1165408	-	320	161528776	-	Nmar_1268	-	COG0646E	homocysteine S-methyltransferase
+1165474..1166622	+	382	161528777	-	Nmar_1269	-	COG2814G	major facilitator transporter
+1166630..1166953	-	107	161528778	-	Nmar_1270	-	-	hypothetical protein
+1167007..1167864	-	285	161528779	-	Nmar_1271	-	COG2524K	signal transduction protein
+1167873..1168289	-	138	161528780	-	Nmar_1272	-	COG0589T	UspA domain-containing protein
+1168392..1169255	-	287	161528781	-	Nmar_1273	-	COG3794C	blue (type1) copper domain-containing protein
+1169600..1170037	-	145	161528782	-	Nmar_1274	-	COG0589T	UspA domain-containing protein
+1170133..1170906	-	257	161528783	-	Nmar_1275	-	COG0607P	rhodanese domain-containing protein
+1170971..1171528	+	185	161528784	-	Nmar_1276	-	COG3398S	hypothetical protein
+1171587..1172039	+	150	161528785	-	Nmar_1277	-	-	hypothetical protein
+1172121..1172441	+	106	161528786	-	Nmar_1278	-	-	hypothetical protein
+1172926..1173567	-	213	161528787	-	Nmar_1279	-	-	hypothetical protein
+1173569..1174213	-	214	161528788	-	Nmar_1280	-	-	hypothetical protein
+1174343..1174807	-	154	161528789	-	Nmar_1281	-	COG3398S	ArsR family transcriptional regulator
+1174917..1175300	-	127	161528790	-	Nmar_1282	-	-	hypothetical protein
+1175356..1176114	-	252	161528791	-	Nmar_1283	-	COG0600P	binding-protein-dependent transporter inner membrane component
+1176120..1176884	-	254	161528792	-	Nmar_1284	-	COG1116P	ABC transporter
+1176884..1177909	-	341	161528793	-	Nmar_1285	-	COG0715P	aliphatic sulfonate ABC transporter substrate-binding protein
+1178045..1179244	+	399	161528794	-	Nmar_1286	-	COG0137E	argininosuccinate synthase
+1179241..1179408	+	55	161528795	-	Nmar_1287	-	COG1405K	hypothetical protein
+1179408..1180265	+	285	161528796	-	Nmar_1288	-	COG0189HJ	lysine biosynthesis protein LysX
+1180294..1181340	+	348	161528797	argC	Nmar_1289	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+1181343..1182146	+	267	161528798	-	Nmar_1290	-	COG0548E	acetylglutamate kinase
+1182139..1183320	+	393	161528799	-	Nmar_1291	-	COG4992E	acetylornithine and succinylornithine aminotransferase
+1183307..1183726	+	139	161528800	-	Nmar_1292	-	COG1522K	AsnC family transcriptional regulator
+1183825..1185006	+	393	161528801	-	Nmar_1293	-	COG0119E	pyruvate carboxyltransferase
+1185028..1185195	+	55	161528802	-	Nmar_1294	-	-	hypothetical protein
+1185192..1186034	+	280	161528803	-	Nmar_1295	-	COG0189HJ	lysine biosynthesis protein LysX
+1186038..1187165	+	375	161528804	-	Nmar_1296	-	COG0624E	N-acetyl-ornithine/N-acetyl-lysine deacetylase
+1187165..1188202	+	345	161528805	-	Nmar_1297	-	COG1798J	diphthine synthase
+1188243..1188863	+	206	161528806	-	Nmar_1298	-	COG0615MI	cytidyltransferase-like protein
+1188884..1190740	-	618	161528807	-	Nmar_1299	-	COG5000T	PAS/PAC sensor signal transduction histidine kinase
+1190800..1191132	-	110	161528808	-	Nmar_1300	-	-	hypothetical protein
+1191274..1191957	-	227	161528809	-	Nmar_1301	-	COG1339KH	hypothetical protein
+1191966..1193108	-	380	161528810	-	Nmar_1302	-	COG0358L	DNA primase
+1193261..1193611	-	116	161528811	-	Nmar_1303	-	COG0316S	iron-sulfur cluster assembly accessory protein
+1193703..1194149	-	148	161528812	-	Nmar_1304	-	COG2905T	signal-transduction protein
+1194146..1194745	-	199	161528813	-	Nmar_1305	-	-	hypothetical protein
+1194774..1195124	-	116	161528814	-	Nmar_1306	-	-	hypothetical protein
+1195212..1195736	+	174	161528815	-	Nmar_1307	-	COG3794C	blue (type1) copper domain-containing protein
+1195786..1196547	-	253	161528816	-	Nmar_1308	-	COG1024I	enoyl-CoA hydratase/isomerase
+1196584..1198701	-	705	161528817	-	Nmar_1309	-	COG1042C	CoA-binding domain-containing protein
+1198744..1199427	-	227	161528818	-	Nmar_1310	-	COG0518F	class I glutamine amidotransferase
+1199476..1199850	+	124	161528819	-	Nmar_1311	-	COG1658L	TOPRIM domain-containing protein
+1199847..1201121	-	424	161528820	-	Nmar_1312	-	COG0334E	Glu/Leu/Phe/Val dehydrogenase
+1201196..1201579	-	127	161528821	-	Nmar_1313	-	COG4742K	ArsR family transcriptional regulator
+1201690..1202412	+	240	161528822	-	Nmar_1314	-	COG0638O	proteasome subunit alpha
+1202461..1203153	+	230	161528823	-	Nmar_1315	-	COG2226H	methyltransferase type 11
+1203150..1204304	+	384	161528824	-	Nmar_1316	-	COG2814G	major facilitator transporter
+1204301..1204615	-	104	161528825	-	Nmar_1317	-	COG0347E	nitrogen regulatory protein P-II
+1204740..1205087	+	115	161528826	-	Nmar_1318	-	COG1826U	sec-independent translocation protein mttA/Hcf106
+1205088..1205864	-	258	161528827	-	Nmar_1319	-	COG0863L	DNA methylase N-4/N-6 domain-containing protein
+1206022..1208469	+	815	161528828	-	Nmar_1320	-	COG1205R	DEAD/DEAH box helicase
+1208508..1209338	+	276	161528829	-	Nmar_1321	-	COG0300R	short-chain dehydrogenase/reductase SDR
+1209416..1211071	+	551	161528830	-	Nmar_1322	-	COG3569L	2-alkenal reductase
+1211079..1212740	-	553	161528831	-	Nmar_1323	-	-	hypothetical protein
+1213048..1214319	+	423	161528832	-	Nmar_1324	-	COG4974L	integrase family protein
+1215359..1216810	-	483	161528833	-	Nmar_1325	-	-	hypothetical protein
+1217102..1217617	+	171	161528834	-	Nmar_1326	-	COG3398S	transcriptional regulator TrmB
+1217629..1218000	+	123	161528835	-	Nmar_1327	-	-	hypothetical protein
+1218185..1219645	+	486	161528836	-	Nmar_1328	-	COG2373R	hypothetical protein
+1219854..1220738	+	294	161528837	-	Nmar_1329	-	-	hypothetical protein
+1220815..1221096	-	93	161528838	-	Nmar_1330	-	-	hypothetical protein
+1221245..1222054	+	269	161528839	-	Nmar_1331	-	COG1475K	parB-like partition protein
+1222164..1222601	-	145	161528840	-	Nmar_1332	-	COG0589T	hypothetical protein
+1222782..1223168	+	128	161528841	-	Nmar_1333	-	-	hypothetical protein
+1223212..1223658	+	148	161528842	-	Nmar_1334	-	COG0589T	UspA domain-containing protein
+1223763..1224590	-	275	161528843	-	Nmar_1335	-	COG0668M	MscS mechanosensitive ion channel
+1224590..1225333	-	247	161528844	-	Nmar_1336	-	COG2430S	hypothetical protein
+1225396..1225746	-	116	161528845	-	Nmar_1337	-	COG3264M	hypothetical protein
+1226368..1227165	-	265	161528846	-	Nmar_1338	-	COG4742K	transcriptional regulator protein-like protein
+1227383..1227637	-	84	161528847	-	Nmar_1339	-	-	hypothetical protein
+1227903..1228823	-	306	161528848	-	Nmar_1340	-	COG1405K	transcription factor TFIIB cyclin-related protein
+1229190..1230119	+	309	161528849	-	Nmar_1341	-	COG1405K	transcription factor TFIIB cyclin-related protein
+1230309..1230806	-	165	161528850	-	Nmar_1342	-	COG3264M	hypothetical protein
+1230831..1231745	-	304	161528851	-	Nmar_1343	-	COG5285Q	ectoine hydroxylase
+1231747..1232133	-	128	161528852	ectC	Nmar_1344	-	COG1917S	L-ectoine synthase
+1232130..1233425	-	431	161528853	-	Nmar_1345	-	COG0160E	diaminobutyrate--2-oxoglutarate aminotransferase
+1233422..1233925	-	167	161528854	-	Nmar_1346	-	COG0456R	L-2,4-diaminobutyric acid acetyltransferase
+1233928..1234305	-	125	161528855	-	Nmar_1347	-	-	hypothetical protein
+1234431..1234745	+	104	161528856	-	Nmar_1348	-	COG0361J	translation initiation factor eIF-1A
+1234843..1236567	-	574	161528857	-	Nmar_1349	-	COG2114T	sensor protein
+1236680..1237030	+	116	161528858	-	Nmar_1350	-	-	hypothetical protein
+1237019..1237399	-	126	161528859	-	Nmar_1351	-	-	hypothetical protein
+1237860..1238660	-	266	161528860	-	Nmar_1352	-	COG4742K	ArsR family transcriptional regulator
+1238728..1239270	-	180	161528861	-	Nmar_1353	-	COG3945S	hypothetical protein
+1239281..1240615	-	444	161528862	-	Nmar_1354	-	COG2132Q	multicopper oxidase type 3
+1241821..1242507	-	228	161528863	-	Nmar_1355	-	-	hypothetical protein
+1242610..1243134	-	174	161528864	-	Nmar_1356	-	COG0716C	flavodoxin FldA
+1243214..1243858	+	214	161528865	-	Nmar_1357	-	COG0778C	nitroreductase
+1244511..1245950	-	479	161528866	-	Nmar_1358	-	COG0426C	beta-lactamase domain-containing protein
+1246066..1246743	-	225	161528867	-	Nmar_1359	-	COG1777K	ArsR family transcriptional regulator
+1246835..1247611	+	258	161528868	-	Nmar_1360	-	COG2968S	hypothetical protein
+1247960..1248259	-	99	161528869	-	Nmar_1361	-	-	hypothetical protein
+1248624..1248965	+	113	161528870	-	Nmar_1362	-	-	hypothetical protein
+1249342..1250802	-	486	161528871	-	Nmar_1363	-	-	hypothetical protein
+1251121..1251375	-	84	161528872	-	Nmar_1364	-	-	hypothetical protein
+1251727..1252203	+	158	161528873	-	Nmar_1365	-	-	hypothetical protein
+1252200..1253066	-	288	161528874	-	Nmar_1366	-	COG2227H	methyltransferase type 11
+1253150..1254346	+	398	161528875	-	Nmar_1367	-	-	hypothetical protein
+1254350..1255168	+	272	161528876	-	Nmar_1368	-	COG2912S	hypothetical protein
+1255165..1255335	-	56	161528877	-	Nmar_1369	-	-	hypothetical protein
+1255511..1256839	-	442	161528878	-	Nmar_1370	-	-	hypothetical protein
+1256918..1257538	-	206	161528879	-	Nmar_1371	-	COG1230P	cation efflux protein
+1257597..1257926	+	109	161528880	-	Nmar_1372	-	COG0640K	ArsR family transcriptional regulator
+1257999..1258292	+	97	161528881	-	Nmar_1373	-	-	hypothetical protein
+1258585..1258893	-	102	161528882	-	Nmar_1374	-	-	hypothetical protein
+1258902..1259879	-	325	161528883	-	Nmar_1375	-	-	hypothetical protein
+1260107..1261366	+	419	161528884	-	Nmar_1376	-	-	hypothetical protein
+1261372..1262889	-	505	161528885	-	Nmar_1377	-	-	hypothetical protein
+1263279..1264037	-	252	161528886	-	Nmar_1378	-	COG1409R	metallophosphoesterase
+1264147..1265178	+	343	161528887	-	Nmar_1379	-	COG0473CE	isocitrate dehydrogenase
+1265179..1265715	-	178	161528888	-	Nmar_1380	-	COG2890J	methylase
+1265690..1266394	-	234	161528889	-	Nmar_1381	-	COG0030J	ribosomal RNA adenine methylase transferase
+1266391..1266957	-	188	161528890	-	Nmar_1382	-	COG1491J	hypothetical protein
+1266978..1267304	-	108	161528891	-	Nmar_1383	-	COG1460S	RNA polymerase Rpb4
+1267307..1267606	-	99	161528892	-	Nmar_1384	-	COG2139J	50S ribosomal protein L21e
+1267663..1268718	-	351	161528893	-	Nmar_1385	-	COG0820R	radical SAM protein
+1268792..1269958	-	388	161528894	radA	Nmar_1386	-	COG0468L	DNA repair and recombination protein RadA
+1270040..1270222	-	60	161528895	-	Nmar_1387	-	COG4919J	hypothetical protein
+1270263..1271987	-	574	161528896	-	Nmar_1388	-	COG1032C	radical SAM protein
+1272039..1272851	-	270	161528897	-	Nmar_1389	-	COG0543HC	oxidoreductase FAD/NAD(P)-binding subunit
+1272835..1273746	-	303	161528898	-	Nmar_1390	-	COG0167F	dihydroorotate dehydrogenase family protein
+1273832..1275244	+	470	161528899	-	Nmar_1391	-	COG1498J	Pre-mRNA processing ribonucleoprotein
+1275231..1275905	+	224	161528900	-	Nmar_1392	-	COG1889J	fibrillarin
+1275902..1276519	-	205	161528901	-	Nmar_1393	-	COG0164L	ribonuclease HII
+1276580..1277728	+	382	161528902	-	Nmar_1394	-	COG1867J	tRNA (guanine-N(2)-)-methyltransferase
+1277718..1278311	-	197	161528903	-	Nmar_1395	-	COG0293J	ribosomal RNA methyltransferase RrmJ/FtsJ
+1278308..1279183	-	291	161528904	-	Nmar_1396	-	-	hypothetical protein
+1279233..1279709	-	158	161528905	-	Nmar_1397	-	-	hypothetical protein
+1279813..1281906	+	697	161528906	-	Nmar_1398	-	COG3593L	hypothetical protein
+1281980..1284148	+	722	161528907	-	Nmar_1399	-	COG2373R	hypothetical protein
+1284188..1284700	+	170	161528908	-	Nmar_1400	-	COG0503F	adenine phosphoribosyltransferase
+1284700..1285491	+	263	161528909	-	Nmar_1401	-	COG0005F	methylthioadenosine phosphorylase
+1285488..1285772	-	94	161528910	-	Nmar_1402	-	-	hypothetical protein
+1285781..1286179	-	132	161528911	-	Nmar_1403	-	-	hypothetical protein
+1286201..1286551	-	116	161528912	-	Nmar_1404	-	-	hypothetical protein
+1286593..1286814	-	73	161528913	-	Nmar_1405	-	-	hypothetical protein
+1286833..1287345	+	170	161528914	-	Nmar_1406	-	COG0071O	hypothetical protein
+1287346..1288458	-	370	161528915	-	Nmar_1407	-	COG1697L	DNA topoisomerase VI subunit A
+1288445..1290325	-	626	161528916	-	Nmar_1408	-	COG1389L	DNA topoisomerase VI subunit B
+1290312..1290884	-	190	161528917	-	Nmar_1409	-	COG0415L	RNA-processing protein
+1290881..1291660	-	259	161528918	-	Nmar_1410	-	COG1718TD	non-specific serine/threonine protein kinase
+1291717..1292013	-	98	161528919	-	Nmar_1411	-	COG2412S	hypothetical protein
+1292013..1292435	-	140	161528920	-	Nmar_1412	-	COG1601J	translation initiation factor IF2/IF5
+1292507..1292668	-	53	161528921	-	Nmar_1413	-	-	hypothetical protein
+1292904..1293401	+	165	161528922	-	Nmar_1414	-	-	hypothetical protein
+1293472..1294617	+	381	161528923	-	Nmar_1415	-	COG2237S	hypothetical protein
+1294697..1295488	+	263	161528924	-	Nmar_1416	-	COG0020I	undecaprenyl diphosphate synthase
+1295485..1295904	+	139	161528925	-	Nmar_1417	-	COG0494LR	NUDIX hydrolase
+1295884..1296624	-	246	161528926	-	Nmar_1418	-	COG0284F	orotidine 5'-phosphate decarboxylase
+1296605..1297288	-	227	161528927	-	Nmar_1419	-	-	hypothetical protein
+1297338..1298339	-	333	161528928	-	Nmar_1420	-	COG0104F	adenylosuccinate synthetase
+1298420..1298881	+	153	161528929	-	Nmar_1421	-	-	hypothetical protein
+1298878..1299162	-	94	161528930	-	Nmar_1422	-	COG2924CO	hypothetical protein
+1299224..1299649	-	141	161528931	-	Nmar_1423	-	-	hypothetical protein
+1299803..1300012	+	69	161528932	-	Nmar_1424	-	-	hypothetical protein
+1300073..1300714	+	213	161528933	-	Nmar_1425	-	-	hypothetical protein
+1300835..1301122	+	95	161528934	-	Nmar_1426	-	COG3432K	hypothetical protein
+1301276..1301872	+	198	161528935	-	Nmar_1427	-	COG0009J	Sua5/YciO/YrdC/YwlC family protein
+1301869..1302390	+	173	161528936	-	Nmar_1428	-	COG1818R	THUMP domain-containing protein
+1302382..1303155	-	257	161528937	-	Nmar_1429	-	COG1977H	sulfur carrier protein ThiS
+1303197..1303586	-	129	161528938	-	Nmar_1430	-	COG1383J	hypothetical protein
+1303617..1304435	-	272	161528939	-	Nmar_1431	-	COG0084L	TatD-related deoxyribonuclease
+1304454..1304690	+	78	161528940	-	Nmar_1432	-	COG2036B	transcription factor CBF/NF-Y/histone domain-containing protein
+1304693..1304905	-	70	161528941	-	Nmar_1433	-	-	hypothetical protein
+1304938..1305462	-	174	161528942	-	Nmar_1434	-	-	hypothetical protein
+1305440..1306402	-	320	161528943	-	Nmar_1435	-	-	hypothetical protein
+1306399..1308189	-	596	161528944	-	Nmar_1436	-	COG0823U	hypothetical protein
+1308186..1309121	-	311	161528945	-	Nmar_1437	-	-	hypothetical protein
+1309111..1309680	-	189	161528946	-	Nmar_1438	-	COG1225O	alkyl hydroperoxide reductase
+1309697..1310107	-	136	161528947	-	Nmar_1439	-	COG0346E	glyoxalase/bleomycin resistance protein/dioxygenase
+1310429..1311712	-	427	161528948	-	Nmar_1440	-	COG0642T	histidine kinase
+1311780..1312781	-	333	161528949	-	Nmar_1441	-	-	hypothetical protein
+1313084..1313461	-	125	161528950	-	Nmar_1442	-	-	hypothetical protein
+1313572..1314030	-	152	161528951	-	Nmar_1443	-	COG3794C	blue (type1) copper domain-containing protein
+1314106..1315857	+	583	161528952	-	Nmar_1444	-	-	hypothetical protein
+1316179..1316757	-	192	161528953	-	Nmar_1445	-	-	hypothetical protein
+1316841..1317122	+	93	161528954	-	Nmar_1446	-	COG3432K	hypothetical protein
+1317902..1319200	+	432	161528955	-	Nmar_1447	-	COG1109G	phosphoglucomutase/phosphomannomutase subunit alpha/beta
+1319184..1320116	+	310	161528956	-	Nmar_1448	-	COG0611H	thiamine-monophosphate kinase
+1320117..1320437	-	106	161528957	-	Nmar_1449	-	-	hypothetical protein
+1320746..1321072	+	108	161528958	-	Nmar_1450	-	COG0100J	30S ribosomal protein S11
+1321069..1321377	-	102	161528959	-	Nmar_1451	-	-	hypothetical protein
+1321377..1321781	-	134	161528960	-	Nmar_1452	-	COG2118R	hypothetical protein
+1321778..1323226	-	482	161528961	-	Nmar_1453	-	COG1690S	hypothetical protein
+1323300..1323539	+	79	161528962	-	Nmar_1454	-	-	hypothetical protein
+1323582..1324943	+	453	161528963	-	Nmar_1455	-	COG0015F	adenylosuccinate lyase
+1325203..1326207	-	334	161528964	-	Nmar_1456	-	COG2373R	hypothetical protein
+1326250..1327284	-	344	161528965	-	Nmar_1457	-	COG2226H	methyltransferase type 11
+1327457..1327741	-	94	161528966	-	Nmar_1458	-	-	hypothetical protein
+1327840..1328232	-	130	161528967	-	Nmar_1459	-	-	hypothetical protein
+1328229..1329227	-	332	161528968	-	Nmar_1460	-	-	hypothetical protein
+1329228..1329881	-	217	161528969	-	Nmar_1461	-	-	hypothetical protein
+1329980..1331845	-	621	161528970	-	Nmar_1462	-	-	hypothetical protein
+1331942..1332325	-	127	161528971	-	Nmar_1463	-	COG3324R	glyoxalase/bleomycin resistance protein/dioxygenase
+1332454..1332846	-	130	161528972	-	Nmar_1464	-	-	hypothetical protein
+1333198..1333590	-	130	161528973	-	Nmar_1465	-	-	hypothetical protein
+1333685..1334440	-	251	161528974	-	Nmar_1466	-	COG0367E	asparagine synthase
+1334547..1335326	+	259	161528975	-	Nmar_1467	-	COG1525L	excalibur domain-containing protein
+1335364..1335639	+	91	161528976	-	Nmar_1468	-	COG2154H	transcriptional coactivator/pterin dehydratase
+1335702..1336520	+	272	161528977	-	Nmar_1469	-	COG0720H	hypothetical protein
+1336645..1337190	+	181	161528978	-	Nmar_1470	-	-	hypothetical protein
+1337219..1337581	-	120	161528979	-	Nmar_1471	-	COG0295F	zinc-binding CMP/dCMP deaminase
+1337614..1340079	-	821	161528980	-	Nmar_1472	-	COG5635T	hypothetical protein
+1340205..1341287	-	360	161528981	-	Nmar_1473	-	COG0270L	DNA-cytosine methyltransferase
+1341364..1342236	+	290	161528982	-	Nmar_1474	-	-	hypothetical protein
+1342242..1344224	+	660	161528983	-	Nmar_1475	-	-	hypothetical protein
+1344226..1345155	+	309	161528984	-	Nmar_1476	-	-	hypothetical protein
+1345206..1347521	-	771	161528985	valS	Nmar_1477	-	COG0525J	valyl-tRNA synthetase
+1347536..1348153	-	205	161528986	-	Nmar_1478	-	COG0311H	SNO glutamine amidotransferase
+1348150..1349118	-	322	161528987	-	Nmar_1479	-	COG0214H	pyridoxal biosynthesis lyase PdxS
+1349149..1349682	-	177	161528988	-	Nmar_1480	-	-	hypothetical protein
+1349952..1350800	-	282	161528989	-	Nmar_1481	-	COG2524K	signal transduction protein
+1350892..1353156	-	754	161528990	-	Nmar_1482	-	COG1048C	aconitate hydratase
+1353303..1353932	+	209	161528991	-	Nmar_1483	-	-	hypothetical protein
+1353935..1354501	-	188	161528992	-	Nmar_1484	-	-	hypothetical protein
+1354520..1354759	-	79	161528993	-	Nmar_1485	-	COG1522K	AsnC family transcriptional regulator
+1354803..1355222	-	139	161528994	-	Nmar_1486	-	COG2947S	hypothetical protein
+1355468..1355731	+	87	161528995	-	Nmar_1487	-	-	hypothetical protein
+1355702..1357345	-	547	161528996	pheT	Nmar_1488	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+1357336..1358724	-	462	161528997	-	Nmar_1489	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+1358772..1359884	+	370	161528998	-	Nmar_1490	-	COG0180J	tryptophanyl-tRNA synthetase
+1359881..1360162	+	93	161528999	-	Nmar_1491	-	-	hypothetical protein
+1360309..1361319	-	336	161529000	-	Nmar_1492	-	-	hypothetical protein
+1361392..1361721	-	109	161529001	-	Nmar_1493	-	-	hypothetical protein
+1361774..1362250	-	158	161529002	-	Nmar_1494	-	COG1019R	cytidyltransferase-like protein
+1362284..1363348	-	354	161529003	-	Nmar_1495	-	-	hypothetical protein
+1363804..1364358	+	184	161529004	-	Nmar_1496	-	COG1225O	alkyl hydroperoxide reductase
+1364467..1365354	-	295	161529005	-	Nmar_1497	-	COG2345K	transcriptional regulator
+1365473..1365856	+	127	161529006	-	Nmar_1498	-	-	hypothetical protein
+1366322..1367164	+	280	161529007	-	Nmar_1499	-	COG0338L	DNA adenine methylase
+1367240..1367890	-	216	161529008	-	Nmar_1500	-	-	hypothetical protein
+1368025..1368387	-	120	161529009	-	Nmar_1501	-	-	hypothetical protein
+1368507..1369079	-	190	161529010	-	Nmar_1502	-	-	ammonia monooxygenase/methane monooxygenase subunit C
+1369326..1369895	+	189	161529011	-	Nmar_1503	-	-	hypothetical protein
+1369991..1370305	+	104	161529012	-	Nmar_1504	-	-	hypothetical protein
+1370346..1370864	+	172	161529013	-	Nmar_1505	-	-	hypothetical protein
+1370967..1371236	-	89	161529014	-	Nmar_1506	-	-	hypothetical protein
+1371346..1371678	-	110	161529015	-	Nmar_1507	-	-	hypothetical protein
+1371803..1372252	+	149	161529016	rps15p	Nmar_1508	-	COG0184J	30S ribosomal protein S15
+1372252..1373673	+	473	161529017	-	Nmar_1509	-	COG0608L	phosphoesterase DHHA1
+1373636..1373878	+	80	161529018	-	Nmar_1510	-	-	hypothetical protein
+1373878..1375143	+	421	161529019	-	Nmar_1511	-	COG0172J	seryl-tRNA synthetase
+1375184..1375795	+	203	161529020	-	Nmar_1512	-	COG1890J	30S ribosomal protein S3Ae
+1375822..1376247	+	141	161529021	-	Nmar_1513	-	COG1325J	hypothetical protein
+1376438..1377895	+	485	161529022	-	Nmar_1514	-	COG0644C	geranylgeranyl reductase
+1377936..1378730	+	264	161529023	-	Nmar_1515	-	COG0714R	ATPase
+1378731..1380293	+	520	161529024	-	Nmar_1516	-	COG1240H	von Willebrand factor type A
+1380359..1381903	+	514	161529025	-	Nmar_1517	-	COG0031E	pyridoxal-5'-phosphate-dependent protein subunit beta
+1381905..1382360	+	151	161529026	-	Nmar_1518	-	-	hypothetical protein
+1382425..1382988	+	187	161529027	-	Nmar_1519	-	COG2101K	TATA-box binding family protein
+1382978..1383211	+	77	161529028	-	Nmar_1520	-	-	hypothetical protein
+1383283..1383864	+	193	161529029	-	Nmar_1521	-	-	hypothetical protein
+1383857..1384567	-	236	161529030	-	Nmar_1522	-	-	hypothetical protein
+1384940..1385287	+	115	161529031	-	Nmar_1523	-	COG0347E	nitrogen regulatory protein P-II
+1385420..1385659	-	79	161529032	-	Nmar_1524	-	COG1522K	AsnC family transcriptional regulator
+1385800..1386762	-	320	161529033	-	Nmar_1525	-	COG0042J	nifR3 family TIM-barrel protein
+1386804..1388972	-	722	161529034	-	Nmar_1526	-	-	thrombospondin type 3 repeat-containing protein
+1389055..1391223	-	722	161529035	-	Nmar_1527	-	-	thrombospondin type 3 repeat-containing protein
+1391235..1393613	-	792	161529036	-	Nmar_1528	-	-	ATPase
+1393809..1394834	+	341	161529037	-	Nmar_1529	-	COG0731C	tRNA-modifying protein
+1394794..1395360	-	188	161529038	-	Nmar_1530	-	COG0127F	RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
+1395344..1395964	-	206	161529039	-	Nmar_1531	-	COG3642T	Mn2+-dependent serine/threonine protein kinase
+1396002..1396325	+	107	161529040	-	Nmar_1532	-	-	hypothetical protein
+1396322..1397305	-	327	161529041	-	Nmar_1533	-	COG0533O	metalloendopeptidase glycoprotease family
+1397307..1398503	-	398	161529042	-	Nmar_1534	-	COG0012J	translation-associated GTPase
+1398567..1399115	+	182	161529043	-	Nmar_1535	-	COG1936F	hypothetical protein
+1399135..1400658	+	507	161529044	-	Nmar_1536	-	COG0343J	tRNA-guanine transglycosylase
+1400699..1401001	-	100	161529045	-	Nmar_1537	-	COG1143C	4Fe-4S ferredoxin
+1401142..1401354	-	70	161529046	-	Nmar_1538	-	-	hypothetical protein
+1401468..1402733	+	421	161529047	-	Nmar_1539	-	COG1236J	beta-lactamase domain-containing protein
+1402714..1403577	+	287	161529048	-	Nmar_1540	-	COG0122L	HhH-GPD family protein
+1403726..1404076	+	116	161529049	-	Nmar_1541	-	-	hypothetical protein
+1404073..1404537	-	154	161529050	-	Nmar_1542	-	COG3794C	blue (type1) copper domain-containing protein
+1404590..1406185	-	531	161529051	-	Nmar_1543	-	COG1290C	cytochrome b/b6 domain-containing protein
+1406169..1406774	-	201	161529052	-	Nmar_1544	-	COG0723C	Rieske (2Fe-2S) domain-containing protein
+1406818..1410627	-	1269	161529053	-	Nmar_1545	-	COG1404O	peptidase S8/S53 subtilisin kexin sedolisin
+1410659..1411663	-	334	161529054	-	Nmar_1546	-	-	hypothetical protein
+1411775..1416979	-	1734	161529055	-	Nmar_1547	-	-	hypothetical protein
+1417196..1418527	-	443	161529056	-	Nmar_1548	-	COG0476H	UBA/THIF-type NAD/FAD binding protein
+1418527..1419741	-	404	161529057	-	Nmar_1549	-	COG0498E	threonine synthase
+1419947..1420534	+	195	161529058	-	Nmar_1550	-	-	hypothetical protein
+1420539..1420865	-	108	161529059	-	Nmar_1551	-	COG0139E	phosphoribosyl-AMP cyclohydrolase
+1420888..1421688	-	266	161529060	-	Nmar_1552	-	COG0107E	Imidazole glycerol phosphate synthase cyclase subunit
+1421678..1422388	-	236	161529061	-	Nmar_1553	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1422385..1422987	-	200	161529062	-	Nmar_1554	-	COG0118E	imidazole glycerol phosphate synthase, glutamine amidotransferase subunit
+1422987..1423574	-	195	161529063	-	Nmar_1555	-	COG0131E	imidazoleglycerol-phosphate dehydratase
+1423603..1424523	-	306	161529064	-	Nmar_1556	-	COG0546R	hydrolase
+1424527..1425597	-	356	161529065	-	Nmar_1557	-	COG0079E	class I/II aminotransferase
+1425594..1426856	-	420	161529066	-	Nmar_1558	-	COG0141E	histidinol dehydrogenase
+1426856..1427833	-	325	161529067	-	Nmar_1559	-	COG0040E	ATP phosphoribosyltransferase
+1427870..1429126	-	418	161529068	-	Nmar_1560	-	COG1257I	hydroxymethylglutaryl-CoA reductase, degradative
+1429128..1430219	-	363	161529069	-	Nmar_1561	-	COG2133G	glucose sorbosone dehydrogenase
+1430379..1431731	-	450	161529070	-	Nmar_1562	-	COG1571R	hypothetical protein
+1431790..1432785	+	331	161529071	-	Nmar_1563	-	COG0411E	diphthamide biosynthesis protein
+1432780..1433379	-	199	161529072	-	Nmar_1564	-	COG3063NU	hypothetical protein
+1433386..1434471	-	361	161529073	-	Nmar_1565	-	COG0604CR	alcohol dehydrogenase
+1434547..1435098	+	183	161529074	-	Nmar_1566	-	COG1096J	RNA-binding protein
+1435101..1435916	+	271	161529075	-	Nmar_1567	-	COG0077E	prephenate dehydratase
+1435913..1436380	-	155	161529076	-	Nmar_1568	-	-	hypothetical protein
+1436416..1437846	-	476	161529077	-	Nmar_1569	-	COG0516F	inosine-5'-monophosphate dehydrogenase
+1437892..1438737	-	281	161529078	-	Nmar_1570	-	COG0294H	dihydropteroate synthase
+1438772..1439506	+	244	161529079	-	Nmar_1571	-	COG1634R	hypothetical protein
+1439563..1440114	+	183	161529080	-	Nmar_1572	-	-	hypothetical protein
+1440119..1441642	+	507	161529081	guaA	Nmar_1573	-	COG0519F	GMP synthase
+1441652..1442008	+	118	161529082	-	Nmar_1574	-	-	hypothetical protein
+1442021..1442281	+	86	161529083	-	Nmar_1575	-	-	hypothetical protein
+1442282..1443151	-	289	161529084	-	Nmar_1576	-	COG1940KG	ROK family protein
+1443189..1444811	-	540	161529085	-	Nmar_1577	-	COG0459O	thermosome
+1444856..1446571	-	571	161529086	-	Nmar_1578	-	COG1001F	adenine deaminase
+1446690..1446971	+	93	161529087	rpl44e	Nmar_1579	-	COG1631J	50S ribosomal protein L44e
+1446968..1447165	+	65	161529088	-	Nmar_1580	-	COG2051J	30S ribosomal protein S27E
+1447148..1447732	-	194	161529089	-	Nmar_1581	-	COG2266H	5-deoxyadenosylcobinamide phosphate nucleotidyltransferase
+1447729..1448454	-	241	161529090	-	Nmar_1582	-	COG0368H	cobalamin 5'-phosphate synthase
+1448447..1449418	-	323	161529091	-	Nmar_1583	-	COG1270H	cobalamin biosynthesis protein CobD
+1449415..1450254	-	279	161529092	-	Nmar_1584	-	COG1492H	cobyrinic acid ac-diamide synthase
+1450251..1451330	-	359	161529093	-	Nmar_1585	-	COG0079E	class I/II aminotransferase
+1451414..1452490	+	358	161529094	-	Nmar_1586	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1452654..1453028	+	124	161529095	-	Nmar_1587	-	COG1522K	AsnC family transcriptional regulator
+1453031..1453960	+	309	161529096	-	Nmar_1588	-	COG0109O	protoheme IX farnesyltransferase
+1453955..1454164	-	69	161529097	-	Nmar_1589	-	-	hypothetical protein
+1454474..1454968	+	164	161529098	-	Nmar_1590	-	-	hypothetical protein
+1454981..1456726	-	581	161529099	-	Nmar_1591	-	COG3264M	hypothetical protein
+1456838..1457221	+	127	161529100	-	Nmar_1592	-	-	hypothetical protein
+1457218..1457901	+	227	161529101	-	Nmar_1593	-	-	hypothetical protein
+1457903..1458568	-	221	161529102	-	Nmar_1594	-	-	hypothetical protein
+1458608..1459021	-	137	161529103	-	Nmar_1595	-	-	hypothetical protein
+1459073..1459558	-	161	161529104	-	Nmar_1596	-	COG1607I	thioesterase superfamily protein
+1459613..1460944	-	443	161529105	-	Nmar_1597	-	COG0043H	UbiD family decarboxylase
+1460937..1461278	-	113	161529106	-	Nmar_1598	-	-	hypothetical protein
+1461296..1461742	-	148	161529107	-	Nmar_1599	-	-	hypothetical protein
+1462053..1462715	-	220	161529108	-	Nmar_1600	-	-	hypothetical protein
+1462737..1463069	-	110	161529109	-	Nmar_1601	-	-	hypothetical protein
+1463132..1463473	-	113	161529110	-	Nmar_1602	-	COG1308K	ubiquitin-associated domain-containing protein
+1463470..1463943	-	157	161529111	-	Nmar_1603	-	COG1370O	PUA domain-containing protein
+1464034..1465080	+	348	161529112	-	Nmar_1604	-	COG0704P	phosphate uptake regulator PhoU
+1465136..1466251	+	371	161529113	-	Nmar_1605	-	COG2262R	GTP1/OBG protein
+1466241..1466774	+	177	161529114	-	Nmar_1606	-	COG1303S	hypothetical protein
+1466801..1467316	+	171	161529115	-	Nmar_1607	-	COG1675K	transcription factor TFIIE subunit alpha
+1467443..1468774	+	443	161529116	-	Nmar_1608	-	COG1012C	aldehyde dehydrogenase
+1468916..1469215	-	99	161529117	-	Nmar_1609	-	-	hypothetical protein
+1469218..1469775	-	185	161529118	-	Nmar_1610	-	COG3945S	hemerythrin HHE cation binding domain-containing protein
+1469869..1470123	-	84	161529119	-	Nmar_1611	-	-	fused DNA topoisomerase I/SWI domain-containing protein
+1470160..1470816	-	218	161529120	-	Nmar_1612	-	COG1985H	deaminase-reductase domain-containing protein
+1470803..1471993	-	396	161529121	-	Nmar_1613	-	COG0402FR	amidohydrolase
+1471987..1472742	-	251	161529122	-	Nmar_1614	-	COG2429S	GTP cyclohydrolase IIA
+1472739..1473155	-	138	161529123	-	Nmar_1615	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+1473158..1473823	-	221	161529124	-	Nmar_1616	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+1473902..1474495	-	197	161529125	-	Nmar_1617	-	COG0307H	riboflavin synthase subunit alpha
+1474520..1475245	-	241	161529126	-	Nmar_1618	-	COG4783R	hypothetical protein
+1475511..1475861	-	116	161529127	-	Nmar_1619	-	COG2204T	response regulator receiver protein
+1475914..1476522	+	202	161529128	-	Nmar_1620	-	-	hypothetical protein
+1476524..1477378	-	284	161529129	-	Nmar_1621	-	COG2301G	citryl-CoA lyase
+1477386..1478462	-	358	161529130	-	Nmar_1622	-	COG0604CR	alcohol dehydrogenase
+1478505..1478786	-	93	161529131	-	Nmar_1623	-	COG2118R	DNA-binding protein
+1478794..1479246	-	150	161529132	-	Nmar_1624	-	COG2238J	30S ribosomal protein S19e
+1479729..1480397	-	222	161529133	-	Nmar_1625	-	COG1756S	ribosome biogenesis protein
+1480399..1481523	-	374	161529134	-	Nmar_1626	-	COG3693G	hypothetical protein
+1481570..1484224	-	884	161529135	-	Nmar_1627	-	COG0209F	ribonucleoside-diphosphate reductase
+1484428..1486599	-	723	161529136	-	Nmar_1628	-	COG1328F	regulatory protein ArsR
+1486737..1486910	-	57	161529137	-	Nmar_1629	-	COG0846K	hypothetical protein
+1486969..1487355	-	128	161529138	-	Nmar_1630	-	COG1545R	hypothetical protein
+1487336..1488499	-	387	161529139	-	Nmar_1631	-	COG0183I	propanoyl-CoA C-acyltransferase
+1488548..1489006	+	152	161529140	-	Nmar_1632	-	-	DNA topoisomerase type IA Zn finger domain-containing protein
+1488990..1489796	-	268	161529141	-	Nmar_1633	-	COG0388R	nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+1489962..1490138	-	58	161529142	-	Nmar_1634	-	COG1942R	4-oxalocrotonate tautomerase
+1490172..1490930	-	252	161529143	-	Nmar_1635	-	COG0705R	rhomboid family protein
+1490971..1492524	-	517	161529144	-	Nmar_1636	-	-	hypothetical protein
+1492676..1494547	-	623	161529145	-	Nmar_1637	-	COG3794C	blue (type1) copper domain-containing protein
+1494591..1496462	-	623	161529146	-	Nmar_1638	-	-	hypothetical protein
+1496471..1497802	-	443	161529147	-	Nmar_1639	-	-	hypothetical protein
+1497802..1499169	-	455	161529148	-	Nmar_1640	-	-	hypothetical protein
+1499144..1500094	-	316	161529149	-	Nmar_1641	-	COG1240H	von Willebrand factor type A
+1500095..1500967	-	290	161529150	-	Nmar_1642	-	COG1721R	hypothetical protein
+1500977..1501999	-	340	161529151	-	Nmar_1643	-	COG0714R	ATPase
+1502127..1503287	-	386	161529152	-	Nmar_1644	-	-	hypothetical protein
+1503352..1503852	-	166	161529153	-	Nmar_1645	-	COG3398S	ArsR family transcriptional regulator
+1503845..1504201	-	118	161529154	-	Nmar_1646	-	-	hypothetical protein
+1504301..1505896	-	531	161529155	-	Nmar_1647	-	-	hypothetical protein
+1506093..1507811	-	572	161529156	-	Nmar_1648	-	-	hypothetical protein
+1507916..1508743	+	275	161529157	-	Nmar_1649	-	-	hypothetical protein
+1508803..1509615	+	270	161529158	-	Nmar_1650	-	COG3794C	hypothetical protein
+1509629..1510321	-	230	161529159	-	Nmar_1651	-	-	hypothetical protein
+1510361..1513144	+	927	161529160	-	Nmar_1652	-	COG4257V	copper resistance D domain-containing protein
+1513134..1513952	-	272	161529161	-	Nmar_1653	-	COG1108P	ATP-binding domain-containing protein
+1513955..1514677	-	240	161529162	-	Nmar_1654	-	COG1121P	ABC transporter
+1514671..1515591	-	306	161529163	-	Nmar_1655	-	COG0803P	periplasmic solute binding protein
+1515683..1516066	+	127	161529164	-	Nmar_1656	-	COG0864K	CopG family transcriptional regulator
+1516198..1516479	+	93	161529165	-	Nmar_1657	-	-	hypothetical protein
+1516880..1517671	+	263	161529166	-	Nmar_1658	-	COG1651O	DSBA oxidoreductase
+1517700..1518122	-	140	161529167	-	Nmar_1659	-	COG0589T	UspA domain-containing protein
+1518432..1519400	+	322	161529168	-	Nmar_1660	-	COG4447R	glycosyl hydrolase BNR repeat-containing glycosyl hydrolase
+1519440..1519832	-	130	161529169	-	Nmar_1661	-	COG1733K	HxlR family transcriptional regulator
+1520144..1521322	-	392	161529170	-	Nmar_1662	-	COG0428P	metal cation transporter
+1521312..1522373	-	353	161529171	-	Nmar_1663	-	COG2132Q	multicopper oxidase type 3
+1522483..1522974	-	163	161529172	-	Nmar_1664	-	COG1321K	DtxR family iron dependent repressor
+1523135..1523638	-	167	161529173	-	Nmar_1665	-	COG3794C	blue (type1) copper domain-containing protein
+1523754..1524788	-	344	161529174	-	Nmar_1666	-	COG3055S	kelch repeat-containing protein
+1525130..1526542	-	470	161529175	-	Nmar_1667	-	COG2132Q	hypothetical protein
+1526745..1527371	-	208	161529176	-	Nmar_1668	-	-	hypothetical protein
+1527377..1528417	-	346	161529177	-	Nmar_1669	-	-	hypothetical protein
+1529002..1529724	+	240	161529178	-	Nmar_1670	-	COG1651O	DSBA oxidoreductase
+1530045..1531619	+	524	161529179	-	Nmar_1671	-	COG4257V	hypothetical protein
+1531738..1532256	+	172	161529180	-	Nmar_1672	-	-	hypothetical protein
+1532270..1533415	-	381	161529181	-	Nmar_1673	-	COG0265O	2-alkenal reductase
+1533567..1534310	+	247	161529182	-	Nmar_1674	-	COG3398S	transcriptional regulator TrmB
+1534532..1534915	-	127	161529183	-	Nmar_1675	-	-	hypothetical protein
+1534989..1536710	-	573	161529184	-	Nmar_1676	-	-	hypothetical protein
+1536711..1537364	-	217	161529185	-	Nmar_1677	-	-	hypothetical protein
+1537367..1538377	-	336	161529186	-	Nmar_1678	-	COG3794C	blue (type1) copper domain-containing protein
+1539601..1540227	+	208	161529187	-	Nmar_1679	-	-	hypothetical protein
+1540579..1541460	-	293	161529188	-	Nmar_1680	-	COG2510S	hypothetical protein
+1541870..1542235	+	121	161529189	-	Nmar_1681	-	COG1742S	hypothetical protein
+1542223..1542552	+	109	161529190	-	Nmar_1682	-	COG1742S	hypothetical protein
+1542607..1543926	-	439	161529191	-	Nmar_1683	-	COG1474LO	cell division control protein 6 family protein
+1543991..1545364	-	457	161529192	-	Nmar_1684	-	-	hypothetical protein
+1545383..1545979	-	198	161529193	-	Nmar_1685	-	COG2802R	hypothetical protein
+1546135..1547064	-	309	161529194	-	Nmar_1686	-	COG0540F	aspartate carbamoyltransferase
+1547106..1547567	+	153	161529195	-	Nmar_1687	-	COG1781F	aspartate carbamoyltransferase regulatory subunit
+1547603..1547911	-	102	161529196	-	Nmar_1688	-	-	H+transporting two-sector ATPase subunit C
+1548095..1548724	-	209	161529197	-	Nmar_1689	-	COG1394C	V-type ATPase subunit D
+1548729..1550114	-	461	161529198	-	Nmar_1690	-	COG1156C	V-type ATP synthase subunit B
+1550111..1551889	-	592	161529199	-	Nmar_1691	-	COG1155C	H+transporting two-sector ATPase alpha/beta subunit
+1551891..1552487	-	198	161529200	-	Nmar_1692	-	COG1390C	H+transporting two-sector ATPase E subunit
+1552577..1554676	+	699	161529201	-	Nmar_1693	-	COG1269C	V-type ATPase 116 kDa subunit
+1554694..1555470	-	258	161529202	-	Nmar_1694	-	-	hypothetical protein
+1555761..1556753	+	330	161529203	-	Nmar_1695	-	COG2203T	GAF sensor protein
+1556756..1557397	-	213	161529204	-	Nmar_1696	-	COG0778C	nitroreductase
+1557401..1558177	-	258	161529205	-	Nmar_1697	-	COG2897P	rhodanese domain-containing protein
+1558251..1559816	-	521	161529206	-	Nmar_1698	-	COG0004P	ammonium transporter
+1559945..1560610	+	221	161529207	-	Nmar_1699	-	-	hypothetical protein
+1560670..1561704	+	344	161529208	-	Nmar_1700	-	COG1527C	H(+)-transporting two-sector ATPase
+1561983..1562630	+	215	161529209	-	Nmar_1701	-	COG1468L	hypothetical protein
+1562675..1562785	-	36	161529210	-	Nmar_1702	-	-	hypothetical protein
+1562875..1563429	-	184	161529211	-	Nmar_1703	-	-	hypothetical protein
+1563501..1563851	+	116	161529212	-	Nmar_1704	-	-	hypothetical protein
+1563854..1564537	-	227	161529213	-	Nmar_1705	-	COG0528F	uridylate kinase
+1564534..1565769	-	411	161529214	-	Nmar_1706	-	COG1078R	metal dependent phosphohydrolase
+1565766..1566347	-	193	161529215	-	Nmar_1707	-	COG0125F	thymidylate kinase
+1566629..1567009	+	126	161529216	-	Nmar_1708	-	COG0071O	heat shock protein Hsp20
+1567013..1568557	-	514	161529217	-	Nmar_1709	-	COG0661R	hypothetical protein
+1568561..1568944	-	127	161529218	-	Nmar_1710	-	-	hypothetical protein
+1569248..1569589	-	113	161529219	-	Nmar_1711	-	-	hypothetical protein
+1569640..1570932	-	430	161529220	-	Nmar_1712	-	COG1361M	hypothetical protein
+1570929..1571552	-	207	161529221	-	Nmar_1713	-	COG1136V	ABC transporter
+1571629..1572816	-	395	161529222	-	Nmar_1714	-	COG4591M	hypothetical protein
+1572933..1573835	+	300	161529223	-	Nmar_1715	-	COG1522K	AsnC family transcriptional regulator
+1573861..1574376	+	171	161529224	-	Nmar_1716	-	COG0494LR	NUDIX hydrolase
+1574377..1575357	-	326	161529225	-	Nmar_1717	-	COG0704P	phosphate uptake regulator PhoU
+1575422..1576333	+	303	161529226	-	Nmar_1718	-	COG1829R	GHMP kinase
+1576344..1577108	+	254	161529227	-	Nmar_1719	-	COG1701S	hypothetical protein
+1577101..1577940	+	279	161529228	-	Nmar_1720	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1577930..1579174	+	414	161529229	-	Nmar_1721	-	COG0452H	phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase
+1579343..1580185	+	280	161529230	-	Nmar_1722	-	COG2226H	methyltransferase type 11
+1580200..1580682	+	160	161529231	-	Nmar_1723	-	-	hypothetical protein
+1580685..1581749	-	354	161529232	-	Nmar_1724	-	COG0006E	peptidase M24
+1581822..1582835	+	337	161529233	-	Nmar_1725	-	COG0482J	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+1582909..1583187	+	92	161529234	-	Nmar_1726	-	COG2450S	hypothetical protein
+1583179..1585119	-	646	161529235	-	Nmar_1727	-	COG0054H	beta-lactamase domain-containing protein
+1585127..1585759	-	210	161529236	-	Nmar_1728	-	COG0638O	proteasome endopeptidase complex protein
+1585837..1586901	+	354	161529237	-	Nmar_1729	-	COG0371C	3-dehydroquinate synthase
+1586903..1587649	-	248	161529238	-	Nmar_1730	-	COG1047O	FKBP-type peptidylprolyl isomerase
+1587692..1588837	-	381	161529239	-	Nmar_1731	-	COG0075E	serine--pyruvate transaminase
+1588879..1589373	-	164	161529240	-	Nmar_1732	-	COG1056H	cytidyltransferase-like protein
+1589437..1590453	+	338	161529241	-	Nmar_1733	-	COG0430A	RNA-3'-phosphate cyclase
+1590433..1590930	-	165	161529242	-	Nmar_1734	-	COG5615S	hypothetical protein
+1591012..1591506	+	164	161529243	-	Nmar_1735	-	-	hypothetical protein
+1591671..1592381	+	236	161529244	-	Nmar_1736	-	COG0778C	cob(II)yrinic acid a,c-diamide reductase
+1592549..1593073	+	174	161529245	-	Nmar_1737	-	COG0431R	NADPH-dependent FMN reductase
+1593432..1593893	-	153	161529246	-	Nmar_1738	-	-	hypothetical protein
+1593978..1594208	-	76	161529247	-	Nmar_1739	-	-	hypothetical protein
+1594446..1594922	+	158	161529248	-	Nmar_1740	-	COG0652O	peptidyl-prolyl isomerase
+1594923..1595819	+	298	161529249	-	Nmar_1741	-	-	hypothetical protein
+1595806..1595982	-	58	161529250	-	Nmar_1742	-	-	hypothetical protein
+1596190..1596672	-	160	161529251	-	Nmar_1743	-	-	hypothetical protein
+1596801..1597250	+	149	161529252	-	Nmar_1744	-	-	hypothetical protein
+1597262..1598155	+	297	161529253	-	Nmar_1745	-	COG0524G	ribokinase-like domain-containing protein
+1598195..1598542	+	115	161529254	-	Nmar_1746	-	COG4508S	dUTPase
+1598547..1599014	-	155	161529255	-	Nmar_1747	-	COG4063H	tetrahydromethanopterin S-methyltransferase subunit A
+1599007..1600140	-	377	161529256	-	Nmar_1748	-	COG0399M	glutamine--scyllo-inositol transaminase
+1600176..1600748	+	190	161529257	-	Nmar_1749	-	-	hypothetical protein
+1600994..1601203	-	69	161529258	-	Nmar_1750	-	-	hypothetical protein
+1601298..1602344	+	348	161529259	-	Nmar_1751	-	COG0162J	tyrosyl-tRNA synthetase
+1602341..1603135	-	264	161529260	-	Nmar_1752	-	COG1010H	precorrin-3B C(17)-methyltransferase
+1603180..1604646	-	488	161529261	-	Nmar_1753	-	-	hypothetical protein
+1604682..1606085	-	467	161529262	-	Nmar_1754	-	COG0527E	aspartate kinase
+1606121..1606867	-	248	161529263	-	Nmar_1755	-	COG0592L	proliferating cell nuclear antigen PcnA
+1606902..1607219	-	105	161529264	-	Nmar_1756	-	COG1594K	transcription termination factor Tfs
+1607221..1607499	-	92	161529265	-	Nmar_1757	-	COG1761K	hypothetical protein
+1607551..1608087	+	178	161529266	-	Nmar_1758	-	-	hypothetical protein
+1608281..1608427	+	48	161529267	-	Nmar_1759	-	-	hypothetical protein
+1608424..1608933	-	169	161529268	-	Nmar_1760	-	COG2453T	dual specificity protein phosphatase
+1608962..1609603	-	213	161529269	-	Nmar_1761	-	COG1878R	cyclase family protein
+1609679..1609936	+	85	161529270	-	Nmar_1762	-	COG1522K	AsnC family transcriptional regulator
+1609931..1611076	-	381	161529271	-	Nmar_1763	-	COG0520E	class V aminotransferase
+1611103..1611699	+	198	161529272	-	Nmar_1764	-	-	hypothetical protein
+1611819..1612118	+	99	161529273	-	Nmar_1765	-	COG1143C	4Fe-4S ferredoxin
+1612286..1614061	+	591	161529274	-	Nmar_1766	-	COG2114T	adenylate/guanylate cyclase with integral membrane sensor
+1614058..1615212	-	384	161529275	-	Nmar_1767	-	COG0484O	heat shock protein DnaJ domain-containing protein
+1615312..1615734	-	140	161529276	-	Nmar_1768	-	COG0589T	UspA domain-containing protein
+1615819..1617138	+	439	161529277	-	Nmar_1769	-	COG1113E	amino acid permease
+1617135..1617791	-	218	161529278	-	Nmar_1770	-	-	hypothetical protein
+1617863..1619308	-	481	161529279	-	Nmar_1771	-	COG0174E	type I glutamine synthetase
+1619396..1620742	-	448	161529280	-	Nmar_1772	-	COG1509E	lysine 2,3-aminomutase-like protein
+1620969..1622612	+	547	161529281	-	Nmar_1773	-	COG3264M	MscS mechanosensitive ion channel
+1622652..1623530	+	292	161529282	-	Nmar_1774	-	COG0462FE	ribose-phosphate pyrophosphokinase
+1623530..1624477	+	315	161529283	-	Nmar_1775	-	COG1041L	RNA methylase
+1624474..1625373	+	299	161529284	-	Nmar_1776	-	COG1234R	ribonuclease Z
+1625370..1626098	+	242	161529285	-	Nmar_1777	-	COG0846K	silent information regulator protein Sir2
+1626093..1626833	-	246	161529286	-	Nmar_1778	-	-	hypothetical protein
+1626908..1627312	-	134	161529287	-	Nmar_1779	-	COG1931S	hypothetical protein
+1627309..1627902	-	197	161529288	-	Nmar_1780	-	COG0237H	dephospho-CoA kinase, CoaE
+1627930..1628472	+	180	161529289	-	Nmar_1781	-	COG1514J	2'-5' RNA ligase
+1628469..1629800	+	443	161529290	-	Nmar_1782	-	COG1746J	tRNA CCA-pyrophosphorylase
+1629775..1630536	+	253	161529291	-	Nmar_1783	-	COG2112T	serine/threonine protein kinase
+1630667..1630876	+	69	161529292	-	Nmar_1784	-	-	hypothetical protein
+1630877..1632025	-	382	161529293	-	Nmar_1785	-	COG1252C	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+1632027..1632767	-	246	161529294	-	Nmar_1786	-	COG4221R	short-chain dehydrogenase/reductase SDR
+1632871..1633092	+	73	161529295	-	Nmar_1787	-	COG3582R	AN1-type Zinc finger protein
+1633089..1633373	-	94	161529296	-	Nmar_1788	-	-	hypothetical protein
+1633406..1633963	-	185	161529297	-	Nmar_1789	-	COG1711S	hypothetical protein
+1634005..1635477	+	490	161529298	-	Nmar_1790	-	COG0174E	type I glutamine synthetase
+1635474..1635752	-	92	161529299	-	Nmar_1791	-	-	hypothetical protein
+1635808..1637520	-	570	161529300	-	Nmar_1792	-	COG0459O	thermosome
+1637624..1638946	+	440	161529301	glyA	Nmar_1793	-	COG0112E	serine hydroxymethyltransferase
+1638948..1642325	-	1125	161529302	-	Nmar_1794	-	COG1933L	DNA polymerase II large subunit
+1642337..1643089	-	250	161529303	-	Nmar_1795	-	COG1646R	geranylgeranylglyceryl phosphate synthase
+1643155..1643517	+	120	161529304	-	Nmar_1796	-	-	hypothetical protein
+1643644..1644246	+	200	161529305	-	Nmar_1797	-	-	hypothetical protein
+1644373..1644534	+	53	161529306	-	Nmar_1798	-	-	AbrB family transcriptional regulator
+1644540..1644926	-	128	161529307	-	Nmar_1799	-	-	hypothetical protein

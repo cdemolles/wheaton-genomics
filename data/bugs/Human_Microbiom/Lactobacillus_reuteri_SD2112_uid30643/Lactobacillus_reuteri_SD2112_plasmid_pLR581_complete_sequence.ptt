@@ -1,0 +1,19 @@
+Lactobacillus reuteri SD2112 plasmid pLR581, complete sequence - 1..12160
+16 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+152..547	-	131	338202320	-	HMPREF0538_22255	-	-	replication protein
+586..861	-	91	338202321	-	HMPREF0538_22256	-	COG3620K	transcriptional regulator
+864..1226	-	120	338202322	-	HMPREF0538_22257	-	COG4679S	hypothetical protein
+1373..1960	-	195	338202323	-	HMPREF0538_22258	-	COG4974L	integrase
+2209..2346	+	45	338202324	-	HMPREF0538_22259	-	-	hypothetical protein
+2563..4482	-	639	338202325	tetP	HMPREF0538_22260	-	COG0480J	tetracycline resistance protein TetP
+5128..5418	-	96	338202326	-	HMPREF0538_22261	-	-	cell surface protein
+5553..5819	-	88	338202327	acr2	HMPREF0538_22262	-	COG0798P	arsenical-resistance protein
+5867..6169	-	100	338202328	arsR2	HMPREF0538_22263	-	COG0640K	arsenical resistance operon repressor
+6252..6425	-	57	338202329	arsC3	HMPREF0538_22264	-	COG0394T	arsenate reductase
+6428..6577	-	49	338202330	arsC4	HMPREF0538_22265	-	COG0394T	arsenate reductase
+6631..7695	-	354	338202331	acr3	HMPREF0538_22266	-	COG0798P	arsenical-resistance protein
+7722..8033	-	103	338202332	arsR3	HMPREF0538_22267	-	COG0640K	arsenical resistance operon repressor
+8270..8824	+	184	338202333	-	HMPREF0538_22268	-	-	transcriptional regulator
+8829..9659	-	276	338202334	-	HMPREF0538_22269	-	COG5527L	initiator RepB protein
+9906..12032	-	708	338202335	-	HMPREF0538_22270	-	-	replication protein

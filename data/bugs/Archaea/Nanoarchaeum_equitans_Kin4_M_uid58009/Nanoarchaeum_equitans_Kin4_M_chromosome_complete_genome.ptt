@@ -1,0 +1,543 @@
+Nanoarchaeum equitans Kin4-M chromosome, complete genome - 1..490885
+540 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+883..2691	+	602	41614798	-	NEQ003	-	COG1201R	hypothetical protein
+2668..3189	-	173	41614799	-	NEQ002	-	COG1047O	hypothetical protein
+3290..3748	-	152	41614800	-	NEQ004	-	COG1371S	hypothetical protein
+3745..4665	-	306	41614801	-	NEQ005	-	COG2419S	hypothetical protein
+4680..5090	+	136	41614802	-	NEQ007	-	COG0350L	hypothetical protein
+5028..5582	-	184	41614803	-	NEQ006	-	-	hypothetical protein
+5759..7000	+	413	41614804	-	NEQ008	-	COG0621J	hypothetical protein
+7105..7401	-	98	41614805	-	NEQ009	-	-	hypothetical protein
+7398..8423	-	341	41614806	-	NEQ010	-	-	hypothetical protein
+8399..8728	-	109	41614807	-	NEQ011	-	COG2033C	hypothetical protein
+8775..9815	+	346	41614808	-	NEQ012	-	COG0438M	hypothetical protein
+9793..10833	+	346	41614809	-	NEQ013	-	COG0535R	hypothetical protein
+11037..11984	-	315	41614810	-	NEQ014	-	COG1275P	hypothetical protein
+12031..13089	+	352	41614811	-	NEQ015	-	COG1351F	hypothetical protein
+14872..15147	-	91	41614812	-	NEQ016	-	COG1343L	hypothetical protein
+15157..16158	+	333	41614813	-	NEQ017	-	COG1518L	hypothetical protein
+16354..17631	+	425	41614814	-	NEQ018	-	-	hypothetical protein
+17628..18596	+	322	41614815	-	NEQ019	-	COG1857L	hypothetical protein
+18593..19297	+	234	41614816	-	NEQ020	-	-	hypothetical protein
+19294..21561	+	755	41614817	-	NEQ022	-	COG1203R	hypothetical protein
+21555..22061	-	168	41614818	-	NEQ021	-	COG1468L	hypothetical protein
+22304..23197	+	297	41614819	-	NEQ023	-	COG0612R	hypothetical protein
+23219..24316	+	365	41614820	-	NEQ024	-	COG0446R	hypothetical protein
+24345..25118	+	257	41614821	-	NEQ025	-	COG1208MJ	hypothetical protein
+25199..25507	+	102	41614822	-	NEQ026	-	-	hypothetical protein
+25482..26426	+	314	41614823	-	NEQ028	-	-	hypothetical protein
+26403..27497	-	364	41614824	-	NEQ027	-	-	hypothetical protein
+27544..28059	-	171	41614825	-	NEQ029	-	-	hypothetical protein
+28056..28691	-	211	41614826	-	NEQ030	-	-	hypothetical protein
+28722..29234	-	170	41614827	-	NEQ031	-	COG0415L	putative RNA-processing protein
+29432..30583	+	383	41614828	-	NEQ032	-	-	hypothetical protein
+30576..32363	+	595	41614829	-	NEQ033	-	-	hypothetical protein
+32363..32998	+	211	41614830	-	NEQ034	-	-	hypothetical protein
+33020..34420	+	466	41614831	-	NEQ035	-	-	hypothetical protein
+34449..34733	+	94	41614832	-	NEQ036	-	-	hypothetical protein
+34755..35015	+	86	41614833	rpl37ae	NEQ038	-	COG1997J	50S ribosomal protein L37Ae
+34999..35199	-	66	41614834	-	NEQ037	-	COG1958K	hypothetical protein
+35478..36131	+	217	41614835	-	NEQ039	-	COG2101K	transcription factor
+36124..36771	+	215	41614836	-	NEQ041	-	-	hypothetical protein
+36739..37566	-	275	41614837	-	NEQ040	-	-	hypothetical protein
+37563..39014	-	483	41614838	-	NEQ042	-	COG2317E	hypothetical protein
+39040..39294	-	84	41614839	-	NEQ043	-	COG4830J	hypothetical protein
+39323..39916	-	197	41614840	-	NEQ044	-	COG3642T	hypothetical protein
+39873..41099	-	408	41614841	-	NEQ045	-	COG0550L	hypothetical protein
+41032..41406	-	124	41614842	-	NEQ046	-	-	hypothetical protein
+41393..42061	+	222	41614843	-	NEQ047	-	COG0476H	hypothetical protein
+42006..42803	+	265	41614844	-	NEQ048	-	-	hypothetical protein
+42814..44436	+	540	41614845	-	NEQ050	-	-	hypothetical protein
+44420..45112	-	230	41614846	-	NEQ049	-	COG1244R	hypothetical protein
+45112..45753	-	213	41614847	-	NEQ051	-	COG1018C	hypothetical protein
+45858..46934	+	358	41614848	-	NEQ052	-	COG1503J	peptide chain release factor 1
+46948..48291	-	447	41614849	-	NEQ053	-	COG2265J	hypothetical protein
+48404..48814	-	136	41614850	-	NEQ054	-	-	hypothetical protein
+48853..50226	+	457	41614851	-	NEQ055	-	COG0215J	hypothetical protein
+50213..51247	+	344	41614852	-	NEQ057	-	COG1474LO	hypothetical protein
+51234..51779	-	181	41614853	-	NEQ056	-	-	hypothetical protein
+51760..52191	-	143	41614854	rps12P	NEQ058	-	COG0048J	30S ribosomal protein S12P
+52238..54031	+	597	41614855	-	NEQ059	-	COG1855R	ATPase
+54182..54736	+	184	41614856	-	NEQ060	-	-	hypothetical protein
+55825..56691	+	288	41614857	-	NEQ061	-	-	hypothetical protein
+56818..58431	-	537	41614858	-	NEQ062	-	-	hypothetical protein
+58428..59030	-	200	41614859	-	NEQ063	-	COG0164L	hypothetical protein
+59011..59961	-	316	41614860	-	NEQ064	-	COG1234R	hypothetical protein
+59997..60233	+	78	41614861	-	NEQ065	-	COG0089J	hypothetical protein
+60445..61065	-	206	41614862	-	NEQ066	-	-	hypothetical protein
+61050..61805	-	251	41614863	-	NEQ067	-	COG2248R	hypothetical protein
+61786..63816	-	676	41614864	-	NEQ068	-	COG0417L	hypothetical protein
+63752..64144	-	130	41614865	rps11p	NEQ069	-	COG0100J	30S ribosomal protein S11P
+64202..64999	+	265	41614866	-	NEQ070	-	-	hypothetical protein
+64996..65676	+	226	41614867	-	NEQ072	-	-	hypothetical protein
+65668..66171	-	167	41614868	-	NEQ071	-	COG2112T	hypothetical protein
+66140..66709	-	189	41614869	-	NEQ073	-	-	hypothetical protein
+66875..67453	-	192	41614870	-	NEQ074	-	COG0396O	hypothetical protein
+67483..68070	-	195	41614871	rpl18p	NEQ075	-	COG0256J	50S ribosomal protein L18P
+68064..69971	+	635	41614872	-	NEQ076	-	COG0054H	hypothetical protein
+69993..71207	+	404	41614873	-	NEQ077	-	COG0334E	hypothetical protein
+71224..72033	+	269	41614874	-	NEQ077a	-	COG0648L	hypothetical protein
+72158..73591	+	477	41614875	-	NEQ078	-	COG1690S	hypothetical protein
+73896..74843	+	315	41614876	-	NEQ079	-	-	hypothetical protein
+74944..76152	+	402	41614877	-	NEQ080	-	-	hypothetical protein
+76183..76785	+	200	41614878	-	NEQ081	-	-	hypothetical protein
+76817..78118	+	433	41614879	-	NEQ082	-	COG5256J	elongation factor 1-alpha
+78118..78447	+	109	41614880	rps10p	NEQ083	-	COG0051J	30S ribosomal protein S10P
+78469..79527	+	352	41614881	-	NEQ084	-	-	hypothetical protein
+79524..80051	+	175	41614882	-	NEQ085	-	-	hypothetical protein
+80035..81528	+	497	41614883	-	NEQ086	-	-	hypothetical protein
+81536..82555	+	339	41614884	-	NEQ088	-	COG0258L	flap endonuclease-1
+82536..84323	-	595	41614885	-	NEQ087	-	COG1384J	hypothetical protein
+84323..85018	-	231	41614886	-	NEQ089	-	-	hypothetical protein
+85021..86202	-	393	41614887	-	NEQ090	-	-	hypothetical protein
+86186..87040	-	284	41614888	rplP0	NEQ091	-	COG0244J	acidic ribosomal protein P0
+87069..87470	-	133	41614889	rpl14p	NEQ092	-	COG0093J	50S ribosomal protein L14P
+87733..88353	+	206	41614890	-	NEQ094	-	-	hypothetical protein
+88346..88855	-	169	41614891	rpl5p	NEQ093	-	COG0094J	50S ribosomal protein L5P
+88887..89444	+	185	41614892	-	NEQ095	-	-	hypothetical protein
+89466..90296	+	276	41614893	-	NEQ096	-	COG1444R	hypothetical protein
+90266..90919	+	217	41614894	-	NEQ097	-	COG1525L	hypothetical protein
+90946..91776	-	276	41614895	-	NEQ098	-	COG1378K	hypothetical protein
+91875..92651	+	258	41614896	-	NEQ099	-	-	hypothetical protein
+92624..93595	+	323	41614897	-	NEQ100	-	-	hypothetical protein
+93702..94184	+	160	41614898	-	NEQ101	-	COG0080J	50S ribosomal protein L11
+94177..95889	+	570	41614899	-	NEQ103	-	COG1155C	V-type ATP synthase subunit A
+95849..97063	-	404	41614900	hisS	NEQ102	-	COG0124J	histidyl-tRNA synthetase
+97060..98040	-	326	41614901	-	NEQ104	-	-	hypothetical protein
+98037..98417	-	126	41614902	-	NEQ105	-	COG2125J	30S ribosomal protein S6e
+98707..99819	+	370	41614903	-	NEQ107	-	-	hypothetical protein
+99803..100720	+	305	41614904	-	NEQ109	-	COG1537R	hypothetical protein
+100695..101753	-	352	41614905	-	NEQ108	-	COG1867J	N(2),N(2)-dimethylguanosine tRNA methyltransferase
+101750..103012	-	420	41614906	-	NEQ110	-	COG1750R	hypothetical protein
+103009..103665	-	218	41614907	-	NEQ111	-	COG2123J	exosome complex RNA-binding protein Rrp42
+103692..104675	-	327	41614908	-	NEQ112	-	COG1163R	hypothetical protein
+104665..105105	-	146	41614909	-	NEQ113	-	COG1325J	hypothetical protein
+105115..106176	-	353	41614910	-	NEQ114	-	COG1078R	hypothetical protein
+106158..107291	-	377	41614911	-	NEQ115	-	COG0180J	tryptophanyl-tRNA synthetase
+107320..107637	+	105	41614912	-	NEQ116	-	-	hypothetical protein
+107634..108647	+	337	41614913	-	NEQ118	-	COG0608L	hypothetical protein
+108613..109071	-	152	41614914	-	NEQ117	-	COG1936F	hypothetical protein
+109068..109802	-	244	41614915	-	NEQ119	-	COG0455D	hypothetical protein
+109843..110610	-	255	41614916	-	NEQ120	-	-	hypothetical protein
+110671..111036	+	121	41614917	-	NEQ121	-	-	hypothetical protein
+111540..112301	-	253	41614919	-	NEQ122	-	COG1234R	hypothetical protein
+112319..113563	-	414	41614920	-	NEQ124	-	COG0343J	hypothetical protein
+113656..114354	+	232	41614921	-	NEQ125	-	COG1889J	fibrillarin
+114348..115526	+	392	41614922	-	NEQ126	-	COG0252EJ	glutamyl-tRNA(Gln) amidotransferase subunit D
+115523..115906	+	127	41614923	-	NEQ126a	-	COG1833S	hypothetical protein
+115826..117727	-	633	41614924	-	NEQ127	-	COG2192O	hypothetical protein
+117758..118801	-	347	41614925	-	NEQ128	-	COG1524R	hypothetical protein
+118934..119263	+	109	41614926	-	NEQ130	-	COG0361J	translation initiation factor IF-1A
+119242..120135	-	297	41614927	-	NEQ129	-	COG0719O	hypothetical protein
+120161..120718	+	185	41614928	-	NEQ131	-	COG2178J	haloacid dehalogenase superfamily protein
+120868..121935	+	355	41614929	-	NEQ133	-	COG0206D	cell division protein FtsZ
+121928..122527	-	199	41614930	-	NEQ132	-	-	hypothetical protein
+122482..123342	-	286	41614931	-	NEQ134	-	-	hypothetical protein
+123318..124844	-	508	41614932	-	NEQ135	-	-	hypothetical protein
+124805..125575	-	256	41614933	-	NEQ136	-	-	hypothetical protein
+125554..127263	-	569	41614934	-	NEQ137	-	-	hypothetical protein
+127297..128406	+	369	41614935	-	NEQ139	-	-	hypothetical protein
+128285..128998	-	237	41614936	-	NEQ138	-	-	hypothetical protein
+128980..129858	-	292	41614937	-	NEQ140	-	-	hypothetical protein
+129888..131510	-	540	41614938	-	NEQ141	-	COG0459O	hypothetical protein
+131657..133360	+	567	41614939	-	NEQ144	-	COG1389L	DNA topoisomerase VI subunit B
+133334..133780	-	148	41614940	-	NEQ143	-	COG1813K	hypothetical protein
+133827..134633	+	268	41614941	rpl4lp	NEQ146	-	COG0088J	50S ribosomal protein L4P
+134598..135251	-	217	41614942	-	NEQ145	-	-	hypothetical protein
+135374..135775	-	133	41614943	-	NEQ147	-	COG0432S	hypothetical protein
+135711..137045	-	444	41614944	-	NEQ148	-	COG1032C	hypothetical protein
+137072..137365	+	97	41614945	-	NEQ150	-	-	hypothetical protein
+137352..137894	-	180	41614946	-	NEQ149	-	COG2019F	hypothetical protein
+137891..138193	-	100	41614947	-	NEQ151	-	-	hypothetical protein
+138302..139480	-	392	41614948	-	NEQ152	-	COG1746J	tRNA CCA-pyrophosphorylase
+139480..139761	-	93	41614949	-	NEQ153	-	-	hypothetical protein
+139792..140172	-	126	41614950	-	NEQ154	-	-	hypothetical protein
+140260..143145	-	961	41614951	-	NEQ155	-	-	hypothetical protein
+143109..144920	-	603	41614952	-	NEQ156	-	COG0085K	DNA-directed RNA polymerase subunit B'
+144973..145932	-	319	41614953	-	NEQ157	-	COG1084R	hypothetical protein
+146043..146624	+	193	41614954	-	NEQ158	-	COG2411S	hypothetical protein
+146728..147267	-	179	41614955	-	NEQ159	-	COG1881R	hypothetical protein
+147299..148270	+	323	41614956	-	NEQ160	-	-	hypothetical protein
+148267..149250	+	327	41614957	-	NEQ162	-	COG0628R	hypothetical protein
+149202..149369	-	55	41614958	-	NEQ161	-	-	hypothetical protein
+149411..149716	-	101	41614959	-	NEQ163	-	-	hypothetical protein
+149706..150581	-	291	41614960	-	NEQ164	-	-	hypothetical protein
+150796..151422	-	208	41614961	-	NEQ165	-	COG2263J	hypothetical protein
+151349..151945	-	198	41614962	-	NEQ166	-	COG1394C	hypothetical protein
+152110..153540	+	476	41614963	-	NEQ168	-	COG0201U	preprotein translocase subunit SecY
+153568..154536	+	322	41614964	rfc	NEQ170	-	COG0470L	replication factor C small subunit
+154526..156382	-	618	41614965	-	NEQ169	-	COG0630NU	hypothetical protein
+156422..157489	-	355	41614966	-	NEQ171	-	-	hypothetical protein
+157465..158379	-	304	41614967	-	NEQ172	-	COG1215M	hypothetical protein
+158308..159789	+	493	41614968	-	NEQ173	-	COG0085K	DNA-directed RNA polymerase subunit beta''
+159773..160918	+	381	41614969	-	NEQ175	-	COG4591M	hypothetical protein
+160915..161685	-	256	41614970	-	NEQ174	-	COG0467T	hypothetical protein
+161733..161918	+	61	41614971	-	NEQ176	-	COG1998J	hypothetical protein
+162031..163932	-	633	41614972	-	NEQ177	-	COG0441J	threonyl-tRNA synthetase
+164310..164654	+	114	41614973	-	NEQ178	-	COG2163J	50S ribosomal protein L14e
+164686..164946	+	86	41614974	-	NEQ179	-	COG1911J	hypothetical protein
+164948..165358	+	136	41614975	-	NEQ180	-	COG0195K	hypothetical protein
+165355..165645	+	96	41614976	-	NEQ182	-	COG1761K	hypothetical protein
+165635..166207	-	190	41614977	-	NEQ181	-	COG1632J	50S ribosomal protein L15e
+166244..166570	+	108	41614978	-	NEQ183	-	COG1631J	hypothetical protein
+166567..167163	+	198	41614979	-	NEQ184	-	COG1097J	exosome complex RNA-binding protein Rrp4
+167163..168512	+	449	41614980	gatB	NEQ185	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+168505..169614	+	369	41614981	-	NEQ186	-	COG1222O	proteasome-activating nucleotidase
+169614..169934	+	106	41614982	-	NEQ188	-	-	hypothetical protein
+169924..170403	-	159	161511236	-	NEQ187	-	COG2238J	30S ribosomal protein S19e
+170432..171328	+	298	41614984	-	NEQ190	-	COG0115EH	hypothetical protein
+171319..172383	-	354	41614985	-	NEQ189	-	COG1253R	hypothetical protein
+172477..173145	+	222	41614986	-	NEQ191	-	COG0450O	hypothetical protein
+173193..173603	+	136	41614987	-	NEQ193	-	-	hypothetical protein
+173587..175362	-	591	41614988	-	NEQ192	-	COG0077E	hypothetical protein
+175392..176558	+	388	41614989	-	NEQ195	-	COG0438M	hypothetical protein
+176545..176901	-	118	41614990	-	NEQ194	-	-	hypothetical protein
+176888..177193	+	101	41614991	-	NEQ196	-	-	hypothetical protein
+177181..177591	+	136	41614992	-	NEQ197	-	-	hypothetical protein
+177596..178609	+	337	41614993	-	NEQ198	-	COG3264M	hypothetical protein
+179657..180388	-	243	41614994	-	NEQ199	-	COG1200LK	hypothetical protein
+180381..180923	-	180	41614995	-	NEQ200	-	-	hypothetical protein
+180895..181203	-	102	41614996	rpl12p	NEQ201	-	COG2058J	50S ribosomal protein L12P
+181267..181791	+	174	41614997	rpl22p	NEQ204	-	COG0091J	50S ribosomal protein L22P
+181768..182358	-	196	41614998	-	NEQ203	-	COG0638O	hypothetical protein
+182387..182851	-	154	41614999	-	NEQ205	-	COG1676J	hypothetical protein
+182848..183060	-	70	298205310	-	NEQ652	-	COG1758K	DNA-directed RNA polymerase subunit K
+183094..183522	+	142	41615000	-	NEQ206	-	COG0098J	hypothetical protein
+183522..185135	+	537	41615001	-	NEQ208	-	COG0018J	hypothetical protein
+185128..185616	-	162	41615002	-	NEQ207	-	COG0102J	50S ribosomal protein L13
+185634..187769	-	711	41615003	-	NEQ209	-	-	hypothetical protein
+187790..189403	-	537	41615004	-	NEQ210	-	COG0442J	prolyl-tRNA synthetase
+189419..189835	+	138	41615005	-	NEQ212	-	COG1439R	hypothetical protein
+189807..191306	-	499	41615006	-	NEQ211	-	COG0013J	hypothetical protein
+191290..191856	-	188	41615007	-	NEQ213	-	COG0537FGR	hypothetical protein
+192128..193333	-	401	41615008	-	NEQ214	-	-	hypothetical protein
+193335..194009	-	224	41615009	-	NEQ215	-	-	hypothetical protein
+193996..194268	-	90	41615010	-	NEQ216	-	-	hypothetical protein
+194261..194470	-	69	41615011	-	NEQ217	-	-	hypothetical protein
+194492..194992	-	166	41615012	-	NEQ218	-	-	hypothetical protein
+194992..195189	-	65	41615013	rps27e	NEQ219	-	COG2051J	30S ribosomal protein S27e
+195257..195502	+	81	41615014	-	NEQ220	-	COG2092J	hypothetical protein
+195532..195828	+	98	41615015	-	NEQ221	-	-	hypothetical protein
+195858..197864	+	668	41615016	-	NEQ222	-	-	hypothetical protein
+197875..198699	-	274	41615017	-	NEQ223	-	COG0010E	hypothetical protein
+198788..199201	+	137	41615018	-	NEQ224	-	-	hypothetical protein
+199209..199997	+	262	41615019	-	NEQ225	-	-	hypothetical protein
+199994..200884	+	296	41615020	-	NEQ226	-	COG0411E	hypothetical protein
+200909..201118	+	69	41615021	-	NEQ227	-	COG0199J	hypothetical protein
+201106..201522	+	138	41615022	-	NEQ229	-	COG1522K	hypothetical protein
+201510..202403	-	297	41615023	-	NEQ228	-	COG2520R	hypothetical protein
+202400..205450	-	1016	41615024	-	NEQ230	-	COG0060J	hypothetical protein
+205498..205695	+	65	41615025	-	NEQ231	-	COG2093K	hypothetical protein
+205695..206219	+	174	41615026	-	NEQ233	-	-	hypothetical protein
+206206..207111	-	301	41615027	-	NEQ232	-	COG1721R	hypothetical protein
+207108..208010	-	300	41615028	-	NEQ234	-	COG0714R	hypothetical protein
+207979..208752	+	257	41615029	-	NEQ235	-	COG1499J	hypothetical protein
+208820..209830	+	336	41615030	-	NEQ236	-	-	hypothetical protein
+209835..210422	+	195	41615031	-	NEQ237	-	-	hypothetical protein
+210409..210936	+	175	41615032	-	NEQ238	-	COG2890J	hypothetical protein
+210954..213887	+	977	41615033	leuS	NEQ239	-	COG0495J	leucyl-tRNA synthetase
+213933..215513	+	526	41615034	-	NEQ240	-	COG1311L	DNA polymerase II small subunit
+215545..216123	+	192	41615035	-	NEQ241	-	COG0097J	hypothetical protein
+216154..216750	+	198	41615036	-	NEQ242	-	COG0049J	30S ribosomal protein S7P
+216750..217412	+	220	41615037	-	NEQ243	-	-	hypothetical protein
+217416..218228	+	270	41615038	-	NEQ245	-	COG2511J	glutamyl-tRNA(Gln) amidotransferase subunit E
+218214..218561	-	115	41615039	-	NEQ244	-	COG1990S	peptidyl-tRNA hydrolase
+218546..219196	-	216	41615040	-	NEQ246	-	-	hypothetical protein
+219180..219722	-	180	41615041	rps4p	NEQ247	-	COG0522J	30S ribosomal protein S4P
+219770..220471	+	233	41615042	-	NEQ248	-	COG0689J	exosome complex exonuclease Rrp41
+220568..221104	-	178	41615043	-	NEQ249	-	-	hypothetical protein
+221225..221737	-	170	41615044	-	NEQ250	-	-	hypothetical protein
+221873..224128	+	751	41615045	valS	NEQ252	-	COG0525J	valyl-tRNA synthetase
+224014..225156	+	380	41615046	-	NEQ254	-	-	hypothetical protein
+225113..225577	-	154	41615047	-	NEQ253	-	-	hypothetical protein
+225745..228105	+	786	41615048	-	NEQ256	-	COG0419L	hypothetical protein
+228095..228643	-	182	41615049	-	NEQ255	-	-	hypothetical protein
+228597..229019	-	140	41615050	rpl24p	NEQ257	-	COG0198J	50S ribosomal protein L24P
+229048..229305	-	85	41615051	-	NEQ258	-	COG1873S	hypothetical protein
+229561..231621	+	686	41615052	-	NEQ259	-	-	hypothetical protein
+231618..232079	+	153	41615053	-	NEQ261	-	-	hypothetical protein
+232046..232435	-	129	41615054	-	NEQ260	-	-	hypothetical protein
+232468..232659	+	63	41615055	-	NEQ262	-	-	hypothetical protein
+232649..232966	+	105	41615056	-	NEQ264	-	COG0023J	hypothetical protein
+232923..234173	-	416	41615057	-	NEQ263	-	COG1156C	hypothetical protein
+234473..241066	-	2197	41615058	-	NEQ265	-	-	hypothetical protein
+241105..241692	-	195	41615059	-	NEQ266	-	-	hypothetical protein
+241689..242729	-	346	41615060	-	NEQ267	-	COG2064NU	hypothetical protein
+242726..243607	-	293	41615061	-	NEQ268	-	COG1955NU	hypothetical protein
+243650..244840	-	396	41615062	-	NEQ270	-	COG5257J	translation initiation factor IF-2 subunit gamma
+244855..245958	-	367	41615063	-	NEQ271	-	-	hypothetical protein
+246109..246651	+	180	41615064	-	NEQ273	-	-	hypothetical protein
+246651..247775	+	374	41615065	-	NEQ275	-	-	hypothetical protein
+247769..248158	-	129	41615066	rps8p	NEQ274	-	COG0096J	30S ribosomal protein S8P
+248284..249231	+	315	41615067	-	NEQ276	-	COG1405K	hypothetical protein
+249393..249770	-	125	41615068	-	NEQ277	-	COG2450S	hypothetical protein
+249775..250635	-	286	41615069	-	NEQ278	-	-	hypothetical protein
+250706..251200	+	164	41615070	-	NEQ279	-	-	hypothetical protein
+251228..252655	+	475	41615071	-	NEQ281	-	COG1750R	hypothetical protein
+252634..253332	-	232	41615072	-	NEQ280	-	-	hypothetical protein
+253475..255448	-	657	41615073	-	NEQ282	-	COG1241L	hypothetical protein
+255499..256305	+	268	41615074	-	NEQ283	-	COG0037D	hypothetical protein
+256280..256792	+	170	41615075	-	NEQ284	-	-	hypothetical protein
+256760..256966	-	68	298205311	-	NEQ650	-	COG2260J	H/ACA RNA-protein complex component Nop10p
+256970..258790	-	606	41615076	-	NEQ285	-	-	hypothetical protein
+260106..260354	+	82	41615077	-	NEQ288	-	COG2036B	hypothetical protein
+260680..260988	+	102	41615078	-	NEQ290	-	-	hypothetical protein
+260968..261327	-	119	41615079	-	NEQ289	-	-	hypothetical protein
+261339..265511	-	1390	41615080	-	NEQ291	-	-	hypothetical protein
+265508..265672	-	54	41615081	-	NEQ292	-	-	hypothetical protein
+265757..266881	-	374	41615082	-	NEQ293	-	COG0585S	hypothetical protein
+267116..268246	-	376	41615083	-	NEQ294	-	COG0018J	hypothetical protein
+268243..269115	-	290	41615084	-	NEQ295	-	COG0144J	hypothetical protein
+269150..269401	+	83	41615085	-	NEQ297	-	COG2174J	hypothetical protein
+269367..269825	-	152	41615086	-	NEQ296	-	-	hypothetical protein
+269818..270507	-	229	41615087	-	NEQ298	-	-	hypothetical protein
+270507..272231	-	574	41615088	-	NEQ299	-	COG1245R	putative ATPase RIL
+272316..275141	+	941	41615089	-	NEQ300	-	-	hypothetical protein
+275146..275553	-	135	41615090	-	NEQ301	-	-	hypothetical protein
+275497..277185	+	562	41615091	gltX	NEQ302	-	COG0008J	glutamyl-tRNA synthetase
+277214..277471	+	85	41615092	-	NEQ303	-	COG2451J	50S ribosomal protein L35Ae
+277468..277665	+	65	41615093	-	NEQ304	-	-	hypothetical protein
+277847..278290	+	147	41615094	-	NEQ305	-	COG1370O	hypothetical protein
+278262..278930	+	222	41615095	-	NEQ306	-	COG1028IQR	hypothetical protein
+279045..279572	-	175	41615096	-	NEQ307	-	COG0105F	nucleoside diphosphate kinase
+279649..280062	+	137	41615097	-	NEQ309	-	-	hypothetical protein
+280044..281498	-	484	41615098	-	NEQ308	-	COG0172J	seryl-tRNA synthetase
+281526..281954	+	142	41615099	-	NEQ310	-	COG3270S	hypothetical protein
+281951..282436	+	161	41615100	-	NEQ312	-	-	hypothetical protein
+282422..282889	-	155	41615101	rpl30p	NEQ311	-	COG1841J	50S ribosomal protein L30P
+283002..283250	+	82	41615102	-	NEQ314	-	COG1873S	hypothetical protein
+283245..283646	-	133	41615103	-	NEQ313	-	COG1412R	hypothetical protein
+283658..284254	+	198	41615104	-	NEQ316	-	COG0717F	hypothetical protein
+284247..285017	-	256	41615105	-	NEQ315	-	COG0616OU	hypothetical protein
+285014..285430	-	138	41615106	-	NEQ317	-	COG0200J	hypothetical protein
+285479..287584	+	701	41615107	-	NEQ318	-	COG1110L	hypothetical protein
+287613..287990	+	125	41615108	rpl7ae	NEQ319	-	COG1358J	50S ribosomal protein L7Ae
+287987..288427	+	146	41615109	-	NEQ321	-	COG1779R	hypothetical protein
+288404..288622	-	72	41615110	-	NEQ320	-	COG1383J	hypothetical protein
+288671..288898	+	75	41615111	-	NEQ322	-	-	hypothetical protein
+288899..289417	+	172	41615112	-	NEQ324	-	COG0550L	hypothetical protein
+289368..289787	-	139	41615113	-	NEQ323	-	COG1601J	translation initiation factor IF-2 subunit beta
+289796..290425	-	209	41615114	-	NEQ325	-	COG1590S	hypothetical protein
+290465..290806	+	113	41615115	rps17p	NEQ326	-	COG0186J	30S ribosomal protein S17P
+290803..291039	+	78	41615116	-	NEQ328	-	COG1522K	hypothetical protein
+291022..291501	-	159	41615117	-	NEQ327	-	-	hypothetical protein
+291473..291970	-	165	41615118	-	NEQ329	-	COG0717F	hypothetical protein
+291967..292908	-	313	41615119	-	NEQ330	-	-	hypothetical protein
+293211..293480	+	89	41615120	-	NEQ331	-	-	hypothetical protein
+293477..294319	+	280	41615121	-	NEQ332	-	-	hypothetical protein
+294337..294855	+	172	41615122	-	NEQ334	-	COG1491J	hypothetical protein
+294842..295471	-	209	41615123	-	NEQ333	-	COG0101J	hypothetical protein
+295458..296003	-	181	41615124	-	NEQ335	-	-	hypothetical protein
+295994..296818	-	274	41615125	-	NEQ336	-	-	hypothetical protein
+296866..297063	+	65	41615126	-	NEQ338	-	COG1644K	DNA-directed RNA polymerase subunit N
+297050..297631	-	193	41615127	-	NEQ337	-	COG2519J	hypothetical protein
+297703..297867	+	54	298205312	-	NEQ655	-	COG2075J	50S ribosomal protein L24E
+297849..298418	+	189	41615128	-	NEQ340	-	COG0546R	hypothetical protein
+298392..298865	-	157	41615129	-	NEQ339	-	-	hypothetical protein
+298862..299977	-	371	41615130	-	NEQ341	-	COG0358L	DNA primase
+299999..301024	-	341	41615131	-	NEQ342	-	COG1498J	hypothetical protein
+301096..301506	+	136	41615132	-	NEQ344	-	COG0071O	hypothetical protein
+301496..302014	-	172	41615133	-	NEQ343	-	-	hypothetical protein
+302044..303954	-	636	41615134	-	NEQ345	-	COG1328F	anaerobic ribonucleoside triphosphate reductase
+304993..305229	-	78	41615136	-	NEQ346	-	COG2157J	hypothetical protein
+305259..306059	-	266	41615137	-	NEQ347	-	COG1355R	hypothetical protein
+306082..306309	-	75	41615138	-	NEQ348	-	COG2036B	hypothetical protein
+306335..308137	-	600	41615139	-	NEQ349	-	COG1067O	ATP-dependent protease Lon
+308163..308474	-	103	41615140	-	NEQ350	-	COG2151R	hypothetical protein
+308722..308931	+	69	41615141	-	NEQ351	-	COG2522R	hypothetical protein
+309033..309662	+	209	41615142	-	NEQ352	-	COG1967S	hypothetical protein
+309789..311573	+	594	41615143	-	NEQ353	-	-	hypothetical protein
+311574..311819	-	81	41615144	-	NEQ354	-	-	hypothetical protein
+311847..312266	+	139	41615145	-	NEQ356	-	-	hypothetical protein
+312259..312537	-	92	41615146	-	NEQ355	-	COG3357K	hypothetical protein
+312526..313245	+	239	41615147	-	NEQ358	-	COG1407R	hypothetical protein
+313232..313666	-	144	41615148	-	NEQ357	-	-	hypothetical protein
+313666..313932	-	88	41615149	rps28e	NEQ359	-	COG2053J	30S ribosomal protein S28e
+313982..314698	+	238	41615150	rpl2p	NEQ361	-	COG0090J	50S ribosomal protein L2P
+314673..315971	-	432	41615151	-	NEQ360	-	COG0154J	hypothetical protein
+316076..316846	+	256	41615152	-	NEQ362	-	-	hypothetical protein
+316877..317149	+	90	41615153	-	NEQ363	-	COG1581K	DNA/RNA-binding protein albA
+317151..317390	-	79	41615154	-	NEQ364	-	COG2097J	hypothetical protein
+317694..318866	-	390	41615155	-	NEQ365	-	-	hypothetical protein
+318940..319626	-	228	41615156	-	NEQ366	-	COG1161R	hypothetical protein
+319619..320206	-	195	41615157	-	NEQ367	-	COG1056H	hypothetical protein
+320437..321318	+	293	41615158	-	NEQ368	-	COG0648L	hypothetical protein
+321315..322937	+	540	41615159	-	NEQ369	-	COG1111L	hypothetical protein
+323064..323609	-	181	41615160	-	NEQ370	-	COG1095K	DNA-directed RNA polymerase subunit E'
+323644..324240	+	198	41615161	-	NEQ372	-	COG1573L	hypothetical protein
+324233..325015	-	260	41615162	-	NEQ371	-	-	hypothetical protein
+325116..325343	-	75	41615163	-	NEQ373	-	COG1141C	hypothetical protein
+325602..326285	+	227	41615164	-	NEQ375	-	COG1890J	30S ribosomal protein S3Ae
+326282..326446	+	54	298205313	-	NEQ656	-	COG2443U	preprotein translocase subunit SecE
+326455..326982	+	175	41615165	-	NEQ376	-	-	hypothetical protein
+327013..327333	+	106	41615166	-	NEQ377	-	COG1594K	hypothetical protein
+328225..328872	-	215	41615167	-	NEQ378	-	COG2220R	hypothetical protein
+328987..329430	+	147	41615168	rpl19e	NEQ379	-	COG2147J	50S ribosomal protein L19e
+329427..330944	+	505	41615169	-	NEQ380	-	-	hypothetical protein
+330966..331703	+	245	41615170	-	NEQ381	-	COG1180O	hypothetical protein
+331796..332881	+	361	41615171	-	NEQ383	-	COG0420L	hypothetical protein
+332847..333908	-	353	41615172	-	NEQ382	-	COG0731C	tRNA-modifying enzyme
+333862..334560	+	232	41615173	-	NEQ384	-	COG0565J	hypothetical protein
+334635..334991	+	118	41615174	-	NEQ386	-	COG1433S	hypothetical protein
+334965..335330	-	121	41615175	-	NEQ385	-	COG1730O	hypothetical protein
+335454..337457	+	667	41615176	-	NEQ387	-	COG1111L	Hef nuclease
+337497..338192	-	231	41615177	rps5p	NEQ388	-	COG0098J	30S ribosomal protein S5P
+338223..339353	-	376	41615178	-	NEQ389	-	COG0162J	tyrosyl-tRNA synthetase
+339701..340183	+	160	41615179	-	NEQ392	-	-	hypothetical protein
+340103..343141	-	1012	41615180	-	NEQ391	-	-	hypothetical protein
+343170..343613	-	147	41615181	-	NEQ393	-	COG0231J	translation initiation factor IF-5A
+343651..344637	+	328	41615182	-	NEQ396	-	COG2511J	hypothetical protein
+344626..345807	-	393	41615183	-	NEQ395	-	COG3285L	hypothetical protein
+345800..346312	-	170	41615184	-	NEQ397	-	COG2139J	50S ribosomal protein L21e
+346125..346763	+	212	41615185	-	NEQ398	-	COG0177L	hypothetical protein
+346764..347618	+	284	41615186	-	NEQ399	-	COG0024J	methionine aminopeptidase
+347640..347777	+	45	298205314	-	NEQ654	-	COG1996K	DNA-directed RNA polymerase subunit P
+347905..348897	+	330	41615187	-	NEQ401	-	COG0714R	hypothetical protein
+349065..349715	+	216	41615188	-	NEQ403	-	COG2425R	hypothetical protein
+349712..350635	-	307	41615189	-	NEQ402	-	COG1899O	putative deoxyhypusine synthase
+350635..353787	-	1050	41615190	-	NEQ404	-	-	hypothetical protein
+353756..354517	-	253	41615191	-	NEQ405	-	COG1093J	translation initiation factor IF-2 subunit alpha
+354514..355404	-	296	41615192	-	NEQ406	-	COG0574G	hypothetical protein
+355436..355912	+	158	41615193	-	NEQ408	-	-	hypothetical protein
+355903..356505	-	200	41615194	-	NEQ407	-	-	hypothetical protein
+356596..357378	-	260	41615195	-	NEQ409	-	COG1201R	hypothetical protein
+357366..358754	-	462	41615196	-	NEQ410	-	COG1269C	hypothetical protein
+359117..359446	+	109	41615197	-	NEQ411	-	COG1460S	hypothetical protein
+359467..360798	-	443	41615198	-	NEQ412	-	COG0260E	hypothetical protein
+360845..361135	+	96	41615199	-	NEQ413	-	-	hypothetical protein
+361132..361713	+	193	41615200	-	NEQ415	-	-	hypothetical protein
+361698..362396	-	232	41615201	-	NEQ414	-	COG1750R	hypothetical protein
+362393..362731	-	112	41615202	-	NEQ416	-	-	hypothetical protein
+362782..364320	-	512	41615203	-	NEQ417	-	COG0423J	glycyl-tRNA synthetase
+364338..365603	-	421	41615204	-	NEQ418	-	-	hypothetical protein
+365708..369439	+	1243	41615205	-	NEQ420	-	COG1933L	DNA polymerase II large subunit
+369426..369965	-	179	41615206	-	NEQ419	-	COG1711S	hypothetical protein
+370202..370894	+	230	41615207	-	NEQ421	-	COG1136V	hypothetical protein
+370891..371544	+	217	41615208	-	NEQ422	-	COG1798J	diphthine synthase
+371519..371896	+	125	41615209	-	NEQ424	-	COG1591L	hypothetical protein
+371886..373187	-	433	41615210	-	NEQ423	-	COG0301H	hypothetical protein
+373177..375321	-	714	41615211	-	NEQ425	-	COG0630NU	hypothetical protein
+375398..376375	-	325	41615212	radA	NEQ426	-	COG0468L	DNA repair and recombination protein RadA
+376397..377521	-	374	41615213	-	NEQ427	-	COG0086K	DNA-directed RNA polymerase subunit A''
+377727..378041	-	104	41615214	-	NEQ428	-	COG1534J	hypothetical protein
+378010..378465	-	151	41615215	-	NEQ429	-	-	hypothetical protein
+378494..379786	+	430	41615216	-	NEQ430	-	COG0470L	replication factor C large subunit
+380753..381718	+	321	41615218	rpl3p	NEQ433	-	COG0087J	50S ribosomal protein L3P
+381715..382305	-	196	41615219	-	NEQ432	-	-	hypothetical protein
+382482..384209	-	575	41615220	-	NEQ434	-	COG1110L	hypothetical protein
+384271..384993	-	240	41615221	-	NEQ435	-	COG2433S	hypothetical protein
+384998..386395	-	465	41615222	-	NEQ436	-	COG0342U	hypothetical protein
+386392..387147	-	251	41615223	-	NEQ437	-	COG0341U	preprotein translocase subunit SecF
+387180..388178	+	332	41615224	-	NEQ438	-	COG1293K	hypothetical protein
+388175..389062	+	295	41615225	-	NEQ440	-	COG1041L	hypothetical protein
+389084..391411	+	775	41615226	-	NEQ442	-	-	hypothetical protein
+391408..391950	-	180	41615227	-	NEQ441	-	COG2078S	hypothetical protein
+391916..392485	-	189	41615228	-	NEQ443	-	-	hypothetical protein
+392551..393300	+	249	41615229	-	NEQ444	-	-	hypothetical protein
+393310..393882	+	190	41615230	-	NEQ445	-	-	hypothetical protein
+397016..397426	+	136	41615231	rps9p	NEQ446	-	COG0103J	30S ribosomal protein S9P
+397402..397779	+	125	41615232	-	NEQ448	-	-	hypothetical protein
+397739..398209	-	156	41615233	-	NEQ447	-	-	hypothetical protein
+398172..398666	-	164	41615234	-	NEQ449	-	-	hypothetical protein
+398719..399279	-	186	41615235	rpl10e	NEQ450	-	COG0197J	50S ribosomal protein L10e
+399328..399840	+	170	41615236	-	NEQ451	-	COG1913R	hypothetical protein
+399847..400530	+	227	41615237	-	NEQ452	-	COG0202K	hypothetical protein
+400523..401254	+	243	41615238	-	NEQ453	-	COG1719R	hypothetical protein
+401263..402309	-	348	41615239	-	NEQ454	-	COG0130J	H/ACA RNA-protein complex component Cbf5p
+402648..403460	+	270	41615240	-	NEQ455	-	COG1784S	hypothetical protein
+403546..405876	+	776	41615241	-	NEQ457	-	COG0143J	hypothetical protein
+405851..406591	-	246	41615242	-	NEQ456	-	COG0084L	hypothetical protein
+406638..407576	+	312	41615243	-	NEQ458	-	-	hypothetical protein
+407680..408399	-	239	41615244	-	NEQ459	-	COG3634O	hypothetical protein
+408446..409198	+	250	41615245	-	NEQ460	-	COG1718TD	hypothetical protein
+409289..409771	-	160	41615246	-	NEQ461	-	COG0221C	hypothetical protein
+409864..411900	+	678	41615247	-	NEQ462	-	-	hypothetical protein
+411930..412772	+	280	41615248	-	NEQ464	-	COG0478T	hypothetical protein
+412751..413944	-	397	41615249	-	NEQ463	-	COG0012J	translation-associated GTPase
+413981..415315	+	444	41615250	-	NEQ466	-	COG0595R	hypothetical protein
+415317..415778	-	153	41615251	rps13p	NEQ467	-	COG0099J	30S ribosomal protein S13P
+415810..417006	-	398	41615252	-	NEQ468	-	-	hypothetical protein
+417163..417546	+	127	41615253	-	NEQ469	-	COG2007J	30S ribosomal protein S8e
+417669..418091	-	140	41615254	-	NEQ470	-	-	hypothetical protein
+418063..418539	-	158	41615255	-	NEQ471	-	-	hypothetical protein
+418526..419146	-	206	41615256	-	NEQ472	-	COG2129R	hypothetical protein
+419350..420414	+	354	41615257	-	NEQ473	-	COG0206D	cell division protein FtsZ
+420494..422974	+	826	41615258	-	NEQ475	-	COG0464O	hypothetical protein
+422962..423477	-	171	41615259	-	NEQ474	-	-	hypothetical protein
+423464..424315	-	283	41615260	-	NEQ476	-	-	hypothetical protein
+424350..424703	-	117	41615261	-	NEQ477	-	-	hypothetical protein
+424693..425397	-	234	41615262	-	NEQ478	-	COG1471J	30S ribosomal protein S4e
+425420..426943	-	507	41615263	pheT	NEQ479	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+426979..427401	+	140	41615264	rps19p	NEQ480	-	COG0185J	30S ribosomal protein S19P
+427595..428305	-	236	41615265	-	NEQ481	-	COG0092J	hypothetical protein
+428382..428801	+	139	41615266	-	NEQ482	-	COG1675K	hypothetical protein
+428798..429103	+	101	41615267	-	NEQ483	-	-	hypothetical protein
+429155..429667	+	170	41615268	-	NEQ485	-	-	hypothetical protein
+429662..430123	-	153	41615269	-	NEQ484	-	-	hypothetical protein
+430123..431049	-	308	41615270	-	NEQ486	-	COG0530P	hypothetical protein
+431024..431488	-	154	41615271	rps15p	NEQ487	-	COG0184J	30S ribosomal protein S15P
+431520..431876	-	118	41615272	-	NEQ489	-	COG1727J	50S ribosomal protein L18e
+431924..432085	+	53	298205315	-	NEQ653	-	COG2888J	putative Zn-ribbon RNA-binding protein
+434260..435666	+	468	41615273	-	NEQ490	-	-	hypothetical protein
+435677..436618	+	313	41615274	-	NEQ491	-	COG0492O	hypothetical protein
+436704..437393	-	229	41615275	-	NEQ492	-	-	hypothetical protein
+437443..438387	-	314	41615276	-	NEQ493	-	COG0533O	hypothetical protein
+438384..439433	-	349	41615277	-	NEQ494	-	COG1180O	hypothetical protein
+439439..440923	-	494	41615278	-	NEQ495	-	COG1444R	hypothetical protein
+440955..442679	+	574	41615279	-	NEQ498	-	COG0532J	translation initiation factor IF-2
+442676..443179	-	167	41615280	-	NEQ497	-	-	hypothetical protein
+443207..443608	+	133	41615281	-	NEQ499	-	-	hypothetical protein
+443677..444747	+	356	41615282	-	NEQ500	-	-	hypothetical protein
+444866..445384	+	172	41615283	-	NEQ502	-	COG1514J	hypothetical protein
+445365..445850	-	161	41615284	-	NEQ501	-	COG0598P	hypothetical protein
+446123..447190	+	355	41615285	-	NEQ504	-	-	hypothetical protein
+447177..449789	-	870	41615286	-	NEQ503	-	COG0086K	DNA-directed RNA polymerase subunit A'
+449825..450592	+	255	41615287	-	NEQ506	-	COG1293K	hypothetical protein
+450579..452030	-	483	41615288	pheS	NEQ505	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+452080..452268	+	62	298205316	-	NEQ651	-	-	50S ribosomal protein L40E
+452270..452545	-	91	41615289	rpoH	NEQ507	-	COG2012K	DNA-directed RNA polymerase subunit H
+452542..453147	-	201	41615290	rps2P	NEQ508	-	COG0052J	30S ribosomal protein S2
+453195..454898	+	567	41615291	-	NEQ509	-	COG1793L	hypothetical protein
+455194..455634	-	146	41615292	-	NEQ510	-	-	hypothetical protein
+455624..456742	-	372	41615293	-	NEQ511	-	COG0624E	succinyl-diaminopimelate desuccinylase
+456757..457806	-	349	41615294	-	NEQ512	-	COG0433R	hypothetical protein
+457803..458057	-	84	41615295	-	NEQ513	-	-	hypothetical protein
+458069..458731	-	220	41615296	-	NEQ514	-	-	hypothetical protein
+458738..459388	+	216	41615297	-	NEQ515	-	COG4047S	N-glycosylase/DNA lyase
+459410..459661	+	83	41615298	-	NEQ516	-	-	hypothetical protein
+459721..460506	+	261	41615299	-	NEQ518	-	-	hypothetical protein
+460503..461129	-	208	41615300	-	NEQ517	-	COG1976J	translation initiation factor IF-6
+461181..461570	+	129	41615301	-	NEQ519	-	COG0537FGR	hypothetical protein
+461563..461751	+	62	41615302	-	NEQ520	-	-	hypothetical protein
+461845..462597	-	250	41615303	-	NEQ521	-	COG0638O	proteasome subunit alpha
+462603..463577	+	324	41615304	-	NEQ523	-	COG0037D	hypothetical protein
+463542..464642	-	366	41615305	-	NEQ522	-	COG0116L	hypothetical protein
+464677..465735	+	352	41615306	-	NEQ525	-	COG0175EH	hypothetical protein
+465721..466401	-	226	41615307	-	NEQ524	-	COG1500J	putative RNA-associated protein
+466382..467119	-	245	41615308	-	NEQ526	-	COG1549J	hypothetical protein
+467116..468585	-	489	41615309	-	NEQ527	-	COG0433R	hypothetical protein
+468614..469375	+	253	41615310	-	NEQ528	-	COG0417L	hypothetical protein
+469372..469773	+	133	41615311	-	NEQ529	-	-	hypothetical protein
+469788..470759	+	323	41615312	-	NEQ531	-	COG0668M	hypothetical protein
+470737..471144	-	135	41615313	rpl32e	NEQ530	-	COG1717J	50S ribosomal protein L32e
+471450..471731	+	93	41615314	-	NEQ532	-	-	hypothetical protein
+471728..472072	+	114	41615315	-	NEQ533	-	-	hypothetical protein
+472505..472948	+	147	41615316	-	NEQ534	-	COG1318K	hypothetical protein
+472991..474205	+	404	41615317	-	NEQ535	-	COG0017J	hypothetical protein
+474202..475200	+	332	41615318	-	NEQ536	-	COG0144J	hypothetical protein
+475197..476060	+	287	41615319	-	NEQ538	-	COG0123BQ	hypothetical protein
+476047..476811	-	254	41615320	-	NEQ537	-	COG0592L	hypothetical protein
+476929..477558	-	209	41615321	-	NEQ539	-	-	hypothetical protein
+477562..478089	+	175	41615322	nusG	NEQ540	-	COG0250K	transcription antitermination protein NusG
+478090..478401	+	103	41615323	-	NEQ541	-	-	hypothetical protein
+478433..480664	+	743	41615324	-	NEQ543	-	COG0480J	elongation factor EF-2
+480661..481740	-	359	41615325	-	NEQ542	-	COG1697L	DNA topoisomerase VI subunit A
+481777..482430	+	217	41615326	-	NEQ545	-	-	hypothetical protein
+482420..483379	-	319	41615327	-	NEQ544	-	-	hypothetical protein
+483418..484059	+	213	41615328	rpl1P	NEQ546	-	COG0081J	50S ribosomal protein L1P
+484082..484366	+	94	41615329	-	NEQ548	-	COG2004J	hypothetical protein
+484358..485503	-	381	41615330	-	NEQ547	-	COG0013J	hypothetical protein
+485496..486299	-	267	41615331	-	NEQ549	-	COG1468L	hypothetical protein
+486423..486962	-	179	41615332	-	NEQ550	-	-	hypothetical protein
+490883..879	-	293	41614797	-	NEQ001	-	COG1583L	hypothetical protein

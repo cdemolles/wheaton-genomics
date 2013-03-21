@@ -1,0 +1,115 @@
+Escherichia coli SE11 plasmid pSE11-2, complete sequence - 1..91158
+112 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..765	+	254	209916830	-	ECSE_P2-0001	-	COG3121NU	putative fimbrial chaperone
+795..3302	+	835	209916831	-	ECSE_P2-0002	-	COG3188NU	putative fimbrial usher protein
+3434..3913	+	159	209916832	-	ECSE_P2-0003	-	-	putative fimbrial protein
+3941..4420	+	159	209916833	-	ECSE_P2-0004	-	-	putative fimbrial protein
+4518..4970	+	150	209916834	-	ECSE_P2-0005	-	-	putative fimbrial protein
+5101..5691	-	196	209916835	-	ECSE_P2-0006	-	-	hypothetical protein
+5691..5948	-	85	209916836	-	ECSE_P2-0008	-	-	hypothetical protein
+5924..6070	+	48	209916837	-	ECSE_P2-0007	-	-	hypothetical protein
+6051..6221	+	56	209916838	-	ECSE_P2-0009	-	-	hypothetical protein
+6543..6761	+	72	209916839	-	ECSE_P2-0010	-	COG5302R	plasmid maintenance protein CcdA
+6736..7068	+	110	209916840	-	ECSE_P2-0011	-	-	plasmid maintenance protein CcdB
+7069..7875	+	268	209916841	-	ECSE_P2-0012	-	COG4974L	resolvase
+8562..9320	-	252	209916842	-	ECSE_P2-0013	-	COG5527L	replication protein RepB
+9914..11119	+	401	209916843	-	ECSE_P2-0014	-	COG1192D	partitioning protein ParA
+11116..12087	+	323	209916844	-	ECSE_P2-0015	-	COG1475K	partitioning protein ParB
+12224..13345	-	373	209916845	-	ECSE_P2-0016	-	COG0389L	truncated UV protection protein ImpB
+13432..14430	+	332	209916846	-	ECSE_P2-0017	-	COG4974L	phage integrase
+14388..15338	+	316	209916847	-	ECSE_P2-0018	-	-	hypothetical protein
+15319..16638	+	439	209916848	-	ECSE_P2-0019	-	-	phage integrase
+17216..18070	-	284	209916849	-	ECSE_P2-0020	-	COG2378K	hypothetical protein
+18205..19386	+	393	209916850	-	ECSE_P2-0021	-	COG2333R	hypothetical protein
+19383..21611	+	742	209916851	-	ECSE_P2-0022	-	COG0476H	hypothetical protein
+21629..21784	-	51	209916852	-	ECSE_P2-0023	-	COG0389L	truncated UV protection protein ImpB
+21784..22221	-	145	209916853	-	ECSE_P2-0024	-	COG1974KT	UV protection protein ImpA
+22815..23786	+	323	209916854	-	ECSE_P2-0025	-	-	hypothetical protein
+23783..24094	+	103	209916855	-	ECSE_P2-0026	-	-	hypothetical protein
+24170..24853	+	227	209916856	-	ECSE_P2-0027	-	COG0863L	putative methylase
+24854..25075	+	73	209916857	-	ECSE_P2-0028	-	-	hypothetical protein
+25089..25523	+	144	209916858	-	ECSE_P2-0029	-	-	hypothetical protein
+25569..26345	+	258	209916859	-	ECSE_P2-0030	-	-	hypothetical protein
+26760..27185	+	141	209916860	-	ECSE_P2-0031	-	-	hypothetical protein
+27232..27654	+	140	209916861	-	ECSE_P2-0032	-	-	hypothetical protein
+27651..27842	+	63	209916862	-	ECSE_P2-0033	-	-	hypothetical protein
+27856..27993	+	45	209916863	-	ECSE_P2-0034	-	-	hypothetical protein
+28107..28373	-	88	209916864	-	ECSE_P2-0035	-	-	hypothetical protein
+28896..29147	-	83	209916865	-	ECSE_P2-0036	-	-	hypothetical protein
+29151..30512	+	453	209916866	-	ECSE_P2-0037	-	-	hypothetical protein
+30560..31123	+	187	209916867	-	ECSE_P2-0038	-	COG2226H	hypothetical protein
+31123..31347	+	74	209916868	-	ECSE_P2-0039	-	-	hypothetical protein
+31362..31613	+	83	209916869	-	ECSE_P2-0040	-	-	hypothetical protein
+31989..32528	+	179	209916870	-	ECSE_P2-0041	-	COG0629L	single-stranded DNA-binding protein
+32539..32823	+	94	209916871	-	ECSE_P2-0042	-	-	hypothetical protein
+32889..34853	+	654	209916872	-	ECSE_P2-0043	-	COG1475K	hypothetical protein
+34922..35356	+	144	209916873	psiB	ECSE_P2-0044	-	-	plasmid SOS inhibition protein B
+35353..36072	+	239	209916874	-	ECSE_P2-0045	-	-	plasmid SOS inhibition protein A
+36036..36383	+	115	209916875	-	ECSE_P2-0046	-	-	hypothetical protein
+36627..36755	-	42	209916876	-	ECSE_P2-0047	-	-	hypothetical protein
+36845..37009	+	54	209916877	-	ECSE_P2-0048	-	-	hypothetical protein
+36990..37349	-	119	209916878	-	ECSE_P2-0049	-	-	hypothetical protein
+37649..37945	+	98	209916879	-	ECSE_P2-0050	-	-	hypothetical protein
+38051..38872	+	273	209916880	-	ECSE_P2-0051	-	-	hypothetical protein
+38995..39144	+	49	209916881	-	ECSE_P2-0052	-	-	hypothetical protein
+39151..39603	-	150	209916882	-	ECSE_P2-0053	-	COG0741M	hypothetical protein
+39916..40152	-	78	209916883	-	ECSE_P2-0055	-	-	hypothetical protein
+40137..40511	+	124	209916884	-	ECSE_P2-0054	-	-	conjugal transfer protein TraM
+41158..41406	+	82	209916885	-	ECSE_P2-0056	-	-	hypothetical protein
+41490..41696	+	68	209916886	-	ECSE_P2-0057	-	-	hypothetical protein
+41997..42368	+	123	209916887	-	ECSE_P2-0058	-	-	putative TraA protein
+42387..42686	+	99	209916888	-	ECSE_P2-0059	-	-	conjugal transfer pilus assembly protein TraL
+42701..43279	+	192	209916889	-	ECSE_P2-0060	-	-	conjugal transfer pilus assembly protein TraE
+43254..44033	+	259	209916890	-	ECSE_P2-0061	-	-	conjugal transfer protein TraK
+44026..45372	+	448	209916891	-	ECSE_P2-0062	-	-	conjugal transfer pilus assembly protein TraB
+45369..45902	+	177	209916892	-	ECSE_P2-0063	-	-	conjugal transfer protein TraV
+45932..48538	+	868	209916893	-	ECSE_P2-0064	-	COG3451U	conjugal transfer ATP-binding protein TraC
+48517..48933	+	138	209916894	-	ECSE_P2-0065	-	-	TrbI protein
+48936..49160	+	74	209916895	-	ECSE_P2-0066	-	COG1734T	TraR protein
+49166..49774	+	202	209916896	-	ECSE_P2-0067	-	-	TraW protein
+49771..50769	+	332	209916897	-	ECSE_P2-0068	-	-	conjugal transfer pilus assembly protein TraU
+50766..51263	+	165	209916898	-	ECSE_P2-0069	-	-	hypothetical protein
+51690..51998	+	102	209916899	-	ECSE_P2-0070	-	-	conjugal transfer protein TrbD
+52166..52771	+	201	209916900	-	ECSE_P2-0071	-	-	TrbC protein
+52768..54702	+	644	209916901	-	ECSE_P2-0072	-	-	conjugal transfer mating pair stabilization protein TraN
+54716..55489	+	257	209916902	-	ECSE_P2-0073	-	-	TraF protein
+55486..55779	+	97	209916903	-	ECSE_P2-0074	-	-	hypothetical protein
+55781..56356	+	191	209916904	-	ECSE_P2-0075	-	-	conjugal transfer protein TrbB
+56808..58214	+	468	209916905	-	ECSE_P2-0076	-	-	conjugal transfer pilus assembly protein TraH
+58214..61102	+	962	209916906	-	ECSE_P2-0077	-	-	conjugal transfer mating pair stabilization protein TraG
+61077..61766	+	229	209916907	-	ECSE_P2-0078	-	-	hypothetical protein
+61838..62575	+	245	209916908	-	ECSE_P2-0079	-	-	TraT protein
+62705..63397	+	230	209916909	-	ECSE_P2-0080	-	-	hypothetical protein
+63404..63907	+	167	209916910	-	ECSE_P2-0081	-	-	hypothetical protein
+63948..66134	+	728	209916911	-	ECSE_P2-0082	-	COG3505U	TraD protein
+66134..71350	+	1738	209916912	-	ECSE_P2-0083	-	COG0507L	TraI protein
+71350..72102	+	250	209916913	-	ECSE_P2-0084	-	-	TraX protein
+72176..72733	+	185	209916914	-	ECSE_P2-0085	-	COG3109T	conjugal transfer fertility inhibition protein FinO
+72873..73085	+	70	209916915	-	ECSE_P2-0086	-	-	hypothetical protein
+73499..74068	+	189	209916916	-	ECSE_P2-0087	-	-	hypothetical protein
+74489..74611	+	40	209916917	-	ECSE_P2-0088	-	-	hypothetical protein
+74781..75041	+	86	209916918	-	ECSE_P2-0089	-	-	replication protein
+75145..75333	+	62	209916919	-	ECSE_P2-0090	-	-	hypothetical protein
+75334..76368	+	344	209916920	-	ECSE_P2-0091	-	-	replication initiation protein
+77277..77546	+	89	209916921	-	ECSE_P2-0092	-	COG3905K	hypothetical protein
+77543..77857	+	104	209916922	-	ECSE_P2-0093	-	COG3668R	hypothetical protein
+78001..78126	+	41	209916923	-	ECSE_P2-0094	-	-	hypothetical protein
+78269..78562	+	97	209916924	-	ECSE_P2-0095	-	-	hypothetical protein
+78744..78917	-	57	209916925	-	ECSE_P2-0096	-	-	hypothetical protein
+79283..79498	-	71	209916926	-	ECSE_P2-0097	-	-	truncated transposase
+79437..80144	-	235	209916927	-	ECSE_P2-0098	-	COG3547L	truncated transposase
+80727..82478	+	583	209916928	-	ECSE_P2-0099	-	COG1120PH	hypothetical protein
+82680..82886	-	68	209916929	-	ECSE_P2-0100	-	-	hypothetical protein
+82879..83352	-	157	209916930	-	ECSE_P2-0101	-	-	hypothetical protein
+83641..84042	-	133	209916931	-	ECSE_P2-0102	-	COG4644L	truncated transposase
+84023..85540	-	505	209916932	-	ECSE_P2-0103	-	COG4644L	truncated transposase
+85614..85964	-	116	209916933	-	ECSE_P2-0104	-	-	truncated transposase
+86251..86655	+	134	209916934	-	ECSE_P2-0105	-	COG5485R	hypothetical protein
+86675..87628	+	317	209916935	-	ECSE_P2-0106	-	COG4977K	putative transcriptional regulator
+87699..88475	+	258	209916936	-	ECSE_P2-0107	-	COG2220R	hypothetical protein
+88689..88994	+	101	209916937	-	ECSE_P2-0108	-	COG4644L	truncated transposase
+89352..89618	+	88	209916938	-	ECSE_P2-0109	-	-	hypothetical protein
+89666..89989	+	107	209916939	-	ECSE_P2-0110	-	-	hypothetical protein
+90546..90722	+	58	209916940	-	ECSE_P2-0111	-	-	hypothetical protein
+90800..91129	+	109	209916941	-	ECSE_P2-0112	-	COG3188NU	hypothetical protein

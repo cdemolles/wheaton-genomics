@@ -1,0 +1,2206 @@
+Spirochaeta thermophila DSM 6192 chromosome, complete genome - 1..2472645
+2203 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+101..1459	+	452	307717718	dnaA	STHERM_c00010	-	COG0593L	chromosomal replication initiator protein DnaA
+1652..2755	+	367	307717719	dnaN	STHERM_c00020	-	COG0592L	DNA polymerase III subunit beta
+2760..3851	+	363	307717720	recF	STHERM_c00030	-	COG1195L	DNA replication and repair protein RecF
+3835..4284	+	149	307717721	-	STHERM_c00040	-	-	hypothetical protein
+4369..5607	+	412	307717722	-	STHERM_c00050	-	COG3328L	transposase for insertion sequence element ISRM5
+5710..5865	+	51	307717723	rpmH	STHERM_c00060	-	-	50S ribosomal protein L34
+6129..6410	+	93	307717724	-	STHERM_c00070	-	COG0759S	hypothetical protein
+6429..8150	+	573	307717725	-	STHERM_c00080	-	COG0706U	hypothetical protein
+8162..8830	+	222	307717726	-	STHERM_c00090	-	COG1847R	hypothetical protein
+8843..9229	+	128	307717727	-	STHERM_c00100	-	COG0509E	glycine cleavage system H protein
+9266..10591	+	441	307717728	ugdH	STHERM_c00110	-	COG1004M	UDP-glucose 6-dehydrogenase
+10588..12003	+	471	307717729	ahcY	STHERM_c00120	-	COG0499H	adenosylhomocysteinase
+12030..13196	+	388	307717730	metK	STHERM_c00130	-	COG0192H	S-adenosylmethionine synthetase
+13238..13825	+	195	307717731	-	STHERM_c00140	-	COG1434S	hypothetical protein
+13840..15441	+	533	307717732	-	STHERM_c00150	-	-	hypothetical protein
+15305..16453	+	382	307717733	-	STHERM_c00160	-	COG0784T	transcriptional regulatory protein
+16471..17730	+	419	307717734	-	STHERM_c00170	-	COG0019E	hypothetical protein
+17830..18870	+	346	307717735	-	STHERM_c00180	-	COG3706T	hypothetical protein
+18910..19470	+	186	307717736	-	STHERM_c00190	-	COG1259S	hypothetical protein
+19490..21109	+	539	307717737	-	STHERM_c00200	-	COG0366G	hypothetical protein
+21100..22749	-	549	307717738	nadE	STHERM_c00210	-	COG0171H	glutamine-dependent NAD(+) synthetase
+22788..23402	+	204	307717739	-	STHERM_c00220	-	-	hypothetical protein
+23411..24634	+	407	307717740	-	STHERM_c00230	-	COG1301C	transporter
+24625..25248	-	207	307717741	-	STHERM_c00240	-	-	hypothetical protein
+25268..26701	-	477	307717742	proS1	STHERM_c00250	-	COG0442J	prolyl-tRNA synthetase
+26787..27470	-	227	307717743	-	STHERM_c00260	-	COG5497S	hypothetical protein
+27555..28349	+	264	307717744	-	STHERM_c00270	-	-	hypothetical protein
+28346..28948	-	200	307717745	-	STHERM_c00280	-	COG0170I	phosphatidate cytidylyltransferase
+29112..30212	-	366	307717746	pfkA3	STHERM_c00290	-	COG0205G	6-phosphofructokinase
+30209..31432	-	407	307717747	-	STHERM_c00300	-	COG3437KT	GAF domain/HD domain-containing protein
+31476..32852	-	458	307717748	-	STHERM_c00310	-	-	Na+/glutamate symporter-like protein
+32849..34030	-	393	307717749	-	STHERM_c00320	-	COG0204I	hypothetical protein
+34027..34503	-	158	307717750	-	STHERM_c00330	-	COG0716C	hypothetical protein
+34577..35971	+	464	307717751	-	STHERM_c00340	-	COG0438M	hypothetical protein
+35959..36933	-	324	307717752	lgt	STHERM_c00350	-	COG0682M	prolipoprotein diacylglyceryl transferase
+36957..39923	-	988	307717753	-	STHERM_c00360	-	COG1315L	polymerase most proteins contain PALM domain HD hydrolase domain and Zn-ribbon domain
+39932..41086	-	384	307717754	fleN1	STHERM_c00370	-	COG0455D	flagellar synthesis regulator FleN
+41068..41490	-	140	307717755	-	STHERM_c00380	-	-	hypothetical protein
+41601..43010	+	469	307717756	ctp	STHERM_c00390	-	COG0793M	carboxy-terminal-processing protease precursor
+43011..43406	+	131	307717757	-	STHERM_c00400	-	COG0432S	automatic annotation
+43431..44207	+	258	307717758	-	STHERM_c00410	-	COG1922M	WecB/TagA/CpsF family glycosyl transferase
+44200..45336	+	378	307717759	-	STHERM_c00420	-	COG2204T	transcriptional regulatory protein
+45337..45798	-	153	307717760	-	STHERM_c00430	-	-	hypothetical protein
+45838..46593	+	251	307717761	-	STHERM_c00440	-	COG1028IQR	hypothetical protein
+46682..47233	+	183	307717762	-	STHERM_c00450	-	COG1366T	anti-anti-sigma factor
+47245..47940	+	231	307717763	-	STHERM_c00460	-	COG1842KT	phage shock protein A-like protein
+48077..48562	+	161	307717764	-	STHERM_c00470	-	COG0745TK	hypothetical protein
+48559..49548	+	329	307717765	-	STHERM_c00480	-	-	hypothetical protein
+49542..51224	+	560	307717766	-	STHERM_c00490	-	-	hypothetical protein
+51258..52310	+	350	307717767	capI	STHERM_c00500	-	COG0451MG	protein CapI
+52311..53585	-	424	307717768	-	STHERM_c00510	-	COG0766M	hypothetical protein
+53597..54640	-	347	307717769	-	STHERM_c00520	-	-	hypothetical protein
+54729..56111	+	460	307717770	thrA	STHERM_c00530	-	COG0527E	aspartate kinase
+56120..57427	+	435	307717771	thrC	STHERM_c00540	-	COG0498E	threonine synthase
+57429..58511	-	360	307717772	-	STHERM_c00550	-	-	hypothetical protein
+58527..60311	-	594	307717773	-	STHERM_c00560	-	COG1044M	hypothetical protein
+60383..60823	+	146	307717774	-	STHERM_c00570	-	-	hypothetical protein
+60869..61690	+	273	307717775	-	STHERM_c00580	-	-	hypothetical protein
+61680..62345	+	221	307717776	-	STHERM_c00590	-	-	hypothetical protein
+62455..62766	+	103	307717777	-	STHERM_c00600	-	-	hypothetical protein
+62750..65638	+	962	307717778	-	STHERM_c00610	-	-	hypothetical protein
+65590..70695	+	1701	307717779	-	STHERM_c00620	-	COG3209M	YD repeat-containing protein
+70692..72050	+	452	307717780	-	STHERM_c00630	-	COG3209M	hypothetical protein
+72063..73763	+	566	307717781	-	STHERM_c00640	-	-	hypothetical protein
+73863..74024	+	53	307717782	-	STHERM_c00650	-	-	hypothetical protein
+74185..74610	+	141	307717783	-	STHERM_c00660	-	-	hypothetical protein
+75232..75714	+	160	307717784	-	STHERM_c00670	-	-	hypothetical protein
+75868..76374	+	168	307717785	-	STHERM_c00680	-	-	hypothetical protein
+76718..77194	+	158	307717786	-	STHERM_c00690	-	-	hypothetical protein
+77359..77835	+	158	307717787	-	STHERM_c00700	-	-	hypothetical protein
+78063..78743	+	226	307717788	-	STHERM_c00710	-	-	hypothetical protein
+78755..79225	+	156	307717789	-	STHERM_c00720	-	COG2246S	hypothetical protein
+79283..80428	+	381	307717790	-	STHERM_c00730	-	COG1453R	hypothetical protein
+80474..80857	+	127	307717791	-	STHERM_c00740	-	COG0784T	response regulator receiver protein
+80897..82474	+	525	307717792	-	STHERM_c00750	-	COG0455D	hypothetical protein
+82471..83187	+	238	307717793	-	STHERM_c00760	-	-	hypothetical protein
+83786..84682	+	298	307717794	-	STHERM_c00770	-	COG3706T	hypothetical protein
+84679..86442	-	587	307717795	-	STHERM_c00780	-	COG1306S	hypothetical protein
+86583..87713	+	376	307717796	-	STHERM_c00790	-	-	hypothetical protein
+87717..89348	+	543	307717797	-	STHERM_c00800	-	-	hypothetical protein
+89349..90494	+	381	307717798	-	STHERM_c00810	-	-	hypothetical protein
+90615..93227	+	870	307717799	-	STHERM_c00820	-	-	hypothetical protein
+93224..96682	+	1152	307717800	-	STHERM_c00830	-	COG1074L	hypothetical protein
+96672..97661	-	329	307717801	fabH	STHERM_c00840	-	COG0332I	3-oxoacyl-ACP synthase
+97804..103323	+	1839	307717802	-	STHERM_c00850	-	COG2373R	inner membrane lipoprotein
+103259..105736	+	825	307717803	-	STHERM_c00860	-	COG4953M	hypothetical protein
+105889..106959	+	356	307717804	-	STHERM_c00870	-	COG2152G	glycosylase
+106993..108270	+	425	307717805	-	STHERM_c00880	-	COG1653G	hypothetical protein
+108327..109256	+	309	307717806	-	STHERM_c00890	-	COG1175G	transporter
+109256..110113	+	285	307717807	-	STHERM_c00900	-	COG0395G	transporter
+110135..110755	+	206	307717808	-	STHERM_c00910	-	-	hypothetical protein
+110801..112615	+	604	307717809	-	STHERM_c00920	-	-	hypothetical protein
+112656..113669	-	337	307717810	celR	STHERM_c00930	-	COG1609K	HTH-type transcriptional regulator CelR
+113775..114956	-	393	307717811	-	STHERM_c00940	-	COG2152G	glycosylase
+114953..116173	-	406	307717812	-	STHERM_c00950	-	COG2942G	N-acylglucosamine 2-epimerase
+116277..123221	+	2314	307717813	-	STHERM_c00960	-	-	hypothetical protein
+123252..124385	-	377	307717814	-	STHERM_c00970	-	-	hypothetical protein
+124387..124851	-	154	307717815	bcp	STHERM_c00980	-	COG1225O	peroxiredoxin bcp
+124918..125625	+	235	307717816	-	STHERM_c00990	-	COG3884I	acyl-ACP thioesterase
+125789..127684	+	631	307717817	-	STHERM_c01000	-	COG0840NT	hypothetical protein
+127650..128534	+	294	307717818	-	STHERM_c01010	-	COG0463M	family 2 glycosyl transferase
+128502..129434	-	310	307717819	-	STHERM_c01020	-	COG1210M	hypothetical protein
+129485..130585	+	366	307717820	-	STHERM_c01030	-	COG0642T	transcriptional regulatory protein
+130607..131287	+	226	307717821	-	STHERM_c01040	-	-	hypothetical protein
+131299..132303	-	334	307717822	-	STHERM_c01050	-	COG0042J	tRNA-dihydrouridine synthase C
+132357..134546	+	729	307717823	-	STHERM_c01060	-	COG0840NT	hypothetical protein
+134560..136221	+	553	307717824	-	STHERM_c01070	-	COG2114T	adenylate cyclase
+136261..137346	+	361	307717825	-	STHERM_c01080	-	-	hypothetical protein
+137340..138299	+	319	307717826	-	STHERM_c01090	-	-	hypothetical protein
+138290..139471	+	393	307717827	-	STHERM_c01100	-	-	hypothetical protein
+139465..140499	+	344	307717828	-	STHERM_c01110	-	-	hypothetical protein
+140504..142900	-	798	307717829	-	STHERM_c01120	-	COG2433S	hypothetical protein
+143021..144625	-	534	307717830	-	STHERM_c01130	-	COG4564T	hypothetical protein
+144791..146215	+	474	307717831	-	STHERM_c01140	-	COG0469G	pyruvate kinase
+146266..148566	+	766	307717832	-	STHERM_c01150	-	COG1413C	major facilitator superfamily protein
+148673..150883	+	736	307717833	-	STHERM_c01160	-	COG0643NT	hypothetical protein
+150884..151249	+	121	307717834	-	STHERM_c01170	-	COG2204T	hypothetical protein
+151267..151788	+	173	307717835	-	STHERM_c01180	-	COG0835NT	hypothetical protein
+151791..153368	+	525	307717836	-	STHERM_c01190	-	COG0840NT	hypothetical protein
+153378..154190	+	270	307717837	-	STHERM_c01200	-	COG1352NT	chemotaxis protein methyltransferase
+154192..154680	+	162	307717838	cheD	STHERM_c01210	-	COG1871NT	chemoreceptor glutamine deamidase CheD
+154684..155751	+	355	307717839	-	STHERM_c01220	-	COG2201NT	transcriptional regulatory protein
+155807..157210	+	467	307717840	-	STHERM_c01230	-	COG0065E	3-isopropylmalate dehydratase large subunit
+157220..157816	+	198	307717841	-	STHERM_c01240	-	COG0066E	3-isopropylmalate dehydratase small subunit
+157834..158991	+	385	307717842	-	STHERM_c01250	-	COG2309E	leucyl aminopeptidase
+158988..160250	-	420	307717843	-	STHERM_c01260	-	COG1253R	hypothetical protein
+160433..160789	-	118	307717844	-	STHERM_c01270	-	COG3118O	thioredoxin
+160817..161491	-	224	307717845	-	STHERM_c01280	-	-	hypothetical protein
+161488..162042	-	184	307717846	-	STHERM_c01290	-	-	hypothetical protein
+162137..162916	+	259	307717847	-	STHERM_c01300	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+162913..163482	+	189	307717848	-	STHERM_c01310	-	COG0140E	phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphohydrolase
+163489..164628	+	379	307717849	-	STHERM_c01320	-	COG0683E	hypothetical protein
+164631..166172	+	513	307717850	-	STHERM_c01330	-	-	hypothetical protein
+166256..168226	+	656	307717851	-	STHERM_c01340	-	COG0021G	transketolase
+168357..169859	+	500	307717852	-	STHERM_c01350	-	COG1070G	xylulose kinase
+169918..171747	-	609	307717853	-	STHERM_c01360	-	-	hypothetical protein
+171856..173220	+	454	307717854	-	STHERM_c01370	-	COG3063NU	lipoprotein
+173217..174179	+	320	307717855	-	STHERM_c01380	-	COG0618R	DHH superfamily protein, subfamily 1
+174176..175369	+	397	307717856	-	STHERM_c01390	-	COG1916S	TraB family protein
+175371..176120	+	249	307717857	-	STHERM_c01400	-	COG1434S	transmembrane protein
+176152..178407	+	751	307717858	-	STHERM_c01410	-	COG0642T	transcriptional regulatory protein
+178418..179761	+	447	307717859	-	STHERM_c01420	-	COG1066O	hypothetical protein
+179766..181040	-	424	307717860	thiC	STHERM_c01430	-	COG0422H	thiamine biosynthesis protein ThiC
+181037..182188	-	383	307717861	-	STHERM_c01440	-	COG0352H	thiamine-phosphate pyrophosphorylase
+182185..182889	-	234	307717862	-	STHERM_c01450	-	COG0476H	hypothetical protein
+182886..184013	-	375	307717863	-	STHERM_c01460	-	COG1060HR	hypothetical protein
+184010..184795	-	261	307717864	thiG	STHERM_c01470	-	COG2022H	thiazole biosynthesis protein ThiG
+184795..184992	-	65	307717865	-	STHERM_c01480	-	COG2104H	hypothetical protein
+185252..186445	-	397	307717866	-	STHERM_c01490	-	COG0111HE	hypothetical protein
+186445..187626	-	393	307717867	-	STHERM_c01500	-	COG1932HE	hypothetical protein
+187533..188222	-	229	307717868	-	STHERM_c01510	-	COG2344R	redox-sensing transcriptional repressor rex
+188530..197037	+	2835	307717869	-	STHERM_c01520	-	-	hypothetical protein
+197123..198121	-	332	307717870	-	STHERM_c01530	-	-	hypothetical protein
+198249..203114	-	1621	307717871	-	STHERM_c01540	-	-	BNR repeat-containing protein
+203329..204312	-	327	307717872	-	STHERM_c01550	-	COG1652S	hypothetical protein
+204415..205125	+	236	307717873	-	STHERM_c01560	-	COG0565J	hypothetical protein
+205122..206990	-	622	307717874	-	STHERM_c01570	-	COG0173J	aspartyl-tRNA synthetase
+206962..207933	-	323	307717875	-	STHERM_c01580	-	COG0053P	cation efflux family protein
+207896..208309	-	137	307717876	-	STHERM_c01590	-	-	hypothetical protein
+208361..209041	+	226	307717877	-	STHERM_c01600	-	COG0313R	hypothetical protein
+209088..209372	+	94	307717878	-	STHERM_c01610	-	-	hypothetical protein
+209395..210534	+	379	307717879	-	STHERM_c01620	-	COG1454C	hypothetical protein
+210537..211334	+	265	307717880	-	STHERM_c01630	-	COG0566J	RNA methyltransferase, TrmH family
+211318..211734	-	138	307717881	-	STHERM_c01640	-	COG1765O	hypothetical protein
+211734..211967	-	77	307717882	-	STHERM_c01650	-	COG0695O	hypothetical protein
+212040..213533	-	497	307717883	-	STHERM_c01660	-	COG1639T	HD domain-containing protein
+213638..216031	-	797	307717884	-	STHERM_c01670	-	COG1067O	hypothetical protein
+216073..216717	-	214	307717885	-	STHERM_c01680	-	COG0494LR	hypothetical protein
+216769..217296	+	175	307717886	-	STHERM_c01690	-	COG0778C	hypothetical protein
+217310..218830	-	506	307717887	glyA	STHERM_c01700	-	COG0112E	serine hydroxymethyltransferase
+218954..219241	+	95	307717888	-	STHERM_c01710	-	-	hypothetical protein
+219393..223910	+	1505	307717889	-	STHERM_c01720	-	-	hypothetical protein
+223925..228613	+	1562	307717890	-	STHERM_c01730	-	-	hypothetical protein
+228882..229604	-	240	307717891	-	STHERM_c01760	-	-	hypothetical protein
+229693..232587	+	964	307717892	-	STHERM_c01770	-	-	hypothetical protein
+232657..233751	-	364	307717893	ilvE	STHERM_c01780	-	COG0115EH	branched-chain-amino-acid aminotransferase
+233907..234965	+	352	307717894	-	STHERM_c01790	-	COG0836M	mannose-1-phosphate guanylyltransferase
+235133..236509	+	458	307717895	-	STHERM_c01800	-	-	hypothetical protein
+236697..238115	+	472	307717896	-	STHERM_c01810	-	COG0147EH	anthranilate synthase component 1
+238096..239694	+	532	307717897	-	STHERM_c01820	-	COG0547E	anthranilate synthase component II
+239691..241133	+	480	307717898	-	STHERM_c01830	-	COG0134E	anthranilate synthase component
+241117..242340	+	407	307717899	-	STHERM_c01840	-	COG0133E	tryptophan synthase beta chain
+242337..243110	+	257	307717900	-	STHERM_c01850	-	COG0159E	tryptophan synthase subunit alpha
+243159..243479	+	106	307717901	-	STHERM_c01860	-	COG3118O	thioredoxin
+243476..244480	-	334	307717902	-	STHERM_c01870	-	-	hypothetical protein
+244532..245155	+	207	307717903	-	STHERM_c01880	-	COG0664T	transcriptional regulatory protein
+245226..247049	+	607	307717904	-	STHERM_c01890	-	COG0449M	glucosamine-fructose-6-phosphate aminotransferase
+247094..248197	+	367	307717905	-	STHERM_c01900	-	-	hypothetical protein
+248199..248612	-	137	307717906	-	STHERM_c01910	-	-	hypothetical protein
+248633..248938	-	101	307717907	-	STHERM_c01920	-	-	hypothetical protein
+249042..249728	+	228	307717908	-	STHERM_c01930	-	COG1811R	hypothetical protein
+249768..251090	-	440	307717909	-	STHERM_c01940	-	COG0460E	homoserine dehydrogenase
+251186..252073	+	295	307717910	-	STHERM_c01950	-	-	hypothetical protein
+252048..253136	+	362	307717911	-	STHERM_c01960	-	COG1533L	photolyase-like protein
+253133..254197	+	354	307717912	-	STHERM_c01970	-	COG4254S	hypothetical protein
+254264..255361	-	365	307717913	-	STHERM_c01980	-	COG3839G	sugar ABC transporter
+255431..256615	-	394	307717914	-	STHERM_c01990	-	COG1653G	lipoprotein
+256677..257633	+	318	307717915	-	STHERM_c02000	-	COG1242R	radical SAM protein
+257651..259357	+	568	307717916	-	STHERM_c02010	-	COG0840NT	methyl-accepting chemotaxis protein
+259399..260691	-	430	307717917	-	STHERM_c02020	-	COG0436E	aminotransferase
+260785..261846	-	353	307717918	-	STHERM_c02040	-	COG1600C	iron-sulfur protein
+261779..263353	+	524	307717919	-	STHERM_c02030	-	-	hypothetical protein
+263392..264558	-	388	307717920	-	STHERM_c02050	-	-	hypothetical protein
+264552..265292	-	246	307717921	-	STHERM_c02060	-	-	outer membrane protein involved in lipoprotein sorting
+265303..266556	-	417	307717922	-	STHERM_c02070	-	COG4591M	permease involved in lipoprotein release
+266567..267832	-	421	307717923	-	STHERM_c02080	-	COG4591M	permease, involved in lipoprotein release
+267829..268518	-	229	307717924	macB	STHERM_c02090	-	COG1136V	ATP-binding/permease MacB
+268505..269224	-	239	307717925	-	STHERM_c02100	-	COG1309K	transcriptional activator
+269282..270199	+	305	307717926	-	STHERM_c02110	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+270257..270796	+	179	307717927	-	STHERM_c02120	-	COG0452H	pantothenate metabolism flavoprotein
+270793..271479	+	228	307717928	-	STHERM_c02130	-	COG0452H	DNA / pantothenate metabolism flavoprotein
+271541..271903	+	120	307717929	-	STHERM_c02140	-	COG0853H	aspartate 1-decarboxylase
+271898..275539	-	1213	307717930	metH	STHERM_c02150	-	COG1410E	methionine synthase
+275556..276314	-	252	307717931	-	STHERM_c02160	-	COG1701S	hypothetical protein
+276311..277216	-	301	307717932	-	STHERM_c02170	-	COG1829R	kinase
+277387..278403	+	338	307717933	-	STHERM_c02180	-	COG2055C	ureidoglycolate dehydrogenase
+278499..278885	+	128	307717934	-	STHERM_c02190	-	-	hypothetical protein
+279007..279525	-	172	307717935	-	STHERM_c02200	-	-	chemotaxis methyl-accepting receptor
+279732..280976	-	414	307717936	-	STHERM_c02210	-	COG4564T	chemotaxis protein
+281075..283777	+	900	307717937	-	STHERM_c02220	-	COG0642T	histidine kinase
+283731..284954	-	407	307717938	-	STHERM_c02230	-	-	major facilitator superfamily MFS-1
+284986..285573	-	195	307717939	-	STHERM_c02240	-	-	hypothetical protein
+285607..286161	-	184	307717940	-	STHERM_c02250	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+286158..286532	-	124	307717941	-	STHERM_c02260	-	COG0251J	endoribonuklease
+286556..287200	-	214	307717942	-	STHERM_c02270	-	-	hypothetical protein
+287286..287807	-	173	307717943	-	STHERM_c02280	-	COG1366T	anti-anti sigma factor
+287903..288448	-	181	307717944	-	STHERM_c02290	-	-	hypothetical protein
+288523..289323	+	266	307717945	-	STHERM_c02300	-	-	hypothetical protein
+289320..290249	+	309	307717946	-	STHERM_c02310	-	-	hypothetical protein
+290267..291205	+	312	307717947	-	STHERM_c02320	-	COG0679R	efflux carrier
+291661..292203	+	180	307717948	-	STHERM_c02330	-	COG0350L	methylated-DNA-[protein]-cysteine S-methyltransferase, active site
+292362..295724	+	1120	307717949	nrdJ	STHERM_c02340	-	COG0209F	vitamin B12-dependent ribonucleotide reductase NrdJ
+295847..296038	+	63	307717950	rpmB	STHERM_c02350	-	COG0227J	50S ribosomal protein L28
+296401..296796	+	131	307717951	-	STHERM_c02360	-	COG2033C	neelaredoxin
+296918..298204	+	428	307717952	-	STHERM_c02370	-	COG1875T	phoH family protein
+298252..300534	+	760	307717953	-	STHERM_c02380	-	COG0726G	polysaccharide deacetylase family protein
+300605..301000	+	131	307717954	fliS	STHERM_c02390	-	COG1516NUO	flagellar protein FliS
+301009..301473	+	154	307717955	-	STHERM_c02400	-	-	hypothetical protein
+301476..304169	+	897	307717956	-	STHERM_c02410	-	COG0749L	DNA polymerase I
+304178..304795	+	205	307717957	-	STHERM_c02420	-	COG0237H	kinase
+304799..305473	+	224	307717958	-	STHERM_c02430	-	COG3147S	hypothetical protein
+305475..306398	-	307	307717959	-	STHERM_c02440	-	COG1045E	serine acetyltransferase
+306374..307327	-	317	307717960	-	STHERM_c02450	-	COG1752R	patatin family protein
+307335..307451	-	38	307717961	-	STHERM_c02470	-	-	chemotaxisprotein
+307439..309739	+	766	307717962	-	STHERM_c02460	-	COG1609K	transcriptional regulatory protein
+309714..311837	-	707	307717963	-	STHERM_c02480	-	COG0840NT	methyl-accepting chemotaxis protein
+312182..313261	+	359	307717964	-	STHERM_c02490	-	-	hypothetical protein
+313318..315747	-	809	307717965	-	STHERM_c02500	-	COG3250G	beta-mannosidase
+315879..317078	+	399	307717966	-	STHERM_c02510	-	COG1940KG	transcriptional regulator
+317088..318284	-	398	307717967	-	STHERM_c02520	-	-	hypothetical protein
+318468..319508	-	346	307717968	-	STHERM_c02540	-	COG1215M	glycosyltransferase
+319492..320667	-	391	307717969	-	STHERM_c02550	-	COG0624E	peptidase
+320700..321827	+	375	307717970	-	STHERM_c02560	-	COG2017G	aldose 1-epimerase
+322058..323239	+	393	307717971	-	STHERM_c02570	-	COG0205G	phosphofruktokinase
+323279..324268	+	329	307717972	-	STHERM_c02580	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+324273..325082	+	269	307717973	-	STHERM_c02590	-	COG2120S	deacetylase
+325063..325992	+	309	307717974	-	STHERM_c02600	-	COG2017G	aldose-epimerase
+326192..327478	+	428	307717975	-	STHERM_c02610	-	COG1653G	sugar ABC transporter sugar-binding protein
+327561..328475	+	304	307717976	-	STHERM_c02620	-	COG1175G	permease
+328475..329611	+	378	307717977	-	STHERM_c02630	-	COG0395G	permease
+329618..331423	+	601	307717978	-	STHERM_c02640	-	COG3525G	glycoside hydrolase family protein
+331448..333310	+	620	307717979	-	STHERM_c02650	-	COG0840NT	protein involved in chemotaxis signal transduction
+333364..335037	+	557	307717980	-	STHERM_c02660	-	-	glycoside hydrolase, family 9
+335049..336404	+	451	307717981	-	STHERM_c02670	-	COG0205G	diphosphate--fructose-6-phosphate 1-phosphotransferase
+336414..336818	+	134	307717982	-	STHERM_c02680	-	-	hydrolase
+336902..338068	+	388	307717983	-	STHERM_c02690	-	-	hypothetical protein
+338126..338779	-	217	307717984	-	STHERM_c02700	-	COG0450O	peroxiredoxin
+338893..339297	-	134	307717985	-	STHERM_c02710	-	COG3920T	sensor protein
+339601..341730	+	709	307717986	-	STHERM_c02720	-	COG1609K	transcriptional regulator protein
+341738..343471	+	577	307717987	proS2	STHERM_c02730	-	COG0442J	prolyl-tRNA synthetase
+343458..344354	+	298	307717988	-	STHERM_c02740	-	-	hypothetical protein
+344326..345222	-	298	307717989	-	STHERM_c02750	-	-	glycerol-3-phosphate O-acyltransferase
+345389..346969	+	526	307717990	-	STHERM_c02760	-	COG4166E	oligopeptide ABC transporter periplasmic oligopeptide-binding protein
+347091..348026	+	311	307717991	oppB	STHERM_c02770	-	COG0601EP	oligopeptide ABC transporter permease
+348031..349134	+	367	307717992	-	STHERM_c02780	-	COG1173EP	oligopeptide ABC transporter permease, inner membrane component
+349146..350132	+	328	307717993	-	STHERM_c02790	-	COG0444EP	oligopeptide/dipeptide ABC transporter ATP-binding protein-like protein
+350132..351193	+	353	307717994	-	STHERM_c02800	-	COG4608E	oligopeptide/dipeptide ABC transporter ATPase
+351121..351633	-	170	307717995	-	STHERM_c02810	-	-	hypothetical protein
+351611..352285	-	224	307717996	-	STHERM_c02820	-	COG1011R	hydrolase, haloacid dehalogenase-like family
+352378..353802	-	474	307717997	-	STHERM_c02830	-	COG0174E	glutamine synthetase
+353985..354977	-	330	307717998	-	STHERM_c02850	-	COG4866S	ABC transporter permease
+354976..356262	+	428	307717999	-	STHERM_c02840	-	COG2195E	peptidase T
+356275..357606	+	443	307718000	-	STHERM_c02860	-	-	hypothetical protein
+357655..359004	+	449	307718001	-	STHERM_c02870	-	-	hypothetical protein
+359030..360331	+	433	307718002	-	STHERM_c02880	-	-	hypothetical protein
+360368..361045	+	225	307718003	-	STHERM_c02890	-	-	hypothetical protein
+361144..362604	+	486	307718004	-	STHERM_c02900	-	-	hypothetical protein
+362668..364017	+	449	307718005	trmE	STHERM_c02910	-	COG0486R	tRNA modification GTPase
+364024..365883	+	619	307718006	-	STHERM_c02920	-	COG0445D	glucose-inhibited division protein A
+365883..366527	+	214	307718007	-	STHERM_c02930	-	COG0357M	methyltransferase
+366538..367986	-	482	307718008	-	STHERM_c02940	-	COG5010U	hypothetical protein
+368023..369459	+	478	307718009	-	STHERM_c02950	-	COG2200T	sensory box/GGDEF family protein
+369481..369948	+	155	307718010	-	STHERM_c02960	-	-	hypothetical protein
+370005..371480	+	491	307718011	-	STHERM_c02970	-	COG0169E	3-dehydroquinate dehydratase
+371569..372762	+	397	307718012	-	STHERM_c02980	-	COG1748E	saccharopine dehydrogenase
+372759..373916	+	385	307718013	-	STHERM_c02990	-	COG0019E	carboxynorspermidine decarboxylase
+373945..374820	+	291	307718014	-	STHERM_c03000	-	COG0010E	agmatinase
+374889..376712	+	607	307718015	-	STHERM_c03010	-	COG1022I	AMP-binding protein
+376914..377654	+	246	307718016	-	STHERM_c03020	-	-	hypothetical protein
+377697..378200	+	167	307718017	-	STHERM_c03030	-	-	hypothetical protein
+378187..379098	+	303	307718018	-	STHERM_c03040	-	COG1131V	ATP-binding ABC transporter protein
+379082..379813	+	243	307718019	-	STHERM_c03050	-	COG0842V	hypothetical protein
+379828..380886	+	352	307718020	-	STHERM_c03060	-	COG0642T	nitrogen regulation protein
+380883..382208	+	441	307718021	-	STHERM_c03070	-	COG2204T	two component, sigma-54 specific, transcriptional regulator, Fis family nitrogen assimilation
+382258..383232	+	324	307718022	-	STHERM_c03080	-	COG4571M	hypothetical protein
+383235..385208	-	657	307718023	-	STHERM_c03090	-	-	hypothetical protein
+385184..386950	-	588	307718024	-	STHERM_c03100	-	COG1061KL	DNA-helicase
+386971..387855	+	294	307718025	lipA	STHERM_c03110	-	COG0320H	lipoyl synthase
+387983..388918	+	311	307718026	-	STHERM_c03120	-	COG4658C	NADH:ubiquinone oxidoreductase, Na translocating, B subunit
+388915..389583	+	222	307718027	-	STHERM_c03130	-	COG2869C	hypothetical protein
+389583..390185	+	200	307718028	-	STHERM_c03140	-	COG1347C	Na(+)-translocating NADH-quinone reductase subunit D
+390182..390775	+	197	307718029	-	STHERM_c03150	-	COG2209C	hypothetical protein
+390787..391893	+	368	307718030	-	STHERM_c03160	-	COG2871C	Na(+)-translocating NADH-quinone reductase subunit F
+391904..392356	+	150	307718031	-	STHERM_c03170	-	-	hypothetical protein
+392398..392793	+	131	307718032	-	STHERM_c03180	-	COG2250S	hepn domain-containing protein
+392741..393127	+	128	307718033	-	STHERM_c03190	-	-	nucleotidyltransferase domain-containing protein
+393201..393722	+	173	307718034	-	STHERM_c03200	-	-	hypothetical protein
+393781..395376	-	531	307718035	-	STHERM_c03210	-	COG0815M	apolipoprotein N-acyltransferase
+395369..397219	-	616	307718036	-	STHERM_c03220	-	COG1129G	sensory histidine kinase in two-component regulatory system with AtoC
+397219..398739	-	506	307718037	-	STHERM_c03230	-	COG2204T	transcriptional regulatory protein
+398752..399870	+	372	307718038	-	STHERM_c03240	-	COG4213G	transporter
+399934..401466	+	510	307718039	-	STHERM_c03250	-	COG1129G	transporter
+401487..402692	+	401	307718040	-	STHERM_c03260	-	COG4214G	transporter
+402787..403287	+	166	307718041	-	STHERM_c03270	-	-	hypothetical protein
+403321..405480	+	719	307718042	-	STHERM_c03280	-	COG0143J	methionyl-tRNA synthetase
+405484..406473	+	329	307718043	femA	STHERM_c03290	-	COG2348V	protein FemA
+406484..407713	+	409	307718044	-	STHERM_c03300	-	COG3391S	hypothetical protein
+407732..409111	-	459	307718045	-	STHERM_c03310	-	COG0771M	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+409092..410048	-	318	307718046	-	STHERM_c03320	-	-	hypothetical protein
+410253..411302	+	349	307718047	-	STHERM_c03330	-	-	hypothetical protein
+411296..412726	-	476	307718048	-	STHERM_c03340	-	-	hypothetical protein
+412653..413201	-	182	307718049	-	STHERM_c03350	-	COG2078S	hypothetical protein
+413188..414069	-	293	307718050	-	STHERM_c03360	-	COG1355R	dioxygenase
+414133..415578	-	481	307718051	-	STHERM_c03370	-	COG1293K	fibronectin-binding protein
+415648..415728	-	26	307718052	-	STHERM_c03380	-	-	hypothetical protein
+415935..417374	-	479	307718053	-	STHERM_c03390	-	COG0285H	folylpolyglutamate synthase
+417319..418839	-	506	307718054	-	STHERM_c03400	-	COG0141E	histidinol dehydrogenase 1
+419047..420111	-	354	307718055	-	STHERM_c03410	-	COG0119E	homocitrate synthase 2
+420108..420299	-	63	307718056	-	STHERM_c03420	-	COG4149P	hypothetical protein
+420315..420800	-	161	307718057	-	STHERM_c03430	-	COG4149P	transporter
+420804..421568	-	254	307718058	-	STHERM_c03440	-	COG0725P	transporter
+421577..421882	-	101	307718059	-	STHERM_c03450	-	COG3411C	hypothetical protein
+421900..423171	-	423	307718060	nifB	STHERM_c03460	-	COG0535R	FeMo cofactor biosynthesis protein NifB
+423152..424507	-	451	307718061	-	STHERM_c03470	-	COG2710C	nitrogenase associated protein N
+424491..425444	-	317	307718062	nifE	STHERM_c03480	-	COG2710C	nitrogenase iron-molybdenum cofactor biosynthesis protein NifE
+425882..427264	-	460	307718063	-	STHERM_c03490	-	COG2710C	nitrogenase molybdenum-iron protein subunit beta
+427242..428912	-	556	307718064	-	STHERM_c03500	-	COG2710C	nitrogenase molybdenum-iron protein subunit alpha
+428923..429300	-	125	307718065	-	STHERM_c03510	-	COG0347E	transcriptional regulatory protein
+429297..429653	-	118	307718066	-	STHERM_c03520	-	COG0347E	transcriptional regulatory protein
+429672..430496	-	274	307718067	-	STHERM_c03530	-	COG1348P	nitrogenase iron protein
+430648..430791	+	47	307718068	-	STHERM_c03540	-	-	hypothetical protein
+431328..431663	+	111	307718069	-	STHERM_c03550	-	-	hypothetical protein
+432171..434234	-	687	307718070	-	STHERM_c03560	-	-	hypothetical protein
+434243..434779	-	178	307718071	-	STHERM_c03570	-	-	hypothetical protein
+434884..435624	+	246	307718072	-	STHERM_c03580	-	COG2013S	HTH DNA-binding protein
+435679..437400	+	573	307718073	-	STHERM_c03590	-	COG3044R	isopentenyl-diphosphate delta-isomerase
+437379..440153	-	924	307718074	-	STHERM_c03600	-	COG0004P	ammonia permease with sensory box/GGDEF domains
+440195..440650	-	151	307718075	-	STHERM_c03610	-	-	hypothetical protein
+440647..441015	-	122	307718076	cheY1	STHERM_c03620	-	COG2204T	chemotaxis protein CheY
+441250..441726	-	158	307718077	-	STHERM_c03630	-	COG0432S	automatic annotation
+441763..443109	-	448	307718078	-	STHERM_c03640	-	-	hypothetical protein
+443106..443807	-	233	307718079	-	STHERM_c03650	-	-	hypothetical protein
+443932..444276	+	114	307718080	-	STHERM_c03660	-	COG0537FGR	HIT-like protein tag-202
+444493..445761	-	422	307718081	-	STHERM_c03680	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+445771..446781	-	336	307718082	-	STHERM_c03690	-	COG3706T	diguanylate cyclase
+446778..447398	-	206	307718083	cheC1	STHERM_c03700	-	COG1776NT	CheC, inhibitor of MCP methylation
+447395..447754	-	119	307718084	-	STHERM_c03710	-	COG2204T	response regulator receiver protein
+447889..449016	+	375	307718085	-	STHERM_c03720	-	-	hypothetical protein
+449153..449854	+	233	307718086	-	STHERM_c03730	-	COG1762GT	hypothetical protein
+449844..450299	+	151	307718087	-	STHERM_c03740	-	COG1762GT	hypothetical protein
+450299..451972	+	557	307718088	-	STHERM_c03750	-	COG0517R	sodium/hydrogen exchanger family protein
+452094..453080	+	328	307718089	-	STHERM_c03760	-	COG2378K	hypothetical protein
+453219..455528	+	769	307718090	-	STHERM_c03770	-	COG1203R	hypothetical protein
+455565..456203	+	212	307718091	-	STHERM_c03780	-	-	CRISPR-associated protein Cas5 family
+456584..456802	-	72	307718092	-	STHERM_c03790	-	-	hypothetical protein
+458002..458877	+	291	307718093	-	STHERM_c03800	-	COG3649L	CRISPR-associated protein, Csd2 family
+458952..459590	+	212	307718094	-	STHERM_c03810	-	COG1468L	hypothetical protein
+459587..460621	+	344	307718095	-	STHERM_c03820	-	COG1518L	hypothetical protein
+460643..460930	+	95	307718096	-	STHERM_c03830	-	COG1343L	CRISPR-associated protein Cas2
+462617..462877	+	86	307718097	-	STHERM_c03840	-	-	hypothetical protein
+462868..463425	+	185	307718098	-	STHERM_c03850	-	-	GTP-binding protein
+463443..464171	+	242	307718099	-	STHERM_c03860	-	-	hypothetical protein
+464189..466618	-	809	307718100	-	STHERM_c03870	-	COG0495J	leucyl-tRNA synthetase
+467239..468222	+	327	307718101	-	STHERM_c03880	-	COG4209G	transporter
+468232..469125	+	297	307718102	-	STHERM_c03890	-	COG0395G	transporter
+469176..470729	+	517	307718103	-	STHERM_c03900	-	COG1653G	ABC transporter substrate-binding protein
+470817..473033	+	738	307718104	-	STHERM_c03910	-	COG4753T	AraC family transcriptional regulator
+473084..475213	+	709	307718105	-	STHERM_c03920	-	COG1874G	beta-galactosidase
+475272..476246	-	324	307718106	-	STHERM_c03930	-	COG1087M	UDP-glucose 4-epimerase
+476387..477460	-	357	307718107	-	STHERM_c03940	-	COG0473CE	3-isopropylmalate dehydrogenase
+477598..478752	-	384	307718108	-	STHERM_c03950	-	COG3867G	arabinogalactan endo-1,4-beta-galactosidase
+478972..480714	+	580	307718109	-	STHERM_c03960	-	COG3345G	alpha-galactosidase
+480716..481690	+	324	307718110	-	STHERM_c03970	-	COG1085C	galactose-1-phosphate uridylyltransferase
+481668..482720	+	350	307718111	-	STHERM_c03980	-	COG0153G	galactokinase
+482847..485117	+	756	307718112	-	STHERM_c03990	-	COG1501G	glycoside hydrolase family protein
+485340..488198	+	952	307718113	-	STHERM_c04000	-	COG1472G	glucan 1,4-beta-glucosidase
+488180..489142	+	320	307718114	-	STHERM_c04010	-	COG2207K	AraC family transcriptional regulator
+489179..490135	+	318	307718115	-	STHERM_c04020	-	COG4209G	transporter
+490146..491072	+	308	307718116	-	STHERM_c04030	-	COG0395G	transporter
+491121..492791	+	556	307718117	-	STHERM_c04040	-	COG1653G	polysaccharide ABC transporter substrate-binding protein
+493004..493105	+	33	307718118	-	STHERM_c04050	-	-	hypothetical protein
+493159..494265	+	368	307718119	-	STHERM_c04060	-	-	glycosyl hydrolase family 12 protein, TPS linker, domain X
+494442..495167	+	241	307718120	-	STHERM_c04070	-	-	transmembrane lipoprotein
+495233..496633	+	466	307718121	-	STHERM_c04080	-	-	pectate lyase protein
+496713..497468	-	251	307718122	-	STHERM_c04090	-	-	hypothetical protein
+497567..497674	+	35	307718123	-	STHERM_c04100	-	-	hypothetical protein
+497671..499767	+	698	307718124	-	STHERM_c04110	-	COG0840NT	methyl-accepting chemotaxis protein
+499764..500867	-	367	307718125	-	STHERM_c04120	-	COG4225R	unsaturated glucuronyl hydrolase
+501029..501862	+	277	307718126	-	STHERM_c04130	-	COG3717G	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase
+501859..502620	+	253	307718127	-	STHERM_c04140	-	COG1028IQR	2-deoxy-D-gluconate 3-dehydrogenase
+502710..504173	-	487	307718128	-	STHERM_c04150	-	COG0362G	6-phosphogluconate dehydrogenase
+504207..505478	-	423	307718129	-	STHERM_c04160	-	COG3875S	hypothetical protein
+505475..506362	-	295	307718130	-	STHERM_c04170	-	COG0546R	hypothetical protein
+506596..508872	+	758	307718131	-	STHERM_c04180	-	COG1554G	alpha-L-fucosidase
+508934..509950	+	338	307718132	-	STHERM_c04190	-	COG1638G	transporter
+509950..510531	+	193	307718133	-	STHERM_c04200	-	COG3090G	transporter
+510567..511847	+	426	307718134	-	STHERM_c04210	-	COG1593G	transporter
+511891..512631	+	246	307718135	-	STHERM_c04220	-	COG1028IQR	3-oxoacyl-ACP reductase
+512668..513387	-	239	307718136	-	STHERM_c04230	-	COG1802K	hypothetical protein
+513390..514367	-	325	307718137	-	STHERM_c04240	-	COG1052CHR	hypothetical protein
+514545..515537	+	330	307718138	-	STHERM_c04250	-	COG0667C	hypothetical protein
+515531..516604	+	357	307718139	-	STHERM_c04260	-	-	hypothetical protein
+516580..518799	+	739	307718140	-	STHERM_c04270	-	COG0738G	hypothetical protein
+518932..519870	+	312	307718141	-	STHERM_c04280	-	COG4209G	transporter
+519892..520764	+	290	307718142	-	STHERM_c04290	-	COG0395G	transporter
+520819..522252	+	477	307718143	-	STHERM_c04300	-	COG1653G	extracellular solute-binding protein
+522332..523720	+	462	307718144	-	STHERM_c04310	-	COG5434M	hypothetical protein
+523827..524927	-	366	307718145	-	STHERM_c04320	-	COG0524G	carbohydrate kinase, PfkB family
+524927..525607	-	226	307718146	-	STHERM_c04330	-	COG0800G	keto-hydroxyglutarate-aldolase/keto-deoxy- phosphogluconate aldolase
+525604..526479	-	291	307718147	-	STHERM_c04340	-	COG1082G	xylose isomerase domain-containing protein TIM barrel
+526476..527756	-	426	307718148	-	STHERM_c04350	-	-	hypothetical protein
+527883..529109	-	408	307718149	-	STHERM_c04360	-	COG5010U	hypothetical protein
+529147..530019	-	290	307718150	-	STHERM_c04370	-	-	hypothetical protein
+530072..530974	-	300	307718151	-	STHERM_c04380	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+531093..531566	+	157	307718152	-	STHERM_c04390	-	COG1963S	hypothetical protein
+531577..533037	+	486	307718153	-	STHERM_c04400	-	-	hypothetical protein
+533034..534356	+	440	307718154	-	STHERM_c04410	-	COG4656C	transporter
+534343..535374	+	343	307718155	-	STHERM_c04420	-	COG4658C	hypothetical protein
+535371..535877	+	168	307718156	-	STHERM_c04430	-	-	hypothetical protein
+535878..536486	+	202	307718157	-	STHERM_c04440	-	-	hypothetical protein
+536476..537057	+	193	307718158	-	STHERM_c04450	-	-	hypothetical protein
+537067..538155	+	362	307718159	-	STHERM_c04460	-	COG1985H	hypothetical protein
+538180..538821	+	213	307718160	-	STHERM_c04470	-	COG0307H	riboflavin synthase subunit alpha
+538894..540192	+	432	307718161	ribA	STHERM_c04480	-	COG0108H	riboflavin biosynthesis protein RibA
+540189..540659	+	156	307718162	-	STHERM_c04490	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+540722..541714	-	330	307718163	-	STHERM_c04500	-	COG0009J	hypothetical protein
+541711..542733	-	340	307718164	-	STHERM_c04510	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+542983..543567	+	194	307718165	-	STHERM_c04520	-	-	hypothetical protein
+543610..544758	+	382	307718166	-	STHERM_c04530	-	COG0707M	monogalactosyldiacylglycerol synthase
+544748..546088	-	446	307718167	-	STHERM_c04540	-	-	hypothetical protein
+546187..546867	+	226	307718168	-	STHERM_c04550	-	-	hypothetical protein
+547001..547912	+	303	307718169	-	STHERM_c04560	-	COG0568K	RNA polymerase sigma-70 factor family protein
+548148..550811	+	887	307718170	-	STHERM_c04570	-	COG0574G	pyruvate, phosphate dikinase
+550890..551651	+	253	307718171	-	STHERM_c04580	-	COG2231L	hypothetical protein
+551771..552589	+	272	307718172	-	STHERM_c04590	-	COG1028IQR	D-mannonate oxidoreductase
+552608..554017	+	469	307718173	-	STHERM_c04600	-	COG1904G	uronate isomerase
+554022..554720	-	232	307718174	-	STHERM_c04610	-	COG0321H	lipoyltransferase
+554757..556349	+	530	307718175	-	STHERM_c04620	-	COG1384J	hypothetical protein
+556359..558059	-	566	307718176	-	STHERM_c04630	-	COG0613R	hypothetical protein
+558392..558718	+	108	307718177	-	STHERM_c04640	-	-	hypothetical protein
+558904..560463	+	519	307718178	-	STHERM_c04650	-	COG5001T	hypothetical protein
+560467..561219	+	250	307718179	-	STHERM_c04660	-	-	hypothetical protein
+561171..563291	-	706	307718180	-	STHERM_c04670	-	COG2200T	hypothetical protein
+563336..564166	+	276	307718181	-	STHERM_c04680	-	-	hypothetical protein
+564215..564790	+	191	307718182	-	STHERM_c04690	-	COG1592C	rubrerythrin
+564883..565047	+	54	307718183	-	STHERM_c04700	-	COG1773C	rubredoxin
+565094..565552	-	152	307718184	-	STHERM_c04710	-	COG0394T	hypothetical protein
+565576..566550	-	324	307718185	-	STHERM_c04720	-	COG3458Q	acetyl xylan esterase
+566781..568118	+	445	307718186	-	STHERM_c04740	-	COG0426C	hypothetical protein
+568210..569583	-	457	307718187	asnS	STHERM_c04750	-	COG0017J	asparaginyl-tRNA synthetase
+569721..570674	+	317	307718188	-	STHERM_c04760	-	COG0715P	hypothetical protein
+570753..572414	+	553	307718189	apgM	STHERM_c04770	-	COG0696G	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+572565..573683	+	372	307718190	-	STHERM_c04780	-	-	hypothetical protein
+573807..574979	+	390	307718191	-	STHERM_c04790	-	-	hypothetical protein
+575029..575715	-	228	307718192	-	STHERM_c04800	-	COG0363G	6-phosphogluconolactonase
+575910..576080	+	56	307718193	rpmG	STHERM_c04820	-	COG0267J	50S ribosomal protein L33
+576191..576370	+	59	307718194	-	STHERM_c04840	-	-	hypothetical protein
+576386..576940	+	184	307718195	-	STHERM_c04850	-	COG0250K	hypothetical protein
+577009..577440	+	143	307718196	rplK	STHERM_c04860	-	COG0080J	50S ribosomal protein L11
+577442..578122	+	226	307718197	rplA	STHERM_c04870	-	COG0081J	50S ribosomal protein L1
+578133..578663	+	176	307718198	rplJ	STHERM_c04880	-	COG0244J	50S ribosomal protein L10
+578745..579131	+	128	307718199	rplL	STHERM_c04890	-	COG0222J	50S ribosomal protein L7/L12
+579256..582750	+	1164	307718200	-	STHERM_c04900	-	COG0085K	DNA-directed RNA polymerase subunit beta
+582762..586970	+	1402	307718201	-	STHERM_c04910	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+587044..587418	+	124	307718202	rpsL	STHERM_c04920	-	COG0048J	30S ribosomal protein S12
+587429..587899	+	156	307718203	rpsG	STHERM_c04930	-	COG0049J	30S ribosomal protein S7
+588140..589330	+	396	307718204	tuf	STHERM_c04940	-	COG0050J	elongation factor Tu-B
+589394..589702	+	102	307718205	rpsJ	STHERM_c04950	-	COG0051J	30S ribosomal protein S10
+589713..590339	+	208	307718206	rplC	STHERM_c04960	-	COG0087J	50S ribosomal protein L3
+590352..590978	+	208	307718207	-	STHERM_c04970	-	COG0088J	hypothetical protein
+590989..591276	+	95	307718208	rplW	STHERM_c04980	-	COG0089J	50S ribosomal protein L23
+591291..592115	+	274	307718209	rplB	STHERM_c04990	-	COG0090J	50S ribosomal protein L2
+592125..592403	+	92	307718210	rpsS	STHERM_c05000	-	COG0185J	30S ribosomal protein S19
+592416..592775	+	119	307718211	rplV	STHERM_c05010	-	COG0091J	50S ribosomal protein L22
+592788..593492	+	234	307718212	rpsC	STHERM_c05020	-	COG0092J	30S ribosomal protein S3
+593495..593917	+	140	307718213	rpsP1	STHERM_c05030	-	COG0197J	50S ribosomal protein L16
+593923..594111	+	62	307718214	rpmC	STHERM_c05040	-	COG0255J	50S ribosomal protein L29
+594118..594417	+	99	307718215	rpsQ	STHERM_c05050	-	COG0186J	30S ribosomal protein S17
+594435..594806	+	123	307718216	rplN	STHERM_c05060	-	COG0093J	50S ribosomal protein L14
+594818..595153	+	111	307718217	rplX	STHERM_c05070	-	COG0198J	50S ribosomal protein L24
+595153..595713	+	186	307718218	rplE	STHERM_c05080	-	COG0094J	50S ribosomal protein L5
+595724..595909	+	61	307718219	rpsN	STHERM_c05090	-	COG0199J	30S ribosomal protein S14
+595919..596317	+	132	307718220	rpsH	STHERM_c05100	-	COG0096J	30S ribosomal protein S8
+596328..596873	+	181	307718221	rplF	STHERM_c05110	-	COG0097J	50S ribosomal protein L6
+596885..597253	+	122	307718222	rplR	STHERM_c05120	-	COG0256J	50S ribosomal protein L18
+597262..597750	+	162	307718223	rpsE	STHERM_c05130	-	COG0098J	30S ribosomal protein S5
+597753..597950	+	65	307718224	rpmD	STHERM_c05140	-	COG1841J	50S ribosomal protein L30
+597947..598423	+	158	307718225	rplO	STHERM_c05150	-	COG0200J	50S ribosomal protein L15
+598413..599735	+	440	307718226	-	STHERM_c05160	-	COG0201U	hypothetical protein
+599747..599860	+	37	307718227	rpmJ	STHERM_c05170	-	-	50S ribosomal protein L36
+599870..600235	+	121	307718228	rpsM	STHERM_c05180	-	COG0099J	30S ribosomal protein S13
+600248..600619	+	123	307718229	rpsK	STHERM_c05190	-	COG0100J	30S ribosomal protein S11
+600632..601267	+	211	307718230	rpsD	STHERM_c05200	-	COG0522J	30S ribosomal protein S4
+601277..602368	+	363	307718231	-	STHERM_c05210	-	COG0202K	hypothetical protein
+602352..602795	+	147	307718232	rplQ	STHERM_c05220	-	COG0203J	50S ribosomal protein L17
+602943..605462	+	839	307718233	-	STHERM_c05230	-	-	hypothetical protein
+605459..606082	+	207	307718234	-	STHERM_c05240	-	COG4106R	SAM-dependent methyltransferase
+606079..606510	+	143	307718235	-	STHERM_c05250	-	COG0328L	ribonuclease HI
+606554..608086	+	510	307718236	-	STHERM_c05260	-	COG0606O	hypothetical protein
+608154..609371	+	405	307718237	-	STHERM_c05270	-	COG0265O	hypothetical protein
+609380..611365	+	661	307718238	uvrB	STHERM_c05280	-	COG0556L	UvrABC system protein B
+611362..611715	+	117	307718239	-	STHERM_c05290	-	-	hypothetical protein
+611798..612730	+	310	307718240	-	STHERM_c05300	-	COG0226P	phosphate ABC transporter substrate-binding protein
+612848..613765	+	305	307718241	-	STHERM_c05310	-	COG0573P	transporter
+613762..614664	+	300	307718242	-	STHERM_c05320	-	COG0581P	transporter
+614673..615509	+	278	307718243	-	STHERM_c05330	-	COG1117P	transporter
+615634..615978	+	114	307718244	-	STHERM_c05340	-	-	hypothetical protein
+616463..618382	+	639	307718245	-	STHERM_c05350	-	-	hypothetical protein
+618536..619927	-	463	307718246	phoR	STHERM_c05360	-	COG5002T	phosphate regulon sensor protein PhoR
+619869..620549	-	226	307718247	-	STHERM_c05370	-	COG0745TK	transcriptional regulatory protein
+620558..621211	-	217	307718248	-	STHERM_c05380	-	COG0704P	transcriptional regulatory protein
+621296..622171	-	291	307718249	-	STHERM_c05400	-	-	hypothetical protein
+622133..623248	+	371	307718250	-	STHERM_c05390	-	COG0707M	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-UDP N- acetylglucosamine transferase
+623245..623775	+	176	307718251	-	STHERM_c05410	-	-	hypothetical protein
+623787..624959	+	390	307718252	-	STHERM_c05420	-	COG2812L	DNA polymerase III domain-containing protein
+624956..626122	+	388	307718253	-	STHERM_c05430	-	COG3852T	sensory transduction histidine kinase
+626119..627480	+	453	307718254	-	STHERM_c05440	-	COG2204T	transcriptional regulatory protein
+627484..627885	-	133	307718255	-	STHERM_c05450	-	COG0484O	hypothetical protein
+627938..629281	-	447	307718256	-	STHERM_c05460	-	COG0527E	aspartokinase 3
+629338..631776	+	812	307718257	-	STHERM_c05470	-	COG1199KL	hypothetical protein
+631858..632127	-	89	307718258	-	STHERM_c05480	-	COG0234O	hypothetical protein
+637700..638572	-	290	307718259	-	STHERM_c05530	-	COG1159R	GTP-binding protein
+638666..639250	+	194	307718260	-	STHERM_c05540	-	COG0740OU	hypothetical protein
+639254..640189	+	311	307718261	-	STHERM_c05550	-	COG3568R	endonuclease/exonuclease/phosphatase family protein
+640233..640433	+	66	307718262	-	STHERM_c05560	-	-	hypothetical protein
+640503..641333	+	276	307718263	-	STHERM_c05570	-	COG1082G	xylose isomerase domain-containing protein
+641357..641638	+	93	307718264	-	STHERM_c05580	-	-	hypothetical protein
+641646..642701	-	351	307718265	-	STHERM_c05590	-	COG1052CHR	2-hydroxyacid dehydrogenase
+642787..643932	+	381	307718266	-	STHERM_c05600	-	COG1312G	mannonate dehydratase
+643996..645159	+	387	307718267	-	STHERM_c05610	-	COG2199T	hypothetical protein
+645163..645528	-	121	307718268	-	STHERM_c05620	-	-	hypothetical protein
+645558..646853	-	431	307718269	-	STHERM_c05630	-	COG3706T	two-component regulatory system response regulator
+646850..650668	-	1272	307718270	-	STHERM_c05640	-	COG0642T	hypothetical protein
+650738..652651	-	637	307718271	-	STHERM_c05660	-	COG1166E	biosynthetic arginine decarboxylase (ADC)
+652620..653300	+	226	307718272	-	STHERM_c05650	-	COG2059P	chromate transport protein
+653293..653880	+	195	307718273	-	STHERM_c05670	-	COG2059P	transporter
+653920..654006	+	28	307718274	-	STHERM_c05680	-	-	hypothetical protein
+653973..654410	+	145	307718275	-	STHERM_c05690	-	COG1959K	hypothetical protein
+654352..654732	+	126	307718276	-	STHERM_c05700	-	COG2151R	metal-sulfur cluster biosynthetic enzyme
+654743..655519	+	258	307718277	-	STHERM_c05710	-	COG0396O	transporter
+655500..656897	+	465	307718278	-	STHERM_c05720	-	COG0719O	hypothetical protein
+656929..658011	+	360	307718279	-	STHERM_c05730	-	COG0719O	hypothetical protein
+657995..658297	+	100	307718280	-	STHERM_c05740	-	COG2146PR	hypothetical protein
+658284..659525	+	413	307718281	-	STHERM_c05750	-	COG0520E	cysteine desulfurase
+659518..659958	+	146	307718282	-	STHERM_c05760	-	COG0822C	hypothetical protein
+659868..660788	-	306	307718283	-	STHERM_c05770	-	-	hypothetical protein
+660879..661850	-	323	307718284	-	STHERM_c05780	-	COG0618R	DHH superfamily protein, subfamily 1
+662004..662402	-	132	307718285	-	STHERM_c05790	-	-	hypothetical protein
+662569..663258	+	229	307718286	-	STHERM_c05800	-	COG1028IQR	short chain dehydrogenase/reductase family oxidoreductase
+663259..665640	-	793	307718287	-	STHERM_c05810	-	COG0466O	ATP-dependent protease La
+665637..666875	-	412	307718288	clpX	STHERM_c05820	-	COG1219O	ATP-dependent Clp protease ATP-binding subunit ClpX
+666853..667473	-	206	307718289	clp	STHERM_c05830	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+667508..668860	-	450	307718290	-	STHERM_c05840	-	COG0544O	trigger factor
+669574..670050	-	158	307718291	-	STHERM_c05900	-	COG3328L	hypothetical protein
+670223..670771	+	182	307718292	-	STHERM_c05910	-	COG0703E	shikimate kinase
+670758..671813	+	351	307718293	-	STHERM_c05920	-	COG0082E	chorismate synthase
+671858..672535	+	225	307718294	-	STHERM_c05930	-	COG1802K	transcriptional regulatory protein
+672475..673650	-	391	307718295	-	STHERM_c05940	-	COG0787M	hypothetical protein
+673654..674730	-	358	307718296	-	STHERM_c05950	-	COG0078E	ornithine carbamoyltransferase
+674899..676557	-	552	307718297	-	STHERM_c05970	-	COG1283P	transporter
+676570..677220	-	216	307718298	-	STHERM_c05980	-	COG3177S	hypothetical protein
+677310..679547	+	745	307718299	-	STHERM_c05990	-	COG2256L	AAA ATPase
+679603..681543	+	646	307718300	-	STHERM_c06000	-	COG1181M	D-alanine--D-alanine ligase
+681601..682188	+	195	307718301	-	STHERM_c06010	-	COG0558I	hypothetical protein
+682212..683264	-	350	307718302	-	STHERM_c06020	-	COG1063ER	hypothetical protein
+683375..683881	-	168	307718303	-	STHERM_c06030	-	COG0655R	flavodoxin
+683951..684832	-	293	307718304	-	STHERM_c06040	-	-	hypothetical protein
+684958..686793	-	611	307718305	-	STHERM_c06050	-	COG1132V	transporter
+686786..688504	-	572	307718306	-	STHERM_c06060	-	COG1132V	transporter
+688511..688951	-	146	307718307	-	STHERM_c06070	-	COG1846K	hypothetical protein
+689088..689405	+	105	307718308	-	STHERM_c06080	-	COG1695K	transcriptional regulator, PadR family
+689420..690649	+	409	307718309	-	STHERM_c06090	-	-	transmembrane protein
+690808..691110	+	100	307718310	-	STHERM_c06100	-	COG1917S	hypothetical protein
+691168..692637	+	489	307718311	-	STHERM_c06110	-	COG2461S	hypothetical protein
+692634..693188	-	184	307718312	-	STHERM_c06120	-	COG1661R	hypothetical protein
+693460..694452	+	330	307718313	-	STHERM_c06130	-	COG1638G	transporter
+694478..695593	+	371	307718314	-	STHERM_c06140	-	COG0006E	M24 family peptidase-like protein
+695633..696610	+	325	307718315	-	STHERM_c06150	-	COG3181S	tricarboxylic transport
+696681..697130	+	149	307718316	-	STHERM_c06160	-	-	hypothetical protein
+697150..698634	+	494	307718317	-	STHERM_c06170	-	COG3333S	hypothetical protein
+698683..699729	+	348	307718318	-	STHERM_c06180	-	COG0673R	oxidoreductase domain-containing protein
+699723..700460	-	245	307718319	-	STHERM_c06190	-	COG2186K	transcriptional regulatory protein
+700602..701558	+	318	307718320	-	STHERM_c06200	-	COG0803P	hypothetical protein
+701542..702240	+	232	307718321	-	STHERM_c06210	-	COG1121P	ABC transporter
+702280..703101	+	273	307718322	-	STHERM_c06220	-	COG1108P	ABC transporter
+703165..704445	+	426	307718323	-	STHERM_c06230	-	COG0281C	hypothetical protein
+704643..705137	+	164	307718324	-	STHERM_c06240	-	COG1905C	NADH-quinone oxidoreductase subunit E
+705112..706368	+	418	307718325	-	STHERM_c06250	-	COG1894C	NADH-quinone oxidoreductase subunit 1
+706368..708158	+	596	307718326	-	STHERM_c06260	-	COG4624R	hypothetical protein
+708326..708646	+	106	307718327	-	STHERM_c06270	-	COG1918P	ferrous iron transport protein A
+708643..710886	+	747	307718328	-	STHERM_c06280	-	COG0370P	ferrous iron transport protein B
+710883..711353	+	156	307718329	-	STHERM_c06290	-	COG1321K	iron-dependent repressor
+711339..712631	-	430	307718330	-	STHERM_c06300	-	COG0664T	hypothetical protein
+712705..713364	+	219	307718331	-	STHERM_c06310	-	-	hypothetical protein
+713361..714050	-	229	307718332	-	STHERM_c06320	-	COG0693R	hypothetical protein
+714082..714894	-	270	307718333	-	STHERM_c06330	-	-	hypothetical protein
+715048..716406	+	452	307718334	-	STHERM_c06340	-	COG2239P	transporter
+716403..716819	-	138	307718335	-	STHERM_c06350	-	COG0139E	phosphoribosyl-AMP cyclohydrolase
+716816..718405	-	529	307718336	-	STHERM_c06360	-	COG4284G	hypothetical protein
+718398..719471	-	357	307718337	-	STHERM_c06370	-	COG0837G	glucokinase
+719588..720106	+	172	307718338	-	STHERM_c06380	-	COG0663R	hypothetical protein
+720161..720787	-	208	307718339	-	STHERM_c06390	-	-	hypothetical protein
+720784..721710	-	308	307718340	-	STHERM_c06400	-	COG0003P	hypothetical protein
+721722..722003	-	93	307718341	-	STHERM_c06410	-	-	hypothetical protein
+722074..723765	-	563	307718342	-	STHERM_c06420	-	COG1966T	carbon starvation protein A-like protein
+723876..724835	-	319	307718343	-	STHERM_c06430	-	COG0395G	transporter
+724829..725701	-	290	307718344	-	STHERM_c06440	-	COG1175G	transporter
+725726..727102	-	458	307718345	-	STHERM_c06450	-	COG1653G	transporter
+727193..727804	-	203	307718346	-	STHERM_c06460	-	-	hypothetical protein
+727773..728315	-	180	307718347	-	STHERM_c06470	-	COG4769S	hypothetical protein
+728454..730034	+	526	307718348	-	STHERM_c06480	-	COG0069E	glutamate synthase-like protein
+730104..730835	-	243	307718349	-	STHERM_c06490	-	COG0726G	hypothetical protein
+730948..731625	+	225	307718350	-	STHERM_c06500	-	COG1296E	hypothetical protein
+731625..731930	+	101	307718351	-	STHERM_c06510	-	-	hypothetical protein
+732014..733399	+	461	307718352	-	STHERM_c06520	-	COG0213F	pyrimidine-nucleoside phosphorylase
+733427..735556	+	709	307718353	-	STHERM_c06530	-	COG0608L	single-stranded-DNA-specific exonuclease
+735541..736455	+	304	307718354	-	STHERM_c06540	-	COG0739M	M23/M37 peptidase domain-containing protein
+736467..736691	+	74	307718355	rpsU	STHERM_c06550	-	COG0828J	30S ribosomal protein S21
+736747..737529	-	260	307718356	-	STHERM_c06560	-	COG0483G	inositol-1-monophosphatase
+737639..738271	+	210	307718357	-	STHERM_c06570	-	-	hypothetical protein
+738265..739197	-	310	307718358	-	STHERM_c06580	-	-	transcriptional regulator
+739220..739876	-	218	307718359	-	STHERM_c06590	-	COG2129R	Ser/Thr protein phosphatase family protein
+739873..741402	-	509	307718360	-	STHERM_c06610	-	COG4783R	hypothetical protein
+741242..742009	+	255	307718361	-	STHERM_c06600	-	-	hypothetical protein
+742018..743979	+	653	307718362	-	STHERM_c06620	-	COG5010U	hypothetical protein
+743995..745716	-	573	307718363	mutL	STHERM_c06630	-	COG0323L	DNA mismatch repair protein MutL
+745730..747925	-	731	307718364	-	STHERM_c06640	-	COG4254S	hypothetical protein
+747936..749279	-	447	307718365	-	STHERM_c06650	-	-	hypothetical protein
+749415..754241	-	1608	307718366	-	STHERM_c06670	-	-	hypothetical protein
+754090..755106	+	338	307718367	-	STHERM_c06660	-	-	hypothetical protein
+755110..756216	+	368	307718368	-	STHERM_c06680	-	-	hypothetical protein
+756221..756508	+	95	307718369	-	STHERM_c06690	-	COG1550S	hypothetical protein
+756505..757215	-	236	307718370	-	STHERM_c06700	-	-	hypothetical protein
+757202..758032	-	276	307718371	-	STHERM_c06710	-	COG0037D	PP-loop domain-containing protein
+758029..759549	-	506	307718372	-	STHERM_c06730	-	COG1078R	hypothetical protein
+759396..760118	+	240	307718373	-	STHERM_c06720	-	-	hypothetical protein
+760135..761400	+	421	307718374	-	STHERM_c06740	-	-	hypothetical protein
+761328..761720	-	130	307718375	-	STHERM_c06750	-	COG1366T	anti-anti-sigma factor
+761780..762130	-	116	307718376	-	STHERM_c06760	-	-	hypothetical protein
+762090..762662	-	190	307718377	-	STHERM_c06770	-	COG2172T	hypothetical protein
+762710..765490	+	926	307718378	-	STHERM_c06780	-	-	hypothetical protein
+765636..766358	-	240	307718379	-	STHERM_c06800	-	COG1180O	hypothetical protein
+766355..766834	-	159	307718380	-	STHERM_c06810	-	COG0695O	hypothetical protein
+766856..768925	-	689	307718381	-	STHERM_c06820	-	COG1328F	anaerobic ribonucleoside triphosphate reductase
+768939..769412	-	157	307718382	-	STHERM_c06830	-	COG1327K	transcriptional regulatory protein
+769569..769922	+	117	307718383	-	STHERM_c06840	-	COG1393P	hypothetical protein
+769975..771036	+	353	307718384	-	STHERM_c06850	-	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+771225..771329	+	34	307718385	-	STHERM_c06860	-	-	hypothetical protein
+772147..772638	+	163	307718386	-	STHERM_c06870	-	-	hypothetical protein
+772659..772958	+	99	307718387	-	STHERM_c06880	-	-	hypothetical protein
+773512..773730	+	72	307718388	-	STHERM_c06890	-	-	hypothetical protein
+773794..774561	+	255	307718389	-	STHERM_c06900	-	-	hypothetical protein
+774545..775021	+	158	307718390	-	STHERM_c06910	-	-	hypothetical protein
+775168..775395	+	75	307718391	-	STHERM_c06920	-	-	hypothetical protein
+775429..775812	+	127	307718392	-	STHERM_c06930	-	COG1716T	hypothetical protein
+775836..776711	-	291	307718393	-	STHERM_c06940	-	COG0776L	hypothetical protein
+776776..777300	+	174	307718394	-	STHERM_c06950	-	-	hypothetical protein
+777300..778286	+	328	307718395	-	STHERM_c06960	-	-	hypothetical protein
+778298..780154	+	618	307718396	sps1	STHERM_c06970	-	COG0515RTKL	serine/threonine-protein kinase Sps1
+780156..781046	+	296	307718397	-	STHERM_c06980	-	-	hypothetical protein
+781056..782432	+	458	307718398	-	STHERM_c06990	-	COG1240H	hypothetical protein
+782444..783235	-	263	307718399	-	STHERM_c07000	-	COG0368H	hypothetical protein
+783232..784338	-	368	307718400	-	STHERM_c07010	-	COG2038H	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+784415..784933	-	172	307718401	-	STHERM_c07020	-	COG2087H	hypothetical protein
+784962..785570	-	202	307718402	-	STHERM_c07030	-	COG1335Q	hypothetical protein
+785567..786985	-	472	307718403	-	STHERM_c07040	-	COG1488H	hypothetical protein
+787073..787915	-	280	307718404	-	STHERM_c07050	-	COG0395G	transporter
+787912..788808	-	298	307718405	-	STHERM_c07060	-	COG1175G	transporter
+788878..790218	-	446	307718406	-	STHERM_c07070	-	COG1653G	transporter
+790336..791688	-	450	307718407	-	STHERM_c07080	-	COG2204T	transcriptional regulatory protein
+791663..793699	-	678	307718408	zraS	STHERM_c07090	-	COG4191T	sensor protein ZraS
+793751..794755	-	334	307718409	-	STHERM_c07100	-	COG2730G	endoglucanase
+794924..796540	+	538	307718410	-	STHERM_c07110	-	-	hypothetical protein
+796537..798102	+	521	307718411	-	STHERM_c07120	-	-	hypothetical protein
+798178..799752	+	524	307718412	-	STHERM_c07130	-	COG0540F	hypothetical protein
+799754..800158	-	134	307718413	-	STHERM_c07140	-	COG1475K	ParB-like nuclease domain-containing protein
+800205..802739	-	844	307718414	-	STHERM_c07150	-	COG5009M	penicillin-binding protein
+802868..803668	+	266	307718415	-	STHERM_c07160	-	-	hypothetical protein
+803824..804771	-	315	307718416	-	STHERM_c07170	-	-	hypothetical protein
+804777..805667	-	296	307718417	-	STHERM_c07180	-	COG0739M	M23/M37 peptidase domain-containing protein
+805664..806062	-	132	307718418	-	STHERM_c07190	-	-	hypothetical protein
+806059..807021	-	320	307718419	-	STHERM_c07200	-	COG3063NU	hypothetical protein
+807018..808001	-	327	307718420	-	STHERM_c07210	-	COG1463Q	hypothetical protein
+807998..808810	-	270	307718421	-	STHERM_c07220	-	COG1127Q	transporter
+808807..809598	-	263	307718422	-	STHERM_c07230	-	COG0767Q	transporter
+809595..810446	-	283	307718423	-	STHERM_c07240	-	COG0613R	hypothetical protein
+810593..811570	+	325	307718424	-	STHERM_c07250	-	COG0664T	cyclic nucleotide-binding protein
+811567..812214	+	215	307718425	-	STHERM_c07260	-	COG0664T	transcriptional regulatory protein
+812211..813863	+	550	307718426	-	STHERM_c07270	-	COG0661R	ubiquinone biosynthesis protein
+814034..814876	+	280	307718427	-	STHERM_c07290	-	COG4786N	flagellar hook-basal body complex protein
+814902..815696	+	264	307718428	-	STHERM_c07300	-	COG4786N	flagellar basal-body rod protein
+815707..815994	+	95	307718429	-	STHERM_c07310	-	COG3951MNO	hypothetical protein
+816181..817026	+	281	307718430	-	STHERM_c07320	-	COG0568K	RNA polymerase sigma factor
+817180..817995	+	271	307718431	-	STHERM_c07330	-	COG2861S	hypothetical protein
+817992..819008	+	338	307718432	-	STHERM_c07340	-	COG0533O	hypothetical protein
+819047..819574	+	175	307718433	-	STHERM_c07350	-	COG0503F	hypothetical protein
+819858..821024	+	388	307718434	-	STHERM_c07380	-	COG0505EF	carbamoyl-phosphate synthase small subunit
+821028..824243	+	1071	307718435	-	STHERM_c07390	-	COG0458EF	carbamoyl-phosphate synthase large subunit
+829595..831481	-	628	307718436	-	STHERM_c07440	-	COG2604S	hypothetical protein
+831406..833259	-	617	307718437	-	STHERM_c07450	-	COG0768M	penicillin-binding protein
+833368..834489	+	373	307718438	-	STHERM_c07460	-	COG0739M	hypothetical protein
+834519..834653	+	44	307718439	-	STHERM_c07470	-	-	hypothetical protein
+834686..837403	-	905	307718440	secA	STHERM_c07480	-	COG0653U	protein translocase subunit SecA
+837479..838708	+	409	307718441	-	STHERM_c07490	-	-	lipoprotein
+838708..839211	+	167	307718442	-	STHERM_c07500	-	COG0062S	hypothetical protein
+839132..840181	+	349	307718443	-	STHERM_c07510	-	COG0063G	hypothetical protein
+840174..840728	+	184	307718444	-	STHERM_c07520	-	-	hypothetical protein
+840744..841175	+	143	307718445	-	STHERM_c07530	-	-	hypothetical protein
+841175..841570	+	131	307718446	-	STHERM_c07540	-	-	hypothetical protein
+841572..842846	-	424	307718447	-	STHERM_c07550	-	COG0448G	glucose-1-phosphate adenylyltransferase
+842895..844334	-	479	307718448	-	STHERM_c07560	-	COG0297G	glycogen synthase
+844356..845189	-	277	307718449	-	STHERM_c07570	-	COG3393R	hypothetical protein
+845189..846871	-	560	307718450	-	STHERM_c07580	-	COG1472G	hypothetical protein
+846864..847814	-	316	307718451	-	STHERM_c07590	-	COG0492O	thioredoxin reductase
+847811..847933	-	40	307718452	-	STHERM_c07600	-	-	hypothetical protein
+847987..848478	+	163	307718453	-	STHERM_c07610	-	-	hypothetical protein
+848489..850363	+	624	307718454	-	STHERM_c07620	-	COG1256N	flagellar hook-associated protein
+850374..851621	+	415	307718455	-	STHERM_c07630	-	COG1344N	hypothetical protein
+851633..852076	+	147	307718456	fliW	STHERM_c07640	-	COG1699S	flagellar assembly factor FliW
+852076..852309	+	77	307718457	-	STHERM_c07650	-	COG1551T	carbon storage regulator
+852306..852980	-	224	307718458	-	STHERM_c07660	-	COG1214O	peptidase M22, glycoprotease
+852977..853357	-	126	307718459	-	STHERM_c07670	-	COG0802R	hypothetical protein
+853396..853662	-	88	307718460	-	STHERM_c07680	-	-	hypothetical protein
+853694..854803	-	369	307718461	-	STHERM_c07690	-	-	hypothetical protein
+854809..855687	-	292	307718462	-	STHERM_c07700	-	-	hypothetical protein
+855697..857712	-	671	307718463	-	STHERM_c07710	-	COG1345N	flagellar hook-associated protein 2
+857737..858066	-	109	307718464	-	STHERM_c07720	-	COG1334N	hypothetical protein
+858133..858981	-	282	307718465	fla	STHERM_c07730	-	COG1344N	flagellar filament 41 kDa core protein
+859151..860008	-	285	307718466	flaB	STHERM_c07740	-	COG1344N	flagellar filament 33 kDa core protein, class B
+860209..861333	-	374	307718467	-	STHERM_c07750	-	COG5010U	hypothetical protein
+861364..862188	-	274	307718468	-	STHERM_c07760	-	-	hypothetical protein
+862248..862532	-	94	307718469	-	STHERM_c07770	-	-	hypothetical protein
+862541..862936	-	131	307718470	-	STHERM_c07780	-	-	hypothetical protein
+862937..863296	-	119	307718471	rplT	STHERM_c07790	-	COG0292J	50S ribosomal protein L20
+863325..863522	-	65	307718472	rpmI	STHERM_c07800	-	COG0291J	50S ribosomal protein L35
+863536..864054	-	172	307718473	infC	STHERM_c07810	-	COG0290J	translation initiation factor IF-3
+864144..864773	-	209	307718474	-	STHERM_c07820	-	COG2226H	hypothetical protein
+864770..865948	-	392	307718475	-	STHERM_c07830	-	COG2021E	homoserine O-acetyltransferase
+865979..866677	+	232	307718476	-	STHERM_c07840	-	-	hypothetical protein
+866775..867767	-	330	307718477	-	STHERM_c07850	-	COG0191G	fructose-bisphosphate aldolase
+867817..868623	+	268	307718478	-	STHERM_c07860	-	-	hypothetical protein
+868560..869495	+	311	307718479	flaA1	STHERM_c07870	-	-	flagellar filament outer layer protein FlaA
+869505..870209	+	234	307718480	flaA2	STHERM_c07880	-	-	flagellar filament outer layer protein FlaA
+870276..871079	-	267	307718481	-	STHERM_c07890	-	COG0084L	hypothetical protein
+871197..871604	+	135	307718482	-	STHERM_c07900	-	-	hypothetical protein
+871710..872423	+	237	307718483	-	STHERM_c07910	-	COG3328L	hypothetical protein
+872557..873255	-	232	307718484	-	STHERM_c07930	-	-	hypothetical protein
+873265..875262	-	665	307718485	-	STHERM_c07940	-	COG0210L	hypothetical protein
+875270..875740	-	156	307718486	qacE	STHERM_c07950	-	COG2426S	small multidrug export protein QacE
+875780..877060	-	426	307718487	-	STHERM_c07960	-	COG1055P	hypothetical protein
+877063..877956	-	297	307718488	-	STHERM_c07970	-	COG1762GT	hypothetical protein
+878248..880059	+	603	307718489	-	STHERM_c07990	-	COG0013J	alanyl-tRNA synthetase AlaRS
+880016..881080	-	354	307718490	-	STHERM_c08000	-	COG0820R	radical SAM enzyme, Cfr family
+881089..882237	-	382	307718491	-	STHERM_c08010	-	COG2956G	hypothetical protein
+882230..882619	-	129	307718492	-	STHERM_c08020	-	-	hypothetical protein
+882754..883341	-	195	307718493	-	STHERM_c08030	-	COG0131E	imidazoleglycerol-phosphate dehydratase
+883353..883991	-	212	307718494	-	STHERM_c08040	-	COG0040E	ATP phosphoribosyltransferase
+883988..885082	-	364	307718495	-	STHERM_c08050	-	COG3705E	ATP phosphoribosyltransferase regulatory subunit
+885110..885652	-	180	307718496	-	STHERM_c08060	-	COG0742L	hypothetical protein
+885662..887713	-	683	307718497	recG	STHERM_c08070	-	COG1200LK	ATP-dependent DNA helicase RecG
+887721..888311	-	196	307718498	-	STHERM_c08080	-	-	hypothetical protein
+888339..891749	-	1136	307718499	-	STHERM_c08090	-	COG0587L	DNA polymerase III subunit alpha
+891872..892726	-	284	307718500	-	STHERM_c08100	-	COG1319C	xanthine dehydrogenase subunit, FAD-binding domain-containing protein
+892713..893198	-	161	307718501	-	STHERM_c08110	-	COG2080C	hypothetical protein
+893182..895185	-	667	307718502	-	STHERM_c08120	-	COG1529C	xanthine dehydrogenase, molybdopterin binding subunit
+895182..896375	-	397	307718503	spsC	STHERM_c08130	-	COG0399M	spore coat polysaccharide biosynthesis protein C
+896372..897850	-	492	307718504	-	STHERM_c08150	-	COG1086MG	capsular polysaccharide biosynthesis protein
+897829..897996	+	55	307718505	-	STHERM_c08140	-	-	hypothetical protein
+898017..899732	+	571	307718506	-	STHERM_c08160	-	-	hypothetical protein
+899732..901753	+	673	307718507	-	STHERM_c08170	-	COG0272L	DNA ligase
+901840..903222	-	460	307718508	-	STHERM_c08180	-	COG1486G	hydrolytic enzyme
+903219..904250	-	343	307718509	-	STHERM_c08190	-	COG4225R	glycosyl hydrolase family protein
+904255..905103	-	282	307718510	-	STHERM_c08200	-	COG0395G	transporter
+905104..906033	-	309	307718511	-	STHERM_c08210	-	COG1175G	transporter
+906113..907411	-	432	307718512	-	STHERM_c08220	-	COG1653G	family 1 extracellular solute-binding protein
+907690..908448	+	252	307718513	-	STHERM_c08230	-	COG1349KG	transcriptional regulatory protein
+908460..909710	+	416	307718514	-	STHERM_c08240	-	COG0508C	hypothetical protein
+909748..912204	+	818	307718515	-	STHERM_c08250	-	COG0022C	dehydrogenase, fusion
+912211..913566	+	451	307718516	-	STHERM_c08260	-	-	hypothetical protein
+913563..914726	+	387	307718517	-	STHERM_c08270	-	COG1028IQR	hypothetical protein
+914739..916259	+	506	307718518	-	STHERM_c08280	-	COG1070G	hypothetical protein
+916264..917526	+	420	307718519	-	STHERM_c08290	-	COG1063ER	L-sorbose 1-phosphate reductase
+917543..919471	+	642	307718520	-	STHERM_c08300	-	COG2972T	hypothetical protein
+919452..920879	+	475	307718521	-	STHERM_c08310	-	COG4753T	hypothetical protein
+920973..921998	+	341	307718522	-	STHERM_c08320	-	COG1879G	transporter
+922080..923588	+	502	307718523	-	STHERM_c08330	-	COG1129G	ribose/galactose/methyl galactoside import ATP-bindingprotein
+923585..924571	+	328	307718524	-	STHERM_c08340	-	COG1172G	transporter
+924568..925572	+	334	307718525	-	STHERM_c08350	-	COG1172G	transporter
+925569..925883	+	104	307718526	-	STHERM_c08360	-	COG3254S	L-rhamnose mutarotase
+925894..927042	+	382	307718527	-	STHERM_c08370	-	COG3347S	short chain dehydrogenase
+927039..928301	+	420	307718528	-	STHERM_c08380	-	COG4806G	L-rhamnose isomerase
+928240..928608	+	122	307718529	-	STHERM_c08390	-	-	hypothetical protein
+928605..930164	+	519	307718530	-	STHERM_c08400	-	COG0840NT	hypothetical protein
+930185..932008	+	607	307718531	-	STHERM_c08410	-	COG2972T	two-component sensor histidine kinase
+931980..933464	+	494	307718532	-	STHERM_c08420	-	COG4753T	transcriptional regulatory protein
+933508..934848	+	446	307718533	-	STHERM_c08430	-	COG1653G	hypothetical protein
+934938..935795	+	285	307718534	-	STHERM_c08440	-	COG1175G	transporter
+935792..936619	+	275	307718535	-	STHERM_c08450	-	COG0395G	transporter
+936631..939321	+	896	307718536	-	STHERM_c08460	-	-	alfa-L-rhamnosidase
+939487..940425	+	312	307718537	-	STHERM_c08470	-	COG4209G	transporter
+940419..941327	+	302	307718538	-	STHERM_c08480	-	COG0395G	transporter
+941378..943039	+	553	307718539	-	STHERM_c08490	-	COG1653G	extracellular solute-binding protein
+943111..945393	+	760	307718540	-	STHERM_c08500	-	COG4753T	transcriptional regulatory protein
+945368..946291	+	307	307718541	-	STHERM_c08510	-	COG3507G	hypothetical protein
+946292..948343	+	683	307718542	-	STHERM_c08520	-	COG1554G	hypothetical protein
+948386..949501	+	371	307718543	-	STHERM_c08530	-	COG3693G	beta-1,4-xylanase
+949607..951517	-	636	307718544	-	STHERM_c08540	-	COG1022I	hypothetical protein
+951570..952115	-	181	307718545	fabZ	STHERM_c08550	-	COG0764I	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+952176..952652	+	158	307718546	-	STHERM_c08560	-	COG0511I	biotin carboxyl carrier protein of acetyl-CoA carboxylase
+952649..953977	+	442	307718547	-	STHERM_c08570	-	COG4770I	pyruvate carboxylase subunit A
+953974..954876	+	300	307718548	-	STHERM_c08580	-	COG0777I	acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+954878..955855	+	325	307718549	-	STHERM_c08590	-	COG0825I	acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+955938..956882	-	314	307718550	-	STHERM_c08600	-	COG0785O	cytochrome c biogenesis protein, transmembrane region
+956879..957559	-	226	307718551	-	STHERM_c08610	-	COG1225O	hypothetical protein
+957564..958232	-	222	307718552	-	STHERM_c08620	-	-	hypothetical protein
+958301..959374	+	357	307718553	-	STHERM_c08630	-	COG5581M	hypothetical protein
+959420..960622	+	400	307718554	-	STHERM_c08640	-	-	hypothetical protein
+960585..962003	+	472	307718555	-	STHERM_c08650	-	COG0658R	hypothetical protein
+961996..962847	+	283	307718556	-	STHERM_c08660	-	COG0030J	dimethyladenosine transferase
+962840..963721	-	293	307718557	-	STHERM_c08670	-	COG0329EM	dihydrodipicolinate synthase
+963714..964469	-	251	307718558	-	STHERM_c08680	-	COG0289E	dihydrodipicolinate reductase
+964480..965514	-	344	307718559	-	STHERM_c08690	-	COG0280C	phosphate acetyltransferase
+965536..966357	+	273	307718560	-	STHERM_c08700	-	COG0287E	arogenate dehydrogenase 2
+966379..966732	+	117	307718561	-	STHERM_c08710	-	COG1664M	hypothetical protein
+966729..967361	+	210	307718562	-	STHERM_c08720	-	COG4783R	hypothetical protein
+967361..968710	+	449	307718563	-	STHERM_c08730	-	COG0621J	hypothetical protein
+968794..969960	+	388	307718564	-	STHERM_c08740	-	-	hypothetical protein
+970257..970745	-	162	307718565	-	STHERM_c08770	-	-	hypothetical protein
+970944..971861	+	305	307718566	-	STHERM_c08780	-	COG5010U	hypothetical protein
+971866..972504	-	212	307718567	-	STHERM_c08790	-	COG0563F	adenylate kinase
+972595..972933	+	112	307718568	-	STHERM_c08800	-	-	hypothetical protein
+972996..973475	+	159	307718569	-	STHERM_c08810	-	COG0835NT	purine-binding chemotaxis protein
+973486..974502	+	338	307718570	-	STHERM_c08820	-	COG0399M	DegT/DnrJ/EryC1/StrS family aminotransferase
+974517..975362	+	281	307718571	-	STHERM_c08830	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+975355..977052	+	565	307718572	recN	STHERM_c08840	-	COG0497L	DNA repair protein RecN
+977045..977878	+	277	307718573	-	STHERM_c08850	-	-	hypothetical protein
+978359..979351	+	330	307718574	-	STHERM_c08860	-	-	hypothetical protein
+979348..980187	+	279	307718575	-	STHERM_c08870	-	-	hypothetical protein
+980197..981051	+	284	307718576	-	STHERM_c08880	-	COG2227H	methyltransferase
+981077..981790	+	237	307718577	-	STHERM_c08890	-	COG3330S	hypothetical protein
+981794..983410	+	538	307718578	-	STHERM_c08900	-	COG1543S	hypothetical protein
+983576..984016	+	146	307718579	mraZ	STHERM_c08910	-	COG2001S	protein MraZ
+984034..985008	+	324	307718580	mraW	STHERM_c08920	-	COG0275M	S-adenosyl-methyltransferase MraW
+984995..985264	+	89	307718581	-	STHERM_c08930	-	-	hypothetical protein
+985261..986673	+	470	307718582	-	STHERM_c08940	-	COG0770M	hypothetical protein
+986666..987748	+	360	307718583	-	STHERM_c08950	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+987757..988887	+	376	307718584	-	STHERM_c08960	-	COG0772D	hypothetical protein
+988880..989695	+	271	307718585	ftsQ	STHERM_c08970	-	COG1589M	cell division protein FtsQ
+989695..990924	+	409	307718586	ftsA	STHERM_c08980	-	COG0849D	cell division protein FtsA
+990950..992110	+	386	307718587	ftsZ	STHERM_c08990	-	COG0206D	cell division protein FtsZ
+992120..993019	+	299	307718588	-	STHERM_c09000	-	COG4974L	DNA integration/recombination/invertion protein
+993022..993735	+	237	307718589	-	STHERM_c09010	-	COG4235O	hypothetical protein
+993732..994754	+	340	307718590	dprA	STHERM_c09020	-	COG0758LU	DNA processing protein DprA
+994751..996922	+	723	307718591	-	STHERM_c09030	-	COG0550L	hypothetical protein
+996919..997857	+	312	307718592	xerC	STHERM_c09040	-	COG4974L	tyrosine recombinase XerC
+997854..998390	+	178	307718593	hslV	STHERM_c09050	-	COG5405O	ATP-dependent protease HslV
+998387..999733	+	448	307718594	hslU	STHERM_c09060	-	COG1220O	ATP-dependent hsl protease ATP-binding subunit HslU
+999816..1000232	+	138	307718595	-	STHERM_c09070	-	COG1815N	flagellar basal-body rod protein
+1000244..1000702	+	152	307718596	-	STHERM_c09080	-	COG1558N	hypothetical protein
+1000708..1001034	+	108	307718597	fliE	STHERM_c09090	-	COG1677NU	flagellar hook-basal body complex protein FliE
+1001068..1002777	+	569	307718598	-	STHERM_c09100	-	COG1766NU	flagellar M-ring protein
+1002779..1003840	+	353	307718599	-	STHERM_c09110	-	COG1536N	hypothetical protein
+1003867..1004847	+	326	307718600	-	STHERM_c09120	-	COG1317NU	flagellar assembly protein
+1004851..1006197	+	448	307718601	-	STHERM_c09130	-	COG1157NU	hypothetical protein
+1006184..1006642	+	152	307718602	-	STHERM_c09140	-	-	hypothetical protein
+1006635..1007258	+	207	307718603	-	STHERM_c09150	-	-	hypothetical protein
+1007259..1008590	+	443	307718604	-	STHERM_c09160	-	COG3144N	hypothetical protein
+1008600..1009037	+	145	307718605	-	STHERM_c09170	-	COG1843N	flagellar hook assembly protein
+1009048..1010436	+	462	307718606	-	STHERM_c09180	-	COG1749N	flagellar hook protein
+1010457..1010654	+	65	307718607	-	STHERM_c09190	-	COG1582N	flagellar protein
+1010658..1011446	+	262	307718608	motA	STHERM_c09200	-	COG1291N	chemotaxis protein MotA
+1011448..1012179	+	243	307718609	-	STHERM_c09210	-	COG1360N	hypothetical protein
+1012234..1012776	+	180	307718610	-	STHERM_c09220	-	COG1580N	flagellar protein
+1012805..1013830	+	341	307718611	-	STHERM_c09230	-	COG1868N	hypothetical protein
+1013827..1014879	+	350	307718612	-	STHERM_c09240	-	COG1886NU	hypothetical protein
+1014913..1015551	+	212	307718613	-	STHERM_c09250	-	-	hypothetical protein
+1015548..1016324	+	258	307718614	-	STHERM_c09260	-	COG1338NU	hypothetical protein
+1016336..1016605	+	89	307718615	-	STHERM_c09270	-	COG1987NU	flagellar biosynthesis protein
+1016618..1017400	+	260	307718616	-	STHERM_c09280	-	COG1684NU	hypothetical protein
+1017397..1018560	+	387	307718617	-	STHERM_c09290	-	COG1377NU	hypothetical protein
+1018573..1020657	+	694	307718618	-	STHERM_c09300	-	COG1298NU	hypothetical protein
+1020674..1021831	+	385	307718619	-	STHERM_c09310	-	COG1419N	flagellar-associated GTP-binding protein
+1021835..1022698	+	287	307718620	fleN2	STHERM_c09320	-	COG0455D	flagellar synthesis regulator FleN
+1022757..1023413	+	218	307718621	-	STHERM_c09330	-	-	hypothetical protein
+1023420..1024208	+	262	307718622	-	STHERM_c09340	-	COG1191K	hypothetical protein
+1024217..1026160	+	647	307718623	-	STHERM_c09350	-	COG1315L	polymerase most proteins contain PALM domain HD hydrolase domain and Zn-ribbon domain
+1026164..1026496	+	110	307718624	-	STHERM_c09360	-	-	hypothetical protein
+1026505..1027125	+	206	307718625	-	STHERM_c09370	-	-	hypothetical protein
+1027122..1027988	-	288	307718626	-	STHERM_c09380	-	-	hypothetical protein
+1027993..1028400	-	135	307718627	-	STHERM_c09390	-	COG0848U	hypothetical protein
+1028397..1029023	-	208	307718628	-	STHERM_c09400	-	COG0811U	tolQ-type transport protein
+1029221..1030237	-	338	307718629	-	STHERM_c09410	-	COG0857R	hypothetical protein
+1030234..1031832	-	532	307718630	-	STHERM_c09420	-	COG0119E	AIPM/Hcit synthase family transferase
+1032260..1032982	+	240	307718631	-	STHERM_c09440	-	COG0179Q	fumarylacetoacetate hydrolase domain-containing protein 2A
+1033047..1033733	+	228	307718632	-	STHERM_c09450	-	COG1738S	hypothetical protein
+1033752..1034612	-	286	307718633	-	STHERM_c09460	-	-	hypothetical protein
+1034552..1036066	-	504	307718634	-	STHERM_c09470	-	-	hypothetical protein
+1036130..1037089	+	319	307718635	-	STHERM_c09480	-	COG0666R	ankyrin repeat-containing protein
+1037070..1037852	+	260	307718636	-	STHERM_c09490	-	-	hypothetical protein
+1037849..1039120	-	423	307718637	-	STHERM_c09500	-	-	hypothetical protein
+1039201..1040442	+	413	307718638	-	STHERM_c09510	-	-	hypothetical protein
+1040241..1042133	+	630	307718639	-	STHERM_c09520	-	-	hypothetical protein
+1042130..1046722	+	1530	307718640	-	STHERM_c09530	-	COG2208TK	HAMP domain-containing protein
+1046790..1047737	+	315	307718641	-	STHERM_c09540	-	-	hypothetical protein
+1047827..1048069	+	80	307718642	-	STHERM_c09550	-	-	hypothetical protein
+1048078..1048614	+	178	307718643	-	STHERM_c09560	-	-	hypothetical protein
+1048589..1049032	+	147	307718644	-	STHERM_c09570	-	COG1430S	exported protein
+1049036..1049287	-	83	307718645	-	STHERM_c09580	-	COG1722L	hypothetical protein
+1049268..1050524	-	418	307718646	-	STHERM_c09590	-	COG1570L	exodeoxyribonuclease VII large subunit
+1050614..1052107	+	497	307718647	-	STHERM_c09600	-	COG0535R	hypothetical protein
+1052118..1053035	+	305	307718648	-	STHERM_c09610	-	COG1216R	hypothetical protein
+1053032..1053718	+	228	307718649	-	STHERM_c09620	-	COG1861M	polysaccharide biosynthesis protein
+1053718..1055370	+	550	307718650	-	STHERM_c09630	-	COG2227H	methyltransferase
+1055449..1057059	+	536	307718651	-	STHERM_c09640	-	COG0439I	CarB family protein
+1057056..1058075	+	339	307718652	-	STHERM_c09650	-	COG0860M	hypothetical protein
+1058096..1058590	+	164	307718653	-	STHERM_c09660	-	-	hypothetical protein
+1058684..1059712	+	342	307718654	-	STHERM_c09670	-	-	flagellar filament outer layer protein
+1059776..1060420	+	214	307718655	-	STHERM_c09680	-	-	hypothetical protein
+1060531..1061109	+	192	307718656	-	STHERM_c09690	-	-	hypothetical protein
+1061183..1062265	-	360	307718657	-	STHERM_c09700	-	COG0079E	hypothetical protein
+1062325..1062729	+	134	307718658	-	STHERM_c09710	-	-	hypothetical protein
+1062677..1063336	+	219	307718659	-	STHERM_c09720	-	COG1611R	hypothetical protein
+1063333..1064052	+	239	307718660	-	STHERM_c09730	-	COG2454S	hypothetical protein
+1064095..1065066	+	323	307718661	-	STHERM_c09740	-	COG1702T	PhoH-like protein
+1065047..1067287	+	746	307718662	-	STHERM_c09750	-	COG1480R	hypothetical protein
+1067280..1067726	+	148	307718663	-	STHERM_c09760	-	COG0319R	transcriptional regulator
+1067806..1068519	+	237	307718664	-	STHERM_c09770	-	COG1253R	hypothetical protein
+1068516..1070480	+	654	307718665	-	STHERM_c09780	-	COG5010U	hypothetical protein
+1070568..1071581	+	337	307718666	-	STHERM_c09790	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+1071691..1072869	+	392	307718667	-	STHERM_c09800	-	COG0126G	phosphoglycerate kinase
+1072881..1073642	+	253	307718668	-	STHERM_c09810	-	COG0149G	triosephosphate isomerase
+1073647..1074033	+	128	307718669	-	STHERM_c09820	-	-	hypothetical protein
+1074154..1074588	+	144	307718670	-	STHERM_c09830	-	-	hypothetical protein
+1074599..1075414	+	271	307718671	-	STHERM_c09840	-	COG0484O	molecular chaperone protein
+1075411..1076451	+	346	307718672	-	STHERM_c09850	-	COG0760O	basic membrane protein
+1076457..1076867	+	136	307718673	-	STHERM_c09860	-	COG0781K	N-utilization substance protein B
+1076864..1078471	+	535	307718674	-	STHERM_c09870	-	-	hypothetical protein
+1078512..1079306	+	264	307718675	-	STHERM_c09880	-	COG0024J	methionine aminopeptidase
+1079303..1080769	+	488	307718676	-	STHERM_c09890	-	COG0265O	periplasmic serine protease DO
+1080863..1081897	-	344	307718677	-	STHERM_c09900	-	-	hypothetical protein
+1081906..1082541	-	211	307718678	-	STHERM_c09910	-	-	hypothetical protein
+1082648..1083541	+	297	307718679	folD	STHERM_c09920	-	COG0190H	bifunctional protein FolD
+1083531..1084334	+	267	307718680	-	STHERM_c09930	-	COG1469S	hypothetical protein
+1084316..1085002	+	228	307718681	-	STHERM_c09940	-	COG0138F	phosphoribosylaminoimidazolecarboxamideformyltransferase
+1084999..1086255	+	418	307718682	-	STHERM_c09950	-	COG0138F	phosphoribosylaminoimidazolecarboxamideformyltransferase
+1086265..1087611	+	448	307718683	-	STHERM_c09960	-	COG0621J	hypothetical protein
+1087584..1087853	+	89	307718684	-	STHERM_c09970	-	-	hypothetical protein
+1087807..1088730	+	307	307718685	-	STHERM_c09980	-	-	hypothetical protein
+1088724..1090268	-	514	307718686	-	STHERM_c09990	-	-	hypothetical protein
+1090347..1091780	+	477	307718687	-	STHERM_c10000	-	COG0015F	adenylosuccinate lyase
+1091777..1093222	+	481	307718688	-	STHERM_c10010	-	COG0516F	inosine-5'-monophosphate dehydrogenase
+1093250..1094476	+	408	307718689	-	STHERM_c10020	-	COG0104F	adenylosuccinate synthetase
+1094461..1096014	+	517	307718690	-	STHERM_c10030	-	COG0519F	GMP synthase
+1096016..1096420	-	134	307718691	-	STHERM_c10040	-	-	hypothetical protein
+1096439..1096774	-	111	307718692	-	STHERM_c10050	-	-	hypothetical protein
+1096719..1097300	-	193	307718693	-	STHERM_c10060	-	COG1595K	hypothetical protein
+1097426..1098826	+	466	307718694	-	STHERM_c10070	-	COG1538MU	hypothetical protein
+1098837..1099907	+	356	307718695	-	STHERM_c10080	-	COG0845M	RND family efflux transporter MFP subunit
+1099912..1100592	+	226	307718696	-	STHERM_c10090	-	COG1136V	transporter
+1100589..1101785	+	398	307718697	-	STHERM_c10100	-	COG0577V	hypothetical protein
+1101844..1102626	+	260	307718698	-	STHERM_c10110	-	COG4942D	LysM domain/M23/M37 peptidase domain-containing protein
+1102688..1103704	+	338	307718699	rpoD	STHERM_c10120	-	COG0568K	RNA polymerase sigma factor RpoD
+1103715..1104263	+	182	307718700	-	STHERM_c10130	-	COG2096S	hypothetical protein
+1104224..1104760	-	178	307718701	mutT	STHERM_c10140	-	COG1051F	mutator protein MutT
+1104761..1106056	+	431	307718702	-	STHERM_c10150	-	COG1415S	cellulase, glycosyl hydrolase family 5
+1106159..1107385	+	408	307718703	-	STHERM_c10160	-	COG2182G	maltosaccharide-binding protein
+1107463..1108470	+	335	307718704	-	STHERM_c10170	-	COG1175G	transporter
+1108488..1109339	+	283	307718705	-	STHERM_c10180	-	COG3833G	transporter
+1109399..1111660	+	753	307718706	-	STHERM_c10190	-	COG1501G	alpha-glucosidase 2
+1111660..1112676	+	338	307718707	-	STHERM_c10200	-	COG1609K	transcriptional regulatory protein
+1112741..1113037	+	98	307718708	-	STHERM_c10210	-	-	hypothetical protein
+1113079..1113780	+	233	307718709	-	STHERM_c10220	-	COG1496S	inner membrane protein
+1113844..1115607	+	587	307718710	-	STHERM_c10230	-	COG0018J	hypothetical protein
+1115814..1120346	+	1510	307718711	-	STHERM_c10240	-	COG0069E	glutamate synthase
+1120339..1121814	+	491	307718712	-	STHERM_c10250	-	COG0493ER	hypothetical protein
+1121869..1122180	+	103	307718713	rplU	STHERM_c10260	-	COG0261J	50S ribosomal protein L21
+1122206..1122502	+	98	307718714	-	STHERM_c10270	-	COG2868J	hypothetical protein
+1122506..1122763	+	85	307718715	rpmA	STHERM_c10280	-	COG0211J	50S ribosomal protein L27
+1122779..1123810	+	343	307718716	-	STHERM_c10290	-	COG0536R	GTP-binding protein, GTP1/Obg family
+1123807..1124379	+	190	307718717	-	STHERM_c10300	-	COG1057H	nicotinate-nucleotide adenylyltransferase
+1124937..1126127	+	396	307718718	lytR	STHERM_c10310	-	COG1316K	membrane-bound protein LytR
+1126105..1126476	+	123	307718719	-	STHERM_c10320	-	COG0799S	hypothetical protein
+1126449..1126673	-	74	307718720	-	STHERM_c10330	-	-	hypothetical protein
+1126703..1127179	-	158	307718721	-	STHERM_c10340	-	COG1406N	hypothetical protein
+1127276..1128151	+	291	307718722	-	STHERM_c10350	-	COG0157H	hypothetical protein
+1128160..1129725	+	521	307718723	-	STHERM_c10360	-	COG0029H	L-aspartate oxidase
+1129712..1130620	+	302	307718724	-	STHERM_c10370	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+1130658..1130960	+	100	307718725	-	STHERM_c10380	-	COG2088M	septation protein spoVG
+1131125..1131754	+	209	307718726	rplY	STHERM_c10400	-	COG1825J	50S ribosomal protein L25
+1131856..1132350	+	164	307718727	-	STHERM_c10410	-	COG0193J	peptidyl-tRNA hydrolase
+1132350..1133768	+	472	307718728	-	STHERM_c10420	-	COG0037D	tRNA(Ile)-lysidine synthase
+1133765..1135624	+	619	307718729	ftsH	STHERM_c10430	-	COG0465O	cell division protease FtsH
+1135995..1137290	+	431	307718730	-	STHERM_c10440	-	-	hypothetical protein
+1137280..1139052	+	590	307718731	-	STHERM_c10450	-	COG0265O	trypsin domain/PDZ domain-containing protein
+1139141..1139620	+	159	307718732	-	STHERM_c10460	-	-	hypothetical protein
+1139660..1139932	+	90	307718733	-	STHERM_c10470	-	-	hypothetical protein
+1139868..1140449	-	193	307718734	-	STHERM_c10480	-	COG0164L	ribonuclease HII
+1140562..1143345	+	927	307718735	-	STHERM_c10490	-	COG1196D	chromosome partition protein SmC
+1143759..1144211	-	150	307718736	-	STHERM_c10510	-	-	hypothetical protein
+1143901..1145016	+	371	307718737	-	STHERM_c10500	-	-	hypothetical protein
+1145086..1146417	+	443	307718738	-	STHERM_c10520	-	COG0541U	hypothetical protein
+1146436..1146687	+	83	307718739	rpsP2	STHERM_c10530	-	COG0228J	30S ribosomal protein S16
+1146698..1146931	+	77	307718740	-	STHERM_c10540	-	COG1837R	nucleic acid binding protein, containing KH domain
+1146936..1147451	+	171	307718741	rimM	STHERM_c10550	-	COG0806J	16S rRNA processing protein RimM
+1147436..1148194	+	252	307718742	-	STHERM_c10560	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+1148172..1148528	+	118	307718743	rplS	STHERM_c10570	-	COG0335J	50S ribosomal protein L19
+1148532..1149443	+	303	307718744	-	STHERM_c10580	-	-	hypothetical protein
+1149440..1149754	+	104	307718745	-	STHERM_c10590	-	COG1377NU	hypothetical protein
+1149732..1150880	+	382	307718746	-	STHERM_c10600	-	COG2206T	HD domain-containing protein
+1151054..1151260	+	68	307718747	-	STHERM_c10610	-	COG0792L	hypothetical protein
+1151380..1151769	+	129	307718748	-	STHERM_c10620	-	-	hypothetical protein
+1151789..1152529	-	246	307718749	-	STHERM_c10640	-	-	hypothetical protein
+1152498..1153013	+	171	307718750	-	STHERM_c10630	-	COG0669H	phosphopantetheine adenylyltransferase
+1153010..1154014	+	334	307718751	-	STHERM_c10650	-	COG0530P	K+-dependent Na+/Ca+ exchanger-like protein
+1154362..1154604	+	80	307718752	-	STHERM_c10660	-	COG0236IQ	hypothetical protein
+1154782..1155366	+	194	307718753	-	STHERM_c10670	-	COG0571K	hypothetical protein
+1155373..1156638	-	421	307718754	-	STHERM_c10680	-	COG0617J	polyA polymerase family protein
+1156841..1157713	-	290	307718755	-	STHERM_c10690	-	COG1344N	flagellar filament 33 kDa core protein, class B
+1157830..1158510	+	226	307718756	-	STHERM_c10700	-	COG1564H	thiamine pyrophosphokinase
+1158525..1159028	-	167	307718757	-	STHERM_c10710	-	COG0537FGR	hypothetical protein
+1159039..1159851	-	270	307718758	-	STHERM_c10720	-	-	hypothetical protein
+1159848..1160792	-	314	307718759	-	STHERM_c10730	-	COG1011R	hypothetical protein
+1160833..1161153	+	106	307718760	-	STHERM_c10740	-	-	hypothetical protein
+1161159..1161962	+	267	307718761	-	STHERM_c10750	-	COG0024J	hypothetical protein
+1162018..1162455	+	145	307718762	-	STHERM_c10760	-	COG0727R	hypothetical protein
+1162460..1163404	+	314	307718763	-	STHERM_c10770	-	COG1235R	hypothetical protein
+1163388..1163579	+	63	307718764	-	STHERM_c10780	-	-	hypothetical protein
+1163576..1167589	+	1337	307718765	-	STHERM_c10790	-	COG2885M	OmpA family protein
+1167626..1168669	+	347	307718766	-	STHERM_c10800	-	COG1559R	hypothetical protein
+1168687..1170477	+	596	307718767	-	STHERM_c10810	-	COG0358L	DNA primase
+1170458..1172200	+	580	307718768	-	STHERM_c10820	-	COG0568K	RNA polymerase sigma factor
+1172222..1173274	+	350	307718769	-	STHERM_c10830	-	COG1579R	nucleic acid-binding Zn-ribbon protein
+1173813..1174592	+	259	307718770	-	STHERM_c10840	-	COG3063NU	hypothetical protein
+1174608..1175639	+	343	307718771	-	STHERM_c10850	-	COG1077D	hypothetical protein
+1175636..1176463	+	275	307718772	mreC	STHERM_c10860	-	COG1792M	rod shape-determining protein MreC
+1176460..1176954	+	164	307718773	-	STHERM_c10870	-	-	hypothetical protein
+1176951..1178810	+	619	307718774	-	STHERM_c10880	-	COG0768M	penicillin-binding protein
+1178807..1180120	+	437	307718775	-	STHERM_c10890	-	COG0772D	hypothetical protein
+1180122..1182668	+	848	307718776	-	STHERM_c10900	-	COG1032C	hypothetical protein
+1182580..1183485	-	301	307718777	-	STHERM_c10910	-	COG3956R	hypothetical protein
+1183531..1183830	-	99	307718778	-	STHERM_c10920	-	-	hypothetical protein
+1183830..1184558	-	242	307718779	-	STHERM_c10930	-	-	hypothetical protein
+1184527..1186890	-	787	307718780	-	STHERM_c10940	-	COG2114T	hypothetical protein
+1186919..1187599	-	226	307718781	-	STHERM_c10950	-	COG1729S	hypothetical protein
+1187621..1189132	-	503	307718782	-	STHERM_c10960	-	COG3604KT	transcriptional regulatory protein
+1189134..1191536	-	800	307718783	rpsA	STHERM_c10970	-	COG0539J	30S ribosomal protein S1
+1191517..1192284	-	255	307718784	-	STHERM_c10980	-	COG1187J	pseudouridylate synthase
+1192271..1192807	-	178	307718785	-	STHERM_c10990	-	COG1386K	transcriptional regulator
+1192804..1193535	-	243	307718786	-	STHERM_c11000	-	COG1354S	segregation and condensation protein A
+1193549..1194049	-	166	307718787	-	STHERM_c11010	-	COG0801H	hypothetical protein
+1194050..1195177	-	375	307718788	-	STHERM_c11020	-	COG0468L	DNA integration/recombination/invertion protein
+1195232..1195624	-	130	307718789	-	STHERM_c11030	-	COG1490J	D-tyrosyl-tRNA(Tyr) deacylase
+1195683..1196777	-	364	307718790	-	STHERM_c11040	-	COG5010U	hypothetical protein
+1196860..1197678	-	272	307718791	-	STHERM_c11050	-	COG1729S	hypothetical protein
+1197781..1198716	+	311	307718792	-	STHERM_c11060	-	-	hypothetical protein
+1198728..1201424	+	898	307718793	-	STHERM_c11070	-	COG1747S	hypothetical protein
+1201477..1202847	-	456	307718794	-	STHERM_c11080	-	COG1413C	PBS lyase HEAT-like repeat domain-containing protein
+1202844..1204403	-	519	307718795	mviN	STHERM_c11090	-	COG0728R	virulence factor MviN
+1204390..1205535	-	381	307718796	-	STHERM_c11100	-	COG0343J	queuine tRNA-ribosyltransferase
+1205553..1206638	-	361	307718797	-	STHERM_c11110	-	COG0795R	YjgP/YjgQ family permease
+1206635..1207909	-	424	307718798	-	STHERM_c11120	-	COG0795R	hypothetical protein
+1207946..1210075	-	709	307718799	-	STHERM_c11130	-	COG1185J	polyribonucleotide nucleotidyltransferase
+1210083..1210352	-	89	307718800	rpsO	STHERM_c11140	-	COG0184J	30S ribosomal protein S15
+1210356..1211147	-	263	307718801	ribF	STHERM_c11150	-	COG0196H	riboflavin biosynthesis protein RibF
+1211132..1211998	-	288	307718802	-	STHERM_c11160	-	COG0130J	tRNA pseudouridine 55 synthase
+1211998..1212384	-	128	307718803	-	STHERM_c11170	-	COG0858J	ribosome-binding factor A
+1212397..1214742	-	781	307718804	infB	STHERM_c11180	-	COG0532J	translation initiation factor IF-2
+1214751..1216217	-	488	307718805	-	STHERM_c11190	-	COG0195K	hypothetical protein
+1216207..1216755	-	182	307718806	-	STHERM_c11200	-	COG0779S	hypothetical protein
+1216797..1218638	-	613	307718807	-	STHERM_c11210	-	COG3920T	hypothetical protein
+1218716..1219426	-	236	307718808	-	STHERM_c11220	-	COG1040R	hypothetical protein
+1219396..1221999	-	867	307718809	mutS	STHERM_c11230	-	COG0249L	DNA mismatch repair protein MutS
+1222040..1222564	-	174	307718810	-	STHERM_c11240	-	COG2825M	hypothetical protein
+1222579..1225167	-	862	307718811	-	STHERM_c11250	-	COG4775M	surface antigen
+1225187..1229557	-	1456	307718812	-	STHERM_c11270	-	COG2911S	hypothetical protein
+1229536..1230264	+	242	307718813	-	STHERM_c11260	-	COG0125F	thymidylate kinase
+1230278..1230889	+	203	307718814	-	STHERM_c11280	-	-	hypothetical protein
+1230894..1231949	-	351	307718815	queA	STHERM_c11290	-	COG0809J	S-adenosylmethionine:tRNA ribosyltransferase-isomerase QueA
+1231882..1232910	-	342	307718816	ruvB	STHERM_c11300	-	COG2255L	holliday junction ATP-dependent DNA helicase RuvB
+1232960..1233553	-	197	307718817	ruvA	STHERM_c11310	-	COG0632L	Holliday junction ATP-dependent DNA helicase RuvA
+1233543..1234052	-	169	307718818	ruvC	STHERM_c11320	-	COG0817L	crossover junction endodeoxyribonuclease ruvC
+1234049..1234789	-	246	307718819	-	STHERM_c11330	-	COG0217S	hypothetical protein
+1234890..1236122	-	410	307718820	-	STHERM_c11340	-	COG0635H	oxygen-independent coproporphyrinogen III oxidase
+1236119..1236835	-	238	307718821	-	STHERM_c11350	-	-	hypothetical protein
+1236832..1237839	-	335	307718822	-	STHERM_c11360	-	COG0681U	signal peptidase I
+1237936..1239588	+	550	307718823	-	STHERM_c11370	-	COG1262S	hypothetical protein
+1239581..1240042	+	153	307718824	-	STHERM_c11380	-	COG0691O	SsrA-binding protein
+1240093..1240677	+	194	307718825	-	STHERM_c11390	-	COG4783R	hypothetical protein
+1241206..1241448	-	80	307718826	-	STHERM_c11400	-	-	redox-active disulfide protein 2
+1241482..1242783	-	433	307718827	-	STHERM_c11410	-	COG0701R	transporter
+1242780..1243130	-	116	307718828	-	STHERM_c11420	-	COG0640K	transcriptional regulator
+1243232..1244476	+	414	307718829	-	STHERM_c11430	-	COG2885M	OmpA family protein
+1244473..1245039	-	188	307718830	-	STHERM_c11440	-	COG4923S	NUDIX hydrolase
+1245281..1246408	+	375	307718831	-	STHERM_c11450	-	COG2133G	hypothetical protein
+1246521..1247006	+	161	307718832	-	STHERM_c11460	-	-	hypothetical protein
+1247631..1247927	+	98	307718833	-	STHERM_c11490	-	-	hypothetical protein
+1247996..1249501	+	501	307718834	-	STHERM_c11500	-	-	hypothetical protein
+1249498..1251015	+	505	307718835	-	STHERM_c11510	-	COG2604S	hypothetical protein
+1251179..1252993	-	604	307718836	lepA	STHERM_c11520	-	COG0481M	GTP-binding protein lepA
+1253027..1254925	-	632	307718837	-	STHERM_c11530	-	COG3852T	hypothetical protein
+1254952..1255353	-	133	307718838	-	STHERM_c11540	-	COG0745TK	transcriptional regulatory protein
+1255671..1256591	+	306	307718839	-	STHERM_c11560	-	-	hypothetical protein
+1256595..1258481	-	628	307718840	-	STHERM_c11580	-	-	hypothetical protein
+1258417..1260465	+	682	307718841	-	STHERM_c11570	-	COG0480J	elongation factor G 1
+1260508..1262436	-	642	307718842	-	STHERM_c11590	-	COG0840NT	hypothetical protein
+1262586..1264667	+	693	307718843	-	STHERM_c11600	-	COG0480J	translation elongation factor G
+1264767..1266128	-	453	307718844	-	STHERM_c11610	-	COG0372C	hypothetical protein
+1266218..1267045	-	275	307718845	-	STHERM_c11620	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+1266948..1270331	-	1127	307718846	-	STHERM_c11630	-	COG1197LK	transcription-repair coupling factor
+1270370..1271314	+	314	307718847	-	STHERM_c11640	-	-	hypothetical protein
+1271316..1272029	+	237	307718848	-	STHERM_c11650	-	-	hypothetical protein
+1272139..1272450	+	103	307718849	-	STHERM_c11660	-	-	hypothetical protein
+1272447..1273322	+	291	307718850	-	STHERM_c11670	-	COG1180O	hypothetical protein
+1273325..1274224	-	299	307718851	-	STHERM_c11680	-	-	hypothetical protein
+1274296..1274487	+	63	307718852	-	STHERM_c11690	-	COG1141C	ferredoxin-2
+1274951..1275676	-	241	307718853	-	STHERM_c11710	-	COG3328L	hypothetical protein
+1275782..1276189	-	135	307718854	-	STHERM_c11720	-	-	hypothetical protein
+1276335..1276766	+	143	307718855	-	STHERM_c11730	-	-	pyrimidine dimer DNA glycosylase
+1276945..1277352	-	135	307718856	-	STHERM_c11740	-	COG5646S	hypothetical protein
+1277485..1278396	-	303	307718857	-	STHERM_c11750	-	COG2207K	AraC family transcriptional regulator
+1278577..1279572	+	331	307718858	-	STHERM_c11760	-	COG0667C	aldo/keto reductase
+1279625..1280845	+	406	307718859	-	STHERM_c11770	-	COG2271G	major facilitator superfamily permease/D-galactonate transporter
+1280950..1281366	+	138	307718860	-	STHERM_c11780	-	COG1917S	cupin 2 conserved barrel domain-containing protein
+1281303..1282574	+	423	307718861	-	STHERM_c11790	-	COG1979C	iron-containing alcohol dehydrogenase
+1282601..1283077	+	158	307718862	-	STHERM_c11800	-	COG0716C	flavodoxin
+1283126..1283647	+	173	307718863	-	STHERM_c11810	-	COG1853R	hypothetical protein
+1283721..1284512	-	263	307718864	-	STHERM_c11820	-	COG1028IQR	hypothetical protein
+1284614..1285228	-	204	307718865	wrbA	STHERM_c11830	-	COG0655R	flavoprotein WrbA
+1285410..1286252	-	280	307718866	-	STHERM_c11840	-	COG2267I	hypothetical protein
+1286337..1287365	+	342	307718867	-	STHERM_c11850	-	COG1819GC	hypothetical protein
+1287406..1288548	+	380	307718868	-	STHERM_c11860	-	COG3839G	transporter
+1288739..1289041	+	100	307718869	-	STHERM_c11870	-	COG0724R	hypothetical protein
+1289333..1290628	+	431	307718870	-	STHERM_c11880	-	COG4908R	hypothetical protein
+1290562..1291329	+	255	307718871	-	STHERM_c11890	-	-	hypothetical protein
+1291397..1292116	-	239	307718872	-	STHERM_c11900	-	-	hypothetical protein
+1292130..1292699	-	189	307718873	-	STHERM_c11910	-	-	hypothetical protein
+1292744..1294756	+	670	307718874	-	STHERM_c11920	-	-	hypothetical protein
+1294753..1295349	-	198	307718875	-	STHERM_c11930	-	COG2176L	hypothetical protein
+1295379..1295663	+	94	307718876	-	STHERM_c11940	-	-	hypothetical protein
+1295678..1297498	-	606	307718877	-	STHERM_c11950	-	COG1109G	hypothetical protein
+1297530..1298363	+	277	307718878	-	STHERM_c11960	-	COG0144J	NOL1/NOP2/sun family protein
+1298429..1300087	+	552	307718879	-	STHERM_c11970	-	COG0572F	hypothetical protein
+1300119..1303487	-	1122	307718880	-	STHERM_c11980	-	COG1452M	hypothetical protein
+1303484..1306429	-	981	307718881	-	STHERM_c11990	-	COG0178L	excinuclease ABC subunit A
+1306350..1307096	-	248	307718882	-	STHERM_c12000	-	COG1801S	hypothetical protein
+1307106..1308023	-	305	307718883	-	STHERM_c12010	-	-	hypothetical protein
+1307977..1309077	-	366	307718884	-	STHERM_c12020	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+1309181..1309612	-	143	307718885	-	STHERM_c12030	-	-	hypothetical protein
+1309609..1311513	-	634	307718886	-	STHERM_c12040	-	COG1269C	hypothetical protein
+1311510..1312106	-	198	307718887	-	STHERM_c12050	-	COG1394C	V-type ATPase subunit D
+1312078..1313412	-	444	307718888	-	STHERM_c12060	-	COG1156C	V-type ATP synthase subunit B
+1313405..1315180	-	591	307718889	-	STHERM_c12070	-	COG1155C	V-type ATP synthase subunit A
+1315177..1315749	-	190	307718890	-	STHERM_c12080	-	-	hypothetical protein
+1315746..1316354	-	202	307718891	-	STHERM_c12090	-	-	V-type ATPase subunit E
+1316646..1318085	+	479	307718892	-	STHERM_c12100	-	COG2114T	adenylate/guanylate cyclase
+1318096..1318617	+	173	307718893	-	STHERM_c12110	-	-	hypothetical protein
+1318611..1319345	-	244	307718894	-	STHERM_c12120	-	-	hypothetical protein
+1319342..1320106	-	254	307718895	-	STHERM_c12130	-	-	hypothetical protein
+1320085..1321152	-	355	307718896	-	STHERM_c12140	-	COG0502H	hypothetical protein
+1321153..1321329	-	58	307718897	-	STHERM_c12150	-	-	hypothetical protein
+1321452..1321946	-	164	307718898	-	STHERM_c12160	-	-	hypothetical protein
+1322817..1323656	-	279	307718899	-	STHERM_c12170	-	COG4221R	short-chain dehydrogenase/reductase
+1323806..1324054	+	82	307718900	-	STHERM_c12180	-	COG1280E	hypothetical protein
+1324761..1325252	+	163	307718901	-	STHERM_c12190	-	-	hypothetical protein
+1325533..1326465	-	310	307718902	-	STHERM_c12200	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+1326462..1326662	-	66	307718903	-	STHERM_c12210	-	COG1758K	hypothetical protein
+1326741..1327148	-	135	307718904	-	STHERM_c12220	-	COG2703P	hypothetical protein
+1327271..1327795	-	174	307718905	-	STHERM_c12230	-	COG1102F	cytidylate kinase
+1327801..1328667	-	288	307718906	yicC	STHERM_c12240	-	COG1561S	protein YicC
+1328655..1330124	-	489	307718907	-	STHERM_c12250	-	COG0773M	UDP-N-acetylmuramate--L-alanine ligase
+1330163..1330777	-	204	307718908	-	STHERM_c12260	-	-	hypothetical protein
+1330774..1331991	-	405	307718909	-	STHERM_c12270	-	COG4637R	hypothetical protein
+1332118..1333347	+	409	307718910	-	STHERM_c12280	-	COG0738G	hypothetical protein
+1333432..1334892	+	486	307718911	-	STHERM_c12290	-	COG1785P	alkaline phosphatase
+1334951..1336168	+	405	307718912	-	STHERM_c12300	-	COG5438S	multitransmembrane protein-like protein
+1336492..1337532	-	346	307718913	-	STHERM_c12310	-	-	3'-5' exonuclease
+1337631..1339046	+	471	307718914	-	STHERM_c12320	-	COG2843M	hypothetical protein
+1339053..1340636	-	527	307718915	-	STHERM_c12330	-	COG4624R	hypothetical protein
+1340620..1340895	-	91	307718916	-	STHERM_c12340	-	COG1905C	hypothetical protein
+1340908..1342098	-	396	307718917	-	STHERM_c12350	-	COG2208TK	hypothetical protein
+1342091..1343815	-	574	307718918	-	STHERM_c12360	-	COG4624R	hypothetical protein
+1343819..1344073	-	84	307718919	-	STHERM_c12370	-	COG1905C	hypothetical protein
+1344176..1346686	-	836	307718920	clpB1	STHERM_c12380	-	COG0542O	chaperone ClpB
+1346704..1347762	-	352	307718921	-	STHERM_c12390	-	COG3869E	hypothetical protein
+1347759..1348277	-	172	307718922	-	STHERM_c12400	-	COG3880S	hypothetical protein
+1348354..1349628	-	424	307718923	-	STHERM_c12410	-	COG4591M	lipoprotein releasing system transmembrane protein LolC/E family
+1349625..1350305	-	226	307718924	lolD	STHERM_c12420	-	COG1136V	lipoprotein-releasing system ATP-binding protein LolD
+1350298..1351596	-	432	307718925	-	STHERM_c12430	-	COG4591M	lipoprotein releasing system, permease
+1351593..1352657	-	354	307718926	-	STHERM_c12440	-	-	hypothetical protein
+1352660..1353529	-	289	307718927	ftsY	STHERM_c12450	-	COG0552U	signal recognition particle-docking protein FtsY
+1353543..1354949	-	468	307718928	-	STHERM_c12460	-	-	hypothetical protein
+1354957..1356042	-	361	307718929	-	STHERM_c12470	-	COG1186J	peptide chain release factor 2
+1356221..1357516	-	431	307718930	-	STHERM_c12480	-	-	cellulase, glycosyl hydrolase family 5
+1357752..1358942	+	396	307718931	-	STHERM_c12490	-	-	hypothetical protein
+1358932..1360872	-	646	307718932	-	STHERM_c12500	-	COG1543S	alpha-amylase 1
+1361071..1364850	+	1259	307718933	-	STHERM_c12510	-	COG0046F	hypothetical protein
+1364886..1365374	+	162	307718934	-	STHERM_c12520	-	COG0041F	hypothetical protein
+1365425..1366801	+	458	307718935	-	STHERM_c12530	-	COG0034F	hypothetical protein
+1366851..1367867	+	338	307718936	-	STHERM_c12540	-	COG0150F	phosphoribosylformylglycinamidine cyclo-ligase
+1367816..1368460	+	214	307718937	-	STHERM_c12550	-	COG0299F	hypothetical protein
+1368457..1369701	+	414	307718938	-	STHERM_c12560	-	COG0151F	phosphoribosylamine--glycine ligase
+1369770..1371311	-	513	307718939	-	STHERM_c12570	-	COG0493ER	glutamate synthase
+1371311..1372162	-	283	307718940	-	STHERM_c12580	-	COG0543HC	hypothetical protein
+1372297..1372665	+	122	307718941	-	STHERM_c12590	-	-	hypothetical protein
+1372561..1373400	-	279	307718942	-	STHERM_c12600	-	COG2360O	leucyl/phenylalanyl-tRNA--protein transferase
+1373369..1375645	-	758	307718943	-	STHERM_c12610	-	COG0542O	ClpA-like protein
+1375654..1376058	-	134	307718944	clpS	STHERM_c12620	-	COG2127S	ATP-dependent Clp protease adaptor protein clpS
+1376281..1378290	-	669	307718945	-	STHERM_c12630	-	COG3391S	tripartite motif-containing protein 71
+1378287..1378964	-	225	307718946	-	STHERM_c12640	-	COG5010U	hypothetical protein
+1378968..1379726	-	252	307718947	surE	STHERM_c12650	-	COG0496R	5'-nucleotidase
+1379726..1380871	-	381	307718948	-	STHERM_c12660	-	COG0153G	hypothetical protein
+1381058..1381762	-	234	307718949	-	STHERM_c12670	-	COG0775F	MTA/SAH nucleosidase
+1381825..1382877	+	350	307718950	-	STHERM_c12680	-	COG2269J	lysyl-tRNA synthetase
+1382914..1383477	+	187	307718951	-	STHERM_c12690	-	COG0231J	hypothetical protein
+1383495..1384451	+	318	307718952	-	STHERM_c12700	-	COG0031E	cysteine synthase A
+1384448..1384915	+	155	307718953	iscR	STHERM_c12710	-	COG1959K	HTH-type transcriptional regulator IscR
+1384978..1386108	-	376	307718954	-	STHERM_c12720	-	COG3287S	hypothetical protein
+1386200..1387357	-	385	307718955	-	STHERM_c12730	-	COG3264M	hypothetical protein
+1387357..1388751	-	464	307718956	-	STHERM_c12740	-	COG0461F	hypothetical protein
+1388904..1389800	+	298	307718957	-	STHERM_c12750	-	COG0596R	hypothetical protein
+1389781..1390545	+	254	307718958	-	STHERM_c12760	-	COG0846K	transcriptional regulatory protein
+1390608..1391603	-	331	307718959	-	STHERM_c12770	-	-	hypothetical protein
+1391600..1392625	-	341	307718960	-	STHERM_c12780	-	-	hypothetical protein
+1392746..1394029	+	427	307718961	-	STHERM_c12790	-	COG0438M	hypothetical protein
+1394004..1395767	-	587	307718962	-	STHERM_c12800	-	COG0366G	hypothetical protein
+1396055..1396486	+	143	307718963	-	STHERM_c12810	-	COG3086T	hypothetical protein
+1396497..1397366	+	289	307718964	-	STHERM_c12820	-	COG2878C	hypothetical protein
+1397430..1398764	+	444	307718965	-	STHERM_c12830	-	COG4656C	transporter
+1398764..1399795	+	343	307718966	-	STHERM_c12840	-	COG4658C	transporter
+1399788..1400393	+	201	307718967	-	STHERM_c12850	-	COG4659C	transporter
+1400396..1400995	+	199	307718968	-	STHERM_c12860	-	COG4660C	transporter
+1400999..1401571	+	190	307718969	-	STHERM_c12870	-	COG4657C	transporter
+1401714..1402370	+	218	307718970	radC	STHERM_c12880	-	COG2003L	DNA repair protein RadC
+1402490..1403770	-	426	307718971	-	STHERM_c12890	-	COG2873E	O-acetylhomoserine/O-acetylserine sulfhydrylase
+1403822..1404751	-	309	307718972	-	STHERM_c12900	-	COG0031E	cysteine synthase A
+1404763..1405179	-	138	307718973	-	STHERM_c12910	-	COG1959K	AsnC family transcriptional regulator
+1405334..1405648	+	104	307718974	-	STHERM_c12920	-	COG1359S	inner membrane protein
+1405655..1406842	-	395	307718975	-	STHERM_c12930	-	COG2885M	hypothetical protein
+1406897..1407391	-	164	307718976	-	STHERM_c12940	-	COG2314S	hypothetical protein
+1407402..1408541	-	379	307718977	fliG	STHERM_c12950	-	COG1536N	flagellar motor switch protein FliG
+1408575..1409873	-	432	307718978	-	STHERM_c12960	-	-	hypothetical protein
+1409875..1410252	-	125	307718979	-	STHERM_c12970	-	COG0789K	transcriptional regulatory protein
+1410254..1411606	-	450	307718980	engA	STHERM_c12980	-	COG1160R	GTP-binding protein EngA
+1411590..1413329	-	579	307718981	-	STHERM_c12990	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase
+1413447..1414169	+	240	307718982	-	STHERM_c13000	-	COG5401R	hypothetical protein
+1414142..1414933	-	263	307718983	-	STHERM_c13010	-	COG1189J	hemolysin
+1414939..1415724	-	261	307718984	-	STHERM_c13020	-	COG1692S	hypothetical protein
+1415830..1417359	-	509	307718985	-	STHERM_c13030	-	COG1418R	HDIG domain-containing protein
+1417539..1418144	+	201	307718986	-	STHERM_c13040	-	COG0424D	Maf-like protein
+1420245..1420850	+	201	307718987	-	STHERM_c13050	-	COG0424D	Maf-like protein
+1420899..1421849	+	316	307718988	rpsB	STHERM_c13060	-	COG0052J	30S ribosomal protein S2
+1421853..1422695	+	280	307718989	-	STHERM_c13070	-	COG0264J	elongation factor Ts
+1422766..1423320	+	184	307718990	-	STHERM_c13080	-	COG0233J	ribosome recycling factor
+1423320..1424018	+	232	307718991	-	STHERM_c13090	-	COG0020I	undecaprenyl pyrophosphate synthetase
+1424015..1424851	+	278	307718992	-	STHERM_c13100	-	COG4589R	phosphatidate cytidylyltransferase
+1424869..1426005	+	378	307718993	-	STHERM_c13110	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+1425995..1427359	+	454	307718994	-	STHERM_c13120	-	COG0750M	hypothetical protein
+1427384..1429354	+	656	307718995	-	STHERM_c13130	-	COG2319R	hypothetical protein
+1429356..1430723	-	455	307718996	-	STHERM_c13140	-	COG0305L	hypothetical protein
+1430720..1431250	-	176	307718997	rplI	STHERM_c13150	-	COG0359J	50S ribosomal protein L9
+1431253..1432203	-	316	307718998	-	STHERM_c13160	-	-	hypothetical protein
+1432206..1432514	-	102	307718999	rpsR	STHERM_c13170	-	COG0238J	30S ribosomal protein S18
+1432530..1432955	-	141	307719000	-	STHERM_c13180	-	COG0629L	single-strand binding protein
+1432965..1433309	-	114	307719001	-	STHERM_c13190	-	COG0360J	hypothetical protein
+1433374..1433817	+	147	307719002	-	STHERM_c13200	-	-	hypothetical protein
+1433863..1435437	+	524	307719003	anfA	STHERM_c13210	-	COG3604KT	nitrogen fixation protein AnfA
+1435630..1436994	+	454	307719004	-	STHERM_c13220	-	COG0004P	ammonium transporter
+1437005..1437346	+	113	307719005	-	STHERM_c13230	-	COG0347E	transcriptional regulatory protein
+1437411..1437683	-	90	307719006	-	STHERM_c13240	-	-	hypothetical protein
+1438015..1439412	+	465	307719007	-	STHERM_c13250	-	COG0161H	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1439399..1440595	+	398	307719008	-	STHERM_c13260	-	COG0156H	hypothetical protein
+1440592..1441245	+	217	307719009	-	STHERM_c13270	-	COG2830S	hypothetical protein
+1441226..1441984	+	252	307719010	bioC	STHERM_c13280	-	COG2226H	biotin biosynthesis protein BioC
+1441990..1442682	+	230	307719011	-	STHERM_c13290	-	COG0132H	dethiobiotin synthetase 2
+1442764..1446486	+	1240	307719012	-	STHERM_c13300	-	COG1391OT	glutamate-ammonia-ligase adenylyltransferase
+1446483..1447727	-	414	307719013	-	STHERM_c13310	-	COG1070G	xylulokinase
+1447853..1449118	-	421	307719014	-	STHERM_c13320	-	COG0462FE	hypothetical protein
+1449204..1449929	-	241	307719015	-	STHERM_c13330	-	COG3328L	hypothetical protein
+1450035..1450442	-	135	307719016	-	STHERM_c13340	-	-	hypothetical protein
+1450572..1451927	-	451	307719017	-	STHERM_c13350	-	COG0534V	hypothetical protein
+1452034..1453086	+	350	307719018	-	STHERM_c13360	-	COG0598P	transporter
+1453083..1454435	-	450	307719019	-	STHERM_c13370	-	COG0165E	argininosuccinate lyase
+1454494..1454775	+	93	307719020	-	STHERM_c13380	-	-	hypothetical protein
+1455071..1457683	-	870	307719021	clpB2	STHERM_c13390	-	COG0542O	chaperone ClpB
+1457973..1458749	-	258	307719022	-	STHERM_c13400	-	COG0518F	hypothetical protein
+1459002..1459304	+	100	307719023	-	STHERM_c13410	-	COG1669R	nucleotidyltransferase
+1459404..1459646	+	80	307719024	-	STHERM_c13420	-	COG2361S	nucleotidyltransferase
+1459797..1460864	+	355	307719025	-	STHERM_c13430	-	COG0079E	histidinol-phosphate aminotransferase 2
+1461518..1462399	-	293	307719026	-	STHERM_c13440	-	COG0310P	hypothetical protein
+1462614..1463852	+	412	307719027	-	STHERM_c13450	-	COG3328L	hypothetical protein
+1464119..1464727	+	202	307719028	-	STHERM_c13470	-	COG1704S	LemA family protein
+1464742..1465512	+	256	307719029	-	STHERM_c13480	-	COG1512R	hypothetical protein
+1465649..1465957	+	102	307719030	-	STHERM_c13490	-	COG3762S	long-chain-fatty-acid-CoA ligase
+1466220..1466543	-	107	307719031	-	STHERM_c13500	-	COG1917S	cupin
+1466705..1467730	+	341	307719032	-	STHERM_c13510	-	COG1638G	transporter
+1467791..1468336	+	181	307719033	-	STHERM_c13520	-	COG3090G	hypothetical protein
+1468329..1469627	+	432	307719034	-	STHERM_c13530	-	COG1593G	transporter
+1469752..1470351	-	199	307719035	-	STHERM_c13540	-	COG1240H	hypothetical protein
+1470587..1471618	-	343	307719036	-	STHERM_c13550	-	COG1239H	hypothetical protein
+1471618..1472178	-	186	307719037	-	STHERM_c13560	-	-	hypothetical protein
+1472240..1472737	+	165	307719038	-	STHERM_c13570	-	-	hypothetical protein
+1472720..1473370	-	216	307719039	-	STHERM_c13580	-	-	hypothetical protein
+1473396..1473779	-	127	307719040	-	STHERM_c13590	-	COG1725K	transcriptional regulatory protein
+1473769..1474497	-	242	307719041	-	STHERM_c13600	-	-	hypothetical protein
+1474494..1475339	-	281	307719042	-	STHERM_c13610	-	COG1131V	ABC transporter ATP-binding protein
+1475464..1475790	+	108	307719043	-	STHERM_c13620	-	-	hypothetical protein
+1475887..1478670	+	927	307719044	-	STHERM_c13630	-	-	hypothetical protein
+1478751..1479560	-	269	307719045	-	STHERM_c13640	-	COG0428P	hypothetical protein
+1479843..1480523	-	226	307719046	-	STHERM_c13650	-	COG0689J	ribonuclease PH
+1480572..1480811	-	79	307719047	-	STHERM_c13660	-	COG1669R	hypothetical protein
+1480861..1481262	-	133	307719048	-	STHERM_c13670	-	COG2250S	hepn domain-containing protein
+1481259..1481366	-	35	307719049	-	STHERM_c13680	-	-	hypothetical protein
+1481451..1481675	+	74	307719050	-	STHERM_c13690	-	-	hypothetical protein
+1481721..1482680	+	319	307719051	-	STHERM_c13700	-	COG1131V	transporter
+1482677..1483540	+	287	307719052	-	STHERM_c13710	-	-	ABC transporter permease
+1483551..1485017	+	488	307719053	-	STHERM_c13720	-	-	hypothetical protein
+1484846..1486483	+	545	307719054	-	STHERM_c13730	-	-	hypothetical protein
+1486556..1488307	-	583	307719055	-	STHERM_c13740	-	COG4624R	hypothetical protein
+1488318..1490105	-	595	307719056	-	STHERM_c13750	-	COG1894C	hypothetical protein
+1490115..1490450	-	111	307719057	-	STHERM_c13760	-	COG3411C	hypothetical protein
+1490452..1491075	-	207	307719058	-	STHERM_c13770	-	COG0642T	histidine kinase
+1491080..1491562	-	160	307719059	-	STHERM_c13780	-	COG1905C	hypothetical protein
+1491684..1492346	+	220	307719060	-	STHERM_c13790	-	COG2344R	transcriptional regulatory protein
+1492391..1492750	+	119	307719061	-	STHERM_c13800	-	-	hypothetical protein
+1492728..1493687	+	319	307719062	-	STHERM_c13810	-	COG2524K	transcriptional regulatory protein
+1493653..1493994	+	113	307719063	-	STHERM_c13820	-	-	hypothetical protein
+1494054..1494704	+	216	307719064	-	STHERM_c13830	-	COG1379S	PHP-like protein
+1494767..1496779	-	670	307719065	-	STHERM_c13840	-	COG2273G	laminarinase
+1496872..1500285	-	1137	307719066	-	STHERM_c13850	-	-	hypothetical protein
+1500362..1501417	-	351	307719067	-	STHERM_c13860	-	COG1609K	transcriptional regulatory protein
+1501509..1502594	-	361	307719068	-	STHERM_c13870	-	COG2273G	glycoside hydrolase family protein
+1502563..1503033	-	156	307719069	-	STHERM_c13880	-	-	beta and gamma crystallin
+1503239..1504273	-	344	307719070	-	STHERM_c13890	-	COG1609K	glucose-resistance amylase regulator
+1504284..1505687	-	467	307719071	-	STHERM_c13900	-	COG5520M	glucosylceramidase
+1505728..1506753	-	341	307719072	-	STHERM_c13910	-	COG0395G	transporter
+1506750..1507694	-	314	307719073	-	STHERM_c13920	-	COG1175G	transporter
+1507762..1509126	-	454	307719074	-	STHERM_c13930	-	COG1653G	sugar ABC transporter substrate-binding protein
+1509475..1511556	-	693	307719075	-	STHERM_c13940	-	COG1472G	glycoside hydrolase family protein
+1511616..1513655	-	679	307719076	-	STHERM_c13950	-	COG3661G	hypothetical protein
+1513969..1514523	-	184	307719077	-	STHERM_c13960	-	-	hypothetical protein
+1514780..1515970	+	396	307719078	-	STHERM_c13970	-	-	hypothetical protein
+1516057..1516638	-	193	307719079	-	STHERM_c13980	-	-	hypothetical protein
+1516635..1518056	-	473	307719080	-	STHERM_c13990	-	COG1486G	alpha-glucosidase
+1518267..1518890	+	207	307719081	-	STHERM_c14000	-	COG2518O	protein-L-isoaspartate O-methyltransferase
+1518941..1519690	+	249	307719082	-	STHERM_c14010	-	COG0566J	hypothetical protein
+1519621..1521861	-	746	307719083	-	STHERM_c14020	-	COG2270R	hypothetical protein
+1521986..1522321	+	111	307719084	-	STHERM_c14030	-	-	hypothetical protein
+1522322..1523260	-	312	307719085	-	STHERM_c14040	-	COG0501O	peptidase, M48 family
+1523290..1523559	+	89	307719086	-	STHERM_c14050	-	COG3450R	hypothetical protein
+1523593..1525302	-	569	307719087	glnS	STHERM_c14060	-	COG0008J	glutaminyl-tRNA synthetase
+1525459..1526274	+	271	307719088	-	STHERM_c14070	-	COG0300R	dehydrogenase/reductase SDR family member 8 precursor
+1526271..1527866	+	531	307719089	-	STHERM_c14080	-	COG1012C	aldehyde dehydrogenase 22A1 precursor
+1527863..1530889	-	1008	307719090	-	STHERM_c14090	-	COG1379S	hypothetical protein
+1530886..1532031	-	381	307719091	-	STHERM_c14100	-	COG0232F	deoxyguanosinetriphosphate triphosphohydrolase-like protein
+1532227..1533813	+	528	307719092	-	STHERM_c14110	-	COG2199T	hypothetical protein
+1533878..1535770	+	630	307719093	-	STHERM_c14120	-	COG1022I	hypothetical protein
+1535813..1536874	+	353	307719094	-	STHERM_c14130	-	-	hypothetical protein
+1536831..1538861	-	676	307719095	-	STHERM_c14140	-	COG2200T	hypothetical protein
+1538945..1539382	-	145	307719096	-	STHERM_c14150	-	COG4753T	hypothetical protein
+1539452..1540771	-	439	307719097	rhlB	STHERM_c14160	-	COG0513LKJ	ATP-dependent RNA helicase RhlB
+1540879..1543209	-	776	307719098	-	STHERM_c14170	-	COG0642T	two-component system sensor histidine kinase
+1543250..1544518	-	422	307719099	-	STHERM_c14180	-	COG2204T	response regulator
+1544745..1545395	+	216	307719100	-	STHERM_c14190	-	COG1309K	hypothetical protein
+1545392..1548094	+	900	307719101	-	STHERM_c14200	-	COG1033R	transporter
+1548091..1548861	+	256	307719102	-	STHERM_c14210	-	-	hypothetical protein
+1548874..1550307	+	477	307719103	-	STHERM_c14220	-	-	hypothetical protein
+1550457..1552298	+	613	307719104	-	STHERM_c14230	-	COG1109G	hypothetical protein
+1552264..1552746	-	160	307719105	-	STHERM_c14240	-	COG3476T	hypothetical protein
+1552809..1553627	-	272	307719106	-	STHERM_c14250	-	COG1194L	A/G-specific adenine glycosylase
+1553629..1554342	-	237	307719107	-	STHERM_c14260	-	COG0637R	GS1-like protein
+1554335..1555402	-	355	307719108	-	STHERM_c14270	-	COG0180J	tryptophanyl-tRNA synthetase
+1555458..1556195	+	245	307719109	-	STHERM_c14280	-	-	hypothetical protein
+1556197..1557330	+	377	307719110	-	STHERM_c14290	-	COG0147EH	hypothetical protein
+1557492..1558187	+	231	307719111	-	STHERM_c14300	-	COG0115EH	hypothetical protein
+1558138..1559184	-	348	307719112	-	STHERM_c14310	-	COG0628R	hypothetical protein
+1559210..1560025	-	271	307719113	-	STHERM_c14320	-	-	hypothetical protein
+1560170..1560790	+	206	307719114	-	STHERM_c14330	-	COG0605P	superoxide dismutase Mn type
+1560936..1561571	+	211	307719115	-	STHERM_c14340	-	COG2344R	redox-sensing transcriptional repressor rex
+1561546..1562187	-	213	307719116	-	STHERM_c14350	-	COG1116P	transporter
+1562286..1563044	-	252	307719117	-	STHERM_c14360	-	COG0600P	transporter
+1563041..1564273	-	410	307719118	-	STHERM_c14370	-	COG0162J	tyrosyl-tRNA synthetase
+1564270..1565601	-	443	307719119	-	STHERM_c14380	-	COG0423J	glycyl-tRNA synthetase
+1565604..1567082	-	492	307719120	-	STHERM_c14390	-	COG0008J	glutamyl-tRNA synthetase
+1567202..1568449	-	415	307719121	-	STHERM_c14400	-	COG0436E	aspartate aminotransferase
+1568446..1569246	-	266	307719122	-	STHERM_c14410	-	-	hypothetical protein
+1569263..1570474	+	403	307719123	-	STHERM_c14420	-	COG2206T	HD domain-containing protein
+1570552..1571295	+	247	307719124	-	STHERM_c14430	-	-	hypothetical protein
+1571509..1573125	+	538	307719125	-	STHERM_c14440	-	COG0058G	hypothetical protein
+1573615..1574127	-	170	307719126	-	STHERM_c14450	-	COG5276S	hypothetical protein
+1574274..1575281	+	335	307719127	-	STHERM_c14460	-	COG0340H	hypothetical protein
+1575354..1575899	+	181	307719128	bioY	STHERM_c14470	-	COG1268R	biotin synthase
+1575896..1576609	+	237	307719129	-	STHERM_c14480	-	COG1122P	membrane associated ATPase
+1576456..1577370	+	304	307719130	-	STHERM_c14490	-	-	hypothetical protein
+1577339..1579327	-	662	307719131	-	STHERM_c14500	-	COG2217P	zinc-transporting ATPase
+1579338..1579640	-	100	307719132	-	STHERM_c14510	-	COG0640K	transcriptional regulatory protein
+1579750..1580745	-	331	307719133	-	STHERM_c14520	-	COG2730G	endo-1-4-beta glucanase, glycosyl hydrolase family 5
+1580806..1582344	-	512	307719134	-	STHERM_c14530	-	-	sialate O-acetylesterase
+1582500..1583894	+	464	307719135	trkA	STHERM_c14540	-	COG0569P	Trk system potassium uptake protein TrkA
+1583891..1585336	+	481	307719136	-	STHERM_c14550	-	COG0168P	hypothetical protein
+1585402..1587252	+	616	307719137	-	STHERM_c14560	-	COG0129EG	dihydroxy-acid dehydratase
+1587333..1587716	-	127	307719138	-	STHERM_c14570	-	COG0295F	hypothetical protein
+1587858..1588616	-	252	307719139	-	STHERM_c14580	-	-	hypothetical protein
+1589010..1589291	-	93	307719140	-	STHERM_c14590	-	-	hypothetical protein
+1589325..1591613	-	762	307719141	-	STHERM_c14600	-	COG1472G	glycoside hydrolase, family 3 domain-containing protein
+1591659..1592600	-	313	307719142	-	STHERM_c14610	-	COG4099R	hypothetical protein
+1592694..1594376	-	560	307719143	-	STHERM_c14620	-	COG1472G	glycosyl hydrolase
+1594396..1595358	-	320	307719144	-	STHERM_c14630	-	COG2207K	transcriptional regulatory protein
+1595664..1596857	+	397	307719145	-	STHERM_c14640	-	COG2814G	hypothetical protein
+1596861..1597664	-	267	307719146	-	STHERM_c14650	-	COG0444EP	transporter
+1597648..1598121	-	157	307719147	-	STHERM_c14660	-	COG0444EP	hypothetical protein
+1598317..1599258	+	313	307719148	-	STHERM_c14670	-	COG4189K	transcriptional regulatory protein
+1599307..1601238	+	643	307719149	-	STHERM_c14680	-	COG3533S	hypothetical protein
+1601325..1602860	-	511	307719150	-	STHERM_c14690	-	COG3507G	hypothetical protein
+1603174..1603962	+	262	307719151	-	STHERM_c14700	-	-	hypothetical protein
+1603990..1605279	+	429	307719152	-	STHERM_c14710	-	-	hypothetical protein
+1605360..1606097	+	245	307719153	-	STHERM_c14720	-	-	transmembrane protein
+1606170..1607816	+	548	307719154	-	STHERM_c14730	-	COG3507G	hypothetical protein
+1607821..1608825	+	334	307719155	-	STHERM_c14740	-	COG3507G	hypothetical protein
+1608945..1610108	-	387	307719156	-	STHERM_c14750	-	COG0371C	glycerol-1-phosphate dehydrogenase
+1610146..1611636	-	496	307719157	-	STHERM_c14760	-	COG3534G	alpha-N-arabinofuranosidase
+1611629..1613134	-	501	307719158	-	STHERM_c14770	-	COG3534G	alpha-N-arabinofuranosidase
+1613433..1614842	+	469	307719159	-	STHERM_c14780	-	-	hypothetical protein
+1614815..1615291	-	158	307719160	-	STHERM_c14790	-	-	hypothetical protein
+1615447..1618074	+	875	307719161	-	STHERM_c14800	-	-	hypothetical protein
+1618078..1619130	+	350	307719162	-	STHERM_c14810	-	-	hypothetical protein
+1619475..1620599	+	374	307719163	-	STHERM_c14820	-	-	hypothetical protein
+1620596..1622194	+	532	307719164	-	STHERM_c14830	-	-	hypothetical protein
+1622251..1622847	+	198	307719165	-	STHERM_c14840	-	COG1280E	lysine exporter protein
+1622707..1623477	-	256	307719166	-	STHERM_c14850	-	COG1162R	hypothetical protein
+1623547..1623924	+	125	307719167	-	STHERM_c14860	-	COG2204T	hypothetical protein
+1623976..1624731	+	251	307719168	ggaA	STHERM_c14870	-	COG1215M	minor teichoic acid biosynthesis protein GgaA
+1624728..1625957	-	409	307719169	-	STHERM_c14880	-	COG0344S	hypothetical protein
+1626068..1627456	-	462	307719170	-	STHERM_c14890	-	COG1249C	dihydrolipoyl dehydrogenase
+1627550..1627762	-	70	307719171	-	STHERM_c14900	-	-	hypothetical protein
+1627762..1628163	-	133	307719172	-	STHERM_c14910	-	COG5274CI	soluble cytochrome b558
+1628580..1630868	-	762	307719173	-	STHERM_c14920	-	COG2217P	hypothetical protein
+1630901..1631524	-	207	307719174	-	STHERM_c14930	-	COG2226H	hypothetical protein
+1631514..1631906	-	130	307719175	-	STHERM_c14940	-	COG3439S	hypothetical protein
+1632046..1632339	+	97	307719176	-	STHERM_c14950	-	-	hypothetical protein
+1632329..1633264	+	311	307719177	-	STHERM_c14960	-	-	hypothetical protein
+1633312..1635558	+	748	307719178	-	STHERM_c14970	-	COG0421E	hypothetical protein
+1635652..1636302	+	216	307719179	-	STHERM_c14980	-	-	hypothetical protein
+1636356..1636811	+	151	307719180	-	STHERM_c14990	-	COG2608P	heavy metal-binding protein
+1636929..1639391	+	820	307719181	-	STHERM_c15000	-	COG2217P	transporter
+1639456..1641096	-	546	307719182	-	STHERM_c15010	-	COG0366G	oligo-1,6-glucosidase
+1641159..1642058	-	299	307719183	-	STHERM_c15020	-	COG0395G	transporter
+1642055..1643149	-	364	307719184	-	STHERM_c15030	-	COG1175G	transporter
+1643222..1644496	-	424	307719185	aglE	STHERM_c15040	-	COG1653G	alpha-glucosides-binding periplasmic protein AglE precursor
+1644545..1645543	-	332	307719186	-	STHERM_c15050	-	COG1609K	transcriptional regulatory protein
+1645683..1645889	-	68	307719187	-	STHERM_c15060	-	-	hypothetical protein
+1646040..1647209	+	389	307719188	-	STHERM_c15070	-	COG1979C	hypothetical protein
+1647287..1647895	+	202	307719189	-	STHERM_c15080	-	COG0797M	hypothetical protein
+1647966..1650380	-	804	307719190	-	STHERM_c15090	-	COG3693G	endo-1,4-beta-xylanase B
+1650570..1653038	+	822	307719191	-	STHERM_c15100	-	COG0446R	hypothetical protein
+1653053..1653961	-	302	307719192	-	STHERM_c15110	-	COG5006R	transporter
+1654075..1654272	+	65	307719193	-	STHERM_c15120	-	-	hypothetical protein
+1654279..1655094	-	271	307719194	-	STHERM_c15130	-	COG1237R	hypothetical protein
+1655097..1655471	-	124	307719195	-	STHERM_c15140	-	COG1433S	hypothetical protein
+1655570..1655905	-	111	307719196	-	STHERM_c15150	-	-	hypothetical protein
+1655954..1656319	-	121	307719197	-	STHERM_c15160	-	-	hypothetical protein
+1656486..1657859	-	457	307719198	-	STHERM_c15170	-	COG3829KT	transcriptional regulatory protein
+1657904..1658314	-	136	307719199	-	STHERM_c15180	-	COG1342R	DNA-binding protein
+1658374..1659078	+	234	307719200	-	STHERM_c15190	-	COG3683R	ABC-type transport system periplasmic component-like protein
+1659082..1659972	+	296	307719201	-	STHERM_c15200	-	COG2215R	hypothetical protein
+1659988..1660632	+	214	307719202	-	STHERM_c15210	-	COG0419L	hypothetical protein
+1660710..1661285	+	191	307719203	-	STHERM_c15220	-	-	hypothetical protein
+1661314..1661523	+	69	307719204	-	STHERM_c15230	-	COG2250S	hepn domain-containing protein
+1661558..1661860	+	100	307719205	-	STHERM_c15240	-	-	hypothetical protein
+1661994..1662734	+	246	307719206	-	STHERM_c15250	-	COG0396O	transporter
+1662731..1663684	+	317	307719207	-	STHERM_c15260	-	COG0719O	iron-regulated ABC transporter membrane subunit
+1663763..1664332	-	189	307719208	-	STHERM_c15270	-	-	hypothetical protein
+1664343..1665878	-	511	307719209	-	STHERM_c15280	-	-	hypothetical protein
+1665939..1666673	-	244	307719210	-	STHERM_c15290	-	-	hypothetical protein
+1666729..1668063	-	444	307719211	-	STHERM_c15300	-	-	hypothetical protein
+1668108..1668878	-	256	307719212	-	STHERM_c15310	-	COG0637R	hypothetical protein
+1668866..1671049	-	727	307719213	-	STHERM_c15320	-	COG1554G	kojibiose phosphorylase
+1671033..1673351	-	772	307719214	-	STHERM_c15330	-	COG1554G	kojibiose phosphorylase
+1673452..1674318	-	288	307719215	-	STHERM_c15340	-	COG0395G	transporter
+1674320..1675300	-	326	307719216	-	STHERM_c15350	-	COG1175G	transporter
+1675302..1676699	-	465	307719217	-	STHERM_c15360	-	COG1653G	extracellular solute-binding protein
+1676844..1678712	-	622	307719218	-	STHERM_c15370	-	COG0840NT	hypothetical protein
+1678850..1679917	-	355	307719219	-	STHERM_c15380	-	COG1609K	transcriptional repressor
+1679987..1680160	-	57	307719220	-	STHERM_c15390	-	-	hypothetical protein
+1680296..1682209	-	637	307719221	-	STHERM_c15400	-	COG5276S	LVIVD repeat-containing protein
+1682518..1683033	+	171	307719222	-	STHERM_c15410	-	-	hypothetical protein
+1683271..1683927	+	218	307719223	-	STHERM_c15420	-	COG1309K	transcriptional regulator
+1683978..1684877	+	299	307719224	-	STHERM_c15430	-	-	hypothetical protein
+1684874..1685911	+	345	307719225	-	STHERM_c15440	-	COG1233Q	phytoene dehydrogenase
+1685933..1686355	+	140	307719226	-	STHERM_c15450	-	COG1233Q	hypothetical protein
+1686525..1687322	-	265	307719227	-	STHERM_c15460	-	COG2226H	hypothetical protein
+1687359..1687766	-	135	307719228	-	STHERM_c15470	-	-	hypothetical protein
+1687827..1688024	-	65	307719229	-	STHERM_c15480	-	-	hypothetical protein
+1688044..1688589	-	181	307719230	-	STHERM_c15490	-	-	hypothetical protein
+1688727..1689965	-	412	307719231	-	STHERM_c15500	-	COG3328L	hypothetical protein
+1690272..1694705	-	1477	307719232	-	STHERM_c15510	-	COG3581S	hypothetical protein
+1694913..1695203	+	96	307719233	-	STHERM_c15520	-	COG1669R	hypothetical protein
+1695200..1695532	+	110	307719234	-	STHERM_c15530	-	COG2361S	nucleotidyltransferase
+1695592..1696179	+	195	307719235	-	STHERM_c15540	-	COG2095U	hypothetical protein
+1696463..1696744	-	93	307719236	-	STHERM_c15550	-	COG1669R	nucleotidyltransferase domain-containing protein
+1696752..1697147	-	131	307719237	-	STHERM_c15560	-	COG2250S	hypothetical protein
+1697521..1698636	-	371	307719238	-	STHERM_c15570	-	COG2006S	iron-sulfur cluster-binding protein
+1698782..1699657	-	291	307719239	-	STHERM_c15580	-	COG3475M	hypothetical protein
+1699910..1701769	-	619	307719240	-	STHERM_c15590	-	COG0075E	class V aminotransferase
+1701766..1702878	-	370	307719241	-	STHERM_c15600	-	COG4032R	phosphonopyruvate decarboxylase
+1702878..1704473	-	531	307719242	-	STHERM_c15610	-	COG2513G	hypothetical protein
+1704759..1705865	-	368	307719243	-	STHERM_c15620	-	COG2244R	transporter
+1706241..1707128	-	295	307719244	-	STHERM_c15630	-	-	glycosyltransferase
+1707134..1708099	-	321	307719245	-	STHERM_c15640	-	COG0463M	glycosyl transferase, group 2
+1708109..1709209	-	366	307719246	-	STHERM_c15650	-	COG3524M	hypothetical protein
+1709355..1710611	+	418	307719247	-	STHERM_c15660	-	COG0438M	hypothetical protein
+1710608..1711747	-	379	307719248	-	STHERM_c15670	-	COG0438M	hypothetical protein
+1711757..1712869	-	370	307719249	-	STHERM_c15680	-	COG0438M	group 1 glycosyl transferase
+1712860..1714197	-	445	307719250	-	STHERM_c15690	-	-	hypothetical protein
+1714190..1714918	-	242	307719251	-	STHERM_c15700	-	COG0438M	glycosyl transferase, group 1 family
+1715359..1716417	-	352	307719252	-	STHERM_c15710	-	COG0463M	hypothetical protein
+1716414..1717667	-	417	307719253	-	STHERM_c15720	-	COG0438M	group 1 glycosyl transferase
+1722251..1723363	-	370	307719254	-	STHERM_c15730	-	COG0451MG	GDP-L-fucose synthase 2
+1723380..1724516	-	378	307719255	-	STHERM_c15740	-	COG1089M	GDP-mannose 4,6-dehydratase
+1724519..1725874	-	451	307719256	-	STHERM_c15750	-	COG0438M	group 1 glycosyl transferase
+1725900..1726973	-	357	307719257	-	STHERM_c15760	-	COG0472M	hypothetical protein
+1727003..1728508	-	501	307719258	-	STHERM_c15770	-	-	hypothetical protein
+1728935..1729294	-	119	307719259	-	STHERM_c15780	-	COG1669R	DNA polymerase, beta domain-containing protein region
+1729322..1730416	-	364	307719260	-	STHERM_c15790	-	COG0617J	polyA polymerase family protein
+1730511..1731824	+	437	307719261	-	STHERM_c15800	-	COG0124J	histidyl-tRNA synthetase
+1731876..1734389	+	837	307719262	-	STHERM_c15810	-	COG1643L	hypothetical protein
+1734390..1735433	-	347	307719263	-	STHERM_c15820	-	COG0337E	3-dehydroquinate synthase
+1735547..1737481	-	644	307719264	-	STHERM_c15830	-	COG3325G	glycosyl hydrolases family 18
+1737902..1738207	+	101	307719265	-	STHERM_c15840	-	COG0724R	RNA-binding region RNP-1
+1738332..1739804	+	490	307719266	-	STHERM_c15850	-	COG1596M	polysaccharide biosynthesis protein
+1739908..1740228	-	106	307719267	-	STHERM_c15860	-	COG0640K	ArsR family transcriptional regulator
+1740577..1741731	+	384	307719268	-	STHERM_c15870	-	COG1104E	cysteine desulfurase
+1741826..1743007	+	393	307719269	thiI	STHERM_c15880	-	COG0301H	thiamine biosynthesis protein ThiI
+1743385..1744170	-	261	307719270	-	STHERM_c15890	-	COG0107E	Imidazole glycerol phosphate synthase cyclase subunit
+1744180..1744794	-	204	307719271	hisH	STHERM_c15900	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+1744860..1745678	-	272	307719272	-	STHERM_c15910	-	-	hypothetical protein
+1745681..1748827	-	1048	307719273	-	STHERM_c15920	-	COG0060J	isoleucyl-tRNA synthetase
+1748975..1749784	+	269	307719274	-	STHERM_c15930	-	COG0558I	CDP-alcohol phosphatidyltransferase
+1749945..1752947	-	1000	307719275	-	STHERM_c15940	-	COG1449G	glycoside hydrolase family protein
+1753048..1753632	-	194	307719276	-	STHERM_c15950	-	-	hypothetical protein
+1753651..1755654	-	667	307719277	-	STHERM_c15960	-	-	hypothetical protein
+1755672..1755776	-	34	307719278	-	STHERM_c15970	-	-	hypothetical protein
+1756023..1757336	+	437	307719279	-	STHERM_c15980	-	COG0366G	alpha-amylase type A isozyme precursor
+1757434..1759326	+	630	307719280	-	STHERM_c15990	-	COG0840NT	hypothetical protein
+1759332..1759625	-	97	307719281	-	STHERM_c16000	-	-	hypothetical protein
+1759643..1760239	-	198	307719282	-	STHERM_c16010	-	-	hypothetical protein
+1760310..1761830	-	506	307719283	-	STHERM_c16020	-	COG2317E	thermostable carboxypeptidase 1
+1761866..1763602	-	578	307719284	-	STHERM_c16030	-	COG0441J	threonyl-tRNA synthetase
+1763707..1764558	-	283	307719285	-	STHERM_c16040	-	COG2084I	3-hydroxyisobutyrate dehydrogenase
+1764773..1766206	-	477	307719286	-	STHERM_c16050	-	COG1690S	hypothetical protein
+1766220..1767119	-	299	307719287	-	STHERM_c16070	-	COG1355R	dioxygenase
+1767118..1768305	+	395	307719288	-	STHERM_c16060	-	-	hypothetical protein
+1768257..1769132	-	291	307719289	-	STHERM_c16080	-	-	hypothetical protein
+1769119..1770756	-	545	307719290	-	STHERM_c16090	-	COG3225N	hypothetical protein
+1771280..1772203	-	307	307719291	-	STHERM_c16100	-	COG1131V	transporter
+1772206..1773141	-	311	307719292	-	STHERM_c16110	-	COG1234R	ribonuclease Z
+1773195..1774454	-	419	307719293	-	STHERM_c16120	-	COG0001H	glutamate-1-semialdehyde 2,1-aminomutase
+1774447..1775418	-	323	307719294	-	STHERM_c16130	-	COG0113H	delta-aminolevulinic acid dehydratase
+1775405..1777423	-	672	307719295	hemD	STHERM_c16140	-	COG0181H	porphyrin biosynthesis protein HemD
+1777332..1778369	-	345	307719296	-	STHERM_c16150	-	COG0373H	glutamyl-tRNA reductase
+1778341..1778781	-	146	307719297	-	STHERM_c16160	-	COG1648H	hypothetical protein
+1778791..1780608	-	605	307719298	-	STHERM_c16170	-	COG2895P	sulfate adenylyltransferase large subunit
+1780618..1781499	-	293	307719299	-	STHERM_c16180	-	COG0175EH	phosphoadenosine phosphosulfate reductase
+1781492..1782217	-	241	307719300	-	STHERM_c16190	-	COG0175EH	phosphoadenosine phosphosulfate reductase
+1782227..1782454	-	75	307719301	-	STHERM_c16200	-	-	hypothetical protein
+1782451..1784664	-	737	307719302	nirA	STHERM_c16210	-	COG0155P	ferredoxin-nitrite reductase
+1784661..1785062	-	133	307719303	-	STHERM_c16220	-	COG1310R	Mov34/MPN/PAD-1 family protein
+1785059..1785256	-	65	307719304	-	STHERM_c16230	-	COG0425O	hypothetical protein
+1785289..1785762	-	157	307719305	-	STHERM_c16240	-	COG2210S	hypothetical protein
+1785759..1786574	-	271	307719306	-	STHERM_c16250	-	COG0476H	hypothetical protein
+1786578..1787825	-	415	307719307	-	STHERM_c16260	-	COG2873E	O-acetylhomoserineaminocarboxypropyltransferase
+1787822..1788031	-	69	307719308	thiS	STHERM_c16270	-	COG2104H	thiamine biosynthesis protein ThiS
+1788376..1789530	-	384	307719309	-	STHERM_c16280	-	COG1940KG	transcriptional repressor
+1789644..1790966	-	440	307719310	-	STHERM_c16290	-	COG2115G	xylose isomerase
+1791072..1792250	-	392	307719311	-	STHERM_c16300	-	COG3007S	trans-2-enoyl-CoA reductase
+1792423..1793412	+	329	307719312	-	STHERM_c16310	-	COG0330O	hypothetical protein
+1793409..1794446	+	345	307719313	hflC	STHERM_c16320	-	COG0330O	HflC protein
+1794513..1797449	+	978	307719314	-	STHERM_c16330	-	-	hypothetical protein
+1797429..1799330	-	633	307719315	-	STHERM_c16340	-	COG2200T	hypothetical protein
+1799338..1801458	-	706	307719316	-	STHERM_c16350	-	COG0840NT	transcriptional regulator containing a ferredoxin domain
+1801586..1802563	+	325	307719317	-	STHERM_c16360	-	COG0667C	hypothetical protein
+1803460..1804287	-	275	307719318	-	STHERM_c16370	-	COG1381L	hypothetical protein
+1804302..1806674	+	790	307719319	-	STHERM_c16380	-	COG0466O	hypothetical protein
+1806671..1807519	+	282	307719320	-	STHERM_c16390	-	COG1876M	hypothetical protein
+1807552..1808037	+	161	307719321	-	STHERM_c16400	-	-	hypothetical protein
+1808085..1809329	+	414	307719322	-	STHERM_c16410	-	COG0826O	hypothetical protein
+1809278..1811191	-	637	307719323	-	STHERM_c16420	-	-	sialic acid-specific 9-O-acetylesterase
+1811301..1813499	+	732	307719324	-	STHERM_c16430	-	-	cellodextrinase
+1813557..1814453	-	298	307719325	-	STHERM_c16440	-	COG0583K	transcriptional regulatory protein
+1814564..1816036	+	490	307719326	-	STHERM_c16450	-	COG0059EH	ketol-acid reductoisomerase
+1816145..1816573	+	142	307719327	-	STHERM_c16460	-	-	hypothetical protein
+1816578..1817024	-	148	307719328	-	STHERM_c16470	-	-	lactoylglutathione lyase-like lyase
+1817021..1817884	-	287	307719329	-	STHERM_c16480	-	-	hypothetical protein
+1817930..1818502	-	190	307719330	-	STHERM_c16490	-	COG1385S	hypothetical protein
+1818643..1819194	-	183	307719331	-	STHERM_c16500	-	COG1309K	transcriptional regulatory protein
+1819187..1822423	-	1078	307719332	luxQ	STHERM_c16510	-	COG0642T	autoinducer 2 sensor kinase/phosphatase LuxQ
+1822734..1823471	-	245	307719333	-	STHERM_c16540	-	COG3752S	3-oxo-5-alpha-steroid 4-dehydrogenase family protein
+1823464..1824441	-	325	307719334	-	STHERM_c16550	-	COG0451MG	hypothetical protein
+1824438..1824971	-	177	307719335	-	STHERM_c16560	-	COG1437F	hypothetical protein
+1824980..1825903	-	307	307719336	-	STHERM_c16570	-	COG0788F	formyltetrahydrofolate deformylase
+1825929..1826306	+	125	307719337	-	STHERM_c16580	-	-	hypothetical protein
+1826308..1826709	+	133	307719338	-	STHERM_c16590	-	COG0239D	hypothetical protein
+1826720..1827034	+	104	307719339	-	STHERM_c16600	-	COG1993S	hypothetical protein
+1827172..1829652	-	826	307719340	-	STHERM_c16610	-	COG2885M	OmpA family protein
+1829814..1831358	+	514	307719341	-	STHERM_c16620	-	-	hypothetical protein
+1831531..1835118	+	1195	307719342	-	STHERM_c16630	-	COG0674C	pyruvate-flavodoxin oxidoreductase
+1835218..1835736	+	172	307719343	-	STHERM_c16640	-	COG1853R	flavoredoxin
+1836023..1836373	+	116	307719344	-	STHERM_c16650	-	-	hypothetical protein
+1836437..1837084	+	215	307719345	-	STHERM_c16660	-	COG0036G	ribulose-phosphate 3-epimerase
+1837085..1837774	-	229	307719346	-	STHERM_c16670	-	COG0120G	ribose 5-phosphate isomerase A
+1837953..1840220	+	755	307719347	-	STHERM_c16680	-	COG0620E	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+1840292..1841770	+	492	307719348	-	STHERM_c16690	-	COG0513LKJ	hypothetical protein
+1842326..1843507	+	393	307719349	-	STHERM_c16700	-	COG0491R	hypothetical protein
+1843491..1843895	-	134	307719350	-	STHERM_c16710	-	-	hypothetical protein
+1843978..1844337	-	119	307719351	-	STHERM_c16720	-	COG1734T	DksA/TraR family C4 zinc finger domain-containing protein
+1844391..1844693	+	100	307719352	infA	STHERM_c16730	-	COG0361J	translation initiation factor IF-1
+1844678..1845013	-	111	307719353	-	STHERM_c16740	-	COG2840S	hypothetical protein
+1845127..1846848	-	573	307719354	-	STHERM_c16750	-	-	hypothetical protein
+1847082..1847678	-	198	307719355	-	STHERM_c16760	-	-	hypothetical protein
+1847675..1848670	-	331	307719356	-	STHERM_c16770	-	-	von Willebrand factor type A
+1848667..1849665	-	332	307719357	-	STHERM_c16780	-	COG1240H	batA protein
+1849662..1850660	-	332	307719358	-	STHERM_c16790	-	-	hypothetical protein
+1850519..1851388	-	289	307719359	moxR	STHERM_c16800	-	COG1721R	MoxR protein
+1851397..1852386	-	329	307719360	-	STHERM_c16810	-	COG0714R	hypothetical protein
+1852426..1853715	-	429	307719361	argJ	STHERM_c16820	-	COG1364E	arginine biosynthesis bifunctional protein ArgJ
+1853829..1854659	+	276	307719362	-	STHERM_c16830	-	COG1387ER	histidinol-phosphatase
+1854723..1855322	+	199	307719363	-	STHERM_c16840	-	COG0406G	hypothetical protein
+1855319..1856185	+	288	307719364	-	STHERM_c16850	-	COG1234R	hypothetical protein
+1856190..1857230	-	346	307719365	-	STHERM_c16860	-	COG1597IR	hypothetical protein
+1857328..1858050	+	240	307719366	-	STHERM_c16870	-	COG1131V	transporter
+1858047..1859363	+	438	307719367	-	STHERM_c16880	-	COG1668CP	ABC transporter
+1859366..1860100	+	244	307719368	-	STHERM_c16890	-	COG2935O	arginyl-tRNA--protein transferase
+1860246..1860461	+	71	307719369	-	STHERM_c16900	-	-	hypothetical protein
+1860595..1860960	+	121	307719370	-	STHERM_c16910	-	COG1708R	hypothetical protein
+1860957..1861340	+	127	307719371	-	STHERM_c16920	-	COG2250S	HEPN domain-containing protein
+1861742..1862857	+	371	307719372	-	STHERM_c16950	-	COG2265J	hypothetical protein
+1862977..1863627	+	216	307719373	-	STHERM_c16960	-	-	hypothetical protein
+1863683..1864084	-	133	307719374	-	STHERM_c16970	-	-	hypothetical protein
+1864098..1864724	-	208	307719375	-	STHERM_c16980	-	-	hypothetical protein
+1864750..1864977	-	75	307719376	-	STHERM_c16990	-	-	hypothetical protein
+1865010..1867361	-	783	307719377	-	STHERM_c17000	-	COG1193L	hypothetical protein
+1867425..1867583	-	52	307719378	-	STHERM_c17010	-	-	hypothetical protein
+1867619..1868092	-	157	307719379	-	STHERM_c17020	-	-	hypothetical protein
+1868175..1869107	-	310	307719380	yjeQ	STHERM_c17030	-	COG1162R	GTPase YjeQ
+1869104..1869964	-	286	307719381	-	STHERM_c17040	-	COG0796M	glutamate racemase
+1869897..1870178	-	93	307719382	-	STHERM_c17060	-	-	hypothetical protein
+1870177..1870836	+	219	307719383	-	STHERM_c17050	-	COG1357S	pentapeptide protein
+1870833..1871426	+	197	307719384	-	STHERM_c17070	-	COG0491R	beta lactamase like protein
+1871374..1872333	-	319	307719385	-	STHERM_c17080	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+1872326..1872832	-	168	307719386	-	STHERM_c17090	-	-	hypothetical protein
+1872829..1873521	-	230	307719387	-	STHERM_c17100	-	COG0325R	pyridoxal 5'-phosphate-dependent enzyme
+1873655..1874560	+	301	307719388	-	STHERM_c17110	-	COG0214H	pyridoxine biosynthesis protein
+1874564..1875151	+	195	307719389	-	STHERM_c17120	-	COG0311H	glutamine amidotransferase
+1875164..1876069	+	301	307719390	-	STHERM_c17130	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+1876047..1877177	-	376	307719391	-	STHERM_c17140	-	COG0142H	polyprenyl synthetase
+1877240..1877824	+	194	307719392	-	STHERM_c17150	-	COG1047O	FKBP-type peptidyl-prolyl cis-trans isomerase
+1877805..1879097	-	430	307719393	-	STHERM_c17160	-	COG1906S	membrane spanning protein
+1879179..1880894	+	571	307719394	-	STHERM_c17170	-	COG0028EH	acetolactate synthase large subunit
+1880896..1881438	+	180	307719395	-	STHERM_c17180	-	COG0440E	acetolate synthase, small subunit
+1881672..1882109	-	145	307719396	cheY2	STHERM_c17200	-	COG4753T	chemotaxis protein CheY
+1882106..1882576	-	156	307719397	cheC2	STHERM_c17210	-	COG1406N	chemotaxis protein CheC
+1882580..1883956	-	458	307719398	cheW	STHERM_c17220	-	COG0835NT	chemotaxis protein CheW
+1883966..1886338	-	790	307719399	cheA	STHERM_c17230	-	COG0643NT	chemotaxis protein CheA
+1886390..1888237	-	615	307719400	-	STHERM_c17240	-	COG1472G	glycoside hydrolase
+1888315..1889268	-	317	307719401	-	STHERM_c17250	-	COG0444EP	oligopeptide/dipeptide ABC transporter ATP binding protein
+1889261..1890223	-	320	307719402	-	STHERM_c17260	-	COG0444EP	oligopeptide/dipeptide ABC transporter ATP binding protein
+1890227..1891144	-	305	307719403	-	STHERM_c17270	-	COG1173EP	ABC transporter permease
+1891141..1892133	-	330	307719404	-	STHERM_c17280	-	COG0601EP	ABC transporter permease
+1892263..1893984	-	573	307719405	-	STHERM_c17290	-	COG0747E	oligopeptide ABC transporter periplasmic oligopeptide-binding protein
+1894160..1895338	+	392	307719406	-	STHERM_c17300	-	COG1940KG	transcriptional repressor
+1895393..1895791	+	132	307719407	-	STHERM_c17310	-	-	hypothetical protein
+1895806..1897122	-	438	307719408	-	STHERM_c17320	-	COG0548E	amino acid acetyltransferase
+1897147..1897662	-	171	307719409	-	STHERM_c17330	-	COG0105F	nucleoside-diphosphate kinase
+1897780..1899243	+	487	307719410	-	STHERM_c17340	-	COG2152G	glycosidase
+1899300..1900520	+	406	307719411	-	STHERM_c17350	-	COG0438M	glycosyltransferase
+1900504..1901583	+	359	307719412	-	STHERM_c17360	-	COG2152G	glycosidase
+1901653..1903167	-	504	307719413	-	STHERM_c17370	-	COG0265O	peptidase
+1903269..1903646	-	125	307719414	-	STHERM_c17380	-	COG0071O	heat shock protein
+1903668..1904120	-	150	307719415	-	STHERM_c17390	-	COG0071O	heat shock protein
+1904393..1905178	+	261	307719416	-	STHERM_c17400	-	COG1028IQR	short chain dehydrogenase
+1905194..1905640	+	148	307719417	-	STHERM_c17410	-	COG4696S	hypothetical protein
+1905704..1906567	+	287	307719418	-	STHERM_c17420	-	-	hypothetical protein
+1906727..1908802	+	691	307719419	-	STHERM_c17430	-	COG2114T	adenylate cyclase / guanylate cyclase
+1908920..1909597	-	225	307719420	-	STHERM_c17440	-	COG0546R	hydrolase
+1909807..1910184	+	125	307719421	-	STHERM_c17450	-	COG1669R	nucleotidyltransferase domain-containing protein
+1910181..1910597	+	138	307719422	-	STHERM_c17460	-	COG2250S	HEPN domain-containing protein
+1910604..1911026	-	140	307719423	-	STHERM_c17470	-	COG1671S	hypothetical protein
+1911069..1912472	-	467	307719424	-	STHERM_c17490	-	COG1482G	mannose-6-phosphate isomerase
+1912471..1914135	+	554	307719425	-	STHERM_c17480	-	COG0205G	pyrophosphate--fructose 6-phosphate 1-phosphotransferase subunit beta
+1914288..1915241	-	317	307719426	-	STHERM_c17500	-	COG1105G	sugar kinase
+1915250..1916422	-	390	307719427	-	STHERM_c17510	-	COG1454C	alcohol dehydrogenase
+1916423..1916737	-	104	307719428	-	STHERM_c17520	-	COG1534J	hypothetical protein
+1916787..1917215	-	142	307719429	-	STHERM_c17530	-	-	hypothetical protein
+1917344..1919056	-	570	307719430	-	STHERM_c17540	-	COG3392L	DNA methyltransferase
+1919001..1919429	-	142	307719431	-	STHERM_c17560	-	COG0720H	6-pyruvoyl-tetrahydropterin synthase
+1919428..1920939	+	503	307719432	-	STHERM_c17550	-	COG0769M	UDP-N-acetylmuramyl tripeptide synthetase
+1920961..1922055	+	364	307719433	-	STHERM_c17570	-	COG1181M	D-alanine--D-alanine ligase
+1922059..1922568	-	169	307719434	-	STHERM_c17580	-	COG0778C	nitroreductase
+1922589..1924835	+	748	307719435	-	STHERM_c17590	-	-	hypothetical protein
+1924832..1926022	+	396	307719436	-	STHERM_c17600	-	COG0389L	DNA polymerase IV
+1926077..1927060	+	327	307719437	-	STHERM_c17610	-	COG0679R	hypothetical protein
+1927098..1928846	+	582	307719438	-	STHERM_c17620	-	COG3920T	sensor histidine kinase
+1928909..1930144	+	411	307719439	-	STHERM_c17630	-	COG0436E	aminotransferase
+1930261..1930872	+	203	307719440	-	STHERM_c17640	-	COG0204I	acyltransferase
+1930993..1934652	+	1219	307719441	-	STHERM_c17650	-	COG1928O	hypothetical protein
+1934662..1935606	+	314	307719442	-	STHERM_c17660	-	COG0463M	glycosyltransferase
+1935599..1936039	+	146	307719443	-	STHERM_c17670	-	COG2246S	membrane spanning protein
+1936095..1937450	-	451	307719444	-	STHERM_c17680	-	COG3693G	xylanase
+1937599..1938558	-	319	307719445	-	STHERM_c17690	-	COG3693G	xylanase
+1938735..1939625	-	296	307719446	-	STHERM_c17700	-	-	hypothetical protein
+1939771..1940751	+	326	307719447	-	STHERM_c17710	-	COG0167F	oxidoreductase
+1940796..1941698	-	300	307719448	-	STHERM_c17720	-	COG1079R	permease
+1941718..1942785	-	355	307719449	-	STHERM_c17730	-	COG4603R	permease
+1942803..1944350	-	515	307719450	-	STHERM_c17740	-	COG3845R	ABC transporter
+1944403..1945446	-	347	307719451	-	STHERM_c17750	-	COG1744R	membrane lipoprotein tmpC precursor
+1945544..1946212	-	222	307719452	-	STHERM_c17760	-	COG0274F	deoxyribose-phosphate aldolase
+1946249..1946812	-	187	307719453	-	STHERM_c17770	-	COG1670J	acetyltransferase
+1946809..1947492	-	227	307719454	-	STHERM_c17780	-	COG0491R	hypothetical protein
+1947558..1947704	-	48	307719455	-	STHERM_c17790	-	-	hypothetical protein
+1947676..1948182	-	168	307719456	-	STHERM_c17800	-	-	tetratricopeptide TPR2
+1948324..1949175	+	283	307719457	-	STHERM_c17810	-	COG0702MG	hypothetical protein
+1949178..1950341	-	387	307719458	-	STHERM_c17820	-	COG1686M	D-alanyl-D-alanine carboxypeptidase
+1950352..1951659	-	435	307719459	-	STHERM_c17830	-	COG2509R	hypothetical protein
+1951692..1952060	-	122	307719460	-	STHERM_c17840	-	-	membrane spanning protein
+1952050..1952247	-	65	307719461	-	STHERM_c17850	-	-	hypothetical protein
+1952288..1954837	-	849	307719462	ftsK	STHERM_c17860	-	COG1674D	DNA translocase FtsK
+1954902..1955702	-	266	307719463	-	STHERM_c17870	-	COG1968V	undecaprenyl-diphosphatase
+1955714..1957795	-	693	307719464	-	STHERM_c17880	-	COG0741M	transglycosylase
+1957807..1958415	-	202	307719465	-	STHERM_c17890	-	-	hypothetical protein
+1959664..1960014	+	116	307719466	-	STHERM_c17900	-	-	hypothetical protein
+1960389..1961207	+	272	307719467	-	STHERM_c17910	-	COG0388R	N-carbamoyl-D-amino acid hydrolase
+1961186..1961611	-	141	307719468	-	STHERM_c17920	-	-	hypothetical protein
+1961670..1962635	+	321	307719469	-	STHERM_c17930	-	COG1732M	transporter
+1962638..1963765	+	375	307719470	-	STHERM_c17940	-	COG1174E	glycine betaine/L-proline ABC transporter permease
+1963986..1964699	+	237	307719471	-	STHERM_c17950	-	COG1125E	transporter
+1964696..1965415	+	239	307719472	-	STHERM_c17960	-	COG1174E	transporter
+1965532..1966803	-	423	307719473	-	STHERM_c17970	-	COG1160R	hypothetical protein
+1966814..1968064	-	416	307719474	aspA	STHERM_c17980	-	COG1027E	aspartate ammonia-lyase AspA
+1968135..1969226	-	363	307719475	-	STHERM_c17990	-	COG0502H	hypothetical protein
+1969236..1970648	-	470	307719476	-	STHERM_c18000	-	COG1060HR	hypothetical protein
+1970668..1970919	-	83	307719477	-	STHERM_c18010	-	-	CopG family transcriptional regulator
+1971052..1972077	-	341	307719478	-	STHERM_c18020	-	COG0123BQ	histone deacetylase superfamily protein
+1972064..1972498	-	144	307719479	-	STHERM_c18030	-	COG0432S	automatic annotation
+1972578..1973462	-	294	307719480	-	STHERM_c18040	-	COG1940KG	hypothetical protein
+1973538..1975304	-	588	307719481	-	STHERM_c18050	-	COG0006E	hypothetical protein
+1975475..1977943	+	822	307719482	-	STHERM_c18060	-	COG3459G	hypothetical protein
+1978028..1978393	-	121	307719483	-	STHERM_c18070	-	COG2164S	hypothetical protein
+1978350..1979633	-	427	307719484	-	STHERM_c18080	-	COG2234R	aminopeptidase
+1979712..1980329	+	205	307719485	-	STHERM_c18090	-	COG1309K	hypothetical protein
+1980311..1981150	-	279	307719486	-	STHERM_c18100	-	COG0300R	estradiol 17-beta-dehydrogenase 12
+1981285..1982154	+	289	307719487	-	STHERM_c18110	-	COG1028IQR	retinol dehydrogenase 14
+1982191..1982628	-	145	307719488	-	STHERM_c18120	-	COG4939S	hypothetical protein
+1982615..1983304	-	229	307719489	-	STHERM_c18130	-	COG1136V	transporter
+1983322..1984485	-	387	307719490	-	STHERM_c18140	-	COG4591M	integral membrane protein
+1984472..1985749	-	425	307719491	-	STHERM_c18150	-	COG0577V	permease domain-containing protein
+1985782..1986990	-	402	307719492	-	STHERM_c18160	-	COG4393S	hypothetical protein
+1987083..1987601	-	172	307719493	-	STHERM_c18170	-	COG3470P	hypothetical protein
+1987602..1989545	-	647	307719494	-	STHERM_c18180	-	COG0672P	cytochrome c, class I
+1989724..1990743	+	339	307719495	-	STHERM_c18190	-	COG0673R	hypothetical protein
+1990827..1993475	-	882	307719496	-	STHERM_c18200	-	COG0525J	valyl-tRNA synthetase
+1993618..1994856	-	412	307719497	-	STHERM_c18210	-	COG0664T	transcriptional regulatory protein
+1995129..1996700	-	523	307719498	-	STHERM_c18220	-	-	hypothetical protein
+1996700..1997251	-	183	307719499	-	STHERM_c18230	-	-	hypothetical protein
+1997248..1997742	-	164	307719500	-	STHERM_c18240	-	-	hypothetical protein
+1997739..1998251	-	170	307719501	-	STHERM_c18250	-	COG1595K	hypothetical protein
+1998288..2000396	-	702	307719502	-	STHERM_c18260	-	COG0215J	hypothetical protein
+2000632..2001894	+	420	307719503	-	STHERM_c18270	-	-	hypothetical protein
+2001979..2003952	+	657	307719504	-	STHERM_c18280	-	-	hypothetical protein
+2004148..2005482	+	444	307719505	-	STHERM_c18290	-	COG0282C	acetate kinase
+2005549..2006097	-	182	307719506	-	STHERM_c18300	-	COG0693R	hypothetical protein
+2006161..2008104	-	647	307719507	-	STHERM_c18310	-	COG1198L	primosomal protein N
+2008109..2008870	-	253	307719508	-	STHERM_c18320	-	COG1573L	hypothetical protein
+2008863..2009609	-	248	307719509	-	STHERM_c18330	-	COG0101J	hypothetical protein
+2009596..2010495	-	299	307719510	-	STHERM_c18340	-	COG1655S	hypothetical protein
+2010492..2010869	-	125	307719511	-	STHERM_c18350	-	COG0736I	holo-(acyl-carrier-protein) synthase
+2010866..2011834	-	322	307719512	-	STHERM_c18360	-	COG4856S	membrane associated protein
+2011831..2012628	-	265	307719513	-	STHERM_c18370	-	COG1624S	hypothetical protein
+2012625..2013530	-	301	307719514	-	STHERM_c18380	-	COG0294H	dihydropteroate synthase
+2013540..2015435	-	631	307719515	-	STHERM_c18390	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+2015628..2016638	-	336	307719516	-	STHERM_c18400	-	COG0489D	mrp-like protein
+2016696..2017598	-	300	307719517	-	STHERM_c18410	-	COG3264M	small conductance mechanosensitive ion channel
+2017601..2018386	-	261	307719518	-	STHERM_c18420	-	COG2430S	hypothetical protein
+2018447..2019655	-	402	307719519	-	STHERM_c18430	-	COG0538C	isocitrate dehydrogenase
+2019756..2020814	+	352	307719520	-	STHERM_c18440	-	-	lipoprotein
+2020697..2022055	+	452	307719521	-	STHERM_c18450	-	COG3858R	transglycosylase
+2022059..2022913	+	284	307719522	-	STHERM_c18460	-	-	OmpA family protein
+2022879..2024147	-	422	307719523	-	STHERM_c18470	-	COG0624E	hypothetical protein
+2024149..2024766	-	205	307719524	-	STHERM_c18480	-	COG1739S	hypothetical protein
+2024805..2025920	-	371	307719525	-	STHERM_c18490	-	COG1609K	transcriptional repressor
+2025977..2027623	-	548	307719526	-	STHERM_c18500	-	COG3507G	beta-xylosidase
+2027626..2028489	-	287	307719527	-	STHERM_c18510	-	COG0395G	transporter
+2028486..2029391	-	301	307719528	-	STHERM_c18520	-	COG1175G	transporter
+2029443..2030705	-	420	307719529	-	STHERM_c18530	-	COG1653G	multiple sugar binding protein
+2030950..2031963	+	337	307719530	-	STHERM_c18540	-	COG0127F	hypothetical protein
+2031960..2033762	+	600	307719531	-	STHERM_c18550	-	COG1164E	oligoendopeptidase F
+2033767..2035365	-	532	307719532	-	STHERM_c18560	-	COG0815M	hypothetical protein
+2035404..2035712	-	102	307719533	hbbU	STHERM_c18570	-	COG0776L	DNA-binding protein HbbU
+2035752..2036018	-	88	307719534	rpsT	STHERM_c18580	-	COG0268J	30S ribosomal protein S20
+2036089..2036259	-	56	307719535	-	STHERM_c18590	-	-	hypothetical protein
+2036319..2037242	-	307	307719536	-	STHERM_c18600	-	COG1774S	hypothetical protein
+2037263..2037763	-	166	307719537	-	STHERM_c18610	-	COG1728S	hypothetical protein
+2037763..2038143	-	126	307719538	-	STHERM_c18620	-	COG1664M	hypothetical protein
+2038143..2039177	-	344	307719539	-	STHERM_c18630	-	COG0739M	M23/M37 peptidase domain-containing protein
+2039324..2040097	+	257	307719540	-	STHERM_c18640	-	COG0084L	hypothetical protein
+2040105..2041106	+	333	307719541	-	STHERM_c18650	-	COG0042J	hypothetical protein
+2041103..2041828	-	241	307719542	-	STHERM_c18660	-	COG0566J	rRNA methylase
+2041832..2042275	-	147	307719543	-	STHERM_c18670	-	-	hypothetical protein
+2042362..2043516	-	384	307719544	dnaJ	STHERM_c18680	-	COG0484O	chaperone protein DnaJ
+2043538..2045445	-	635	307719545	dnaK	STHERM_c18690	-	COG0443O	chaperone protein Dank
+2045447..2046184	-	245	307719546	grpE	STHERM_c18700	-	COG0576O	protein GrpE
+2046277..2051346	-	1689	307719547	-	STHERM_c18710	-	COG1196D	cytoskeletal protein
+2051366..2052028	-	220	307719548	-	STHERM_c18720	-	COG1011R	HAD superfamily hydrolase
+2052144..2052875	-	243	307719549	-	STHERM_c18730	-	COG1691R	hypothetical protein
+2052880..2053758	-	292	307719550	-	STHERM_c18740	-	COG1606R	hypothetical protein
+2054066..2057236	+	1056	307719551	-	STHERM_c18750	-	COG2114T	hypothetical protein
+2057299..2058651	-	450	307719552	-	STHERM_c18760	-	COG1350R	tryptophan synthase beta chain 2
+2058626..2058940	-	104	307719553	-	STHERM_c18770	-	COG4496S	hypothetical protein
+2059040..2059894	-	284	307719554	-	STHERM_c18780	-	COG0616OU	serine protease
+2059941..2060636	-	231	307719555	-	STHERM_c18790	-	COG0705R	rhomboid family protein
+2060807..2061037	+	76	307719556	-	STHERM_c18800	-	COG3369S	zinc finger, CDGSH-type
+2061078..2061863	-	261	307719557	-	STHERM_c18810	-	-	bacitracin ABC transporter permease
+2061860..2062771	-	303	307719558	-	STHERM_c18820	-	COG1131V	bacitracin ABC transporter ATP-binding protein
+2062768..2063463	-	231	307719559	-	STHERM_c18830	-	COG1309K	hypothetical protein
+2063577..2064818	+	413	307719560	-	STHERM_c18840	-	COG0116L	hypothetical protein
+2065400..2065852	+	150	307719561	-	STHERM_c18850	-	COG0783P	DNA protection during starvation protein
+2065917..2067554	-	545	307719562	-	STHERM_c18860	-	COG1653G	sugar ABC transporter substrate-binding protein
+2067614..2068483	-	289	307719563	-	STHERM_c18870	-	COG0395G	transporter
+2068498..2069607	-	369	307719564	-	STHERM_c18880	-	COG4209G	transporter
+2069826..2073251	+	1141	307719565	-	STHERM_c18890	-	COG3250G	carbohydrate binding family 6
+2073351..2074775	+	474	307719566	-	STHERM_c18900	-	-	hypothetical protein
+2074779..2076683	-	634	307719567	-	STHERM_c18910	-	COG2876E	hypothetical protein
+2076694..2077440	-	248	307719568	-	STHERM_c18920	-	COG0741M	hypothetical protein
+2077892..2078935	+	347	307719569	-	STHERM_c18930	-	COG3693G	endo-1,4-beta-xylanase B precursor
+2079052..2079423	+	123	307719570	-	STHERM_c18940	-	COG0784T	hypothetical protein
+2079433..2081061	+	542	307719571	-	STHERM_c18950	-	COG4166E	family 5 extracellular solute-binding protein
+2081022..2081708	-	228	307719572	-	STHERM_c18960	-	COG0398S	hypothetical protein
+2081779..2082432	+	217	307719573	-	STHERM_c18970	-	COG1329K	transcriptional regulatory protein
+2082429..2083103	+	224	307719574	-	STHERM_c18980	-	COG1211I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+2083100..2083576	+	158	307719575	-	STHERM_c18990	-	COG0245I	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+2083580..2084287	-	235	307719576	-	STHERM_c19000	-	-	hypothetical protein
+2084302..2086398	-	698	307719577	-	STHERM_c19010	-	COG0480J	elongation factor G
+2086576..2087220	-	214	307719578	-	STHERM_c19020	-	COG3448T	hypothetical protein
+2087271..2087951	-	226	307719579	-	STHERM_c19030	-	COG0410E	transporter
+2087968..2088762	-	264	307719580	-	STHERM_c19040	-	COG0411E	branched-chain amino acid ABC transporter ATP-binding protein
+2088759..2089754	-	331	307719581	-	STHERM_c19050	-	COG4177E	transporter
+2089757..2090656	-	299	307719582	-	STHERM_c19060	-	COG0559E	hypothetical protein
+2090728..2091897	-	389	307719583	-	STHERM_c19070	-	COG0683E	hypothetical protein
+2092200..2092736	+	178	307719584	-	STHERM_c19080	-	COG2236R	hypothetical protein
+2092715..2093842	-	375	307719585	-	STHERM_c19090	-	COG1079R	transporter
+2093638..2094714	-	358	307719586	-	STHERM_c19100	-	COG4603R	transporter
+2094711..2096228	-	505	307719587	-	STHERM_c19110	-	COG3845R	transporter
+2096319..2097557	-	412	307719588	-	STHERM_c19120	-	COG1744R	ABC transporter substrate-binding protein
+2097641..2098459	-	272	307719589	-	STHERM_c19130	-	COG2267I	hypothetical protein
+2098550..2099629	-	359	307719590	-	STHERM_c19140	-	-	hypothetical protein
+2099702..2100508	-	268	307719591	-	STHERM_c19150	-	COG1116P	transporter
+2100654..2101637	-	327	307719592	-	STHERM_c19160	-	COG0715P	hypothetical protein
+2101634..2102449	-	271	307719593	-	STHERM_c19180	-	COG0600P	transporter
+2102409..2102780	+	123	307719594	-	STHERM_c19170	-	-	hypothetical protein
+2102815..2105955	+	1046	307719595	-	STHERM_c19190	-	COG2199T	hypothetical protein
+2105974..2107098	-	374	307719596	-	STHERM_c19200	-	COG0136E	aspartate-semialdehyde dehydrogenase
+2107144..2108838	-	564	307719597	-	STHERM_c19210	-	-	hypothetical protein
+2108835..2109512	-	225	307719598	-	STHERM_c19220	-	-	hypothetical protein
+2109597..2110295	-	232	307719599	-	STHERM_c19230	-	-	hypothetical protein
+2110337..2111749	+	470	307719600	-	STHERM_c19240	-	-	lipoprotein
+2111752..2113692	+	646	307719601	-	STHERM_c19250	-	COG0488R	transporter
+2113739..2114509	+	256	307719602	-	STHERM_c19260	-	COG0708L	hypothetical protein
+2114553..2115116	+	187	307719603	-	STHERM_c19270	-	COG0705R	rhomboid-like protein
+2115130..2116203	+	357	307719604	-	STHERM_c19280	-	COG0216J	peptide chain release factor 1
+2116205..2117053	+	282	307719605	-	STHERM_c19290	-	COG2890J	hypothetical protein
+2117050..2119038	+	662	307719606	-	STHERM_c19300	-	COG0317TK	GTP pyrophosphokinase
+2119112..2119609	+	165	307719607	-	STHERM_c19310	-	COG2077O	thiol peroxidase
+2119619..2120848	-	409	307719608	-	STHERM_c19320	-	COG0577V	transporter
+2120850..2122070	-	406	307719609	-	STHERM_c19330	-	COG0577V	ABC transporter permease
+2122057..2122848	-	263	307719610	-	STHERM_c19340	-	COG1136V	transporter
+2122845..2124110	-	421	307719611	-	STHERM_c19350	-	COG1566V	RND family efflux transporter MFP subunit
+2124151..2125383	-	410	307719612	-	STHERM_c19360	-	COG1538MU	hypothetical protein
+2125611..2126375	-	254	307719613	-	STHERM_c19370	-	-	hypothetical protein
+2126519..2128525	+	668	307719614	-	STHERM_c19380	-	COG3920T	hypothetical protein
+2128607..2129746	+	379	307719615	-	STHERM_c19390	-	COG4191T	histidine kinase
+2129743..2130207	+	154	307719616	-	STHERM_c19400	-	COG0219J	hypothetical protein
+2130245..2131042	+	265	307719617	-	STHERM_c19410	-	COG0345E	pyrroline-5-carboxylate reductase
+2131104..2132381	+	425	307719618	-	STHERM_c19420	-	COG0172J	seryl-tRNA synthetase
+2132407..2133552	+	381	307719619	-	STHERM_c19430	-	COG2089M	neuB family protein
+2133552..2135702	+	716	307719620	-	STHERM_c19440	-	COG3920T	sensory box histidine kinase
+2135692..2136693	-	333	307719621	-	STHERM_c19450	-	COG0561R	cof family hydrolase
+2137133..2137861	+	242	307719622	-	STHERM_c19460	-	COG1409R	hypothetical protein
+2137821..2138459	-	212	307719623	-	STHERM_c19470	-	-	hypothetical protein
+2138476..2140713	-	745	307719624	-	STHERM_c19480	-	COG0531E	solute carrier family 12 member 7
+2140807..2141874	-	355	307719625	secF	STHERM_c19490	-	COG0341U	protein-export membrane protein SecF
+2141877..2143595	-	572	307719626	-	STHERM_c19500	-	COG0342U	hypothetical protein
+2143629..2143985	-	118	307719627	-	STHERM_c19510	-	COG1862U	preprotein translocase subunit YajC
+2144163..2145326	+	387	307719628	-	STHERM_c19520	-	COG0438M	hypothetical protein
+2145400..2146032	+	210	307719629	-	STHERM_c19530	-	COG1309K	hypothetical protein
+2146036..2147352	+	438	307719630	-	STHERM_c19540	-	COG1538MU	hypothetical protein
+2147349..2148206	+	285	307719631	-	STHERM_c19550	-	COG1566V	transmembrane transport protein
+2148203..2149108	+	301	307719632	-	STHERM_c19560	-	COG1131V	transporter
+2149105..2149854	+	249	307719633	-	STHERM_c19570	-	COG1131V	transporter
+2149851..2150936	+	361	307719634	-	STHERM_c19580	-	COG0842V	transporter
+2150933..2152030	+	365	307719635	-	STHERM_c19590	-	COG0842V	transporter
+2152033..2153310	-	425	307719636	-	STHERM_c19600	-	COG0508C	dihydrolipoyllysine-residue acetyltransferase component of pyruvatedehydrogenase complex (E2)
+2153332..2154261	-	309	307719637	-	STHERM_c19610	-	COG0022C	pyruvate dehydrogenase E1 component subunit beta
+2154300..2155316	-	338	307719638	-	STHERM_c19620	-	COG1071C	pyruvate dehydrogenase E1 component subunit alpha
+2155307..2155753	-	148	307719639	-	STHERM_c19630	-	COG3871R	hypothetical protein
+2155770..2155871	-	33	307719640	-	STHERM_c19640	-	-	hypothetical protein
+2155946..2156164	-	72	307719641	-	STHERM_c19650	-	-	hypothetical protein
+2156357..2158204	-	615	307719642	htpG	STHERM_c19660	-	COG0326O	chaperone protein HtpG
+2158360..2158851	-	163	307719643	-	STHERM_c19670	-	-	hypothetical protein
+2158912..2159634	+	240	307719644	-	STHERM_c19680	-	-	hypothetical protein
+2159684..2160694	-	336	307719645	-	STHERM_c19690	-	COG0760O	PPIC-type PPIASE domain-containing protein
+2160755..2162104	-	449	307719646	-	STHERM_c19700	-	COG0534V	hypothetical protein
+2162261..2162563	-	100	307719647	-	STHERM_c19710	-	-	hypothetical protein
+2162536..2163513	-	325	307719648	-	STHERM_c19720	-	COG0418F	dihydroorotase
+2163528..2164007	-	159	307719649	-	STHERM_c19730	-	-	hypothetical protein
+2164467..2165768	-	433	307719650	-	STHERM_c19740	-	COG2270R	hypothetical protein
+2165843..2168758	-	971	307719651	-	STHERM_c19750	-	COG1026R	presequence protease 1
+2168895..2172272	-	1125	307719652	-	STHERM_c19760	-	COG0022C	hypothetical protein
+2172486..2173559	-	357	307719653	-	STHERM_c19770	-	-	hypothetical protein
+2173764..2175074	+	436	307719654	-	STHERM_c19780	-	COG0014E	gamma-glutamyl phosphate reductase
+2175077..2176183	+	368	307719655	-	STHERM_c19790	-	COG0263E	glutamate 5-kinase
+2176247..2177098	+	283	307719656	-	STHERM_c19800	-	COG4939S	hypothetical protein
+2177189..2178124	+	311	307719657	-	STHERM_c19810	-	COG1575H	hypothetical protein
+2178131..2179114	-	327	307719658	-	STHERM_c19820	-	COG0142H	heptaprenyl diphosphate synthase component II
+2179114..2181084	-	656	307719659	-	STHERM_c19840	-	COG1252C	hypothetical protein
+2181034..2182593	+	519	307719660	-	STHERM_c19830	-	COG2379G	hypothetical protein
+2182613..2183962	-	449	307719661	-	STHERM_c19850	-	COG3775G	hypothetical protein
+2184021..2184617	-	198	307719662	-	STHERM_c19860	-	COG0778C	bacterioferritin comigratory protein/NADH dehydrogenase
+2184632..2186509	-	625	307719663	-	STHERM_c19870	-	COG2730G	hypothetical protein
+2186582..2186827	-	81	307719664	rpmE	STHERM_c19880	-	COG0254J	50S ribosomal protein L31
+2186843..2188741	-	632	307719665	-	STHERM_c19890	-	COG1158K	transcription termination factor Rho
+2188848..2190110	-	420	307719666	-	STHERM_c19900	-	COG1546R	CinA-like protein
+2190119..2190532	-	137	307719667	-	STHERM_c19910	-	COG1664M	hypothetical protein
+2190541..2190762	-	73	307719668	-	STHERM_c19920	-	-	hypothetical protein
+2190772..2191497	-	241	307719669	-	STHERM_c19930	-	COG3706T	transcriptional regulatory protein
+2191582..2192871	-	429	307719670	-	STHERM_c19940	-	-	hypothetical protein
+2193318..2194028	-	236	307719671	-	STHERM_c19950	-	-	hypothetical protein
+2194269..2194571	-	100	307719672	-	STHERM_c19960	-	-	hypothetical protein
+2194682..2196310	-	542	307719673	-	STHERM_c19970	-	COG0459O	60 kDa chaperonin
+2196480..2198042	+	520	307719674	-	STHERM_c19980	-	-	hypothetical protein
+2198039..2198779	-	246	307719675	-	STHERM_c19990	-	COG0340H	hypothetical protein
+2199059..2200537	+	492	307719676	-	STHERM_c20000	-	COG0364G	glucose-6-phosphate 1-dehydrogenase
+2200561..2201436	+	291	307719677	-	STHERM_c20010	-	COG3429G	hypothetical protein
+2201600..2202076	+	158	307719678	-	STHERM_c20020	-	COG1438K	arginine repressor
+2202077..2203114	+	345	307719679	-	STHERM_c20030	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+2203130..2203909	+	259	307719680	-	STHERM_c20040	-	COG0548E	acetylglutamate kinase
+2203920..2205119	+	399	307719681	-	STHERM_c20050	-	COG4992E	acetylornithine aminotransferase
+2205130..2206395	+	421	307719682	-	STHERM_c20060	-	COG0137E	argininosuccinate synthase
+2206439..2208034	+	531	307719683	-	STHERM_c20070	-	COG0166G	glucose-6-phosphate isomerase
+2208188..2209396	+	402	307719684	-	STHERM_c20080	-	COG0148G	enolase
+2209485..2209757	-	90	307719685	-	STHERM_c20090	-	COG1254C	acylphosphatase
+2209754..2210113	-	119	307719686	-	STHERM_c20100	-	COG2204T	hypothetical protein
+2210106..2210705	-	199	307719687	-	STHERM_c20110	-	COG0745TK	DNA-binding response regulator
+2210855..2211349	+	164	307719688	-	STHERM_c20120	-	COG2050Q	thioesterase superfamily protein
+2211333..2211797	-	154	307719689	-	STHERM_c20130	-	COG0664T	hypothetical protein
+2212148..2212981	+	277	307719690	-	STHERM_c20140	-	COG1149C	hypothetical protein
+2213024..2214676	+	550	307719691	-	STHERM_c20150	-	COG1151C	hydroxylamine reductase
+2214941..2215333	-	130	307719692	-	STHERM_c20160	-	-	hypothetical protein
+2215548..2215799	+	83	307719693	-	STHERM_c20170	-	-	hypothetical protein
+2215942..2216457	-	171	307719694	-	STHERM_c20180	-	-	hypothetical protein
+2216775..2217932	-	385	307719695	-	STHERM_c20190	-	COG5184DZ	RCC1 repeats protein
+2217952..2228562	-	3536	307719696	-	STHERM_c20200	-	-	hypothetical protein
+2228841..2229053	-	70	307719697	-	STHERM_c20210	-	-	hypothetical protein
+2229203..2229937	+	244	307719698	-	STHERM_c20220	-	COG5010U	hypothetical protein
+2229934..2230431	+	165	307719699	-	STHERM_c20230	-	-	hypothetical protein
+2231200..2231814	+	204	307719700	-	STHERM_c20240	-	COG1538MU	hypothetical protein
+2231811..2233160	+	449	307719701	-	STHERM_c20250	-	COG0845M	hypothetical protein
+2233081..2234625	+	514	307719702	-	STHERM_c20260	-	-	hypothetical protein
+2234637..2236178	+	513	307719703	-	STHERM_c20270	-	-	hypothetical protein
+2236251..2239196	+	981	307719704	-	STHERM_c20280	-	COG0841V	hypothetical protein
+2239184..2242138	+	984	307719705	-	STHERM_c20290	-	COG0841V	hypothetical protein
+2242080..2243507	-	475	307719706	-	STHERM_c20300	-	-	hypothetical protein
+2243638..2244183	+	181	307719707	-	STHERM_c20310	-	COG2110R	hypothetical protein
+2244194..2244526	-	110	307719708	-	STHERM_c20320	-	COG3323S	NIF3-like protein 1
+2244614..2245528	+	304	307719709	-	STHERM_c20330	-	COG1131V	Nod factor export ATP-binding protein I
+2245518..2246306	+	262	307719710	-	STHERM_c20340	-	COG1682GM	ABC-type Nod factor export system, permease
+2246547..2247251	+	234	307719711	-	STHERM_c20350	-	COG0670R	hypothetical protein
+2247354..2248283	-	309	307719712	-	STHERM_c20360	-	COG2815S	protein PASTA domain-containing protein
+2248366..2249265	-	299	307719713	-	STHERM_c20370	-	COG0223J	methionyl-tRNA formyltransferase
+2249316..2249807	-	163	307719714	-	STHERM_c20380	-	COG0242J	peptide deformylase
+2250334..2251053	+	239	307719715	-	STHERM_c20400	-	-	hypothetical protein
+2251068..2252060	+	330	307719716	-	STHERM_c20410	-	COG1638G	transporter
+2252047..2253939	+	630	307719717	-	STHERM_c20420	-	COG1593G	transporter
+2253979..2254797	+	272	307719718	-	STHERM_c20430	-	COG0300R	follicular variant translocation protein 1 precursor
+2254810..2256024	+	404	307719719	-	STHERM_c20440	-	COG0156H	8-amino-7-oxononanoate synthase
+2256083..2256847	-	254	307719720	-	STHERM_c20450	-	-	chorismate mutase
+2256855..2257379	-	174	307719721	-	STHERM_c20460	-	COG1443I	nudix hydrolase 3
+2257662..2259698	-	678	307719722	-	STHERM_c20470	-	COG3808C	hypothetical protein
+2259914..2260678	+	254	307719723	-	STHERM_c20480	-	-	hypothetical protein
+2260692..2261918	+	408	307719724	-	STHERM_c20490	-	COG2262R	hypothetical protein
+2262015..2263073	+	352	307719725	-	STHERM_c20500	-	COG0482J	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase
+2263089..2263793	-	234	307719726	-	STHERM_c20510	-	COG0235G	L-ribulose-5-phosphate 4-epimerase
+2263793..2265298	-	501	307719727	-	STHERM_c20520	-	COG2160G	L-arabinose isomerase
+2265295..2266989	-	564	307719728	-	STHERM_c20530	-	COG1069C	ribulokinase
+2266979..2268493	-	504	307719729	rbsA	STHERM_c20540	-	COG1129G	ribose import ATP-binding protein RbsA
+2268490..2269461	-	323	307719730	-	STHERM_c20550	-	COG1172G	transporter
+2269535..2270491	-	318	307719731	-	STHERM_c20560	-	COG1879G	ribose ABC transporter
+2270555..2271685	-	376	307719732	-	STHERM_c20570	-	COG1609K	transcriptional regulatory protein
+2271750..2274026	-	758	307719733	-	STHERM_c20580	-	COG2730G	hypothetical protein
+2274140..2274934	+	264	307719734	-	STHERM_c20590	-	COG0543HC	oxidoreductase FAD/NAD(P)-binding domain-containing protein
+2274919..2275830	+	303	307719735	-	STHERM_c20600	-	COG0167F	dihydroorotate dehydrogenase
+2275787..2276503	-	238	307719736	-	STHERM_c20610	-	COG0177L	endonuclease III
+2276600..2278225	-	541	307719737	-	STHERM_c20620	-	COG2730G	cellulase, glycosyl hydrolase family 5, TPS linker, domain X
+2278294..2280711	-	805	307719738	-	STHERM_c20630	-	-	glycoside hydrolase family 9, CBM3, linker, domain X
+2280833..2283121	-	762	307719739	-	STHERM_c20640	-	-	glycoside hydrolase family 9, CBM3, linker, domain X
+2283180..2284496	-	438	307719740	-	STHERM_c20650	-	-	glycosyl hydrolase family 12, linker, domain X
+2284872..2286251	+	459	307719741	-	STHERM_c20680	-	COG0114C	fumarate hydratase class II
+2286559..2287035	+	158	307719742	orfA	STHERM_c20690	-	-	transposase of ISLsa3, OrfA
+2287013..2287831	+	272	307719743	orfB	STHERM_c20700	-	-	transposase of ISLsa3, OrfB
+2288187..2288594	+	135	307719744	-	STHERM_c20710	-	-	hypothetical protein
+2288700..2289425	+	241	307719745	-	STHERM_c20720	-	COG3328L	hypothetical protein
+2289529..2291253	+	574	307719746	-	STHERM_c20730	-	-	hypothetical protein
+2291333..2293948	-	871	307719747	-	STHERM_c20740	-	COG1048C	aconitate hydratase
+2294344..2295765	+	473	307719748	-	STHERM_c20760	-	COG2204T	transcriptional regulatory protein
+2295797..2296984	+	395	307719749	-	STHERM_c20770	-	COG1092R	hypothetical protein
+2297240..2298901	+	553	307719750	-	STHERM_c20780	-	COG0119E	2-isopropylmalate synthase
+2298992..2299780	-	262	307719751	-	STHERM_c20790	-	-	hypothetical protein
+2299844..2300380	-	178	307719752	-	STHERM_c20800	-	COG0071O	hypothetical protein
+2300447..2302222	-	591	307719753	-	STHERM_c20810	-	COG0840NT	hypothetical protein
+2302291..2302920	-	209	307719754	-	STHERM_c20820	-	COG1514J	hypothetical protein
+2302859..2303437	-	192	307719755	-	STHERM_c20830	-	-	MutT/nudix family protein
+2303434..2304408	-	324	307719756	-	STHERM_c20840	-	COG1509E	L-lysine 2,3-aminomutase
+2304522..2304998	+	158	307719757	-	STHERM_c20850	-	-	hypothetical protein
+2305058..2306011	+	317	307719758	-	STHERM_c20860	-	COG0667C	hypothetical protein
+2306052..2307854	-	600	307719759	-	STHERM_c20870	-	-	hypothetical protein
+2307957..2309066	+	369	307719760	engD	STHERM_c20880	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+2309072..2309599	-	175	307719761	-	STHERM_c20890	-	COG0066E	hypothetical protein
+2309601..2310887	-	428	307719762	-	STHERM_c20900	-	COG0065E	3-isopropylmalate dehydratase large subunit
+2310900..2312018	+	372	307719763	-	STHERM_c20910	-	COG2008E	hypothetical protein
+2312015..2312347	-	110	307719764	-	STHERM_c20920	-	COG4802C	hypothetical protein
+2312344..2312646	-	100	307719765	-	STHERM_c20930	-	COG0695O	hypothetical protein
+2312691..2313491	-	266	307719766	-	STHERM_c20940	-	-	hypothetical protein
+2313628..2315574	+	648	307719767	-	STHERM_c20950	-	COG0840NT	hypothetical protein
+2315571..2317496	-	641	307719768	-	STHERM_c20960	-	COG4753T	transcriptional regulatory protein
+2317564..2318847	-	427	307719769	-	STHERM_c20970	-	COG1593G	transporter
+2318844..2319311	-	155	307719770	-	STHERM_c20980	-	COG3090G	transporter
+2319394..2320386	-	330	307719771	-	STHERM_c20990	-	COG1638G	TRAP dicarboxylate transporter subunit DctP
+2320571..2322505	+	644	307719772	-	STHERM_c21000	-	COG0840NT	hypothetical protein
+2322435..2322761	-	108	307719773	-	STHERM_c21010	-	-	hypothetical protein
+2322758..2325184	-	808	307719774	-	STHERM_c21020	-	COG3459G	cellodextrin-phosphorylase
+2325206..2326546	-	446	307719775	-	STHERM_c21030	-	COG2723G	beta-glucosidase A
+2326660..2327568	+	302	307719776	-	STHERM_c21040	-	COG4977K	transcriptional regulatory protein
+2327565..2328644	-	359	307719777	-	STHERM_c21050	-	COG0379H	quinolinate synthetase A 1
+2328710..2329510	-	266	307719778	-	STHERM_c21060	-	COG1120PH	transporter
+2329583..2330599	-	338	307719779	-	STHERM_c21070	-	COG0609P	transporter
+2330596..2331483	-	295	307719780	-	STHERM_c21080	-	COG0614P	hypothetical protein
+2331548..2331934	-	128	307719781	-	STHERM_c21090	-	COG3744S	hypothetical protein
+2331931..2332167	-	78	307719782	-	STHERM_c21100	-	COG4118D	hypothetical protein
+2332241..2333587	-	448	307719783	-	STHERM_c21110	-	COG0265O	hypothetical protein
+2333720..2334862	+	380	307719784	-	STHERM_c21120	-	COG0240C	hypothetical protein
+2334837..2336216	-	459	307719785	-	STHERM_c21130	-	COG1032C	methyltransferase
+2336216..2336851	-	211	307719786	-	STHERM_c21140	-	COG3920T	signal transduction histidine kinase
+2336908..2337576	-	222	307719787	-	STHERM_c21150	-	COG2137R	hypothetical protein
+2337530..2337925	-	131	307719788	rpsI	STHERM_c21160	-	COG0103J	30S ribosomal protein S9
+2337938..2338363	-	141	307719789	rplM	STHERM_c21170	-	COG0102J	50S ribosomal protein L13
+2338445..2338675	-	76	307719790	-	STHERM_c21180	-	-	hypothetical protein
+2338953..2339294	-	113	307719791	-	STHERM_c21190	-	-	hypothetical protein
+2339291..2340136	-	281	307719792	-	STHERM_c21200	-	COG0001H	hypothetical protein
+2340129..2342180	-	683	307719793	-	STHERM_c21210	-	COG0210L	DNA helicase
+2342182..2342550	-	122	307719794	-	STHERM_c21220	-	-	hypothetical protein
+2342555..2343883	-	442	307719795	-	STHERM_c21230	-	COG0621J	hypothetical protein
+2343895..2345022	-	375	307719796	-	STHERM_c21240	-	COG1426S	transcriptional regulator, XRE family
+2345046..2345738	-	230	307719797	-	STHERM_c21250	-	COG2834M	hypothetical protein
+2345790..2346626	-	278	307719798	-	STHERM_c21260	-	-	hypothetical protein
+2346645..2347337	+	230	307719799	-	STHERM_c21270	-	COG0528F	hypothetical protein
+2347312..2348367	-	351	307719800	-	STHERM_c21290	-	COG1313R	radical SAM domain-containing protein
+2348360..2349331	+	323	307719801	-	STHERM_c21280	-	COG1656S	hypothetical protein
+2349246..2349437	-	63	307719802	-	STHERM_c21300	-	-	hypothetical protein
+2349434..2349994	-	186	307719803	-	STHERM_c21310	-	COG5010U	hypothetical protein
+2350224..2352077	+	617	307719804	-	STHERM_c21330	-	COG0531E	hypothetical protein
+2352079..2352759	+	226	307719805	-	STHERM_c21340	-	COG1011R	hypothetical protein
+2352802..2353329	+	175	307719806	-	STHERM_c21350	-	COG0717F	deoxycytidine triphosphate deaminase
+2353330..2354928	+	532	307719807	-	STHERM_c21360	-	COG2200T	hypothetical protein
+2354920..2355690	-	256	307719808	-	STHERM_c21370	-	COG0564J	pseudouridine synthase
+2355819..2356226	+	135	307719809	-	STHERM_c21380	-	-	hypothetical protein
+2356332..2357045	+	237	307719810	-	STHERM_c21390	-	COG3328L	hypothetical protein
+2357215..2358777	+	520	307719811	-	STHERM_c21410	-	-	hypothetical protein
+2358780..2358989	-	69	307719812	-	STHERM_c21420	-	-	hypothetical protein
+2359036..2359572	-	178	307719813	-	STHERM_c21430	-	COG0597MU	signal peptidase II
+2359587..2360351	-	254	307719814	-	STHERM_c21440	-	COG0327S	hypothetical protein
+2360377..2361474	-	365	307719815	-	STHERM_c21450	-	COG0438M	hypothetical protein
+2361526..2362200	-	224	307719816	-	STHERM_c21460	-	COG2135S	hypothetical protein
+2362297..2362662	+	121	307719817	-	STHERM_c21470	-	-	hypothetical protein
+2362659..2363249	+	196	307719818	-	STHERM_c21480	-	COG2316R	HDIG domain-containing protein
+2363292..2364044	-	250	307719819	-	STHERM_c21490	-	COG4902S	hypothetical protein
+2364157..2365512	-	451	307719820	-	STHERM_c21500	-	COG2205T	integral membrane sensor signal transduction histidine kinase
+2365509..2366198	-	229	307719821	-	STHERM_c21510	-	COG0745TK	transcriptional regulatory protein
+2366282..2366734	+	150	307719822	-	STHERM_c21520	-	-	hypothetical protein
+2366787..2368028	-	413	307719823	-	STHERM_c21530	-	COG0304IQ	3-oxoacyl-ACP synthase
+2368048..2368791	-	247	307719824	-	STHERM_c21540	-	COG1028IQR	3-oxoacyl-ACP reductase
+2368803..2369735	-	310	307719825	-	STHERM_c21550	-	COG0331I	hypothetical protein
+2369867..2370082	+	71	307719826	-	STHERM_c21560	-	COG3630C	hypothetical protein
+2370107..2371906	+	599	307719827	-	STHERM_c21570	-	COG5016C	pyruvate carboxylase, beta chain
+2371916..2373142	+	408	307719828	-	STHERM_c21580	-	COG1883C	oxaloacetate decarboxylase subunit beta
+2373211..2373660	-	149	307719829	-	STHERM_c21590	-	COG5581M	hypothetical protein
+2373758..2375722	-	654	307719830	-	STHERM_c21600	-	COG1274C	phosphoenolpyruvate carboxykinase
+2375926..2376810	+	294	307719831	-	STHERM_c21610	-	COG0685E	5,10-methylenetetrahydrofolate reductase
+2377253..2377468	-	71	307719832	-	STHERM_c21620	-	-	hypothetical protein
+2377556..2378923	-	455	307719833	-	STHERM_c21630	-	COG2211G	xylose-proton symporter
+2379084..2380361	+	425	307719834	-	STHERM_c21640	-	COG1309K	hypothetical protein
+2380358..2381773	+	471	307719835	-	STHERM_c21650	-	COG1538MU	hypothetical protein
+2381770..2382699	+	309	307719836	-	STHERM_c21660	-	COG0845M	membrane fusion protein
+2382710..2385901	+	1063	307719837	-	STHERM_c21670	-	COG0841V	acriflavine resistance protein
+2385898..2386188	+	96	307719838	-	STHERM_c21680	-	-	hypothetical protein
+2386290..2388311	+	673	307719839	-	STHERM_c21690	-	COG0826O	hypothetical protein
+2388400..2389392	+	330	307719840	-	STHERM_c21700	-	COG2267I	hypothetical protein
+2389408..2390469	+	353	307719841	-	STHERM_c21710	-	COG0116L	hypothetical protein
+2390472..2391056	-	194	307719842	-	STHERM_c21720	-	COG0293J	hypothetical protein
+2391137..2391778	+	213	307719843	-	STHERM_c21730	-	COG0705R	rhomboid family protein
+2391762..2392433	+	223	307719844	-	STHERM_c21740	-	-	hypothetical protein
+2392500..2394044	+	514	307719845	-	STHERM_c21750	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+2394048..2395751	+	567	307719846	-	STHERM_c21760	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+2395825..2396784	+	319	307719847	-	STHERM_c21770	-	-	hypothetical protein
+2396798..2397565	+	255	307719848	-	STHERM_c21780	-	COG1192D	cobyrinic acid a,c-diamide synthase
+2397537..2398154	-	205	307719849	-	STHERM_c21790	-	COG0560E	hypothetical protein
+2398223..2398933	+	236	307719850	-	STHERM_c21800	-	-	hypothetical protein
+2398973..2399983	+	336	307719851	-	STHERM_c21810	-	COG1477H	hypothetical protein
+2399980..2400384	-	134	307719852	-	STHERM_c21820	-	COG5341S	hypothetical protein
+2400347..2402497	-	716	307719853	-	STHERM_c21830	-	COG4717S	hypothetical protein
+2402494..2403540	-	348	307719854	-	STHERM_c21840	-	COG0420L	hypothetical protein
+2404030..2404542	-	170	307719855	-	STHERM_c21860	-	COG2406R	hypothetical protein
+2404613..2406328	+	571	307719856	-	STHERM_c21870	-	-	hypothetical protein
+2405462..2406658	-	398	307719857	-	STHERM_c21880	-	COG2201NT	transcriptional regulatory protein
+2406667..2407485	-	272	307719858	-	STHERM_c21890	-	COG1352NT	chemotaxis protein methyltransferase
+2407606..2409237	+	543	307719859	-	STHERM_c21900	-	COG0504F	CTP synthase
+2409234..2409779	+	181	307719860	-	STHERM_c21910	-	-	hypothetical protein
+2409790..2410422	+	210	307719861	-	STHERM_c21920	-	COG1934S	hypothetical protein
+2410415..2411146	+	243	307719862	-	STHERM_c21930	-	COG1137R	transporter
+2411185..2412603	+	472	307719863	-	STHERM_c21940	-	COG1508K	RNA polymerase sigma-54 factor
+2412593..2412907	+	104	307719864	-	STHERM_c21950	-	COG1544J	hypothetical protein
+2412904..2413890	+	328	307719865	-	STHERM_c21960	-	COG1493T	HPr kinase
+2413908..2414174	+	88	307719866	-	STHERM_c21970	-	COG1925G	phosphocarrier protein HPr
+2414171..2414677	+	168	307719867	-	STHERM_c21980	-	-	hypothetical protein
+2414674..2416428	+	584	307719868	ntrY	STHERM_c21990	-	COG5000T	nitrogen regulation protein NtrY
+2416425..2417795	+	456	307719869	-	STHERM_c22000	-	COG2204T	transcriptional regulatory protein
+2417792..2418397	+	201	307719870	-	STHERM_c22010	-	COG1974KT	transcriptional repressor
+2418390..2419370	+	326	307719871	-	STHERM_c22020	-	COG1466L	hypothetical protein
+2419315..2421153	-	612	307719872	uvrC	STHERM_c22030	-	COG0322L	UvrABC system protein C
+2421180..2422655	+	491	307719873	-	STHERM_c22040	-	-	fibronectin type III domain-containing protein
+2422656..2425175	+	839	307719874	-	STHERM_c22050	-	COG5010U	hypothetical protein
+2425149..2425640	-	163	307719875	-	STHERM_c22070	-	COG2062T	hypothetical protein
+2425637..2426482	-	281	307719876	-	STHERM_c22080	-	COG1351F	hypothetical protein
+2426518..2427726	-	402	307719877	-	STHERM_c22100	-	COG2843M	hypothetical protein
+2427707..2428924	+	405	307719878	-	STHERM_c22090	-	COG0739M	hypothetical protein
+2428919..2430361	-	480	307719879	-	STHERM_c22110	-	COG0534V	hypothetical protein
+2430460..2430783	+	107	307719880	-	STHERM_c22120	-	-	hypothetical protein
+2430788..2432833	-	681	307719881	-	STHERM_c22130	-	COG0855P	polyphosphate kinase
+2432830..2434353	-	507	307719882	-	STHERM_c22140	-	COG0248FP	hypothetical protein
+2434441..2434902	+	153	307719883	-	STHERM_c22150	-	COG1030O	hypothetical protein
+2434936..2435874	+	312	307719884	-	STHERM_c22160	-	COG0330O	hypothetical protein
+2435871..2436809	+	312	307719885	-	STHERM_c22170	-	COG0330O	hypothetical protein
+2436857..2438131	-	424	307719886	-	STHERM_c22180	-	COG0017J	aspartyl-tRNA synthetase
+2438128..2439552	-	474	307719887	-	STHERM_c22190	-	COG0064J	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+2439556..2440932	-	458	307719888	-	STHERM_c22200	-	COG0154J	glutamyl-tRNA(Gln) amidotransferase subunit A
+2440941..2441219	-	92	307719889	-	STHERM_c22210	-	COG0721J	hypothetical protein
+2441397..2442812	+	471	307719890	-	STHERM_c22220	-	COG1626G	hypothetical protein
+2442834..2443553	-	239	307719891	-	STHERM_c22230	-	COG0813F	purine nucleoside phosphorylase deoD-type
+2443550..2444428	-	292	307719892	-	STHERM_c22240	-	COG0095H	lipoate-protein ligase A
+2444428..2444826	-	132	307719893	-	STHERM_c22250	-	-	hypothetical protein
+2444869..2445879	-	336	307719894	-	STHERM_c22260	-	COG4254S	hypothetical protein
+2445876..2446331	-	151	307719895	-	STHERM_c22270	-	-	hypothetical protein
+2446626..2448545	+	639	307719896	-	STHERM_c22280	-	COG2208TK	sigma factor sigB regulation protein
+2448583..2448915	+	110	307719897	rsbV	STHERM_c22290	-	COG1366T	anti sigma b factor antagonist RsbV
+2448935..2449516	+	193	307719898	-	STHERM_c22300	-	COG2172T	hypothetical protein
+2449527..2450690	+	387	307719899	-	STHERM_c22310	-	-	hypothetical protein
+2450674..2451705	-	343	307719900	-	STHERM_c22320	-	COG0451MG	hypothetical protein
+2451702..2452310	-	202	307719901	recR	STHERM_c22330	-	COG0353L	recombination protein RecR
+2452307..2452612	-	101	307719902	-	STHERM_c22340	-	COG0718S	hypothetical protein
+2452622..2454154	-	510	307719903	-	STHERM_c22350	-	COG2812L	hypothetical protein
+2454166..2455002	-	278	307719904	-	STHERM_c22360	-	COG1762GT	hypothetical protein
+2455055..2456197	-	380	307719905	-	STHERM_c22370	-	COG0475P	hypothetical protein
+2457061..2457501	-	146	307719906	-	STHERM_c22430	-	-	hypothetical protein
+2457606..2458835	-	409	307719907	-	STHERM_c22440	-	COG4591M	permease of an ABC transporter system
+2458846..2460045	-	399	307719908	-	STHERM_c22450	-	COG4591M	hypothetical protein
+2460035..2460712	-	225	307719909	-	STHERM_c22460	-	COG1136V	transporter
+2461043..2461756	-	237	307719910	-	STHERM_c22470	-	-	hypothetical protein
+2461767..2462510	-	247	307719911	-	STHERM_c22480	-	-	hypothetical protein
+2462516..2462830	-	104	307719912	-	STHERM_c22490	-	COG2345K	hypothetical protein
+2462811..2463446	-	211	307719913	-	STHERM_c22500	-	-	hypothetical protein
+2463521..2464384	-	287	307719914	parB	STHERM_c22510	-	COG1475K	chromosome 1-partitioning protein ParB
+2464377..2465375	-	332	307719915	-	STHERM_c22520	-	COG1192D	hypothetical protein
+2465385..2465468	+	27	307719916	-	STHERM_c22530	-	-	hypothetical protein
+2465524..2466585	+	353	307719917	-	STHERM_c22540	-	COG1816F	adenosine deaminase
+2466662..2469091	-	809	307719918	-	STHERM_c22550	-	COG0188L	DNA gyrase subunit A
+2469140..2471047	-	635	307719919	-	STHERM_c22560	-	COG0187L	DNA gyrase subunit B
+2471130..2472368	-	412	307719920	-	STHERM_c22570	-	COG3328L	hypothetical protein

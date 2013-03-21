@@ -1,0 +1,2020 @@
+Cenarchaeum symbiosum A, complete genome - 1..2045086
+2017 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+42..650	+	202	118575214	-	CENSYa_0001	-	COG0723C	rieske iron sulfur protein
+769..2397	+	542	118575215	-	CENSYa_0002	-	COG1290C	cytochrome b subunit of the bc complex
+2443..2907	+	154	118575216	-	CENSYa_0003	-	COG3794C	copper binding protein, plastocyanin/azurin family
+2904..3251	-	115	118575217	-	CENSYa_0004	-	-	hypothetical protein
+3428..4918	-	496	118575218	-	CENSYa_0006	-	COG0595R	hydrolase of the metallo-beta-lactamase superfamily
+4974..5492	-	172	118575219	-	CENSYa_0007	-	COG1382O	prefoldin, chaperonin cofactor
+5507..7354	+	615	118575220	-	CENSYa_0008	-	COG3352N	hypothetical protein
+7457..7954	+	165	118575221	-	CENSYa_0009	-	-	hypothetical protein
+7982..8677	+	231	118575222	-	CENSYa_0010	-	COG1948L	helicase-associated endonuclease for fork-structured DNA
+8668..9255	-	195	118575223	-	CENSYa_0011	-	COG1439R	nucleic acid-binding protein
+9395..10531	+	378	118575224	-	CENSYa_0012	-	-	hypothetical protein
+10539..10727	+	62	118575225	-	CENSYa_0013	-	-	hypothetical protein
+10855..11502	+	215	118575226	-	CENSYa_0014	-	-	hypothetical protein
+11515..11823	+	102	118575227	-	CENSYa_0015	-	-	hypothetical protein
+11923..12090	+	55	118575228	-	CENSYa_0016	-	-	hypothetical protein
+12121..12525	+	134	118575229	-	CENSYa_0017	-	-	hypothetical protein
+12522..13436	-	304	118575230	-	CENSYa_0018	-	COG1032C	Fe-S oxidoreductase
+13553..13798	-	81	118575231	-	CENSYa_0019	-	-	hypothetical protein
+13798..14151	+	117	118575232	-	CENSYa_0020	-	COG0328L	ribonuclease HI
+14200..16305	+	701	118575233	-	CENSYa_0021	-	COG1042C	acyl-CoA synthetase (NDP forming)
+16378..17901	+	507	118575234	-	CENSYa_0022	-	COG2368Q	4-hydroxybutyryl-CoA dehydratase
+17915..18889	-	324	118575235	-	CENSYa_0023	-	COG0681U	signal peptidase I
+18917..19720	-	267	118575236	-	CENSYa_0024	-	COG1873S	hypothetical protein
+19871..20203	+	110	118575237	-	CENSYa_0025	-	COG3118O	thiol-disulfide isomerase
+20450..21001	+	183	118575238	-	CENSYa_0026	-	-	hypothetical protein
+21002..21361	-	119	118575239	-	CENSYa_0027	-	-	hypothetical protein
+21381..21590	-	69	118575240	-	CENSYa_0028	-	COG4895S	hypothetical protein
+21587..21718	-	43	118575241	-	CENSYa_0029	-	-	hypothetical protein
+21858..23306	+	482	118575242	-	CENSYa_0031	-	COG0044F	dihydroorotase
+23631..24401	+	256	118575243	-	CENSYa_0032	-	COG0631T	serine/threonine protein phosphatase
+24575..25207	+	210	118575244	-	CENSYa_0033	-	COG3794C	copper binding protein, plastocyanin/azurin family
+25253..25930	-	225	118575245	-	CENSYa_0034	-	COG0120G	ribose 5-phosphate isomerase
+25927..26514	-	195	118575246	-	CENSYa_0035	-	-	hypothetical protein
+26520..26687	-	55	118575247	-	CENSYa_0036	-	COG2126J	ribosomal protein L37E
+26696..26932	-	78	118575248	-	CENSYa_0037	-	COG1958K	small nuclear ribonucleoprotein
+26994..27704	-	236	118575249	-	CENSYa_0038	-	COG1402R	conserved hypothetical protein, putative amidase
+27701..28543	-	280	118575250	-	CENSYa_0039	-	COG0788F	formyltetrahydrofolate deformylase
+28716..29459	-	247	118575251	-	CENSYa_0041	-	-	hypothetical protein
+29490..29744	-	84	118575252	-	CENSYa_0042	-	-	hypothetical protein
+29939..30874	-	311	118575253	-	CENSYa_0043	-	-	hypothetical protein
+30878..31708	-	276	118575254	-	CENSYa_0044	-	COG1721R	hypothetical protein
+31737..32744	-	335	118575255	-	CENSYa_0045	-	COG0714R	MoxR-like ATPases
+32852..34093	+	413	118575256	-	CENSYa_0046	-	-	hypothetical protein
+34090..35028	+	312	118575257	-	CENSYa_0047	-	-	hypothetical protein
+35025..35489	+	154	118575258	-	CENSYa_0048	-	COG3398S	hypothetical protein
+35479..36987	-	502	118575259	-	CENSYa_0049	-	-	hypothetical protein
+37136..38695	+	519	118575260	-	CENSYa_0050	-	-	signal peptide protein
+38847..39992	+	381	118575261	-	CENSYa_0051	-	COG0785O	cytochrome c biogenesis protein
+40163..40324	+	53	118575262	-	CENSYa_0053	-	-	hypothetical protein
+40327..41076	-	249	118575263	-	CENSYa_0054	-	COG0084L	Mg-dependent DNase
+41164..41391	+	75	118575264	-	CENSYa_0055	-	COG2036B	histone H3 and H4
+41429..42655	+	408	118575265	-	CENSYa_0056	-	COG0793M	membrane-associated Zn-dependent protease
+42784..43593	+	269	118575266	-	CENSYa_0057	-	COG0037D	ATPase of the PP-loop superfamily
+43651..44130	+	159	118575267	-	CENSYa_0058	-	-	hypothetical protein
+44727..45002	-	91	118575268	-	CENSYa_0061	-	-	hypothetical protein
+45013..45435	+	140	118575269	-	CENSYa_0062	-	-	hypothetical protein
+45468..45692	+	74	118575270	-	CENSYa_0063	-	-	hypothetical membrane protein
+45734..46117	+	127	118575271	-	CENSYa_0064	-	-	hypothetical membrane protein
+46119..46724	-	201	118575272	-	CENSYa_0065	-	COG0311H	pyridoxine biosynthesis protein/glutamine amidotransferase
+46721..47689	-	322	118575273	-	CENSYa_0066	-	COG0214H	pyridoxine/pyridoxal 5-phosphate biosynthesis enzyme
+47720..47890	-	56	118575274	-	CENSYa_0067	-	-	hypothetical protein
+47944..48267	-	107	118575275	-	CENSYa_0068	-	COG5381S	hypothetical protein
+48395..48928	-	177	118575276	-	CENSYa_0069	-	-	hypothetical protein
+49155..51419	-	754	118575277	-	CENSYa_0071	-	COG1048C	3-isopropylmalate isomerase/aconitase A
+51418..51567	+	49	118575278	-	CENSYa_0072	-	-	hypothetical protein
+51561..52199	+	212	118575279	-	CENSYa_0073	-	-	hypothetical protein
+52200..52688	-	162	118575280	-	CENSYa_0074	-	-	hypothetical protein
+52786..53025	-	79	118575281	-	CENSYa_0075	-	COG1522K	transcriptional regulator
+53068..53514	-	148	118575282	-	CENSYa_0076	-	COG2947S	hypothetical protein
+53729..54940	-	403	118575283	-	CENSYa_0077	-	COG0072J	phenylalanyl-tRNA synthetase beta subunit
+54943..55284	-	113	118575284	-	CENSYa_0078	-	-	phenylalanyl-tRNA synthetase beta subunit
+55338..56711	-	457	118575285	-	CENSYa_0079	-	COG0016J	phenylalanyl-tRNA synthetase alpha subunit
+56765..57871	+	368	118575286	-	CENSYa_0080	-	COG0180J	tryptophanyl-tRNA synthetase
+58139..58459	-	106	118575287	-	CENSYa_0081	-	-	hypothetical protein
+58537..58995	-	152	118575288	-	CENSYa_0082	-	COG1019R	pantetheine-phosphate nucleotidyltransferase
+59063..59413	+	116	118575289	-	CENSYa_0083	-	-	hypothetical protein
+59423..60526	-	367	118575290	-	CENSYa_0084	-	-	hypothetical protein
+60759..61046	-	95	118575291	-	CENSYa_0085	-	-	hypothetical protein
+61147..62661	+	504	118575292	-	CENSYa_0086	-	COG3959G	transketolase, N-terminal subunit
+62658..63614	+	318	118575293	-	CENSYa_0087	-	COG3958G	transketolase, C-terminal subunit
+63665..64276	+	203	118575294	-	CENSYa_0088	-	COG0176G	transaldolase
+64296..64781	+	161	118575295	-	CENSYa_0089	-	-	hypothetical protein
+64822..65451	+	209	118575296	-	CENSYa_0090	-	-	type I membrane protein
+65453..65809	-	118	118575297	-	CENSYa_0091	-	-	hypothetical protein
+65855..66415	-	186	118575298	-	CENSYa_0092	-	COG2101K	TATA-box binding protein (TBP), component of TFIID and TFIIIB
+66553..66978	-	141	118575299	-	CENSYa_0093	-	-	hypothetical protein
+66985..68868	-	627	118575300	-	CENSYa_0094	-	COG0031E	cysteine synthase
+69126..70691	-	521	118575301	-	CENSYa_0095	-	-	hypothetical protein
+70691..71485	-	264	118575302	-	CENSYa_0096	-	COG0714R	nitric oxide reductase Q protein
+71565..73016	-	483	118575303	-	CENSYa_0097	-	COG0644C	dehydrogenase
+73152..73565	-	137	118575304	-	CENSYa_0098	-	COG1325J	exosome subunit
+73575..74186	-	203	118575305	-	CENSYa_0099	-	COG1890J	ribosomal protein S3AE
+74246..75502	-	418	118575306	-	CENSYa_0100	-	COG0172J	seryl-tRNA synthetase
+75502..75627	-	41	118575307	-	CENSYa_0101	-	-	hypothetical protein
+75704..77035	-	443	118575308	-	CENSYa_0102	-	COG0608L	single-stranded DNA-specific exonuclease
+77110..77556	-	148	118575309	-	CENSYa_0103	-	COG0184J	30S ribosomal protein S15
+77954..78478	+	174	118575310	-	CENSYa_0104	-	COG1383J	ribosomal protein S17E
+78732..79031	+	99	118575311	-	CENSYa_0105	-	-	hypothetical protein
+79028..79987	-	319	118575312	-	CENSYa_0106	-	COG1403V	HNH endonuclease
+80168..83377	+	1069	118575313	-	CENSYa_0107	-	COG1215M	glycosyltransferase involved in cell wall biogenesis
+83933..84100	-	55	118575314	-	CENSYa_0108	-	-	ribosomal protein L40e
+84130..85044	-	304	118575315	-	CENSYa_0109	-	COG0074C	succinyl-CoA synthetase, alpha subunit
+85041..86138	-	365	118575316	-	CENSYa_0110	-	COG0045C	succinyl-CoA synthetase, beta subunit
+86244..86579	-	111	118575317	-	CENSYa_0111	-	-	hypothetical protein
+86634..89813	-	1059	118575318	-	CENSYa_0112	-	COG0060J	isoleucyl-tRNA synthetase
+89903..91144	+	413	118575319	-	CENSYa_0113	-	COG0151F	phosphoribosylamine-glycine ligase
+91134..91655	-	173	118575320	-	CENSYa_0114	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+91675..92523	-	282	118575321	-	CENSYa_0115	-	COG0190H	5,10-methylene-tetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+92598..92918	-	106	118575322	-	CENSYa_0116	-	-	hypothetical protein
+92960..93535	-	191	118575323	-	CENSYa_0117	-	COG0299F	folate-dependent phosphoribosylglycinamide formyltransferase
+93587..94630	+	347	118575324	-	CENSYa_0118	-	COG1236J	exonuclease of the beta-lactamase fold
+94631..94870	-	79	118575325	-	CENSYa_0119	-	-	hypothetical protein
+94871..95185	-	104	118575326	-	CENSYa_0120	-	-	transcriptional regulator
+95798..96217	+	139	118575327	-	CENSYa_0121	-	-	hypothetical protein
+96310..98928	-	872	118575328	-	CENSYa_0122	-	-	hypothetical protein
+99306..99473	+	55	118575329	-	CENSYa_0123	-	-	hypothetical protein
+99470..100318	+	282	118575330	-	CENSYa_0124	-	COG0189HJ	glutathione synthase/ribosomal protein S6 modification enzyme (glutaminyl transferase)
+100362..101444	+	360	118575331	-	CENSYa_0125	-	COG0624E	acetylornithine deacetylase/succinyl-diaminopimelate desuccinylase
+101444..102481	+	345	118575332	-	CENSYa_0126	-	COG1798J	diphthamide biosynthesis methyltransferase
+102510..103118	+	202	118575333	-	CENSYa_0127	-	COG0615MI	cytidylyltransferase
+103115..103696	-	193	118575334	-	CENSYa_0128	-	COG1339KH	transcriptional regulator of a riboflavin/FAD biosynthetic operon
+103800..104867	-	355	118575335	-	CENSYa_0129	-	COG0358L	bacterial-type DNA primase
+104967..105185	+	72	118575336	-	CENSYa_0130	-	-	hypothetical protein
+105653..106003	-	116	118575337	-	CENSYa_0131	-	COG0316S	hypothetical protein
+106110..106769	-	219	118575338	-	CENSYa_0132	-	-	hypothetical protein
+106847..107143	+	98	118575339	-	CENSYa_0133	-	-	hypothetical protein
+107260..107460	-	66	118575340	-	CENSYa_0134	-	-	hypothetical protein
+107643..108083	+	146	118575341	-	CENSYa_0135	-	-	hypothetical protein
+108136..110394	+	752	118575342	-	CENSYa_0136	-	-	hypothetical protein
+110465..110722	+	85	118575343	-	CENSYa_0137	-	-	hypothetical protein
+110771..110971	+	66	118575344	-	CENSYa_0138	-	-	hypothetical protein
+110968..111141	+	57	118575345	-	CENSYa_0139	-	-	hypothetical protein
+111138..111797	+	219	118575346	-	CENSYa_0140	-	-	hypothetical protein
+112016..114631	-	871	118575347	-	CENSYa_0141	-	-	hypothetical protein
+114822..117080	-	752	118575348	-	CENSYa_0142	-	COG1203R	helicase
+117408..119030	-	540	118575349	-	CENSYa_0143	-	-	hypothetical protein
+119027..119233	-	68	118575350	-	CENSYa_0144	-	-	hypothetical protein
+119261..119425	-	54	118575351	-	CENSYa_0145	-	-	hypothetical protein
+119425..120249	-	274	118575352	-	CENSYa_0146	-	COG0358L	bacterial-type DNA primase
+120522..123233	-	903	118575353	-	CENSYa_0147	-	COG1203R	helicase
+123279..123863	+	194	118575354	-	CENSYa_0148	-	COG0358L	bacterial-type DNA primase
+123925..124125	+	66	118575355	-	CENSYa_0149	-	-	hypothetical protein
+124198..124401	+	67	118575356	-	CENSYa_0150	-	-	hypothetical protein
+124434..124922	-	162	118575357	-	CENSYa_0151	-	-	hypothetical protein
+124943..125257	-	104	118575358	-	CENSYa_0152	-	-	hypothetical protein
+125479..127086	+	535	118575359	-	CENSYa_0153	-	COG1061KL	superfamily II DNA/RNA helicase, SNF2 family
+127491..128480	-	329	118575360	-	CENSYa_0154	-	-	superfamily II DNA/RNA helicase, SNF2 family
+128488..131538	-	1016	118575361	-	CENSYa_0155	-	COG0553KL	superfamily II DNA/RNA helicase, SNF2 family
+131570..131785	-	71	118575362	-	CENSYa_0156	-	-	hypothetical protein
+132079..132345	-	88	118575363	-	CENSYa_0157	-	-	hypothetical protein
+132414..132836	+	140	118575364	-	CENSYa_0158	-	-	hypothetical protein
+133102..138144	+	1680	118575365	-	CENSYa_0159	-	-	hypothetical protein
+138428..138742	+	104	118575366	-	CENSYa_0160	-	-	hypothetical protein
+138954..144167	-	1737	118575367	-	CENSYa_0161	-	-	hypothetical protein
+144258..144929	+	223	118575368	-	CENSYa_0162	-	-	hypothetical protein
+144967..146496	-	509	118575369	-	CENSYa_0163	-	COG0358L	bacterial-type DNA primase
+146692..148080	+	462	118575370	-	CENSYa_0164	-	COG2251R	nuclease
+148284..149819	+	511	118575371	-	CENSYa_0165	-	-	hypothetical protein
+149820..150575	-	251	118575372	-	CENSYa_0166	-	COG1024I	enoyl-CoA hydratase/carnithine racemase
+150613..152679	-	688	118575373	-	CENSYa_0167	-	COG1042C	acyl-CoA synthetase (NDP forming)
+152821..153453	-	210	118575374	-	CENSYa_0168	-	COG0518F	GMP synthase, glutamine amidotransferase domain
+153540..154094	+	184	118575375	-	CENSYa_0169	-	-	hypothetical protein
+154275..155450	+	391	118575376	-	CENSYa_0170	-	-	hypothetical protein
+155540..155965	+	141	118575377	-	CENSYa_0171	-	-	hypothetical protein
+155920..156207	-	95	118575378	-	CENSYa_0172	-	-	hypothetical protein
+156263..157543	-	426	118575379	-	CENSYa_0173	-	COG0334E	glutamate dehydrogenase/leucine dehydrogenase
+157564..157812	-	82	118575380	-	CENSYa_0174	-	-	hypothetical protein
+157814..158530	+	238	118575381	-	CENSYa_0175	-	COG0638O	20S proteasome, alpha and beta subunit
+158584..159264	+	226	118575382	-	CENSYa_0176	-	COG2226H	methylase involved in ubiquinone/menaquinone biosynthesis
+159261..160517	+	418	118575383	-	CENSYa_0177	-	COG2271G	permease of the major facilitator superfamily
+160861..161199	+	112	118575384	-	CENSYa_0178	-	-	Sec-independent protein secretion pathway component
+161250..161444	-	64	118575385	-	CENSYa_0179	-	-	hypothetical protein
+161579..164041	+	820	118575386	-	CENSYa_0180	-	COG1205R	helicase
+164038..164259	-	73	118575387	-	CENSYa_0181	-	-	hypothetical protein
+164390..165949	+	519	118575388	-	CENSYa_0182	-	COG3569L	DNA topoisomerase IB
+166154..166318	+	54	118575389	-	CENSYa_0184	-	-	hypothetical protein
+166477..167673	+	398	118575390	-	CENSYa_0185	-	-	hypothetical protein
+167673..168464	+	263	118575391	-	CENSYa_0186	-	COG2912S	hypothetical protein
+168454..168735	-	93	118575392	-	CENSYa_0187	-	-	hypothetical protein
+169071..169652	-	193	118575393	-	CENSYa_0189	-	-	hypothetical protein
+169899..170645	-	248	118575394	-	CENSYa_0190	-	COG0580G	glycerol uptake facilitator
+170706..171167	+	153	118575395	-	CENSYa_0191	-	COG1225O	peroxiredoxin
+171229..172347	-	372	118575396	-	CENSYa_0192	-	-	hypothetical protein
+172694..176344	+	1216	118575397	-	CENSYa_0193	-	COG1112L	superfamily I helicase
+176361..177302	-	313	118575398	-	CENSYa_0194	-	COG1403V	HNH endonuclease
+177352..178161	+	269	118575399	-	CENSYa_0195	-	-	histone acetyltransferase
+178254..178628	+	124	118575400	-	CENSYa_0196	-	-	hypothetical protein
+178657..178881	+	74	118575401	-	CENSYa_0197	-	-	hypothetical protein
+178951..180393	+	480	118575402	-	CENSYa_0198	-	COG0043H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+180425..181531	-	368	118575403	-	CENSYa_0199	-	COG1060HR	thiamine biosynthesis enzyme
+181742..182473	+	243	118575404	-	CENSYa_0200	-	COG1830G	DhnA-type fructose-1,6-bisphosphate aldolase
+182496..183512	+	338	118575405	-	CENSYa_0201	-	COG1465E	3-dehydroquinate synthase
+183509..184162	+	217	118575406	-	CENSYa_0202	-	COG0710E	3-dehydroquinate dehydratase
+184217..185023	+	268	118575407	-	CENSYa_0203	-	COG0169E	shikimate 5-dehydrogenase
+185020..185865	+	281	118575408	-	CENSYa_0204	-	COG1685EH	archaeal shikimate kinase
+185867..187111	+	414	118575409	-	CENSYa_0205	-	COG0128E	5-enolpyruvylshikimate-3-phosphate synthase
+187108..187920	-	270	118575410	-	CENSYa_0206	-	-	hypothetical protein
+188034..188243	-	69	118575411	-	CENSYa_0207	-	-	hypothetical protein
+188290..189969	-	559	118575412	-	CENSYa_0208	-	COG1199KL	Rad3-related DNA helicase
+190000..190977	-	325	118575413	-	CENSYa_0209	-	COG3481R	HD-superfamily hydrolase
+191086..191286	+	66	118575414	-	CENSYa_0210	-	-	hypothetical protein
+191438..192010	-	190	118575415	-	CENSYa_0211	-	-	hypothetical protein
+192343..193434	+	363	118575416	-	CENSYa_0212	-	COG0082E	chorismate synthase
+193434..194783	+	449	118575417	-	CENSYa_0213	-	COG0436E	aspartate/tyrosine/aromatic aminotransferase
+194795..195640	+	281	118575418	-	CENSYa_0214	-	COG0287E	prephenate dehydrogenase
+195726..196031	+	101	118575419	-	CENSYa_0215	-	-	translation initiation factor eIF 2B alpha subunit
+195975..197330	-	451	118575420	-	CENSYa_0216	-	COG0422H	thiamine biosynthesis protein
+197332..197676	-	114	118575421	-	CENSYa_0217	-	-	hypothetical protein
+197779..198351	+	190	118575422	-	CENSYa_0218	-	-	hypothetical protein
+198437..198685	-	82	118575423	-	CENSYa_0219	-	-	hypothetical protein
+198939..199538	+	199	118575424	-	CENSYa_0220	-	-	hypothetical protein
+199804..201120	+	438	118575425	-	CENSYa_0221	-	COG0351H	hydroxymethylpyrimidine phosphate kinase
+201117..201524	-	135	118575426	-	CENSYa_0222	-	-	small membrane protein
+201595..202233	-	212	118575427	-	CENSYa_0223	-	COG1651O	protein-disulfide isomerase
+202420..203106	+	228	118575428	-	CENSYa_0224	-	-	hypothetical protein
+203225..204172	+	315	118575429	-	CENSYa_0225	-	-	hypothetical protein
+204290..204472	+	60	118575430	-	CENSYa_0226	-	-	hypothetical protein
+204508..205557	+	349	118575431	-	CENSYa_0227	-	-	hypothetical protein
+205590..205976	+	128	118575432	-	CENSYa_0228	-	-	hypothetical protein
+205985..206575	-	196	118575433	-	CENSYa_0229	-	-	hypothetical protein
+206615..207463	+	282	118575434	-	CENSYa_0230	-	COG2084I	3-hydroxyisobutyrate dehydrogenase
+207460..208083	+	207	118575435	-	CENSYa_0231	-	COG2096S	hypothetical protein
+208297..208422	+	41	118575436	-	CENSYa_0233	-	-	hypothetical protein
+208426..209232	+	268	118575437	-	CENSYa_0234	-	COG1896R	HD superfamily hydrolase
+209286..209642	+	118	118575438	-	CENSYa_0235	-	-	hypothetical protein
+209687..210319	+	210	118575439	-	CENSYa_0236	-	COG1915S	hypothetical protein
+210319..210912	+	197	118575440	-	CENSYa_0237	-	COG1915S	hypothetical protein
+210958..212352	-	464	118575441	-	CENSYa_0238	-	COG0064J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase B subunit
+212349..213788	-	479	118575442	-	CENSYa_0239	-	COG0154J	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit
+213788..214054	-	88	118575443	-	CENSYa_0240	-	-	hypothetical protein
+214051..215619	-	522	118575444	-	CENSYa_0241	-	COG0017J	aspartyl/asparaginyl-tRNA synthetase
+215698..216723	+	341	118575445	-	CENSYa_0242	-	COG1759R	ATP-utilizing enzyme of ATP-grasp superfamily
+216769..217278	+	169	118575446	-	CENSYa_0243	-	-	hypothetical protein
+217358..217678	-	106	118575447	-	CENSYa_0244	-	-	hypothetical protein
+217727..218170	+	147	118575448	-	CENSYa_0245	-	-	hypothetical protein
+218413..218742	+	109	118575449	-	CENSYa_0246	-	-	hypothetical protein
+218903..219304	+	133	118575450	-	CENSYa_0247	-	-	hypothetical protein
+219643..220482	+	279	118575451	-	CENSYa_0248	-	COG1446E	L-asparaginase
+220479..220763	+	94	118575452	-	CENSYa_0249	-	-	hypothetical protein
+220780..221976	+	398	118575453	-	CENSYa_0250	-	COG0468L	RecA/RadA recombinase
+222040..223887	-	615	118575454	-	CENSYa_0251	-	COG0441J	threonyl-tRNA synthetase
+223920..224339	-	139	118575455	-	CENSYa_0252	-	-	hypothetical protein
+224381..225442	+	353	118575456	-	CENSYa_0253	-	COG1899O	deoxyhypusine synthase
+225439..225651	-	70	118575457	-	CENSYa_0254	-	-	hypothetical protein
+225650..226111	+	153	118575458	-	CENSYa_0255	-	-	hypothetical protein
+226151..226462	+	103	118575459	-	CENSYa_0256	-	-	hypothetical protein
+226468..227448	+	326	118575460	-	CENSYa_0257	-	COG0063G	sugar kinase
+227451..228560	+	369	118575461	-	CENSYa_0258	-	COG0624E	acetylornithine deacetylase/succinyl-diaminopimelate desuccinylase
+228639..228797	+	52	118575462	-	CENSYa_0259	-	-	hypothetical protein
+228794..229225	-	143	118575463	-	CENSYa_0260	-	COG2259S	hypothetical protein
+229403..229984	+	193	118575464	-	CENSYa_0261	-	COG0638O	20S proteasome, alpha and beta subunit
+229981..230454	-	157	118575465	-	CENSYa_0262	-	COG0098J	RNA-binding protein
+230451..231458	-	335	118575466	-	CENSYa_0263	-	COG0460E	homoserine dehydrogenase
+231486..231938	-	150	118575467	-	CENSYa_0264	-	-	hypothetical protein
+232064..232441	-	125	118575468	-	CENSYa_0265	-	COG0229O	peptide methionine sulfoxide reductase
+232489..234069	-	526	118575469	-	CENSYa_0266	-	COG1351F	thymidylate synthase
+234154..234441	-	95	118575470	-	CENSYa_0267	-	-	hypothetical protein
+234581..235402	+	273	118575471	-	CENSYa_0268	-	-	hypothetical protein
+235440..236177	-	245	118575472	-	CENSYa_0269	-	COG2263J	hypothetical protein
+236246..237268	-	340	118575473	-	CENSYa_0270	-	COG0258L	5'-3' exonuclease
+237590..237922	-	110	118575474	-	CENSYa_0273	-	-	hypothetical protein
+237929..238366	-	145	118575475	-	CENSYa_0274	-	-	hypothetical protein
+238182..239948	+	588	118575476	-	CENSYa_0275	-	-	hypothetical protein
+239994..241007	-	337	118575477	-	CENSYa_0276	-	COG0644C	dehydrogenase
+241100..241705	-	201	118575478	-	CENSYa_0277	-	-	hypothetical protein
+241761..241916	-	51	118575479	-	CENSYa_0278	-	-	hypothetical protein
+242033..242293	-	86	118575480	-	CENSYa_0279	-	-	hypothetical protein
+242395..244872	-	825	118575481	-	CENSYa_0280	-	-	phage related minor tail protein
+245178..245420	-	80	118575482	-	CENSYa_0281	-	-	hypothetical protein
+245772..247238	-	488	118575483	-	CENSYa_0283	-	COG0260E	leucyl aminopeptidase
+247243..248373	+	376	118575484	-	CENSYa_0284	-	COG1180O	pyruvate-formate lyase-activating enzyme
+248375..249004	-	209	118575485	-	CENSYa_0285	-	COG1878R	metal-dependent hydrolase
+249085..249345	+	86	118575486	-	CENSYa_0286	-	-	transcriptional regulator
+249340..250464	-	374	118575487	-	CENSYa_0287	-	COG0520E	cysteine desulfurase/selenocysteine lyase
+250539..251102	+	187	118575488	-	CENSYa_0288	-	-	hypothetical protein
+251173..251472	+	99	118575489	-	CENSYa_0289	-	COG1143C	hypothetical protein
+251584..252135	-	183	118575490	-	CENSYa_0290	-	COG1225O	thiol-disulfide isomerase
+252466..253737	+	423	118575491	-	CENSYa_0292	-	COG1109G	phosphomannomutase
+253819..254199	+	126	118575492	-	CENSYa_0293	-	COG1358J	ribosomal protein H6-type
+254196..254408	+	70	118575493	-	CENSYa_0294	-	COG2053J	ribosomal protein S28E/S33
+254420..254617	+	65	118575494	-	CENSYa_0295	-	COG2075J	ribosomal protein L24E
+254730..255020	+	96	118575495	-	CENSYa_0296	-	COG0105F	nucleoside diphosphate kinase
+255027..256808	+	593	118575496	-	CENSYa_0297	-	COG0532J	translation initiation factor 2
+256809..257180	-	123	118575497	-	CENSYa_0298	-	-	flavin-nucleotide-binding protein
+257603..258754	-	383	118575498	-	CENSYa_0300	-	COG0367E	asparagine synthase (glutamine-hydrolyzing)
+258753..259058	+	101	118575499	-	CENSYa_0301	-	COG2522R	transcriptional regulator
+259055..259333	-	92	118575500	-	CENSYa_0302	-	-	hypothetical protein
+259382..259849	-	155	118575501	-	CENSYa_0303	-	COG1758K	DNA-directed RNA polymerase, subunit K/omega
+259927..260145	-	72	118575502	-	CENSYa_0304	-	-	hypothetical protein
+260350..262320	+	656	118575503	-	CENSYa_0305	-	-	PPE-repeat protein
+262391..263173	+	260	118575504	-	CENSYa_0306	-	COG1478S	hypothetical protein
+263185..263760	+	191	118575505	-	CENSYa_0307	-	-	hypothetical protein
+263824..264330	+	168	118575506	-	CENSYa_0308	-	-	hypothetical protein
+264323..264724	-	133	118575507	-	CENSYa_0309	-	-	hypothetical protein
+264842..265771	-	309	118575508	-	CENSYa_0310	-	COG1013C	2-oxoglutarate ferredoxin oxidoreductase, beta subunit
+265794..267722	-	642	118575509	-	CENSYa_0311	-	COG0674C	2-oxoglutarate ferredoxin oxidoreductase, alpha subunit
+267807..267896	-	29	118575510	-	CENSYa_0312	-	-	hypothetical protein
+267895..268941	+	348	118575511	-	CENSYa_0313	-	COG1052CHR	2 lactate dehydrogenase
+268926..269327	-	133	118575512	-	CENSYa_0314	-	-	hypothetical protein
+269324..269605	-	93	118575513	-	CENSYa_0315	-	-	hypothetical protein
+269701..271068	+	455	118575514	-	CENSYa_0316	-	COG0579R	dehydrogenase
+271390..272073	+	227	118575515	-	CENSYa_0318	-	-	hypothetical protein
+272229..273338	-	369	118575516	-	CENSYa_0319	-	-	hypothetical protein
+273498..273935	-	145	118575517	-	CENSYa_0320	-	-	hypothetical protein
+273932..274933	-	333	118575518	-	CENSYa_0321	-	COG0130J	pseudouridine synthase
+274930..275487	-	185	118575519	-	CENSYa_0322	-	COG1102F	cytidylate kinase
+275487..276113	-	208	118575520	-	CENSYa_0323	-	COG1422S	membrane protein
+276119..276655	-	178	118575521	-	CENSYa_0324	-	COG2019F	archaeal adenylate kinase
+276684..278120	-	478	118575522	-	CENSYa_0325	-	COG0201U	preprotein translocase subunit
+278121..278537	-	138	118575523	-	CENSYa_0326	-	COG0200J	ribosomal protein L15
+278538..279005	-	155	118575524	-	CENSYa_0327	-	COG1841J	ribosomal protein L30/L7E
+279010..279669	-	219	118575525	-	CENSYa_0328	-	COG0098J	30S ribosomal protein S5
+279669..280148	-	159	118575526	-	CENSYa_0329	-	COG0256J	50S ribosomal protein L18
+280183..281088	-	301	118575527	-	CENSYa_0330	-	COG0078E	ornithine carbamoyltransferase
+281085..282353	-	422	118575528	-	CENSYa_0331	-	COG0552U	signal recognition particle GTPase
+282430..282951	-	173	118575529	-	CENSYa_0332	-	COG1730O	prefoldin, molecular chaperone
+283075..283419	+	114	118575530	-	CENSYa_0333	-	-	hypothetical protein
+283683..284048	-	121	118575531	-	CENSYa_0334	-	-	hypothetical protein
+284273..284935	-	220	118575532	-	CENSYa_0335	-	-	hypothetical protein
+285044..285664	-	206	118575533	-	CENSYa_0336	-	COG0605P	superoxide dismutase
+285725..287344	-	539	118575534	-	CENSYa_0337	-	COG1866C	phosphoenolpyruvate carboxykinase (ATP)
+287516..287920	+	134	118575535	-	CENSYa_0338	-	COG1717J	ribosomal protein L32E
+287904..288356	+	150	118575536	-	CENSYa_0339	-	COG2147J	ribosomal protein L19E
+288353..288667	-	104	118575537	-	CENSYa_0340	-	COG0350L	methylated DNA-protein cysteine methyltransferase
+288664..289440	-	258	118575538	-	CENSYa_0341	-	COG1650S	hypothetical protein
+289492..289653	+	53	118575539	-	CENSYa_0342	-	-	hypothetical protein
+289715..290110	+	131	118575540	-	CENSYa_0343	-	COG0250K	ribosomal protein L24A
+290143..290625	+	160	118575541	-	CENSYa_0344	-	COG0080J	50S ribosomal protein L11
+290622..291101	-	159	118575542	-	CENSYa_0345	-	COG1522K	transcriptional regulator
+291169..291993	-	274	118575543	-	CENSYa_0346	-	COG2519J	L-isoaspartate methyltransferase/tRNA (1-methyladenosine) methyltransferase
+292037..293860	-	607	118575544	-	CENSYa_0347	-	COG0018J	arginyl-tRNA synthetase
+293881..294684	-	267	118575545	-	CENSYa_0348	-	COG0561R	hydrolase of the HAD superfamily
+294723..295793	+	356	118575546	-	CENSYa_0349	-	COG1163R	GTPase
+295920..296288	+	122	118575547	-	CENSYa_0350	-	-	hypothetical protein
+296305..296469	-	54	118575548	-	CENSYa_0351	-	-	hypothetical protein
+296630..298036	-	468	118575549	-	CENSYa_0352	-	-	collagen type XI alpha 2
+298139..298399	-	86	118575550	-	CENSYa_0353	-	COG1828F	hypothetical protein
+298378..298767	-	129	118575551	-	CENSYa_0354	-	-	hypothetical protein
+298806..299471	-	221	118575552	-	CENSYa_0355	-	-	hypothetical protein
+299772..301424	+	550	118575553	-	CENSYa_0356	-	-	transposase
+301484..302593	+	369	118575554	-	CENSYa_0357	-	COG3063NU	TPR repeat protein
+302735..304540	-	601	118575555	-	CENSYa_0358	-	COG0155P	ferredoxin-sulfite/nitrite reductase
+304731..305525	-	264	118575556	-	CENSYa_0359	-	COG2897P	rhodanese-related sulfurtransferase
+305522..307153	-	543	118575557	-	CENSYa_0360	-	COG0155P	ferredoxin-sulfite/nitrite reductase
+307557..308369	+	270	118575558	-	CENSYa_0361	-	COG1635H	thiazole biosynthetic protein
+308437..309147	+	236	118575559	-	CENSYa_0362	-	-	hypothetical protein
+309204..310175	+	323	118575560	-	CENSYa_0363	-	COG0492O	thioredoxin reductase
+310177..310398	-	73	118575561	-	CENSYa_0364	-	COG0425O	redox protein, regulator of disulfide bond formation
+310446..311363	-	305	118575562	-	CENSYa_0365	-	COG0613R	metal-dependent phosphoesterase
+311444..311998	-	184	118575563	-	CENSYa_0366	-	COG1478S	hypothetical protein
+312186..312836	-	216	118575564	-	CENSYa_0367	-	COG0560E	phosphoserine phosphatase
+313058..313372	+	104	118575565	-	CENSYa_0368	-	-	hypothetical protein
+313409..314839	+	476	118575566	-	CENSYa_0369	-	COG0442J	prolyl-tRNA synthetase
+314843..315478	-	211	118575567	-	CENSYa_0370	-	-	hypothetical protein
+315657..316961	+	434	118575568	-	CENSYa_0371	-	COG1262S	hypothetical protein
+316933..317973	-	346	118575569	-	CENSYa_0372	-	COG4301S	hypothetical protein
+318085..318300	-	71	118575570	-	CENSYa_0373	-	-	hypothetical protein
+318299..318613	+	104	118575571	-	CENSYa_0374	-	-	hypothetical protein
+318620..319546	+	308	118575572	-	CENSYa_0375	-	COG0616OU	periplasmic serine protease (ClpP class)
+319621..320463	+	280	118575573	-	CENSYa_0376	-	-	hypothetical protein
+320465..321421	-	318	118575574	-	CENSYa_0377	-	COG0444EP	ABC-type oligopeptide transport system, ATPase component
+321467..324994	-	1175	118575575	-	CENSYa_0378	-	COG1196D	chromosome segregation ATPase
+325073..326290	-	405	118575576	-	CENSYa_0379	-	COG1260I	myo-inositol-1-phosphate synthase
+326341..327279	+	312	118575577	-	CENSYa_0380	-	COG1899O	deoxyhypusine synthase
+327374..330844	-	1156	118575578	-	CENSYa_0381	-	-	RTX family exoprotein
+330858..333695	-	945	118575579	-	CENSYa_0382	-	-	subtilisin-like serine protease
+333787..334494	+	235	118575580	-	CENSYa_0383	-	COG1938R	archaeal enzyme of ATP-grasp superfamily
+334474..334950	-	158	118575581	-	CENSYa_0384	-	COG1581K	archaeal DNA-binding protein
+335006..335251	-	81	118575582	-	CENSYa_0385	-	-	hypothetical protein
+335323..336414	+	363	118575583	-	CENSYa_0386	-	COG0389L	nucleotidyltransferase/DNA polymerase involved in DNA repair
+336405..337172	-	255	118575584	-	CENSYa_0387	-	-	multitransmembrane protein
+337276..338094	+	272	118575585	-	CENSYa_0388	-	-	secreted protein
+338160..338510	-	116	118575586	-	CENSYa_0389	-	-	hypothetical protein
+338554..338796	-	80	118575587	-	CENSYa_0390	-	-	hypothetical protein
+338795..339064	+	89	118575588	-	CENSYa_0391	-	-	hypothetical protein
+339283..340068	-	261	118575589	-	CENSYa_0392	-	-	hypothetical protein
+340074..340439	-	121	118575590	-	CENSYa_0393	-	-	hypothetical protein
+340470..341045	-	191	118575591	-	CENSYa_0394	-	-	ammonia monooxygenase subunit B
+341154..341408	-	84	118575592	-	CENSYa_0395	-	-	hypothetical protein
+341513..341983	+	156	118575593	-	CENSYa_0396	-	-	hypothetical protein
+342054..342290	+	78	118575594	-	CENSYa_0397	-	-	hypothetical protein
+342280..343080	+	266	118575595	-	CENSYa_0398	-	-	hypothetical protein
+343290..343859	+	189	118575596	-	CENSYa_0399	-	-	ammonia monooxygenase subunit C
+343919..344320	+	133	118575597	-	CENSYa_0400	-	-	hypothetical protein
+344371..345648	+	425	118575598	-	CENSYa_0401	-	-	hypothetical protein
+345988..346653	+	221	118575599	-	CENSYa_0402	-	-	ammonia monooxygenase subunit A
+346746..347606	-	286	118575600	-	CENSYa_0403	-	COG0338L	site-specific DNA methylase
+347787..348173	+	128	118575601	-	CENSYa_0404	-	-	hypothetical protein
+348543..349853	+	436	118575602	-	CENSYa_0406	-	COG5256J	translation elongation factor EF-1alpha
+349860..350168	+	102	118575603	-	CENSYa_0407	-	COG0051J	ribosomal protein S10
+350199..350420	+	73	118575604	-	CENSYa_0408	-	COG1996K	Zn ribbon protein
+350407..350607	-	66	118575605	-	CENSYa_0409	-	-	C2H2 Zn finger protein
+350610..351020	-	136	118575606	-	CENSYa_0410	-	-	multiple Zn finger protein
+351138..351296	-	52	118575607	-	CENSYa_0411	-	-	hypothetical protein
+351295..351801	+	168	118575608	-	CENSYa_0412	-	COG1611R	Rossmann fold nucleotide-binding protein
+351794..352891	-	365	118575609	-	CENSYa_0413	-	COG1250I	3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase
+353018..353737	+	239	118575610	-	CENSYa_0414	-	-	hypothetical protein
+353797..353967	+	56	118575611	-	CENSYa_0415	-	-	hypothetical protein
+353971..354258	+	95	118575612	-	CENSYa_0416	-	-	hypothetical protein
+354274..354690	+	138	118575613	-	CENSYa_0417	-	COG0537FGR	diadenosine tetraphosphate hydrolase
+354691..355434	-	247	118575614	-	CENSYa_0418	-	COG0484O	molecular chaperone DnaJ
+355433..355906	+	157	118575615	-	CENSYa_0419	-	COG0231J	translation elongation factor P (EF-P)/translation initiation factor 5A
+355998..356804	+	268	118575616	-	CENSYa_0420	-	COG0018J	ATPase of the PP-loop superfamily
+356806..357999	+	397	118575617	-	CENSYa_0421	-	COG0541U	signal recognition particle GTPase
+358039..359247	+	402	118575618	-	CENSYa_0422	-	COG1258J	pseudouridylate synthase
+359307..359597	+	96	118575619	-	CENSYa_0423	-	-	hypothetical protein
+359642..360211	+	189	118575620	-	CENSYa_0424	-	-	hypothetical protein
+360216..360383	-	55	118575621	-	CENSYa_0425	-	COG1998J	ribosomal protein S27AE
+360383..360997	-	204	118575622	-	CENSYa_0426	-	-	hypothetical protein
+361015..361275	-	86	118575623	-	CENSYa_0427	-	-	hypothetical protein
+361314..361676	+	120	118575624	-	CENSYa_0428	-	-	hypothetical protein
+361727..362278	+	183	118575625	-	CENSYa_0429	-	-	hypothetical protein
+362275..362814	+	179	118575626	-	CENSYa_0430	-	COG1547S	hypothetical protein
+362804..364063	-	419	118575627	-	CENSYa_0431	-	COG3635G	phosphoglycerate mutase
+364127..365182	+	351	118575628	-	CENSYa_0432	-	COG1085C	galactose-1-phosphate uridylyltransferase
+365236..365673	+	145	118575629	-	CENSYa_0433	-	-	hypothetical protein
+365670..366089	-	139	118575630	-	CENSYa_0434	-	COG3153R	histone acetyltransferase
+366104..366751	-	215	118575631	-	CENSYa_0435	-	COG1208MJ	nucleoside-diphosphate-sugar pyrophosphorylase
+367004..367903	-	299	118575632	-	CENSYa_0436	-	COG0614P	ABC-type Fe3 -hydroxamate transport system, periplasmic component
+368278..368598	+	106	118575633	-	CENSYa_0437	-	-	hypothetical protein
+368725..369849	+	374	118575634	-	CENSYa_0438	-	COG1602S	hypothetical protein
+369874..370728	-	284	118575635	-	CENSYa_0439	-	-	hypothetical protein
+370755..370916	-	53	118575636	-	CENSYa_0440	-	-	hypothetical protein
+370917..371282	-	121	118575637	-	CENSYa_0441	-	-	hypothetical protein
+371462..372409	-	315	118575638	-	CENSYa_0442	-	COG0727R	hypothetical protein
+372672..373271	-	199	118575639	-	CENSYa_0444	-	COG0049J	30S ribosomal protein S7
+373274..373711	-	145	118575640	-	CENSYa_0445	-	COG0048J	30S ribosomal protein S12
+373714..374178	-	154	118575641	-	CENSYa_0446	-	COG0195K	transcription elongation factor
+374252..374557	-	101	118575642	-	CENSYa_0447	-	COG1911J	ribosomal protein L30E
+374609..375172	-	187	118575643	-	CENSYa_0448	-	COG4122R	O-methyltransferase
+375367..376161	+	264	118575644	-	CENSYa_0449	-	COG1475K	transcriptional regulator
+376158..377015	-	285	118575645	-	CENSYa_0450	-	COG0829O	urease accessory protein
+377047..377694	-	215	118575646	-	CENSYa_0451	-	COG0378OK	Urease accessory protein
+377712..378368	-	218	118575647	-	CENSYa_0452	-	COG0830O	Urease accessory protein
+378373..378852	-	159	118575648	-	CENSYa_0453	-	COG2371O	Urease accessory protein
+378942..379241	+	99	118575649	-	CENSYa_0454	-	COG0831E	urea amidohydrolase gamma subunit
+379244..379606	+	120	118575650	-	CENSYa_0455	-	COG0832E	urea amidohydrolase beta subunit
+379603..381312	+	569	118575651	-	CENSYa_0456	-	COG0804E	urea amidohydrolase alpha subunit
+381488..383407	+	639	118575652	-	CENSYa_0457	-	COG0591ER	urea active transporter
+383404..383922	+	172	118575653	-	CENSYa_0458	-	-	hypothetical protein
+384307..385146	+	279	118575654	-	CENSYa_0459	-	COG5340K	transcriptional regulator
+385217..385945	+	242	118575655	-	CENSYa_0460	-	COG2253S	hypothetical protein
+385999..386391	+	130	118575656	-	CENSYa_0461	-	-	hypothetical protein
+386394..387560	-	388	118575657	-	CENSYa_0462	-	-	hypothetical protein
+387866..388060	+	64	118575658	-	CENSYa_0463	-	-	hypothetical protein
+388060..388629	+	189	118575659	-	CENSYa_0464	-	-	hypothetical protein
+388656..391589	-	977	118575660	-	CENSYa_0465	-	COG0210L	superfamily I helicase
+391708..392016	+	102	118575661	-	CENSYa_0466	-	COG2139J	ribosomal protein L21E
+392018..392344	+	108	118575662	-	CENSYa_0467	-	COG1460S	hypothetical protein
+392352..392927	+	191	118575663	-	CENSYa_0468	-	COG1491J	RNA-binding protein
+392957..393622	+	221	118575664	-	CENSYa_0469	-	COG0030J	dimethyladenosine transferase (rRNA methylation)
+393630..394127	+	165	118575665	-	CENSYa_0470	-	COG2890J	methylase of polypeptide chain release factor
+394117..395085	-	322	118575666	-	CENSYa_0471	-	COG0473CE	isocitrate/isopropylmalate dehydrogenase
+395221..396105	-	294	118575667	-	CENSYa_0472	-	COG0530P	Ca2 /Na antiporter
+396302..398956	+	884	118575668	-	CENSYa_0473	-	COG0574G	phosphoenolpyruvate synthase/pyruvate phosphate dikinase
+398970..399527	+	185	118575669	-	CENSYa_0474	-	COG3620K	transcriptional regulator
+399511..399909	-	132	118575670	-	CENSYa_0475	-	COG3185ER	methylmalonyl-CoA epimerase/lactoylglutathione lyase
+399909..401495	-	528	118575671	-	CENSYa_0476	-	COG1884I	methylmalonyl-CoA mutase, N-terminal domain/subunit
+401500..402423	-	307	118575672	-	CENSYa_0477	-	COG1703E	periplasmic protein kinase ArgK
+402439..402828	-	129	118575673	-	CENSYa_0478	-	-	hypothetical protein
+402832..405372	-	846	118575674	-	CENSYa_0479	-	COG0308E	aminopeptidase N
+405376..405771	+	131	118575675	-	CENSYa_0480	-	-	hypothetical protein
+405856..408018	+	720	118575676	-	CENSYa_0481	-	-	hypothetical protein
+408103..408525	+	140	118575677	-	CENSYa_0482	-	COG2185I	methylmalonyl-CoA mutase, C-terminal domain/subunit (cobalamin-binding)
+408568..409836	+	422	118575678	-	CENSYa_0483	-	COG0683E	ABC-type branched-chain amino acid transport system, periplasmic component
+409898..411667	+	589	118575679	-	CENSYa_0484	-	COG1164E	oligoendopeptidase F
+411900..412481	-	193	118575680	-	CENSYa_0485	-	COG2406R	ferritin-like protein
+412561..412776	-	71	118575681	-	CENSYa_0486	-	-	hypothetical protein
+412775..413887	+	370	118575682	-	CENSYa_0487	-	-	hypothetical protein
+413884..414450	-	188	118575683	-	CENSYa_0488	-	COG1945S	pyruvoyl-dependent arginine decarboxylase 2
+414568..415104	+	178	118575684	-	CENSYa_0489	-	-	hypothetical protein
+415609..416913	+	434	118575685	-	CENSYa_0491	-	COG0513LKJ	superfamily II helicase
+416951..417175	+	74	118575686	-	CENSYa_0492	-	COG5349	hypothetical protein
+417226..418275	-	349	118575687	-	CENSYa_0493	-	-	hypothetical protein
+418429..418626	-	65	118575688	-	CENSYa_0494	-	-	hypothetical protein
+418681..419301	-	206	118575689	-	CENSYa_0495	-	-	hypothetical protein
+419300..419587	+	95	118575690	-	CENSYa_0496	-	-	hypothetical protein
+419650..419841	+	63	118575691	-	CENSYa_0497	-	COG1278K	cold-shock protein
+419938..420420	+	160	118575692	-	CENSYa_0498	-	-	hypothetical protein
+420423..420884	-	153	118575693	-	CENSYa_0499	-	-	hypothetical protein
+420881..421621	-	246	118575694	-	CENSYa_0500	-	COG1651O	protein-disulfide isomerase
+421755..422075	+	106	118575695	-	CENSYa_0501	-	-	hypothetical protein
+422198..422518	+	106	118575696	-	CENSYa_0502	-	-	hypothetical protein
+422559..422729	+	56	118575697	-	CENSYa_0503	-	-	hypothetical protein
+422726..424756	-	676	118575698	-	CENSYa_0504	-	COG1331O	thioredoxin
+424788..425123	-	111	118575699	-	CENSYa_0505	-	-	hypothetical protein
+425326..425631	-	101	118575700	-	CENSYa_0506	-	COG1522K	transcriptional regulator
+425717..426382	-	221	118575701	-	CENSYa_0507	-	-	hypothetical protein
+426495..447083	-	6862	118575702	-	CENSYa_0508	-	COG2319R	hypothetical protein
+447189..447401	-	70	118575703	-	CENSYa_0509	-	-	hypothetical protein
+447580..448587	+	335	118575704	-	CENSYa_0510	-	COG1064R	Zn-dependent alcohol dehydrogenase
+448798..449052	+	84	118575705	-	CENSYa_0511	-	-	hypothetical protein
+449193..449612	-	139	118575706	-	CENSYa_0512	-	-	hypothetical protein
+449643..449930	-	95	118575707	-	CENSYa_0513	-	-	hypothetical protein
+449964..450650	-	228	118575708	-	CENSYa_0514	-	-	hypothetical protein
+450723..451910	-	395	118575709	-	CENSYa_0515	-	COG0585S	tRNA pseudouridine synthase D
+451910..453436	-	508	118575710	-	CENSYa_0516	-	COG4257V	streptogramin lyase
+453548..453847	-	99	118575711	-	CENSYa_0517	-	-	hypothetical protein
+453857..454723	+	288	118575712	-	CENSYa_0518	-	COG0863L	DNA modification methylase
+454802..455209	-	135	118575713	-	CENSYa_0519	-	COG1990S	peptidyl-tRNA hydrolase
+455208..456329	+	373	118575714	-	CENSYa_0520	-	COG0644C	dehydrogenase
+456459..457274	+	271	118575715	-	CENSYa_0521	-	COG0109O	polyprenyltransferase
+457271..457570	-	99	118575716	-	CENSYa_0522	-	-	hypothetical protein
+457571..459745	-	724	118575717	-	CENSYa_0523	-	COG0464O	AAA ATPase
+459752..460033	-	93	118575718	-	CENSYa_0524	-	COG2092J	translation elongation factor EF-1beta
+460035..460274	-	79	118575719	-	CENSYa_0525	-	COG2888J	Zn-ribbon RNA-binding protein
+460320..461870	-	516	118575720	-	CENSYa_0526	-	COG0004P	ammonia permease
+461998..462222	+	74	118575721	-	CENSYa_0527	-	-	hypothetical protein
+462278..462910	+	210	118575722	-	CENSYa_0528	-	-	hypothetical protein
+463006..463254	+	82	118575723	-	CENSYa_0529	-	-	hypothetical protein
+463257..464102	+	281	118575724	-	CENSYa_0530	-	COG3794C	copper binding protein, plastocyanin/azurin family
+464099..464497	+	132	118575725	-	CENSYa_0531	-	COG1310R	metal-dependent protease of the PAD1/JA B1 superfamily
+464494..465816	-	440	118575726	-	CENSYa_0532	-	COG0498E	threonine synthase
+465858..466178	+	106	118575727	-	CENSYa_0533	-	-	hypothetical protein
+466229..466567	+	112	118575728	-	CENSYa_0534	-	-	hypothetical protein
+466724..466900	-	58	118575729	-	CENSYa_0535	-	-	hypothetical protein
+466936..467574	+	212	118575730	-	CENSYa_0536	-	-	hypothetical protein
+467571..468815	+	414	118575731	-	CENSYa_0537	-	COG4826O	serine protease inhibitor
+468876..469115	+	79	118575732	-	CENSYa_0538	-	-	hypothetical protein
+469129..469431	+	100	118575733	-	CENSYa_0539	-	-	hypothetical protein
+469752..470066	+	104	118575734	-	CENSYa_0540	-	-	hypothetical protein
+470361..470834	-	157	118575735	-	CENSYa_0541	-	-	hypothetical protein
+470896..471060	-	54	118575736	-	CENSYa_0542	-	-	hypothetical protein
+471136..472731	-	531	118575737	-	CENSYa_0543	-	COG0322L	excinuclease nuclease subunit
+472728..475535	-	935	118575738	-	CENSYa_0544	-	COG0178L	excinuclease ATPase subunit
+475537..477486	-	649	118575739	-	CENSYa_0545	-	COG0556L	excinuclease helicase subunit
+477559..478578	-	339	118575740	-	CENSYa_0546	-	COG0863L	DNA modification methylase
+478638..479270	-	210	118575741	-	CENSYa_0547	-	COG3467R	flavin-nucleotide-binding protein
+479274..480446	-	390	118575742	-	CENSYa_0548	-	COG2141C	flavin-dependent oxidoreductase
+480454..481398	-	314	118575743	-	CENSYa_0549	-	COG1454C	alcohol dehydrogenase, class IV
+481521..481703	-	60	118575744	-	CENSYa_0550	-	-	ribosomal protein S30E
+481702..481869	+	55	118575745	-	CENSYa_0551	-	-	hypothetical protein
+481869..482012	+	47	118575746	-	CENSYa_0552	-	-	hypothetical protein
+482078..482518	-	146	118575747	-	CENSYa_0553	-	-	hypothetical protein
+482581..484305	-	574	118575748	-	CENSYa_0554	-	COG1032C	Fe-S oxidoreductase
+484468..485247	-	259	118575749	-	CENSYa_0555	-	COG0543HC	2-polyprenylphenol hydroxylase
+485261..486106	-	281	118575750	-	CENSYa_0556	-	COG0167F	dihydroorotate dehydrogenase
+486266..487444	+	392	118575751	-	CENSYa_0557	-	COG1498J	ribosomal biogenesis protein/nucleolar protein
+487518..488123	+	201	118575752	-	CENSYa_0558	-	COG1889J	fibrillarin-like rRNA methylase
+488120..488737	-	205	118575753	-	CENSYa_0559	-	COG0164L	ribonuclease HII
+488736..489647	+	303	118575754	-	CENSYa_0560	-	COG0338L	site-specific DNA methylase
+489649..490782	+	377	118575755	-	CENSYa_0561	-	COG1867J	N2,N2-dimethylguanosine tRNA methyltransferase
+490779..491369	-	196	118575756	-	CENSYa_0562	-	COG0293J	23S rRNA methylase
+491366..492454	-	362	118575757	-	CENSYa_0563	-	-	transcriptional regulator
+492785..494302	+	505	118575758	-	CENSYa_0564	-	COG1980G	dihydroorotate dehydrogenase
+494502..499202	+	1566	118575759	-	CENSYa_0565	-	COG3386G	hypothetical protein
+499261..503295	-	1344	118575760	-	CENSYa_0566	-	COG3391S	hypothetical protein
+503339..503560	-	73	118575761	-	CENSYa_0567	-	-	hypothetical protein
+503815..504495	-	226	118575762	-	CENSYa_0568	-	-	hypothetical protein
+504646..505296	-	216	118575763	-	CENSYa_0569	-	COG4725TK	transcriptional activator, adenine-specific DNA methyltransferase
+505584..507107	+	507	118575764	-	CENSYa_0570	-	COG0226P	phosphate ABC transporter periplasmic component
+507471..508412	+	313	118575765	-	CENSYa_0571	-	-	hypothetical protein
+508499..509341	+	280	118575766	-	CENSYa_0572	-	-	hypothetical protein
+509460..509918	-	152	118575767	-	CENSYa_0573	-	-	hypothetical protein
+510093..511292	+	399	118575768	-	CENSYa_0574	-	-	hypothetical protein
+511392..512279	+	295	118575769	-	CENSYa_0575	-	-	hypothetical protein
+512356..513321	+	321	118575770	-	CENSYa_0576	-	COG0573P	phosphate ABC transporter permease component
+513354..514232	+	292	118575771	-	CENSYa_0577	-	COG0581P	phosphate ABC transporter permease component
+514235..515056	+	273	118575772	-	CENSYa_0578	-	COG1117P	phosphate ABC transporter ATPase component
+515094..515630	+	178	118575773	-	CENSYa_0579	-	COG1591L	hypothetical protein
+515690..516448	+	252	118575774	-	CENSYa_0580	-	-	hypothetical protein
+516472..523653	-	2393	118575775	-	CENSYa_0581	-	COG3391S	hypothetical protein
+523798..533031	-	3077	118575776	-	CENSYa_0582	-	COG3391S	hypothetical protein
+533070..536303	-	1077	118575777	-	CENSYa_0583	-	COG3391S	hypothetical protein
+536523..536852	+	109	118575778	-	CENSYa_0584	-	-	hypothetical protein
+536902..537030	+	42	118575779	-	CENSYa_0585	-	-	hypothetical protein
+537033..537323	-	96	118575780	-	CENSYa_0586	-	-	hypothetical protein
+537320..538423	-	367	118575781	-	CENSYa_0587	-	COG0183I	3-ketoacyl-CoA thiolase
+538420..539382	-	320	118575782	-	CENSYa_0588	-	COG2141C	flavin-dependent oxidoreductase
+539411..540283	-	290	118575783	-	CENSYa_0589	-	COG0677M	hypothetical protein
+540324..541418	-	364	118575784	-	CENSYa_0590	-	COG0166G	glucose-6-phosphate isomerase
+541417..542457	+	346	118575785	-	CENSYa_0591	-	COG0182J	translation initiation factor 2B subunit, eIF-2B alpha/beta/delta family
+542525..543196	+	223	118575786	-	CENSYa_0592	-	-	hypothetical protein
+543293..543952	+	219	118575787	-	CENSYa_0593	-	-	hypothetical protein
+544021..544236	-	71	118575788	-	CENSYa_0594	-	-	hypothetical protein
+544554..545204	+	216	118575789	-	CENSYa_0595	-	COG4725TK	transcriptional activator, adenine-specific DNA methyltransferase
+545196..545744	-	182	118575790	-	CENSYa_0596	-	-	MunI restriction endonuclease
+545878..546261	+	127	118575791	-	CENSYa_0597	-	-	hypothetical protein
+546285..546935	+	216	118575792	-	CENSYa_0598	-	COG1573L	uracil-DNA glycosylase
+546932..547480	+	182	118575793	-	CENSYa_0599	-	COG2094L	3-methyladenine DNA glycosylase
+547482..548114	-	210	118575794	-	CENSYa_0600	-	COG0586S	uncharacterized membrane-associated protein
+548192..548584	+	130	118575795	-	CENSYa_0601	-	-	hypothetical protein
+548575..549555	-	326	118575796	-	CENSYa_0602	-	COG0444EP	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component
+549997..550815	+	272	118575797	-	CENSYa_0603	-	-	hypothetical protein
+550812..552569	-	585	118575798	-	CENSYa_0604	-	COG0863L	adenine specific DNA methylase
+552689..552883	-	64	118575799	-	CENSYa_0605	-	-	hypothetical protein
+552922..553812	-	296	118575800	-	CENSYa_0606	-	-	hypothetical protein
+553931..554269	+	112	118575801	-	CENSYa_0607	-	-	hypothetical protein
+554585..555085	-	166	118575802	-	CENSYa_0608	-	COG3467R	flavin-nucleotide-binding protein
+555350..555580	-	76	118575803	-	CENSYa_0609	-	-	hypothetical protein
+555625..556125	+	166	118575804	-	CENSYa_0610	-	-	hypothetical protein
+556181..557458	+	425	118575805	-	CENSYa_0611	-	COG0017J	aspartyl/asparaginyl-tRNA synthetase
+557455..558453	-	332	118575806	-	CENSYa_0612	-	COG0473CE	isocitrate/isopropylmalate dehydrogenase
+558460..559977	-	505	118575807	-	CENSYa_0613	-	COG0119E	isopropylmalate/homocitrate/citramalate synthase
+559974..560462	-	162	118575808	-	CENSYa_0614	-	COG0440E	acetolactate synthase, small (regulatory) subunit
+560465..562120	-	551	118575809	-	CENSYa_0615	-	COG0028EH	thiamine pyrophosphate-requiring enzyme
+562176..563447	-	423	118575810	-	CENSYa_0616	-	COG0683E	ABC-type branched-chain amino acid transport system, periplasmic component
+563637..564236	-	199	118575811	-	CENSYa_0617	-	-	N-6-adenine-methyltransferase
+564426..564725	+	99	118575812	-	CENSYa_0618	-	-	hypothetical protein
+565055..565405	-	116	118575813	-	CENSYa_0619	-	-	hypothetical protein
+565622..566005	-	127	118575814	-	CENSYa_0620	-	COG1308K	hypothetical protein
+566008..566853	-	281	118575815	-	CENSYa_0621	-	-	hypothetical protein
+566850..567062	-	70	118575816	-	CENSYa_0622	-	-	hypothetical protein
+567257..573502	-	2081	118575817	-	CENSYa_0623	-	-	subtilisin-like serine protease
+573573..574379	-	268	118575818	-	CENSYa_0624	-	COG1830G	DhnA-type fructose-1,6-bisphosphate aldolase
+574697..575239	+	180	118575819	-	CENSYa_0625	-	-	hypothetical protein
+575399..576217	-	272	118575820	-	CENSYa_0626	-	-	hypothetical protein
+576327..576548	-	73	118575821	-	CENSYa_0627	-	-	hypothetical protein
+576545..577414	-	289	118575822	-	CENSYa_0628	-	COG0338L	site-specific DNA methylase
+577481..578560	-	359	118575823	-	CENSYa_0629	-	COG1063ER	L-iditol 2-dehydrogenase/threonine dehydrogenase
+578670..578960	-	96	118575824	-	CENSYa_0630	-	COG1436C	hypothetical protein
+579089..579982	-	297	118575825	-	CENSYa_0631	-	-	hypothetical protein
+580119..580415	-	98	118575826	-	CENSYa_0632	-	-	hypothetical protein
+580430..581989	-	519	118575827	-	CENSYa_0633	-	-	hypothetical protein
+581998..582336	-	112	118575828	-	CENSYa_0634	-	-	hypothetical protein
+582443..584491	-	682	118575829	-	CENSYa_0635	-	-	hypothetical protein
+584600..586270	-	556	118575830	-	CENSYa_0636	-	-	hypothetical protein
+586359..591230	-	1623	118575831	-	CENSYa_0637	-	COG3794C	hypothetical protein
+591337..592347	+	336	118575832	-	CENSYa_0638	-	-	hypothetical protein
+592378..594096	-	572	118575833	-	CENSYa_0639	-	COG0323L	DNA mismatch repair enzyme
+594141..595754	-	537	118575834	-	CENSYa_0640	-	COG1061KL	superfamily II helicase
+595773..596612	-	279	118575835	-	CENSYa_0641	-	COG0175EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+596617..596787	-	56	118575836	-	CENSYa_0642	-	-	hypothetical protein
+597053..598789	+	578	118575837	-	CENSYa_0643	-	COG1479S	hypothetical protein
+598834..604890	+	2018	118575838	-	CENSYa_0644	-	-	subtilisin-like serine protease
+605021..605815	+	264	118575839	-	CENSYa_0645	-	-	hypothetical protein
+605812..607863	-	683	118575840	-	CENSYa_0646	-	-	hypothetical protein
+607972..609780	-	602	118575841	-	CENSYa_0647	-	COG2319R	hypothetical protein
+609865..610296	-	143	118575842	-	CENSYa_0648	-	COG2112T	Ser/Thr protein kinase
+610468..610881	-	137	118575843	-	CENSYa_0649	-	COG3467R	hypothetical protein
+611109..612587	-	492	118575844	-	CENSYa_0650	-	-	hypothetical protein
+613024..615447	-	807	118575845	-	CENSYa_0651	-	COG1061KL	hypothetical protein
+615686..618046	-	786	118575846	-	CENSYa_0652	-	COG2189L	adenine specific DNA methylase
+618896..619126	+	76	118575847	-	CENSYa_0653	-	-	hypothetical protein
+619255..623712	-	1485	118575848	-	CENSYa_0654	-	COG3794C	hypothetical protein
+623829..624035	+	68	118575849	-	CENSYa_0655	-	-	hypothetical protein
+624061..624900	-	279	118575850	-	CENSYa_0656	-	COG0175EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+624965..625906	-	313	118575851	-	CENSYa_0657	-	-	hypothetical protein
+625906..626985	-	359	118575852	-	CENSYa_0658	-	COG1104E	cysteine sulfinate desulfinase/cysteine desulfurase
+627033..627236	-	67	118575853	-	CENSYa_0659	-	-	hypothetical protein
+627281..628387	+	368	118575854	-	CENSYa_0660	-	-	hypothetical protein
+628424..628822	+	132	118575855	-	CENSYa_0661	-	-	hypothetical protein
+628943..630601	+	552	118575856	-	CENSYa_0662	-	-	transposase
+630668..631774	+	368	118575857	-	CENSYa_0663	-	-	hypothetical protein
+631842..633821	-	659	118575858	-	CENSYa_0664	-	-	hypothetical protein
+633881..634186	-	101	118575859	-	CENSYa_0665	-	-	hypothetical protein
+634183..635100	-	305	118575860	-	CENSYa_0666	-	-	hypothetical protein
+635182..636624	-	480	118575861	-	CENSYa_0667	-	COG0630NU	type IV secretory pathway component
+636748..637194	-	148	118575862	-	CENSYa_0668	-	-	hypothetical protein
+637193..639097	+	634	118575863	-	CENSYa_0669	-	COG3451U	ATPase/type IV secretory pathway component
+639159..639722	-	187	118575864	-	CENSYa_0670	-	-	ammonia monooxygenase/methane monooxygenase, subunit C
+639924..640541	-	205	118575865	-	CENSYa_0671	-	-	hypothetical protein
+640555..641343	+	262	118575866	-	CENSYa_0672	-	-	hypothetical protein
+641312..641713	-	133	118575867	-	CENSYa_0673	-	-	hypothetical protein
+641707..642006	-	99	118575868	-	CENSYa_0674	-	-	hypothetical protein
+642126..642605	+	159	118575869	-	CENSYa_0675	-	-	hypothetical protein
+642630..643250	+	206	118575870	-	CENSYa_0676	-	-	hypothetical protein
+643338..643733	+	131	118575871	-	CENSYa_0677	-	-	hypothetical protein
+643751..644053	+	100	118575872	-	CENSYa_0678	-	-	hypothetical protein
+644138..644437	+	99	118575873	-	CENSYa_0679	-	-	hypothetical protein
+644479..644751	+	90	118575874	-	CENSYa_0680	-	-	hypothetical protein
+644839..645138	+	99	118575875	-	CENSYa_0681	-	-	hypothetical protein
+645322..645801	-	159	118575876	-	CENSYa_0682	-	-	hypothetical protein
+645833..647356	-	507	118575877	-	CENSYa_0683	-	-	DNA modification methylase
+647405..647755	+	116	118575878	-	CENSYa_0684	-	-	hypothetical protein
+647769..648032	+	87	118575879	-	CENSYa_0685	-	-	hypothetical protein
+648137..648607	+	156	118575880	-	CENSYa_0686	-	-	hypothetical protein
+648715..649356	+	213	118575881	-	CENSYa_0687	-	-	hypothetical protein
+649353..651266	+	637	118575882	-	CENSYa_0688	-	COG1525L	micrococcal nuclease-like protein
+651263..652105	+	280	118575883	-	CENSYa_0689	-	-	hypothetical protein
+652117..653511	+	464	118575884	-	CENSYa_0690	-	COG0863L	DNA modification methylase
+653578..653913	+	111	118575885	-	CENSYa_0691	-	-	hypothetical protein
+653913..656747	+	944	118575886	-	CENSYa_0692	-	-	hypothetical protein
+656744..658480	+	578	118575887	-	CENSYa_0693	-	-	hypothetical protein
+658477..660327	+	616	118575888	-	CENSYa_0694	-	-	Flp pilus assembly protein
+660329..662980	+	883	118575889	-	CENSYa_0695	-	COG0433R	ATPase
+663005..663709	+	234	118575890	-	CENSYa_0696	-	-	hypothetical protein
+663975..664328	-	117	118575891	-	CENSYa_0697	-	-	hypothetical protein
+664401..664877	+	158	118575892	-	CENSYa_0698	-	-	hypothetical protein
+664874..667306	+	810	118575893	-	CENSYa_0699	-	-	hypothetical protein
+667266..668096	+	276	118575894	-	CENSYa_0700	-	COG1405K	hypothetical protein
+668224..668982	+	252	118575895	-	CENSYa_0701	-	-	hypothetical protein
+668984..669118	+	44	118575896	-	CENSYa_0702	-	-	hypothetical protein
+669154..669420	+	88	118575897	-	CENSYa_0703	-	-	hypothetical protein
+669823..670566	+	247	118575898	-	CENSYa_0704	-	-	hypothetical protein
+670572..671795	-	407	118575899	-	CENSYa_0705	-	-	hypothetical protein
+671827..672099	-	90	118575900	-	CENSYa_0706	-	-	hypothetical protein
+672154..676266	+	1370	118575901	-	CENSYa_0707	-	-	hypothetical protein
+676331..683608	+	2425	118575902	-	CENSYa_0708	-	COG3391S	hypothetical protein
+683605..685434	+	609	118575903	-	CENSYa_0709	-	COG2319R	hypothetical protein
+685510..685905	-	131	118575904	-	CENSYa_0710	-	-	hypothetical protein
+686124..686438	-	104	118575905	-	CENSYa_0711	-	-	hypothetical protein
+686626..687312	-	228	118575906	-	CENSYa_0712	-	-	hypothetical protein
+687311..687529	+	72	118575907	-	CENSYa_0713	-	-	hypothetical protein
+687536..688489	+	317	118575908	-	CENSYa_0714	-	-	hypothetical protein
+688646..689044	+	132	118575909	-	CENSYa_0715	-	-	hypothetical protein
+689041..689976	+	311	118575910	-	CENSYa_0716	-	-	hypothetical protein
+689973..690398	+	141	118575911	-	CENSYa_0717	-	-	hypothetical protein
+690518..690847	+	109	118575912	-	CENSYa_0718	-	-	hypothetical protein
+690849..691406	+	185	118575913	-	CENSYa_0719	-	-	hypothetical protein
+691629..691964	+	111	118575914	-	CENSYa_0720	-	-	hypothetical protein
+691967..692083	+	38	118575915	-	CENSYa_0721	-	-	hypothetical protein
+692135..693109	+	324	118575916	-	CENSYa_0722	-	COG1340S	hypothetical protein
+693189..694070	-	293	118575917	-	CENSYa_0723	-	-	hypothetical protein
+694121..696304	+	727	118575918	-	CENSYa_0724	-	-	hypothetical protein
+696330..698342	+	670	118575919	-	CENSYa_0725	-	-	hypothetical protein
+698349..698837	+	162	118575920	-	CENSYa_0726	-	-	hypothetical protein
+698952..699938	+	328	118575921	-	CENSYa_0727	-	-	hypothetical protein
+699983..700252	+	89	118575922	-	CENSYa_0728	-	-	hypothetical protein
+700297..700599	+	100	118575923	-	CENSYa_0729	-	-	hypothetical protein
+700644..700922	+	92	118575924	-	CENSYa_0730	-	-	hypothetical protein
+700973..701707	+	244	118575925	-	CENSYa_0731	-	-	hypothetical protein
+701707..702048	+	113	118575926	-	CENSYa_0732	-	-	hypothetical protein
+702045..704153	+	702	118575927	-	CENSYa_0733	-	-	hypothetical protein
+704150..704869	+	239	118575928	-	CENSYa_0734	-	-	hypothetical protein
+704921..705256	+	111	118575929	-	CENSYa_0735	-	-	hypothetical protein
+705259..705375	+	38	118575930	-	CENSYa_0736	-	-	hypothetical protein
+705427..706338	+	303	118575931	-	CENSYa_0737	-	-	hypothetical protein
+706383..706682	+	99	118575932	-	CENSYa_0738	-	-	hypothetical protein
+706727..707080	+	117	118575933	-	CENSYa_0739	-	-	hypothetical protein
+707080..707382	+	100	118575934	-	CENSYa_0740	-	-	hypothetical protein
+707427..707756	+	109	118575935	-	CENSYa_0741	-	-	hypothetical protein
+707809..708084	-	91	118575936	-	CENSYa_0742	-	-	hypothetical protein
+708083..709060	+	325	118575937	-	CENSYa_0743	-	-	hypothetical protein
+709057..709671	+	204	118575938	-	CENSYa_0744	-	-	hypothetical protein
+709766..710083	+	105	118575939	-	CENSYa_0745	-	-	hypothetical protein
+710132..710752	+	206	118575940	-	CENSYa_0746	-	-	hypothetical protein
+710762..710971	+	69	118575941	-	CENSYa_0747	-	-	hypothetical protein
+710973..711320	+	115	118575942	-	CENSYa_0748	-	-	hypothetical protein
+711320..711577	+	85	118575943	-	CENSYa_0749	-	-	hypothetical protein
+711818..712090	+	90	118575944	-	CENSYa_0750	-	-	hypothetical protein
+712179..712397	-	72	118575945	-	CENSYa_0751	-	-	hypothetical protein
+712407..712754	+	115	118575946	-	CENSYa_0752	-	-	hypothetical protein
+712782..712997	+	71	118575947	-	CENSYa_0753	-	-	hypothetical protein
+713061..713339	-	92	118575948	-	CENSYa_0754	-	-	hypothetical protein
+713395..714444	-	349	118575949	-	CENSYa_0755	-	-	hypothetical protein
+714529..715134	-	201	118575950	-	CENSYa_0756	-	-	hypothetical protein
+715148..715567	-	139	118575951	-	CENSYa_0757	-	-	hypothetical protein
+716153..716491	-	112	118575952	-	CENSYa_0758	-	-	hypothetical protein
+716536..716796	+	86	118575953	-	CENSYa_0759	-	-	hypothetical protein
+716793..717062	+	89	118575954	-	CENSYa_0760	-	-	hypothetical protein
+717117..717404	+	95	118575955	-	CENSYa_0761	-	-	hypothetical protein
+717440..718072	+	210	118575956	-	CENSYa_0762	-	-	hypothetical protein
+718069..718572	-	167	118575957	-	CENSYa_0763	-	-	hypothetical protein
+718571..718801	+	76	118575958	-	CENSYa_0764	-	-	hypothetical protein
+718810..719109	+	99	118575959	-	CENSYa_0765	-	-	hypothetical protein
+719113..719487	-	124	118575960	-	CENSYa_0766	-	-	hypothetical protein
+719534..719896	-	120	118575961	-	CENSYa_0767	-	COG5431S	hypothetical protein
+719908..720600	+	230	118575962	-	CENSYa_0768	-	COG1407R	ICC-like phosphoesterase
+720597..721709	-	370	118575963	-	CENSYa_0769	-	COG0458EF	carbamoylphosphate synthase large subunit
+721706..723676	-	656	118575964	-	CENSYa_0770	-	COG0458EF	aspartate carbamoyltransferase
+723835..724959	-	374	118575965	-	CENSYa_0771	-	COG0505EF	carbamoylphosphate synthase small subunit
+725022..725306	-	94	118575966	-	CENSYa_0772	-	-	hypothetical protein
+725321..725944	-	207	118575967	-	CENSYa_0773	-	-	hypothetical protein
+726023..726655	-	210	118575968	-	CENSYa_0774	-	-	hypothetical protein
+726774..728144	-	456	118575969	-	CENSYa_0775	-	-	hypothetical protein
+728297..729067	-	256	118575970	-	CENSYa_0776	-	-	hypothetical protein
+729273..730034	-	253	118575971	-	CENSYa_0777	-	-	hypothetical protein
+730449..730718	-	89	118575972	-	CENSYa_0778	-	-	hypothetical protein
+731412..731969	+	185	118575973	-	CENSYa_0779	-	COG0361J	translation initiation factor 1
+732017..732691	+	224	118575974	-	CENSYa_0780	-	COG1718TD	serine/threonine protein kinase
+732767..733351	+	194	118575975	-	CENSYa_0781	-	COG0415L	RNA-binding protein
+733355..734269	+	304	118575976	-	CENSYa_0782	-	COG1389L	DNA topoisomerase VI, subunit B
+734298..735191	+	297	118575977	-	CENSYa_0783	-	COG1389L	DNA topoisomerase VI, subunit B
+735490..736410	+	306	118575978	-	CENSYa_0784	-	COG1697L	DNA topoisomerase VI, subunit A
+736361..736807	-	148	118575979	-	CENSYa_0785	-	-	hypothetical protein
+736980..737195	+	71	118575980	-	CENSYa_0786	-	-	hypothetical protein
+737262..737909	+	215	118575981	-	CENSYa_0787	-	-	hypothetical protein
+738060..738320	+	86	118575982	-	CENSYa_0788	-	-	hypothetical protein
+738342..738740	+	132	118575983	-	CENSYa_0789	-	-	hypothetical protein
+738741..739025	+	94	118575984	-	CENSYa_0790	-	-	hypothetical protein
+739022..739744	-	240	118575985	-	CENSYa_0791	-	COG0005F	purine nucleoside phosphorylase
+739797..740309	-	170	118575986	-	CENSYa_0792	-	COG0503F	adenine/guanine phosphoribosyltransferase
+740421..742553	-	710	118575987	-	CENSYa_0793	-	COG2373R	hypothetical protein
+742613..744697	-	694	118575988	-	CENSYa_0794	-	COG3593L	ATP-dependent endonuclease
+744752..744946	-	64	118575989	-	CENSYa_0795	-	-	hypothetical protein
+745116..745358	+	80	118575990	-	CENSYa_0796	-	-	hypothetical protein
+745382..745600	+	72	118575991	-	CENSYa_0797	-	-	hypothetical protein
+745636..746031	+	131	118575992	-	CENSYa_0798	-	-	hypothetical protein
+746118..747377	+	419	118575993	-	CENSYa_0799	-	COG2379G	hydroxypyruvate reductase
+747374..747733	+	119	118575994	-	CENSYa_0800	-	-	hypothetical protein
+747776..747979	+	67	118575995	-	CENSYa_0801	-	-	hypothetical protein
+747976..749373	-	465	118575996	-	CENSYa_0802	-	COG0372C	citrate synthase
+749466..749858	+	130	118575997	-	CENSYa_0803	-	-	hypothetical protein
+750061..750639	+	192	118575998	-	CENSYa_0804	-	-	hypothetical protein
+750639..750935	+	98	118575999	-	CENSYa_0805	-	-	hypothetical protein
+751203..751442	+	79	118576000	-	CENSYa_0806	-	-	hypothetical protein
+751656..751829	+	57	118576001	-	CENSYa_0807	-	-	hypothetical protein
+752168..752770	+	200	118576002	-	CENSYa_0808	-	-	hypothetical protein
+752963..753553	+	196	118576003	-	CENSYa_0809	-	-	hypothetical protein
+753666..754043	+	125	118576004	-	CENSYa_0810	-	-	hypothetical protein
+754069..754296	+	75	118576005	-	CENSYa_0811	-	-	hypothetical protein
+755487..755963	+	158	118576006	-	CENSYa_0812	-	-	hypothetical protein
+756036..756242	+	68	118576007	-	CENSYa_0813	-	-	hypothetical protein
+756799..756996	+	65	118576008	-	CENSYa_0814	-	-	hypothetical protein
+756993..757994	+	333	118576009	-	CENSYa_0815	-	COG2404R	single-stranded DNA-specific exonuclease
+757997..762499	+	1500	118576010	-	CENSYa_0816	-	COG2319R	hypothetical protein
+762506..763081	-	191	118576011	-	CENSYa_0817	-	-	hypothetical protein
+763435..763908	-	157	118576012	-	CENSYa_0818	-	COG0251J	translation initiation inhibitor
+764077..768948	+	1623	118576013	-	CENSYa_0819	-	COG2319R	hypothetical protein
+769065..804797	+	11910	118576014	-	CENSYa_0820	-	COG3391S	hypothetical protein
+804862..806019	-	385	118576015	-	CENSYa_0821	-	COG1378K	transcriptional regulator
+806250..806558	+	102	118576016	-	CENSYa_0822	-	-	hypothetical protein
+806555..807748	+	397	118576017	-	CENSYa_0823	-	COG0464O	AAA ATPase
+807857..808165	+	102	118576018	-	CENSYa_0824	-	-	hypothetical protein
+808223..809491	+	422	118576019	-	CENSYa_0825	-	COG1041L	DNA modification methylase
+809488..810273	+	261	118576020	-	CENSYa_0826	-	-	restriction endonuclease
+810407..810808	+	133	118576021	-	CENSYa_0827	-	-	hypothetical protein
+810946..811368	+	140	118576022	-	CENSYa_0828	-	COG1601J	translation initiation factor 2, beta subunit/eIF-5 N-terminal domain
+811368..811664	+	98	118576023	-	CENSYa_0829	-	COG2412S	hypothetical protein
+811733..811912	+	59	118576024	-	CENSYa_0830	-	-	hypothetical protein
+811935..813269	+	444	118576025	-	CENSYa_0831	-	COG1041L	DNA modification methylase
+813871..814083	+	70	118576026	-	CENSYa_0832	-	-	hypothetical protein
+814140..814295	+	51	118576027	-	CENSYa_0833	-	-	hypothetical protein
+814348..814761	+	137	118576028	-	CENSYa_0834	-	COG0346E	methylmalonyl-CoA epimerase/lactoylglutathione lyase
+814758..815144	-	128	118576029	-	CENSYa_0835	-	-	hypothetical protein
+815152..815367	-	71	118576030	-	CENSYa_0836	-	-	hypothetical protein
+815364..815846	-	160	118576031	-	CENSYa_0837	-	-	hypothetical protein
+815903..816799	-	298	118576032	-	CENSYa_0838	-	COG2114T	adenylate cyclase
+816881..817426	-	181	118576033	-	CENSYa_0839	-	-	hypothetical protein
+817535..817798	+	87	118576034	-	CENSYa_0840	-	-	hypothetical protein
+818673..819863	+	396	118576035	-	CENSYa_0841	-	-	hypothetical protein
+819967..830649	+	3560	118576036	-	CENSYa_0842	-	COG2706G	hypothetical protein
+830743..831909	+	388	118576037	-	CENSYa_0843	-	COG1171E	threonine dehydratase
+832133..839686	+	2517	118576038	-	CENSYa_0844	-	COG3391S	hypothetical protein
+839751..839936	+	61	118576039	-	CENSYa_0845	-	-	hypothetical protein
+839974..847263	+	2429	118576040	-	CENSYa_0846	-	COG2319R	hypothetical protein
+847322..848458	+	378	118576041	-	CENSYa_0847	-	COG0026F	phosphoribosylaminoimidazole carboxylase (NCAIR synthetase)
+848541..859541	+	3666	118576042	-	CENSYa_0848	-	COG3386G	hypothetical protein
+859605..875345	+	5246	118576043	-	CENSYa_0849	-	COG2319R	hypothetical protein
+875348..877651	+	767	118576044	-	CENSYa_0850	-	-	hypothetical protein
+877724..878077	+	117	118576045	-	CENSYa_0851	-	-	hypothetical protein
+878130..878741	+	203	118576046	-	CENSYa_0852	-	COG0586S	uncharacterized membrane-associated protein
+878773..879432	+	219	118576047	-	CENSYa_0853	-	COG1208MJ	nucleoside-diphosphate-sugar pyrophosphorylase
+879523..880104	+	193	118576048	-	CENSYa_0854	-	-	hypothetical protein
+880283..880864	+	193	118576049	-	CENSYa_0855	-	-	hypothetical protein
+880904..881380	-	158	118576050	-	CENSYa_0856	-	-	hypothetical protein
+881427..881951	+	174	118576051	-	CENSYa_0857	-	-	hypothetical protein
+881989..882975	+	328	118576052	-	CENSYa_0858	-	COG0087J	50S ribosomal protein L3
+882972..883787	+	271	118576053	-	CENSYa_0859	-	COG0088J	ribosomal protein L4
+883802..884044	+	80	118576054	-	CENSYa_0860	-	COG0089J	ribosomal protein L23
+884084..884479	+	131	118576055	-	CENSYa_0861	-	COG0185J	ribosomal protein S19
+884485..884943	+	152	118576056	-	CENSYa_0862	-	COG0091J	50S ribosomal protein L22
+884946..885731	+	261	118576057	-	CENSYa_0863	-	COG0092J	ribosomal protein S3
+885728..885928	+	66	118576058	-	CENSYa_0864	-	-	ribosomal protein L29
+885925..886167	+	80	118576059	-	CENSYa_0865	-	COG1588J	RNase P/RNase MRP subunit p29
+886164..886493	+	109	118576060	-	CENSYa_0866	-	COG0186J	30S ribosomal protein S17
+886493..886927	+	144	118576061	-	CENSYa_0867	-	COG0093J	50S ribosomal protein L14
+886929..887432	+	167	118576062	-	CENSYa_0868	-	-	ribosomal protein L24
+887432..888148	+	238	118576063	-	CENSYa_0869	-	COG1471J	ribosomal protein S4E
+888150..888659	+	169	118576064	-	CENSYa_0870	-	COG0094J	50S ribosomal protein L5
+888659..888838	+	59	118576065	-	CENSYa_0871	-	COG0199J	ribosomal protein S14
+888844..889236	+	130	118576066	-	CENSYa_0872	-	COG0096J	30S ribosomal protein S8
+889274..889771	+	165	118576067	-	CENSYa_0873	-	COG0097J	ribosomal protein L6P/L9E
+889774..890061	+	95	118576068	-	CENSYa_0874	-	-	hypothetical protein
+890332..891666	+	444	118576069	-	CENSYa_0876	-	COG0834ET	ABC-type amino acid transport/signal transduction system, periplasmic component/domain
+891729..891974	+	81	118576070	-	CENSYa_0877	-	-	hypothetical protein
+892006..892215	+	69	118576071	-	CENSYa_0878	-	-	hypothetical protein
+892215..900851	+	2878	118576072	-	CENSYa_0879	-	COG2319R	hypothetical protein
+900854..901951	+	365	118576073	-	CENSYa_0880	-	COG0657I	esterase/lipase
+901948..902907	-	319	118576074	-	CENSYa_0881	-	-	hypothetical protein
+902904..903593	-	229	118576075	-	CENSYa_0882	-	COG2512S	hypothetical protein
+904072..904644	-	190	118576076	-	CENSYa_0883	-	-	hypothetical protein
+904689..905087	-	132	118576077	-	CENSYa_0884	-	-	flavin nucleotide binding protein
+905096..905617	-	173	118576078	-	CENSYa_0885	-	COG1693S	transcriptional regulator
+905658..905828	-	56	118576079	-	CENSYa_0886	-	-	hypothetical protein
+906283..907104	-	273	118576080	-	CENSYa_0887	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide (SAICAR) synthase
+907306..908268	+	320	118576081	-	CENSYa_0888	-	COG0863L	DNA modification methylase
+908279..909037	+	252	118576082	-	CENSYa_0889	-	COG0863L	DNA modification methylase
+909034..909183	+	49	118576083	-	CENSYa_0890	-	-	hypothetical protein
+909332..909931	-	199	118576084	-	CENSYa_0891	-	-	hypothetical protein
+909957..910895	-	312	118576085	-	CENSYa_0892	-	-	hypothetical protein
+911046..911345	-	99	118576086	-	CENSYa_0893	-	-	hypothetical protein
+911380..911700	-	106	118576087	-	CENSYa_0894	-	-	hypothetical protein
+911771..912091	-	106	118576088	-	CENSYa_0895	-	COG2343S	hypothetical protein
+912145..912786	-	213	118576089	-	CENSYa_0896	-	-	hypothetical protein
+912899..943033	+	10044	118576090	-	CENSYa_0897	-	COG3391S	hypothetical protein
+943089..943586	+	165	118576091	-	CENSYa_0898	-	-	hypothetical protein
+943615..944409	+	264	118576092	-	CENSYa_0899	-	COG0805U	Sec-independent protein secretion pathway component
+944482..944673	+	63	118576093	-	CENSYa_0900	-	-	Sec-independent protein secretion pathway component
+944670..945080	-	136	118576094	-	CENSYa_0901	-	-	hypothetical protein
+945138..945779	-	213	118576095	-	CENSYa_0902	-	COG0163H	3-polyprenyl-4-hydroxybenzoate decarboxylase
+945931..946254	+	107	118576096	-	CENSYa_0903	-	-	hypothetical protein
+946277..946831	+	184	118576097	-	CENSYa_0904	-	-	hypothetical protein
+946885..947274	+	129	118576098	-	CENSYa_0905	-	-	hypothetical protein
+947739..948392	+	217	118576099	-	CENSYa_0906	-	-	hypothetical protein
+948465..949556	+	363	118576100	-	CENSYa_0907	-	COG1759R	ATP-utilizing enzyme of ATP-grasp superfamily
+949553..950002	-	149	118576101	-	CENSYa_0908	-	COG1259S	hypothetical protein
+950069..951898	+	609	118576102	-	CENSYa_0909	-	COG0168P	Trk-type K transport system, membrane component
+951992..952753	+	253	118576103	-	CENSYa_0910	-	-	hypothetical protein
+952773..953171	+	132	118576104	-	CENSYa_0911	-	-	hypothetical protein
+953203..953379	+	58	118576105	-	CENSYa_0912	-	-	hypothetical protein
+953488..953868	+	126	118576106	-	CENSYa_0913	-	-	hypothetical protein
+953920..954405	-	161	118576107	-	CENSYa_0914	-	-	hypothetical protein
+954593..956785	-	730	118576108	-	CENSYa_0915	-	COG0480J	translation elongation factor
+956842..957774	-	310	118576109	-	CENSYa_0916	-	COG2222M	hypothetical protein
+957858..973694	-	5278	118576110	-	CENSYa_0917	-	COG3391S	hypothetical protein
+973713..974201	+	162	118576111	-	CENSYa_0918	-	-	hypothetical protein
+974439..975221	+	260	118576112	-	CENSYa_0919	-	COG2107R	periplasmic solute-binding protein
+975284..975703	+	139	118576113	-	CENSYa_0920	-	COG0589T	universal stress protein
+975720..976049	+	109	118576114	-	CENSYa_0921	-	-	hypothetical protein
+976094..976318	+	74	118576115	-	CENSYa_0922	-	-	hypothetical protein
+976432..976617	+	61	118576116	-	CENSYa_0923	-	-	hypothetical protein
+976614..976907	-	97	118576117	-	CENSYa_0924	-	-	hypothetical protein
+977223..978425	+	400	118576118	-	CENSYa_0925	-	COG0484O	molecular chaperone DnaJ
+978506..980158	+	550	118576119	-	CENSYa_0926	-	COG2114T	adenylate cyclase
+980160..981005	-	281	118576120	-	CENSYa_0927	-	COG0189HJ	glutathione synthase/ribosomal protein S6 modification enzyme (glutaminyl transferase)
+981022..982206	-	394	118576121	-	CENSYa_0928	-	COG0137E	argininosuccinate synthase
+982315..983289	+	324	118576122	-	CENSYa_0929	-	COG0715P	ABC-type nitrate/sulfonate/bicarbonate transport system, periplasmic component
+983286..984044	+	252	118576123	-	CENSYa_0930	-	COG1116P	ABC-type nitrate/sulfonate/bicarbonate transport system, ATPase component
+984041..984805	+	254	118576124	-	CENSYa_0931	-	COG0600P	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component
+984780..985925	-	381	118576125	-	CENSYa_0932	-	COG2814G	permease
+986055..986867	+	270	118576126	-	CENSYa_0933	-	COG2226H	SAM dependent methyltransferase
+986890..987843	+	317	118576127	-	CENSYa_0934	-	COG0646E	methionine synthase I (cobalamin-dependent), methyltransferase domain
+987875..990361	+	828	118576128	-	CENSYa_0935	-	COG1410E	methionine synthase I, cobalamin-binding domain
+990356..991099	-	247	118576129	-	CENSYa_0936	-	-	hypothetical protein
+991179..991784	+	201	118576130	-	CENSYa_0937	-	COG0494LR	NTP pyrophosphohydrolase
+991810..991968	+	52	118576131	-	CENSYa_0938	-	COG2167J	ribosomal protein L39
+991969..992622	+	217	118576132	-	CENSYa_0939	-	COG2097J	ribosomal protein L31E
+992699..993631	-	310	118576133	-	CENSYa_0940	-	COG0206D	cell division GTPase
+993703..994968	-	421	118576134	-	CENSYa_0941	-	COG0621J	2-methylthioadenine synthetase
+994972..996420	-	482	118576135	-	CENSYa_0942	-	COG1027E	fumarate hydratase/fumarase
+996419..997351	+	310	118576136	-	CENSYa_0943	-	COG0111HE	phosphoglycerate dehydrogenase
+997413..998363	+	316	118576137	-	CENSYa_0944	-	-	hypothetical protein
+998394..998633	+	79	118576138	-	CENSYa_0945	-	-	hypothetical protein
+998695..998916	+	73	118576139	-	CENSYa_0946	-	-	hypothetical protein
+998969..999205	+	78	118576140	-	CENSYa_0947	-	-	hypothetical protein
+999211..999483	+	90	118576141	-	CENSYa_0948	-	-	hypothetical protein
+999655..1000113	+	152	118576142	-	CENSYa_0949	-	COG1632J	ribosomal protein L15E
+1000226..1000582	+	118	118576143	-	CENSYa_0950	-	-	hypothetical protein
+1000860..1011320	+	3486	118576144	-	CENSYa_0951	-	COG2319R	hypothetical protein
+1011324..1011983	-	219	118576145	-	CENSYa_0952	-	-	thiol-disulfide isomerase
+1011982..1012110	+	42	118576146	-	CENSYa_0953	-	-	hypothetical protein
+1012165..1012611	+	148	118576147	-	CENSYa_0954	-	COG1413C	HEAT repeat
+1012608..1014941	-	777	118576148	-	CENSYa_0955	-	COG0419L	ATPase involved in DNA repair
+1015051..1016304	-	417	118576149	-	CENSYa_0956	-	COG0420L	DNA repair exonuclease
+1016301..1017860	-	519	118576150	-	CENSYa_0957	-	COG0433R	ATPase
+1017860..1018939	-	359	118576151	-	CENSYa_0958	-	-	hypothetical protein
+1019042..1019872	+	276	118576152	-	CENSYa_0959	-	COG1712R	dinucleotide-utilizing enzyme
+1019962..1020915	+	317	118576153	-	CENSYa_0960	-	COG0379H	quinolinate synthase
+1020912..1021727	-	271	118576154	-	CENSYa_0961	-	COG0157H	nicotinate-nucleotide pyrophosphorylase (carboxylating)
+1021729..1021917	-	62	118576155	-	CENSYa_0962	-	COG2093K	DNA-directed RNA polymerase, subunit E''
+1021919..1022653	-	244	118576156	-	CENSYa_0963	-	COG1095K	DNA-directed RNA polymerase, subunit E'
+1022806..1023936	+	376	118576157	-	CENSYa_0964	-	-	hypothetical protein
+1024081..1025394	+	437	118576158	-	CENSYa_0965	-	COG0489D	ATPases involved in chromosome partitioning
+1025433..1025888	+	151	118576159	-	CENSYa_0966	-	COG1909S	hypothetical protein
+1026018..1026395	+	125	118576160	-	CENSYa_0967	-	-	hypothetical protein
+1026431..1028470	+	679	118576161	-	CENSYa_0968	-	COG3808C	inorganic pyrophosphatase
+1028467..1028652	-	61	118576162	-	CENSYa_0969	-	-	hypothetical protein
+1028713..1028970	-	85	118576163	-	CENSYa_0970	-	-	hypothetical protein
+1029131..1030387	+	418	118576164	-	CENSYa_0971	-	COG1253R	hemolysin
+1030389..1031432	-	347	118576165	-	CENSYa_0972	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+1031587..1032081	-	164	118576166	-	CENSYa_0973	-	-	hypothetical protein
+1032103..1032360	-	85	118576167	-	CENSYa_0974	-	-	hypothetical protein
+1032534..1032740	-	68	118576168	-	CENSYa_0975	-	-	hypothetical protein
+1032975..1033655	+	226	118576169	-	CENSYa_0976	-	COG1651O	protein-disulfide isomerase
+1033737..1035131	+	464	118576170	-	CENSYa_0977	-	COG3425I	3-hydroxy-3-methylglutaryl CoA synthase
+1035259..1035669	+	136	118576171	-	CENSYa_0978	-	-	hypothetical protein
+1035647..1036423	-	258	118576172	-	CENSYa_0979	-	COG0132H	cobyrinic acid a,c-diamide synthase/dethiobiotin synthetase
+1036637..1037956	+	439	118576173	-	CENSYa_0980	-	COG0161H	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1038016..1038972	+	318	118576174	-	CENSYa_0981	-	COG0502H	biotin synthase
+1039061..1040083	+	340	118576175	-	CENSYa_0982	-	COG0156H	8-amino-7-oxononanoate synthase
+1040347..1041015	+	222	118576176	-	CENSYa_0983	-	-	hypothetical protein
+1041214..1041945	+	243	118576177	-	CENSYa_0984	-	COG0785O	cytochrome c biogenesis protein
+1041950..1043062	+	370	118576178	-	CENSYa_0985	-	-	thiol-disulfide isomerase
+1043156..1043785	+	209	118576179	-	CENSYa_0986	-	COG5491N	conserved protein implicated in secretion
+1043791..1044075	-	94	118576180	-	CENSYa_0987	-	-	hypothetical protein
+1044161..1044283	-	40	118576181	-	CENSYa_0988	-	-	hypothetical protein
+1044329..1044742	-	137	118576182	-	CENSYa_0989	-	COG2090S	hypothetical protein
+1044804..1045550	+	248	118576183	-	CENSYa_0990	-	-	hypothetical protein
+1045770..1046507	+	245	118576184	-	CENSYa_0991	-	COG0638O	20S proteasome, alpha and beta subunit
+1046544..1047341	+	265	118576185	-	CENSYa_0992	-	COG2106S	hypothetical protein
+1047437..1048786	-	449	118576186	-	CENSYa_0993	-	COG0677M	UDP-N-acetyl-D-mannosaminuronate dehydrogenase
+1048838..1049878	-	346	118576187	-	CENSYa_0994	-	COG0381M	UDP-N-acetylglucosamine 2-epimerase
+1049888..1051114	-	408	118576188	-	CENSYa_0995	-	COG0438M	glycosyltransferase
+1051111..1052277	-	388	118576189	-	CENSYa_0996	-	COG0438M	glycosyltransferase
+1052315..1052491	-	58	118576190	-	CENSYa_0997	-	-	hypothetical protein
+1052571..1053857	-	428	118576191	-	CENSYa_0998	-	COG0438M	glycosyltransferase
+1053994..1054929	+	311	118576192	-	CENSYa_0999	-	-	SAM dependent methyltransferase
+1054939..1056450	-	503	118576193	-	CENSYa_1000	-	-	hypothetical protein
+1056561..1057829	+	422	118576194	-	CENSYa_1001	-	COG0438M	glycosyltransferase
+1057826..1058809	+	327	118576195	-	CENSYa_1002	-	COG0438M	glycosyltransferase
+1058746..1059645	-	299	118576196	-	CENSYa_1003	-	COG1087M	nucleoside-diphosphate-sugar epimerase
+1059719..1060921	+	400	118576197	-	CENSYa_1004	-	COG0367E	asparagine synthase (glutamine-hydrolyzing)
+1060918..1062090	+	390	118576198	-	CENSYa_1005	-	COG2226H	SAM dependent methyltransferase
+1062110..1062442	-	110	118576199	-	CENSYa_1006	-	-	hypothetical protein
+1062617..1063087	+	156	118576200	-	CENSYa_1007	-	-	hypothetical protein
+1063471..1065135	-	554	118576201	-	CENSYa_1008	-	COG1964R	Fe-S oxidoreductase
+1065686..1069213	-	1175	118576202	-	CENSYa_1009	-	COG4889R	helicase
+1069328..1070839	+	503	118576203	-	CENSYa_1010	-	COG4889R	helicase
+1071138..1071377	+	79	118576204	-	CENSYa_1011	-	-	hypothetical protein
+1071473..1073242	-	589	118576205	-	CENSYa_1012	-	COG1964R	Fe-S oxidoreductase
+1073307..1074074	+	255	118576206	-	CENSYa_1013	-	COG1378K	transcriptional regulator
+1074077..1074523	+	148	118576207	-	CENSYa_1014	-	COG1321K	Mn-dependent transcriptional regulator
+1074559..1074888	+	109	118576208	-	CENSYa_1015	-	COG1324P	uncharacterized protein involved in tolerance to divalent cations
+1074878..1075909	-	343	118576209	-	CENSYa_1016	-	COG1537R	RNA-binding protein
+1075925..1076326	-	133	118576210	-	CENSYa_1017	-	-	hypothetical protein
+1076501..1076920	+	139	118576211	-	CENSYa_1018	-	COG0432S	hypothetical protein
+1076922..1077152	-	76	118576212	-	CENSYa_1019	-	-	hypothetical protein
+1077285..1077512	-	75	118576213	-	CENSYa_1020	-	-	hypothetical protein
+1077557..1079290	-	577	118576214	-	CENSYa_1021	-	COG1793L	ATP-dependent DNA ligase
+1079363..1079785	-	140	118576215	-	CENSYa_1022	-	-	hypothetical protein
+1079854..1080078	-	74	118576216	-	CENSYa_1023	-	-	hypothetical protein
+1079998..1080228	+	76	118576217	-	CENSYa_1024	-	-	hypothetical protein
+1080253..1080756	+	167	118576218	-	CENSYa_1025	-	-	hypothetical protein
+1080813..1080983	+	56	118576219	-	CENSYa_1026	-	-	hypothetical protein
+1081006..1081380	+	124	118576220	-	CENSYa_1027	-	-	hypothetical protein
+1081529..1082125	-	198	118576221	-	CENSYa_1029	-	-	hypothetical protein
+1082296..1082940	-	214	118576222	-	CENSYa_1030	-	-	hypothetical protein
+1083059..1083400	-	113	118576223	-	CENSYa_1031	-	-	copper-binding protein
+1083471..1084883	-	470	118576224	-	CENSYa_1032	-	-	hypothetical protein
+1085391..1086788	+	465	118576225	-	CENSYa_1033	-	-	hypothetical protein
+1086785..1087144	+	119	118576226	-	CENSYa_1034	-	-	hypothetical protein
+1087153..1088223	+	356	118576227	-	CENSYa_1035	-	-	hypothetical protein
+1088248..1088901	+	217	118576228	-	CENSYa_1036	-	COG1392P	coiled coil protein
+1088903..1089436	+	177	118576229	-	CENSYa_1037	-	COG1676J	tRNA splicing endonuclease
+1089433..1089804	-	123	118576230	-	CENSYa_1038	-	-	hypothetical protein
+1089807..1090043	-	78	118576231	-	CENSYa_1039	-	-	hypothetical protein
+1090074..1091054	-	326	118576232	-	CENSYa_1040	-	-	hypothetical protein
+1091250..1091633	+	127	118576233	-	CENSYa_1041	-	COG4889R	hypothetical protein
+1091781..1092107	+	108	118576234	-	CENSYa_1042	-	-	hypothetical protein
+1092207..1092476	+	89	118576235	-	CENSYa_1043	-	-	hypothetical protein
+1092881..1093765	+	294	118576236	-	CENSYa_1044	-	COG5340K	transcriptional regulator
+1094068..1094370	+	100	118576237	-	CENSYa_1045	-	-	hypothetical protein
+1094534..1095418	+	294	118576238	-	CENSYa_1046	-	COG5340K	transcriptional regulator
+1095418..1096182	+	254	118576239	-	CENSYa_1047	-	COG2253S	hypothetical protein
+1096341..1097225	+	294	118576240	-	CENSYa_1048	-	COG5340K	transcriptional regulator
+1097229..1097432	+	67	118576241	-	CENSYa_1049	-	-	hypothetical protein
+1097469..1097663	+	64	118576242	-	CENSYa_1050	-	-	hypothetical protein
+1098054..1098938	+	294	118576243	-	CENSYa_1051	-	COG5340K	transcriptional regulator
+1098938..1099780	+	280	118576244	-	CENSYa_1052	-	COG2253S	hypothetical protein
+1099722..1100555	-	277	118576245	-	CENSYa_1053	-	COG1108P	ABC-type Mn2 /Zn2 transport system, permease component
+1100560..1101345	-	261	118576246	-	CENSYa_1054	-	COG1121P	ABC-type Mn2 /Zn2 transport system, ATPase component
+1101351..1103033	-	560	118576247	-	CENSYa_1055	-	COG0803P	ABC-type metal ion transport system, periplasmic component/surface adhesin
+1103156..1103551	+	131	118576248	-	CENSYa_1056	-	COG0864K	transcriptional regulator
+1103679..1104167	-	162	118576249	-	CENSYa_1058	-	COG5012R	5-methyltetrahydrofolate--homocysteine S-methyltransferase
+1104307..1104624	-	105	118576250	-	CENSYa_1059	-	-	hypothetical protein
+1104640..1105479	-	279	118576251	-	CENSYa_1060	-	-	secreted periplasmic Zn-dependent protease
+1105625..1106974	+	449	118576252	-	CENSYa_1061	-	COG1232H	protoporphyrinogen oxidase
+1106918..1109239	-	773	118576253	-	CENSYa_1062	-	COG0525J	valyl-tRNA synthetase
+1109241..1110053	-	270	118576254	-	CENSYa_1063	-	COG0720H	6-pyruvoyl-tetrahydropterin synthase
+1110183..1110506	-	107	118576255	-	CENSYa_1064	-	COG2154H	pterin-4a-carbinolamine dehydratase
+1110795..1111598	+	267	118576256	-	CENSYa_1065	-	COG1475K	transcriptional regulator
+1111598..1112134	+	178	118576257	-	CENSYa_1066	-	-	hypothetical protein
+1112151..1112435	-	94	118576258	-	CENSYa_1067	-	-	hypothetical protein
+1112509..1113294	+	261	118576259	-	CENSYa_1068	-	COG0367E	asparagine synthase (glutamine-hydrolyzing)
+1113242..1114597	-	451	118576260	-	CENSYa_1069	-	COG0015F	adenylosuccinate lyase
+1114738..1114926	+	62	118576261	-	CENSYa_1070	-	-	hypothetical protein
+1115169..1115372	+	67	118576262	-	CENSYa_1071	-	-	hypothetical protein
+1115429..1115704	+	91	118576263	-	CENSYa_1072	-	-	hypothetical protein
+1115891..1117270	+	459	118576264	-	CENSYa_1073	-	COG1690S	hypothetical protein
+1117267..1117653	+	128	118576265	-	CENSYa_1074	-	-	hypothetical protein
+1117653..1117964	+	103	118576266	-	CENSYa_1075	-	-	hypothetical protein
+1117961..1118287	-	108	118576267	-	CENSYa_1076	-	COG0100J	30S ribosomal protein S11
+1118332..1119534	-	400	118576268	-	CENSYa_1077	-	COG0611H	thiamine monophosphate kinase
+1119536..1120801	-	421	118576269	-	CENSYa_1078	-	COG1109G	phosphomannomutase
+1121092..1121277	-	61	118576270	-	CENSYa_1080	-	-	hypothetical protein
+1121274..1121459	-	61	118576271	-	CENSYa_1081	-	-	hypothetical protein
+1121523..1121801	-	92	118576272	-	CENSYa_1082	-	COG3432K	transcriptional regulator
+1121951..1122241	-	96	118576273	-	CENSYa_1083	-	-	hypothetical protein
+1122295..1122855	-	186	118576274	-	CENSYa_1084	-	-	hypothetical protein
+1122976..1123140	+	54	118576275	-	CENSYa_1085	-	-	hypothetical protein
+1123250..1123633	+	127	118576276	-	CENSYa_1086	-	-	hypothetical protein
+1123673..1123885	+	70	118576277	-	CENSYa_1087	-	-	hypothetical protein
+1123997..1124863	+	288	118576278	-	CENSYa_1088	-	COG0863L	DNA modification methylase
+1125185..1125712	-	175	118576279	-	CENSYa_1089	-	-	transposase
+1126021..1126515	+	164	118576280	-	CENSYa_1090	-	COG4889R	helicase
+1126946..1127254	-	102	118576281	-	CENSYa_1091	-	-	hypothetical protein
+1127267..1127449	-	60	118576282	-	CENSYa_1092	-	-	hypothetical protein
+1127877..1128470	+	197	118576283	-	CENSYa_1093	-	-	hypothetical protein
+1128866..1129081	+	71	118576284	-	CENSYa_1094	-	-	hypothetical protein
+1129308..1129655	-	115	118576285	-	CENSYa_1095	-	-	hypothetical protein
+1129791..1129970	-	59	118576286	-	CENSYa_1096	-	-	hypothetical protein
+1130317..1130535	-	72	118576287	-	CENSYa_1097	-	-	hypothetical protein
+1130586..1130807	-	73	118576288	-	CENSYa_1098	-	-	hypothetical protein
+1130977..1131225	-	82	118576289	-	CENSYa_1099	-	-	hypothetical protein
+1131255..1131935	-	226	118576290	-	CENSYa_1100	-	-	hypothetical protein
+1132295..1133257	+	320	118576291	-	CENSYa_1101	-	-	hypothetical protein
+1133262..1133816	-	184	118576292	-	CENSYa_1102	-	-	hypothetical protein
+1134113..1135633	-	506	118576293	-	CENSYa_1103	-	-	integrase
+1135648..1135932	-	94	118576294	-	CENSYa_1104	-	-	hypothetical protein
+1135978..1136346	-	122	118576295	-	CENSYa_1105	-	-	hypothetical protein
+1136414..1137073	-	219	118576296	-	CENSYa_1106	-	-	hypothetical protein
+1137229..1139727	-	832	118576297	-	CENSYa_1107	-	COG3587V	restriction endonuclease
+1139724..1141340	-	538	118576298	-	CENSYa_1108	-	COG2189L	adenine specific DNA methylase
+1142077..1142586	+	169	118576299	-	CENSYa_1109	-	-	hypothetical protein
+1142673..1142894	-	73	118576300	-	CENSYa_1110	-	-	hypothetical protein
+1142897..1143076	-	59	118576301	-	CENSYa_1111	-	-	hypothetical protein
+1143199..1143930	-	243	118576302	-	CENSYa_1112	-	-	hypothetical protein
+1144034..1144522	+	162	118576303	-	CENSYa_1113	-	-	hypothetical protein
+1144768..1145238	-	156	118576304	-	CENSYa_1114	-	-	hypothetical protein
+1145295..1145516	-	73	118576305	-	CENSYa_1115	-	-	hypothetical protein
+1145681..1147495	-	604	118576306	-	CENSYa_1116	-	COG1204R	superfamily II helicase
+1147995..1149071	+	358	118576307	-	CENSYa_1117	-	-	hypothetical protein
+1149105..1149758	-	217	118576308	-	CENSYa_1118	-	COG3465S	hypothetical protein
+1149842..1150066	+	74	118576309	-	CENSYa_1119	-	-	hypothetical protein
+1150141..1152282	+	713	118576310	-	CENSYa_1120	-	COG1479S	hypothetical protein
+1152348..1152611	+	87	118576311	-	CENSYa_1121	-	-	hypothetical protein
+1152673..1152807	+	44	118576312	-	CENSYa_1122	-	-	hypothetical protein
+1152895..1154877	+	660	118576313	-	CENSYa_1123	-	-	methyl-accepting chemotaxis protein
+1154874..1155560	-	228	118576314	-	CENSYa_1124	-	-	hypothetical protein
+1155560..1156894	-	444	118576315	-	CENSYa_1125	-	COG1215M	glycosyltransferase
+1156940..1157869	-	309	118576316	-	CENSYa_1126	-	COG1146C	ferredoxin
+1158128..1158487	+	119	118576317	-	CENSYa_1127	-	-	hypothetical protein
+1158529..1158705	-	58	118576318	-	CENSYa_1128	-	-	hypothetical protein
+1158729..1160099	+	456	118576319	-	CENSYa_1129	-	COG0475P	Kef-type K transport system, membrane component
+1160102..1160578	+	158	118576320	-	CENSYa_1130	-	-	hypothetical protein
+1160685..1160858	-	57	118576321	-	CENSYa_1132	-	-	hypothetical protein
+1160889..1161083	-	64	118576322	-	CENSYa_1133	-	-	hypothetical protein
+1161093..1163843	+	916	118576323	-	CENSYa_1134	-	COG0210L	superfamily I helicase
+1164146..1164658	-	170	118576324	-	CENSYa_1135	-	COG0197J	50S ribosomal protein L16
+1164797..1165360	+	187	118576325	-	CENSYa_1136	-	COG1676J	tRNA splicing endonuclease
+1165401..1166060	-	219	118576326	-	CENSYa_1137	-	-	DNA repair helicase
+1166066..1166956	+	296	118576327	-	CENSYa_1138	-	COG2968S	hypothetical protein
+1167038..1167241	-	67	118576328	-	CENSYa_1140	-	-	hypothetical protein
+1167335..1167880	-	181	118576329	-	CENSYa_1141	-	COG0041F	phosphoribosylcarboxyaminoimidazole (NCAIR) mutase
+1167952..1168620	+	222	118576330	-	CENSYa_1142	-	-	hypothetical protein
+1168662..1168817	+	51	118576331	-	CENSYa_1143	-	-	hypothetical protein
+1168963..1169247	+	94	118576332	-	CENSYa_1144	-	-	hypothetical protein
+1169301..1170752	+	483	118576333	-	CENSYa_1145	-	-	secreted periplasmic Zn-dependent protease
+1170755..1171552	+	265	118576334	-	CENSYa_1146	-	-	hypothetical protein
+1171630..1172274	+	214	118576335	-	CENSYa_1147	-	-	hypothetical protein
+1172276..1172596	-	106	118576336	-	CENSYa_1148	-	-	hypothetical protein
+1172685..1173140	+	151	118576337	-	CENSYa_1149	-	-	hypothetical protein
+1173503..1174213	+	236	118576338	-	CENSYa_1150	-	COG0863L	DNA modification methylase
+1174372..1175376	+	334	118576339	-	CENSYa_1151	-	COG0150F	phosphoribosylaminoimidazole (AIR) synthetase
+1175420..1176811	+	463	118576340	-	CENSYa_1152	-	COG0475P	Kef-type K transport system, membrane components
+1176950..1177171	+	73	118576341	-	CENSYa_1153	-	-	hypothetical protein
+1177301..1189660	+	4119	118576342	-	CENSYa_1154	-	COG2319R	hypothetical protein
+1189839..1190501	+	220	118576343	-	CENSYa_1155	-	-	histone H1 DNA binding protein
+1190545..1192113	+	522	118576344	-	CENSYa_1156	-	COG1243KB	histone acetyltransferase
+1192113..1193690	+	525	118576345	-	CENSYa_1157	-	COG1384J	lysyl-tRNA synthetase (class I)
+1193690..1193878	+	62	118576346	-	CENSYa_1158	-	-	hypothetical protein
+1193941..1194732	+	263	118576347	-	CENSYa_1159	-	-	ATPase involved in DNA repair
+1194717..1195163	-	148	118576348	-	CENSYa_1160	-	COG3576R	flavin-nucleotide-binding protein
+1195220..1195393	-	57	118576349	-	CENSYa_1161	-	-	hypothetical protein
+1195417..1195599	-	60	118576350	-	CENSYa_1162	-	-	hypothetical protein
+1195822..1196010	+	62	118576351	-	CENSYa_1163	-	-	hypothetical protein
+1196042..1196221	-	59	118576352	-	CENSYa_1164	-	-	hypothetical protein
+1196490..1197422	-	310	118576353	-	CENSYa_1165	-	COG0616OU	periplasmic serine protease (ClpP class)
+1202736..1204040	+	434	118576354	-	CENSYa_1168	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+1204093..1204899	+	268	118576355	-	CENSYa_1169	-	COG5010U	TPR repeat protein
+1204904..1205599	-	231	118576356	-	CENSYa_1170	-	-	hypothetical protein
+1205677..1206054	+	125	118576357	-	CENSYa_1171	-	-	hypothetical protein
+1206056..1206418	+	120	118576358	-	CENSYa_1172	-	-	double stranded beta helix fold enzyme
+1206514..1207119	-	201	118576359	-	CENSYa_1173	-	-	hypothetical protein
+1207626..1208051	-	141	118576360	-	CENSYa_1175	-	-	hypothetical protein
+1208048..1208812	-	254	118576361	-	CENSYa_1176	-	COG1475K	transcriptional regulator
+1209091..1209744	+	217	118576362	-	CENSYa_1177	-	COG0149G	triosephosphate isomerase
+1209748..1210296	-	182	118576363	-	CENSYa_1178	-	COG2101K	TATA-box binding protein (TBP), component of TFIID and TFIIIB
+1210318..1210623	-	101	118576364	-	CENSYa_1179	-	-	hypothetical protein
+1210620..1213085	-	821	118576365	-	CENSYa_1180	-	COG0417L	DNA polymerase elongation subunit (family B)
+1213154..1213606	-	150	118576366	-	CENSYa_1181	-	COG2131F	deoxycytidylate deaminase
+1213605..1215281	+	558	118576367	-	CENSYa_1182	-	COG1111L	ERCC4-like helicase
+1215288..1215566	-	92	118576368	-	CENSYa_1183	-	COG0760O	parvulin-like peptidyl-prolyl isomerase
+1215686..1216087	+	133	118576369	-	CENSYa_1184	-	COG4911S	hypothetical protein
+1216088..1216966	+	292	118576370	-	CENSYa_1185	-	COG1575H	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+1217275..1217412	-	45	118576371	-	CENSYa_1186	-	-	hypothetical protein
+1217532..1217717	-	61	118576372	-	CENSYa_1187	-	-	hypothetical protein
+1217788..1217967	+	59	118576373	-	CENSYa_1188	-	-	hypothetical protein
+1218118..1218297	+	59	118576374	-	CENSYa_1189	-	-	hypothetical protein
+1218364..1218543	+	59	118576375	-	CENSYa_1190	-	-	hypothetical protein
+1218688..1219095	+	135	118576376	-	CENSYa_1191	-	-	hypothetical protein
+1219561..1219926	-	121	118576377	-	CENSYa_1192	-	-	hypothetical protein
+1220046..1220363	-	105	118576378	-	CENSYa_1193	-	-	hypothetical protein
+1220391..1221509	+	372	118576379	-	CENSYa_1194	-	COG0667C	oxidoreductase
+1221510..1222586	-	358	118576380	-	CENSYa_1195	-	COG0863L	DNA modification methylase
+1222667..1223134	+	155	118576381	-	CENSYa_1196	-	-	hypothetical protein
+1223211..1224965	+	584	118576382	-	CENSYa_1197	-	COG1028IQR	short-chain alcohol dehydrogenase
+1224962..1225711	-	249	118576383	-	CENSYa_1198	-	-	permease
+1225790..1226281	-	163	118576384	-	CENSYa_1199	-	COG1430S	hypothetical protein
+1226320..1226676	-	118	118576385	-	CENSYa_1200	-	-	hypothetical protein
+1226888..1227256	+	122	118576386	-	CENSYa_1201	-	COG1321K	Mn-dependent transcriptional regulator
+1227253..1229088	-	611	118576387	-	CENSYa_1202	-	COG1855R	ATPase (PilT family)
+1229148..1230194	+	348	118576388	-	CENSYa_1203	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase/N-acetyl-gamma-aminoadipyl-phosphate reductase
+1230197..1230997	+	266	118576389	-	CENSYa_1204	-	COG0548E	acetylglutamate kinase/acetylaminoadipate kinase
+1231005..1232156	+	383	118576390	-	CENSYa_1205	-	COG4992E	pyridoxal-phosphate-dependent aminotransferase
+1232233..1232568	+	111	118576391	-	CENSYa_1206	-	COG1522K	transcriptional regulator
+1232629..1233825	+	398	118576392	-	CENSYa_1207	-	COG0119E	2-isopropylmalate synthase
+1233822..1234622	-	266	118576393	-	CENSYa_1208	-	COG1475K	transcriptional regulator
+1234676..1235170	-	164	118576394	-	CENSYa_1209	-	COG1645R	hypothetical protein
+1235374..1235820	-	148	118576395	-	CENSYa_1210	-	-	hypothetical protein
+1235820..1236542	-	240	118576396	-	CENSYa_1211	-	-	hypothetical protein
+1237032..1237340	+	102	118576397	-	CENSYa_1212	-	COG0023J	translation initiation factor 1
+1237342..1238274	+	310	118576398	-	CENSYa_1213	-	-	hypothetical protein
+1238285..1239322	-	345	118576399	-	CENSYa_1214	-	-	hypothetical protein
+1239446..1239556	-	36	118576400	-	CENSYa_1215	-	-	hypothetical protein
+1239556..1240089	-	177	118576401	-	CENSYa_1216	-	COG1920S	hypothetical protein
+1240091..1241017	-	308	118576402	-	CENSYa_1217	-	COG0391S	hypothetical protein
+1241346..1242695	+	449	118576403	-	CENSYa_1218	-	-	hypothetical protein
+1242797..1243711	+	304	118576404	-	CENSYa_1219	-	-	hypothetical protein
+1243780..1244298	-	172	118576405	-	CENSYa_1220	-	COG2042S	hypothetical protein
+1244330..1247569	-	1079	118576406	-	CENSYa_1221	-	COG2373R	hypothetical protein
+1247651..1247896	-	81	118576407	-	CENSYa_1222	-	-	hypothetical protein
+1247976..1248965	-	329	118576408	-	CENSYa_1223	-	COG4177E	ABC-type branched-chain amino acid transport system, permease component
+1248962..1249861	-	299	118576409	-	CENSYa_1224	-	COG0559E	ABC-type branched-chain amino acid transport system, permease component
+1249861..1250532	-	223	118576410	-	CENSYa_1225	-	COG0410E	ABC-type branched-chain amino acid transport system, ATPase component
+1250540..1251271	-	243	118576411	-	CENSYa_1226	-	COG0411E	ABC-type branched-chain amino acid transport system, ATPase component
+1251268..1252518	-	416	118576412	-	CENSYa_1227	-	COG0683E	ABC-type branched-chain amino acid transport system, periplasmic component
+1253036..1254319	-	427	118576413	-	CENSYa_1229	-	COG4826O	serine protease inhibitor
+1254742..1257303	-	853	118576414	-	CENSYa_1230	-	-	hypothetical protein
+1257517..1258437	+	306	118576415	-	CENSYa_1231	-	COG0024J	methionine aminopeptidase
+1258434..1258604	-	56	118576416	-	CENSYa_1232	-	-	hypothetical protein
+1258601..1259671	-	356	118576417	-	CENSYa_1233	-	COG4046S	hypothetical protein
+1259842..1260402	+	186	118576418	-	CENSYa_1234	-	COG2101K	TATA-box binding protein (TBP), component of TFIID and TFIIIB
+1260497..1261018	+	173	118576419	-	CENSYa_1235	-	-	hypothetical protein
+1261060..1262217	+	385	118576420	-	CENSYa_1236	-	COG1215M	glycosyltransferase involved in cell wall biogenesis
+1262257..1263141	-	294	118576421	-	CENSYa_1237	-	-	hypothetical protein
+1263583..1264740	+	385	118576422	-	CENSYa_1238	-	COG0265O	trypsin-like serine protease
+1264894..1265946	+	350	118576423	-	CENSYa_1239	-	COG1060HR	thiamine biosynthesis enzyme
+1266048..1267214	+	388	118576424	-	CENSYa_1240	-	COG1060HR	thiamine biosynthesis enzyme
+1267340..1268389	+	349	118576425	-	CENSYa_1241	-	-	esterase/lipase
+1268526..1268822	-	98	118576426	-	CENSYa_1242	-	COG2058J	ribosomal protein L12E/L44/L45/RPP1/RPP2
+1268948..1269274	-	108	118576427	-	CENSYa_1243	-	-	hypothetical protein
+1269327..1269599	+	90	118576428	-	CENSYa_1244	-	-	hypothetical protein
+1269744..1270154	-	136	118576429	-	CENSYa_1245	-	-	hypothetical protein
+1270291..1270572	-	93	118576430	-	CENSYa_1246	-	-	hypothetical protein
+1270607..1270765	-	52	118576431	-	CENSYa_1247	-	-	hypothetical protein
+1271069..1271470	-	133	118576432	-	CENSYa_1248	-	-	hypothetical protein
+1271524..1271829	-	101	118576433	-	CENSYa_1249	-	-	hypothetical protein
+1272219..1273043	-	274	118576434	-	CENSYa_1250	-	COG0244J	ribosomal protein L10
+1273086..1273733	-	215	118576435	-	CENSYa_1251	-	COG0081J	ribosomal protein L1
+1273836..1274363	-	175	118576436	-	CENSYa_1252	-	-	hypothetical protein
+1274467..1274655	-	62	118576437	-	CENSYa_1253	-	-	hypothetical protein
+1274761..1277445	+	894	118576438	-	CENSYa_1254	-	COG0013J	alanyl-tRNA synthetase
+1277442..1278563	+	373	118576439	-	CENSYa_1255	-	COG0495J	leucyl-tRNA synthetase
+1278565..1280301	+	578	118576440	-	CENSYa_1256	-	COG0495J	leucyl-tRNA synthetase
+1280430..1281104	+	224	118576441	-	CENSYa_1257	-	-	hypothetical protein
+1281178..1282698	+	506	118576442	-	CENSYa_1258	-	COG3401R	hypothetical protein
+1282727..1283005	+	92	118576443	-	CENSYa_1259	-	-	hypothetical protein
+1283190..1283375	+	61	118576444	-	CENSYa_1260	-	-	hypothetical protein
+1283501..1283893	+	130	118576445	-	CENSYa_1261	-	COG3324R	methylmalonyl-CoA epimerase/lactoylglutathione lyase
+1283890..1284627	-	245	118576446	-	CENSYa_1262	-	COG3639P	ABC-type phosphate/phosphonate transport system, permease component
+1284662..1285462	-	266	118576447	-	CENSYa_1263	-	COG3638P	ABC-type phosphate/phosphonate transport system, ATPase component
+1285472..1286515	-	347	118576448	-	CENSYa_1264	-	COG3221P	ABC-type phosphate/phosphonate transport system, periplasmic component
+1286603..1286941	-	112	118576449	-	CENSYa_1265	-	-	hypothetical protein
+1286943..1287272	-	109	118576450	-	CENSYa_1266	-	-	hypothetical protein
+1287406..1288119	-	237	118576451	-	CENSYa_1267	-	-	hypothetical protein
+1288120..1288317	-	65	118576452	-	CENSYa_1268	-	-	hypothetical protein
+1288431..1289057	+	208	118576453	-	CENSYa_1269	-	-	hypothetical protein
+1289123..1289656	+	177	118576454	-	CENSYa_1270	-	COG1651O	protein-disulfide isomerase
+1289659..1289769	+	36	118576455	-	CENSYa_1271	-	-	hypothetical protein
+1290026..1290889	+	287	118576456	-	CENSYa_1272	-	-	ribokinase
+1290936..1291937	+	333	118576457	-	CENSYa_1273	-	COG0061G	sugar kinase
+1291934..1293526	-	530	118576458	-	CENSYa_1274	-	COG0504F	CTP synthase (UTP-ammonia lyase)
+1293558..1294337	-	259	118576459	-	CENSYa_1275	-	COG0159E	tryptophan synthase alpha chain
+1294375..1295490	-	371	118576460	-	CENSYa_1276	-	COG0133E	tryptophan synthase beta chain
+1295547..1296299	-	250	118576461	-	CENSYa_1277	-	COG0134E	indole-3-glycerol phosphate synthase
+1296308..1297339	-	343	118576462	-	CENSYa_1278	-	COG0547E	anthranilate phosphoribosyltransferase
+1297339..1297929	-	196	118576463	-	CENSYa_1279	-	COG0512EH	anthranilate/para-aminobenzoate synthases component II
+1297926..1299197	-	423	118576464	-	CENSYa_1280	-	COG0147EH	anthranilate/para-aminobenzoate synthases component I
+1299194..1299541	-	115	118576465	-	CENSYa_1281	-	-	hypothetical protein
+1299692..1300471	+	259	118576466	-	CENSYa_1282	-	COG0863L	DNA modification methylase
+1300480..1300680	+	66	118576467	-	CENSYa_1283	-	-	hypothetical protein
+1300851..1301078	+	75	118576468	-	CENSYa_1284	-	-	hypothetical protein
+1301101..1302717	-	538	118576469	-	CENSYa_1285	-	COG0129EG	dihydroxyacid dehydratase/phosphogluconate dehydratase
+1302745..1303215	-	156	118576470	-	CENSYa_1286	-	-	hypothetical protein
+1303354..1303734	+	126	118576471	-	CENSYa_1287	-	-	hypothetical protein
+1303955..1304641	+	228	118576472	-	CENSYa_1288	-	-	hypothetical protein
+1304689..1305114	+	141	118576473	-	CENSYa_1289	-	COG0537FGR	asymmetrical bis(5'-nucleosyl)-tetraphosphatase
+1305181..1306416	+	411	118576474	-	CENSYa_1290	-	COG1503J	peptide chain release factor 1
+1306457..1306843	+	128	118576475	-	CENSYa_1291	-	-	hypothetical protein
+1306840..1307787	-	315	118576476	-	CENSYa_1292	-	COG0535R	Fe-S oxidoreductase
+1307786..1308460	+	224	118576477	-	CENSYa_1293	-	-	hypothetical protein
+1308622..1308768	+	48	118576478	-	CENSYa_1294	-	-	hypothetical protein
+1308891..1309226	+	111	118576479	-	CENSYa_1295	-	-	hypothetical protein
+1309226..1309435	+	69	118576480	-	CENSYa_1296	-	-	hypothetical protein
+1309462..1309962	+	166	118576481	-	CENSYa_1297	-	COG2453T	protein-tyrosine phosphatase
+1309959..1310108	-	49	118576482	-	CENSYa_1298	-	-	hypothetical protein
+1310115..1310267	-	50	118576483	-	CENSYa_1299	-	-	hypothetical protein
+1310299..1310913	-	204	118576484	-	CENSYa_1300	-	-	hypothetical protein
+1310966..1311985	+	339	118576485	-	CENSYa_1301	-	COG1522K	transcriptional regulator
+1311986..1312966	-	326	118576486	-	CENSYa_1302	-	COG0667C	oxidoreductase
+1313074..1314369	+	431	118576487	-	CENSYa_1303	-	-	hypothetical protein
+1314397..1314801	+	134	118576488	-	CENSYa_1304	-	COG1310R	metal-dependent protease of the PAD1/JA B1 superfamily
+1314887..1315177	+	96	118576489	-	CENSYa_1305	-	-	hypothetical protein
+1315178..1315483	+	101	118576490	-	CENSYa_1306	-	-	hypothetical protein
+1315480..1316775	-	431	118576491	-	CENSYa_1307	-	COG1173EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+1316831..1318042	-	403	118576492	-	CENSYa_1308	-	COG0601EP	ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+1318138..1318515	-	125	118576493	-	CENSYa_1309	-	-	hypothetical protein
+1318922..1319086	+	54	118576494	-	CENSYa_1310	-	COG4023U	hypothetical protein
+1319093..1320829	+	578	118576495	-	CENSYa_1311	-	COG3356S	membrane protein
+1320816..1321439	-	207	118576496	-	CENSYa_1312	-	-	hypothetical protein
+1321685..1324150	+	821	118576497	-	CENSYa_1313	-	COG3889R	solute-binding protein
+1324125..1324871	-	248	118576498	-	CENSYa_1314	-	COG2230M	SAM dependent methyltransferase
+1324880..1325476	+	198	118576499	-	CENSYa_1315	-	-	transposase
+1325819..1328764	+	981	118576500	-	CENSYa_1316	-	-	hypothetical protein
+1328925..1329713	-	262	118576501	-	CENSYa_1317	-	COG0644C	dehydrogenase
+1330108..1331244	+	378	118576502	-	CENSYa_1318	-	-	hypothetical protein
+1331508..1331702	+	64	118576503	-	CENSYa_1319	-	-	hypothetical protein
+1331815..1333269	+	484	118576504	-	CENSYa_1320	-	-	hypothetical protein
+1333353..1334525	+	390	118576505	-	CENSYa_1321	-	-	hypothetical protein
+1334601..1334810	-	69	118576506	-	CENSYa_1322	-	-	hypothetical protein
+1334887..1335645	-	252	118576507	-	CENSYa_1323	-	COG1028IQR	short-chain alcohol dehydrogenase
+1335811..1336263	+	150	118576508	-	CENSYa_1324	-	COG0225O	peptide methionine sulfoxide reductase
+1336267..1336713	-	148	118576509	-	CENSYa_1325	-	COG0589T	universal stress protein
+1336790..1337575	+	261	118576510	-	CENSYa_1326	-	COG0596R	acyltransferase
+1337629..1338054	+	141	118576511	-	CENSYa_1327	-	COG2002K	transcriptional regulator
+1338051..1338476	+	141	118576512	-	CENSYa_1328	-	-	hypothetical protein
+1338538..1339539	-	333	118576513	-	CENSYa_1329	-	COG3243I	poly(3-hydroxyalkanoate) synthetase
+1339589..1340143	-	184	118576514	-	CENSYa_1330	-	-	hypothetical protein
+1340198..1340593	+	131	118576515	-	CENSYa_1331	-	-	hypothetical protein
+1340590..1341576	-	328	118576516	-	CENSYa_1332	-	COG1405K	transcription initiation factor TFIIB
+1341578..1341832	-	84	118576517	-	CENSYa_1333	-	-	hypothetical protein
+1341948..1342778	-	276	118576518	-	CENSYa_1334	-	-	hypothetical protein
+1342821..1344224	-	467	118576519	-	CENSYa_1335	-	-	TPR repeat protein
+1344424..1344741	+	105	118576520	-	CENSYa_1336	-	-	hypothetical protein
+1344730..1345701	-	323	118576521	-	CENSYa_1337	-	COG0340H	biotin-(acetyl-CoA carboxylase) ligase
+1345711..1346229	-	172	118576522	-	CENSYa_1338	-	-	hypothetical protein
+1346314..1346511	+	65	118576523	-	CENSYa_1339	-	-	hypothetical protein
+1346538..1346723	+	61	118576524	-	CENSYa_1340	-	COG1832R	CoA-binding protein
+1346725..1347081	+	118	118576525	-	CENSYa_1341	-	-	hypothetical protein
+1347103..1348323	+	406	118576526	-	CENSYa_1342	-	COG0012J	GTPase
+1348305..1348667	-	120	118576527	-	CENSYa_1343	-	-	hypothetical protein
+1348743..1350110	-	455	118576528	-	CENSYa_1344	-	COG0215J	cysteinyl-tRNA synthetase
+1350107..1350922	-	271	118576529	-	CENSYa_1345	-	COG0171H	NH(3)-dependent NAD synthase
+1350965..1373812	-	7615	118576530	-	CENSYa_1346	-	COG3391S	hypothetical protein
+1374119..1375339	+	406	118576531	-	CENSYa_1347	-	COG0126G	3-phosphoglycerate kinase
+1375341..1375685	-	114	118576532	-	CENSYa_1348	-	-	hypothetical protein
+1375687..1376094	-	135	118576533	-	CENSYa_1349	-	COG0822C	Fe-S cluster formation protein
+1376114..1377358	-	414	118576534	-	CENSYa_1350	-	COG0520E	cysteine desulfurase/selenocysteine lyase
+1377358..1377615	-	85	118576535	-	CENSYa_1351	-	COG2146PR	dioxygenase ferredoxin protein
+1377672..1379057	-	461	118576536	-	CENSYa_1352	-	COG0719O	Fe-S cluster assembly protein
+1379081..1380493	-	470	118576537	-	CENSYa_1353	-	COG0719O	Fe-S cluster assembly protein
+1380559..1381338	-	259	118576538	-	CENSYa_1354	-	COG1587H	uroporphyrinogen-III synthase/methyltransferase
+1381335..1382075	-	246	118576539	-	CENSYa_1355	-	COG0007H	uroporphyrinogen-III methylase
+1382072..1383007	-	311	118576540	-	CENSYa_1356	-	COG0181H	porphobilinogen deaminase
+1383004..1384374	-	456	118576541	-	CENSYa_1357	-	COG0001H	glutamate-1-semialdehyde aminotransferase
+1384458..1385690	+	410	118576542	-	CENSYa_1358	-	COG0683E	ABC-type branched-chain amino acid transport system, periplasmic component
+1385705..1386367	-	220	118576543	-	CENSYa_1359	-	COG0580G	permease
+1386379..1387209	-	276	118576544	-	CENSYa_1360	-	COG0300R	short-chain alcohol dehydrogenase
+1387550..1394299	+	2249	118576545	-	CENSYa_1361	-	COG2319R	hypothetical protein
+1395236..1395682	+	148	118576546	-	CENSYa_1362	-	-	hypothetical protein
+1395780..1396010	-	76	118576547	-	CENSYa_1363	-	-	hypothetical protein
+1396308..1396718	+	136	118576548	-	CENSYa_1364	-	-	hypothetical protein
+1396842..1397219	-	125	118576549	-	CENSYa_1365	-	-	hypothetical protein
+1397216..1397383	-	55	118576550	-	CENSYa_1366	-	-	hypothetical protein
+1397483..1398139	-	218	118576551	-	CENSYa_1367	-	COG0704P	phosphate uptake regulator
+1398175..1398969	-	264	118576552	-	CENSYa_1368	-	COG0863L	DNA modification methylase
+1398983..1399816	-	277	118576553	-	CENSYa_1369	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+1399888..1400904	+	338	118576554	-	CENSYa_1370	-	COG0707M	UDP-glucuronosyltransferase
+1400934..1402349	+	471	118576555	-	CENSYa_1371	-	COG0527E	aspartokinase
+1402739..1403380	+	213	118576556	-	CENSYa_1372	-	-	hypothetical protein
+1403454..1403711	+	85	118576557	-	CENSYa_1373	-	-	hypothetical protein
+1403714..1404076	+	120	118576558	-	CENSYa_1374	-	-	hypothetical protein
+1404088..1405023	+	311	118576559	-	CENSYa_1375	-	COG0115EH	branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase
+1405056..1405232	+	58	118576560	-	CENSYa_1376	-	-	hypothetical protein
+1405238..1405786	+	182	118576561	-	CENSYa_1377	-	COG2226H	SAM dependent methyltransferase
+1405811..1406680	+	289	118576562	-	CENSYa_1378	-	COG2897P	rhodanese-related sulfurtransferase
+1406681..1406983	+	100	118576563	-	CENSYa_1379	-	-	hypothetical protein
+1407021..1407881	+	286	118576564	-	CENSYa_1380	-	COG0010E	arginase/agmatinase/formimionoglutamate hydrolase
+1407918..1408490	+	190	118576565	-	CENSYa_1381	-	COG0558I	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1408487..1408774	-	95	118576566	-	CENSYa_1382	-	COG4830J	ribosomal protein S26
+1408801..1409625	+	274	118576567	-	CENSYa_1383	-	COG1977H	hypothetical protein
+1409614..1410144	-	176	118576568	-	CENSYa_1384	-	COG1818R	RNA-binding protein
+1410242..1411240	-	332	118576569	-	CENSYa_1385	-	COG0059EH	ketol-acid reductoisomerase
+1411439..1411969	-	176	118576570	-	CENSYa_1386	-	COG1056H	nicotinamide mononucleotide adenylyltransferase
+1412000..1412932	-	310	118576571	-	CENSYa_1387	-	COG3276J	selenocysteine-specific translation elongation factor Tu, domain 2
+1412929..1413630	-	233	118576572	-	CENSYa_1388	-	-	hypothetical protein
+1413645..1415291	-	548	118576573	-	CENSYa_1389	-	COG0143J	methionyl-tRNA synthetase
+1415334..1416584	-	416	118576574	-	CENSYa_1390	-	COG0499H	S-adenosylhomocysteine hydrolase
+1416705..1417040	+	111	118576575	-	CENSYa_1391	-	COG2146PR	dioxygenase ferredoxin protein
+1417127..1417753	+	208	118576576	-	CENSYa_1392	-	COG0671I	membrane-associated phospholipid phosphatase
+1417742..1418053	-	103	118576577	-	CENSYa_1393	-	-	hypothetical protein
+1418276..1419790	-	504	118576578	-	CENSYa_1394	-	-	hypothetical protein
+1419787..1420416	-	209	118576579	-	CENSYa_1395	-	-	hypothetical protein
+1420580..1421050	+	156	118576580	-	CENSYa_1396	-	-	hypothetical protein
+1421180..1421770	+	196	118576581	-	CENSYa_1397	-	-	hypothetical protein
+1421828..1422226	-	132	118576582	-	CENSYa_1398	-	-	single-stranded DNA-binding replication protein A, large (70 kD) subunit
+1422629..1423249	+	206	118576583	-	CENSYa_1400	-	-	hypothetical protein
+1423246..1423503	-	85	118576584	-	CENSYa_1401	-	-	hypothetical protein
+1423535..1424524	-	329	118576585	-	CENSYa_1402	-	COG0113H	delta-aminolevulinic acid dehydratase
+1424556..1425809	-	417	118576586	-	CENSYa_1403	-	COG0373H	glutamyl-tRNA reductase
+1425806..1426459	-	217	118576587	-	CENSYa_1404	-	COG1648H	siroheme synthase/precorrin-2 oxidase
+1428199..1428447	+	82	118576588	-	CENSYa_1405	-	-	hypothetical protein
+1428992..1429483	-	163	118576589	-	CENSYa_1406	-	-	hypothetical protein
+1429504..1430562	-	352	118576590	-	CENSYa_1407	-	COG1064R	Zn-dependent alcohol dehydrogenase
+1430712..1431380	+	222	118576591	-	CENSYa_1408	-	COG1354S	hypothetical protein
+1431384..1431977	+	197	118576592	-	CENSYa_1409	-	COG1386K	transcriptional regulator containing HTH domain
+1432040..1432429	+	129	118576593	-	CENSYa_1410	-	COG2007J	ribosomal protein S8E
+1432434..1432739	+	101	118576594	-	CENSYa_1411	-	COG1400U	signal recognition particle, 19 kDa protein
+1432820..1433065	+	81	118576595	-	CENSYa_1412	-	COG3277J	hypothetical protein
+1433062..1434027	+	321	118576596	-	CENSYa_1413	-	COG1405K	transcription initiation factor TFIIB
+1434079..1434846	+	255	118576597	-	CENSYa_1414	-	COG0396O	ABC-type transport system involved in Fe-S cluster assembly, ATPase component
+1435019..1435984	-	321	118576598	-	CENSYa_1415	-	-	hypothetical protein
+1436202..1436873	+	223	118576599	-	CENSYa_1416	-	COG3253S	hypothetical protein
+1436880..1437620	-	246	118576600	-	CENSYa_1417	-	-	hypothetical protein
+1437790..1438578	+	262	118576601	-	CENSYa_1418	-	-	hypothetical protein
+1438582..1439415	-	277	118576602	-	CENSYa_1419	-	COG1446E	L-asparaginase
+1439648..1439932	+	94	118576603	-	CENSYa_1420	-	COG1761K	hypothetical protein
+1439929..1440240	+	103	118576604	-	CENSYa_1421	-	COG1594K	DNA-directed RNA polymerase, subunit M/Transcription elongation factor TFIIS
+1440313..1441059	+	248	118576605	-	CENSYa_1422	-	COG0592L	DNA polymerase sliding clamp subunit (PCNA)
+1441118..1442497	+	459	118576606	-	CENSYa_1423	-	COG0527E	aspartokinase
+1442671..1444221	+	516	118576607	-	CENSYa_1424	-	-	hypothetical protein
+1444326..1445405	-	359	118576608	-	CENSYa_1425	-	COG0863L	DNA modification methylase
+1445411..1445593	-	60	118576609	-	CENSYa_1426	-	-	hypothetical protein
+1446017..1446802	+	261	118576610	-	CENSYa_1427	-	COG1010H	precorrin-3B methylase
+1446783..1447820	-	345	118576611	-	CENSYa_1428	-	COG0162J	tyrosyl-tRNA synthetase
+1447909..1448139	+	76	118576612	-	CENSYa_1429	-	COG1522K	transcriptional regulator
+1448141..1448704	-	187	118576613	-	CENSYa_1430	-	-	hypothetical protein
+1448791..1449873	+	360	118576614	-	CENSYa_1431	-	COG0399M	pyridoxal phosphate-dependent enzyme
+1449921..1450346	+	141	118576615	-	CENSYa_1432	-	COG4063H	tetrahydromethanopterin S-methyltransferase, subunit A
+1450340..1450642	-	100	118576616	-	CENSYa_1433	-	-	hypothetical protein
+1450743..1451636	-	297	118576617	-	CENSYa_1434	-	COG0524G	sugar kinases, ribokinase family
+1451646..1452200	-	184	118576618	-	CENSYa_1435	-	-	hypothetical protein
+1452276..1452461	-	61	118576619	-	CENSYa_1436	-	-	hypothetical protein
+1452639..1453535	-	298	118576620	-	CENSYa_1437	-	-	hypothetical protein
+1453532..1454011	-	159	118576621	-	CENSYa_1438	-	COG0652O	peptidyl-prolyl cis-trans isomerase (rotamase)
+1454255..1454566	+	103	118576622	-	CENSYa_1439	-	-	hypothetical protein
+1454784..1455713	-	309	118576623	-	CENSYa_1440	-	COG0540F	aspartate carbamoyltransferase, catalytic chain
+1455753..1456214	+	153	118576624	-	CENSYa_1441	-	COG1781F	aspartate carbamoyltransferase, regulatory subunit
+1456242..1456541	-	99	118576625	-	CENSYa_1442	-	-	H -ATPase subunit chain K
+1456591..1456722	-	43	118576626	-	CENSYa_1443	-	-	hypothetical protein
+1456722..1457087	-	121	118576627	-	CENSYa_1444	-	COG1394C	archaeal/vacuolar-type H -ATPase subunit D
+1457356..1458744	-	462	118576628	-	CENSYa_1445	-	COG1156C	archaeal/vacuolar-type H -ATPase subunit B
+1458741..1460519	-	592	118576629	-	CENSYa_1446	-	COG1155C	archaeal/vacuolar-type H -ATPase subunit A
+1460521..1461117	-	198	118576630	-	CENSYa_1447	-	COG1390C	archaeal/vacuolar-type H -ATPase subunit E
+1461138..1461383	+	81	118576631	-	CENSYa_1448	-	-	hypothetical protein
+1461407..1462081	+	224	118576632	-	CENSYa_1449	-	-	hypothetical protein
+1462152..1462451	+	99	118576633	-	CENSYa_1450	-	-	hypothetical protein
+1462539..1464614	+	691	118576634	-	CENSYa_1451	-	COG1269C	archaeal/vacuolar-type H -ATPase subunit I
+1464598..1465389	-	263	118576635	-	CENSYa_1452	-	COG2897P	rhodanese-related sulfurtransferase
+1465453..1467018	-	521	118576636	-	CENSYa_1453	-	COG0004P	ammonia permease
+1467168..1467824	+	218	118576637	-	CENSYa_1454	-	-	hypothetical protein
+1467880..1468047	+	55	118576638	-	CENSYa_1455	-	-	lysine biosynthesis protein
+1468122..1469162	+	346	118576639	-	CENSYa_1456	-	COG1527C	archaeal/vacuolar-type H -ATPase subunit C
+1469159..1469392	+	77	118576640	-	CENSYa_1457	-	-	hypothetical protein
+1469415..1470062	+	215	118576641	-	CENSYa_1458	-	COG1468L	hypothetical protein
+1470393..1470677	-	94	118576642	-	CENSYa_1459	-	COG3432K	hypothetical protein
+1470761..1471363	-	200	118576643	-	CENSYa_1460	-	-	hypothetical protein
+1471381..1471725	-	114	118576644	-	CENSYa_1461	-	-	hypothetical protein
+1471829..1472290	-	153	118576645	-	CENSYa_1462	-	-	hypothetical protein
+1472438..1473454	+	338	118576646	-	CENSYa_1463	-	COG0104F	adenylosuccinate synthase
+1473514..1473729	+	71	118576647	-	CENSYa_1464	-	-	hypothetical protein
+1473781..1474347	+	188	118576648	-	CENSYa_1465	-	-	hypothetical protein
+1474413..1474646	+	77	118576649	-	CENSYa_1466	-	-	hypothetical protein
+1474694..1475236	+	180	118576650	-	CENSYa_1467	-	-	hypothetical protein
+1475264..1475992	+	242	118576651	-	CENSYa_1468	-	COG0284F	orotidine-5'-phosphate decarboxylase
+1475989..1476504	-	171	118576652	-	CENSYa_1469	-	COG0494LR	diadenosine 5'5'''-P1,P4-tetraphosphate pyrophosphohydrolase
+1476506..1477294	-	262	118576653	-	CENSYa_1470	-	COG0020I	undecaprenyl pyrophosphate synthase
+1477323..1478564	-	413	118576654	-	CENSYa_1471	-	COG2237S	membrane protein
+1478695..1480095	-	466	118576655	-	CENSYa_1472	-	-	hypothetical protein
+1480153..1480458	-	101	118576656	-	CENSYa_1473	-	-	hypothetical protein
+1480577..1481257	-	226	118576657	-	CENSYa_1474	-	-	hypothetical protein
+1481485..1481985	-	166	118576658	-	CENSYa_1475	-	-	hypothetical protein
+1482107..1482577	-	156	118576659	-	CENSYa_1476	-	-	hypothetical protein
+1482592..1483128	-	178	118576660	-	CENSYa_1477	-	-	hypothetical protein
+1483307..1483438	-	43	118576661	-	CENSYa_1478	-	-	hypothetical protein
+1483519..1484154	-	211	118576662	-	CENSYa_1479	-	-	hypothetical protein
+1484231..1484383	-	50	118576663	-	CENSYa_1480	-	-	hypothetical protein
+1484393..1484878	-	161	118576664	-	CENSYa_1481	-	-	hypothetical protein
+1485117..1485260	+	47	118576665	-	CENSYa_1482	-	-	hypothetical protein
+1485279..1485461	-	60	118576666	-	CENSYa_1483	-	-	hypothetical protein
+1485551..1486840	+	429	118576667	-	CENSYa_1484	-	COG0065E	3-isopropylmalate dehydratase large subunit
+1486837..1487322	+	161	118576668	-	CENSYa_1485	-	COG0066E	3-isopropylmalate dehydratase small subunit
+1487324..1488742	+	472	118576669	-	CENSYa_1486	-	COG0065E	3-isopropylmalate dehydratase large subunit
+1488783..1489307	+	174	118576670	-	CENSYa_1487	-	COG0066E	3-isopropylmalate dehydratase small subunit
+1489285..1490004	-	239	118576671	-	CENSYa_1488	-	COG1208MJ	mannose-1-phosphate guanyltransferase
+1490008..1490457	-	149	118576672	-	CENSYa_1489	-	COG0103J	ribosomal protein S9/S13
+1490454..1490873	-	139	118576673	-	CENSYa_1490	-	COG0102J	ribosomal protein L13
+1490890..1491270	-	126	118576674	-	CENSYa_1491	-	COG1727J	ribosomal protein L18E
+1491531..1499285	+	2584	118576675	-	CENSYa_1492	-	COG3391S	hypothetical protein
+1499321..1499620	+	99	118576676	-	CENSYa_1493	-	-	hypothetical protein
+1499647..1507377	+	2576	118576677	-	CENSYa_1494	-	COG2706G	hypothetical protein
+1507570..1507869	-	99	118576678	-	CENSYa_1495	-	COG2450S	hypothetical protein
+1507907..1508917	-	336	118576679	-	CENSYa_1496	-	COG0482J	tRNA (5-methylaminomethyl-2-thiouridylate) methyltransferase
+1508989..1510050	+	353	118576680	-	CENSYa_1497	-	COG0006E	Xaa-Pro aminopeptidase
+1510052..1510873	-	273	118576681	-	CENSYa_1498	-	COG2226H	SAM dependent methyltransferase
+1510896..1512083	-	395	118576682	-	CENSYa_1499	-	COG0452H	phosphopantothenoylcysteine synthetase/decarboxylase
+1512166..1512954	-	262	118576683	-	CENSYa_1500	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+1512977..1513735	-	252	118576684	-	CENSYa_1501	-	COG1701S	hypothetical protein
+1513742..1514614	-	290	118576685	-	CENSYa_1502	-	COG1829R	archaeal suger kinase
+1514679..1515656	+	325	118576686	-	CENSYa_1503	-	COG0704P	phosphate uptake regulator
+1515644..1516588	-	314	118576687	-	CENSYa_1504	-	COG1522K	transcriptional regulator
+1516768..1517925	+	385	118576688	-	CENSYa_1505	-	COG4591M	ABC-type transport system, involved in lipoprotein release, permease component
+1517927..1518607	+	226	118576689	-	CENSYa_1506	-	COG1136V	ABC-type transport system, involved in lipoprotein release, ATPase component
+1518604..1519875	+	423	118576690	-	CENSYa_1507	-	COG1361M	hypothetical protein
+1519903..1520436	+	177	118576691	-	CENSYa_1508	-	-	hypothetical protein
+1520453..1521997	+	514	118576692	-	CENSYa_1509	-	COG0661R	unusual protein kinase
+1522043..1522426	-	127	118576693	-	CENSYa_1510	-	COG0071O	molecular chaperone (small heat shock protein)
+1522446..1522742	-	98	118576694	-	CENSYa_1511	-	-	hypothetical protein
+1522749..1524326	-	525	118576695	-	CENSYa_1512	-	-	hypothetical protein
+1524344..1527619	-	1091	118576696	-	CENSYa_1513	-	COG0513LKJ	superfamily II DNA/RNA helicase, SNF2 family
+1527616..1531587	-	1323	118576697	-	CENSYa_1514	-	-	type II restriction enzyme, methylase subunit
+1531832..1532428	-	198	118576698	-	CENSYa_1515	-	-	hypothetical protein
+1532514..1532735	+	73	118576699	-	CENSYa_1516	-	-	hypothetical protein
+1532794..1534713	-	639	118576700	-	CENSYa_1517	-	-	hypothetical protein
+1535025..1535654	-	209	118576701	-	CENSYa_1518	-	-	hypothetical protein
+1535754..1536410	-	218	118576702	-	CENSYa_1519	-	-	hypothetical protein
+1536671..1537327	-	218	118576703	-	CENSYa_1520	-	-	hypothetical protein
+1537396..1538055	-	219	118576704	-	CENSYa_1521	-	-	hypothetical protein
+1538339..1538566	-	75	118576705	-	CENSYa_1522	-	-	hypothetical protein
+1538566..1539876	-	436	118576706	-	CENSYa_1523	-	COG3316L	transposase
+1540020..1540457	+	145	118576707	-	CENSYa_1524	-	-	hypothetical protein
+1540539..1540721	+	60	118576708	-	CENSYa_1525	-	-	hypothetical protein
+1540751..1541194	+	147	118576709	-	CENSYa_1526	-	-	hypothetical protein
+1541858..1542301	+	147	118576710	-	CENSYa_1527	-	-	hypothetical protein
+1542381..1542848	+	155	118576711	-	CENSYa_1528	-	-	hypothetical protein
+1543420..1543980	+	186	118576712	-	CENSYa_1529	-	COG0125F	thymidylate kinase
+1544003..1545226	+	407	118576713	-	CENSYa_1530	-	COG1078R	HD superfamily phosphohydrolases
+1545226..1545912	+	228	118576714	-	CENSYa_1531	-	COG0528F	uridine monophosphate kinase
+1545916..1546263	-	115	118576715	-	CENSYa_1532	-	-	hypothetical protein
+1546355..1546888	+	177	118576716	-	CENSYa_1533	-	-	hypothetical protein
+1547105..1547314	-	69	118576717	-	CENSYa_1534	-	COG1997J	ribosomal protein L37AE/L43A
+1547315..1548127	-	270	118576718	-	CENSYa_1535	-	COG2123J	RNase PH-related exoribonuclease
+1548127..1548858	-	243	118576719	-	CENSYa_1536	-	COG0689J	RNase PH
+1548858..1549535	-	225	118576720	-	CENSYa_1537	-	COG1097J	exosome complex RNA-binding protein
+1549535..1550221	-	228	118576721	-	CENSYa_1538	-	COG1500J	exosome complex subunit
+1550220..1550750	+	176	118576722	-	CENSYa_1539	-	-	hypothetical protein
+1550947..1551618	-	223	118576723	-	CENSYa_1540	-	-	hypothetical protein
+1551615..1551815	-	66	118576724	-	CENSYa_1541	-	-	hypothetical protein
+1551812..1552168	-	118	118576725	-	CENSYa_1542	-	-	hypothetical protein
+1552229..1552930	-	233	118576726	-	CENSYa_1543	-	-	hypothetical protein
+1553362..1554000	+	212	118576727	-	CENSYa_1544	-	COG0202K	DNA-directed RNA polymerase, alpha subunit/40 kD subunit
+1554047..1555984	-	645	118576728	-	CENSYa_1545	-	COG0054H	cleavage and polyadenylation specificity factor/metal-dependent RNase
+1555992..1556579	-	195	118576729	-	CENSYa_1546	-	COG0638O	20S proteasome, alpha and beta subunit
+1556693..1557757	+	354	118576730	-	CENSYa_1547	-	COG0371C	glycerol dehydrogenase
+1557762..1558547	-	261	118576731	-	CENSYa_1548	-	COG1047O	FKBP-type peptidyl-prolyl cis-trans isomerase/rotamase
+1558576..1559706	-	376	118576732	-	CENSYa_1549	-	COG0075E	serine-pyruvate aminotransferase/archaeal aspartate aminotransferase
+1559764..1560099	-	111	118576733	-	CENSYa_1550	-	COG1056H	nicotinamide mononucleotide adenylyltransferase
+1560096..1560260	-	54	118576734	-	CENSYa_1551	-	COG1056H	hypothetical protein
+1560320..1561339	+	339	118576735	-	CENSYa_1552	-	COG0430A	RNA 3'-terminal phosphate cyclase
+1561319..1561828	-	169	118576736	-	CENSYa_1553	-	-	copper export protein
+1561963..1562388	+	141	118576737	-	CENSYa_1554	-	-	hypothetical protein
+1562476..1563285	+	269	118576738	-	CENSYa_1556	-	COG0778C	nitroreductase
+1563477..1564001	+	174	118576739	-	CENSYa_1558	-	COG0431R	NADH-dependent FMN reductase
+1564055..1564522	-	155	118576740	-	CENSYa_1559	-	-	hypothetical protein
+1564847..1565596	-	249	118576741	-	CENSYa_1560	-	-	hypothetical protein
+1565713..1565934	-	73	118576742	-	CENSYa_1561	-	-	hypothetical protein
+1565969..1567027	-	352	118576743	-	CENSYa_1562	-	-	hypothetical protein
+1567050..1568027	-	325	118576744	-	CENSYa_1563	-	-	hypothetical protein
+1568418..1568831	+	137	118576745	-	CENSYa_1564	-	-	hypothetical protein
+1569188..1570354	-	388	118576746	-	CENSYa_1565	-	-	hypothetical protein
+1570385..1574167	-	1260	118576747	-	CENSYa_1566	-	COG0086K	DNA-directed RNA polymerase, beta' subunit/160 kD subunit
+1574167..1577514	-	1115	118576748	-	CENSYa_1567	-	COG0085K	DNA-directed RNA polymerase, beta subunit/140 kD subunit
+1577515..1577766	-	83	118576749	-	CENSYa_1568	-	COG2012K	DNA-directed RNA polymerase, subunit H, RpoH/RPB5
+1578018..1578821	+	267	118576750	-	CENSYa_1569	-	-	hypothetical protein
+1578886..1579749	+	287	118576751	-	CENSYa_1570	-	-	hypothetical protein
+1579826..1580671	+	281	118576752	-	CENSYa_1571	-	-	hypothetical protein
+1580668..1581792	-	374	118576753	-	CENSYa_1572	-	COG1104E	cysteine sulfinate desulfinase/cysteine desulfurase
+1581822..1582616	-	264	118576754	-	CENSYa_1573	-	COG1606R	ATP-utilizing enzyme of the PP-loop superfamily
+1582613..1583830	-	405	118576755	-	CENSYa_1574	-	COG1641S	hypothetical protein
+1583961..1584869	+	302	118576756	-	CENSYa_1575	-	COG0039C	malate/L-lactate dehydrogenase
+1584905..1585708	+	267	118576757	-	CENSYa_1576	-	COG1691R	NCAIR mutase
+1586170..1587705	+	511	118576758	-	CENSYa_1577	-	COG1032C	Fe-S oxidoreductase
+1587827..1588150	-	107	118576759	-	CENSYa_1578	-	-	hypothetical protein
+1588210..1589202	-	330	118576760	-	CENSYa_1579	-	-	hypothetical protein
+1589264..1592332	-	1022	118576761	-	CENSYa_1580	-	-	secreted periplasmic Zn-dependent protease
+1592406..1593530	-	374	118576762	-	CENSYa_1581	-	-	divalent heavy-metal cation transporter
+1593556..1594596	-	346	118576763	-	CENSYa_1582	-	COG2132Q	multicopper oxidase
+1594731..1595231	+	166	118576764	-	CENSYa_1583	-	-	hypothetical protein
+1595224..1595526	-	100	118576765	-	CENSYa_1584	-	-	hypothetical protein
+1595530..1596843	-	437	118576766	-	CENSYa_1585	-	COG4867R	uncharacterized protein with a von Willebrand factor type A (vWA) domain
+1596935..1598692	-	585	118576767	-	CENSYa_1586	-	COG1239H	Mg-chelatase subunit
+1598693..1598932	+	79	118576768	-	CENSYa_1587	-	-	hypothetical protein
+1599003..1599281	+	92	118576769	-	CENSYa_1588	-	-	hypothetical protein
+1599320..1599487	+	55	118576770	-	CENSYa_1589	-	-	hypothetical protein
+1599493..1599702	+	69	118576771	-	CENSYa_1590	-	-	hypothetical protein
+1599728..1599967	+	79	118576772	-	CENSYa_1591	-	-	hypothetical protein
+1600016..1600222	+	68	118576773	-	CENSYa_1592	-	-	hypothetical protein
+1600249..1600452	+	67	118576774	-	CENSYa_1593	-	-	hypothetical protein
+1600458..1600727	+	89	118576775	-	CENSYa_1594	-	-	hypothetical protein
+1600730..1600933	+	67	118576776	-	CENSYa_1595	-	-	hypothetical protein
+1600930..1601115	+	61	118576777	-	CENSYa_1596	-	-	hypothetical protein
+1601372..1601953	-	193	118576778	-	CENSYa_1597	-	-	hypothetical protein
+1602364..1603047	+	227	118576779	-	CENSYa_1598	-	COG0099J	30S ribosomal protein S13
+1603051..1603668	+	205	118576780	-	CENSYa_1599	-	COG0522J	30S ribosomal protein S4
+1603720..1605477	+	585	118576781	-	CENSYa_1600	-	COG0449M	glucosamine 6-phosphate synthetase
+1605464..1606504	-	346	118576782	-	CENSYa_1601	-	COG2038H	phosphoribosyltransferase
+1606521..1607132	-	203	118576783	-	CENSYa_1602	-	COG0491R	Zn-dependent hydrolase
+1607129..1607770	-	213	118576784	-	CENSYa_1603	-	COG0062S	hypothetical protein
+1607803..1608024	-	73	118576785	-	CENSYa_1604	-	-	hypothetical protein
+1608155..1609438	-	427	118576786	-	CENSYa_1605	-	COG4826O	serine protease inhibitor
+1609435..1609839	-	134	118576787	-	CENSYa_1606	-	-	hypothetical protein
+1610288..1612402	+	704	118576788	-	CENSYa_1607	-	COG1479S	hypothetical protein
+1612595..1613230	+	211	118576789	-	CENSYa_1608	-	COG2178J	RNA-binding protein
+1613346..1613582	+	78	118576790	-	CENSYa_1610	-	COG1644K	DNA-directed RNA polymerase, subunit N
+1613584..1614822	+	412	118576791	-	CENSYa_1611	-	COG0148G	enolase
+1614826..1615452	+	208	118576792	-	CENSYa_1612	-	COG0052J	30S ribosomal protein S2
+1615452..1616273	+	273	118576793	-	CENSYa_1613	-	COG1355R	dioxygenase
+1616279..1617208	+	309	118576794	-	CENSYa_1614	-	COG1577I	mevalonate kinase
+1617237..1617977	+	246	118576795	-	CENSYa_1615	-	COG1608R	archaeal gamma-glutamyl kinase
+1617977..1618609	+	210	118576796	-	CENSYa_1616	-	COG1443I	isopentenyl-diphosphate delta-isomerase
+1618606..1619571	+	321	118576797	-	CENSYa_1617	-	COG0142H	geranylgeranyl pyrophosphate synthase/geranyltranstransferase
+1619568..1621256	+	562	118576798	-	CENSYa_1618	-	COG0008J	glutamyl-tRNA synthetase
+1621263..1622129	+	288	118576799	-	CENSYa_1619	-	COG0179Q	2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1, 7-dioic acid hydratase
+1622173..1622520	+	115	118576800	-	CENSYa_1620	-	COG1698S	hypothetical protein
+1622531..1623277	+	248	118576801	-	CENSYa_1621	-	COG4076R	SAM dependent methyltransferase
+1623311..1623655	+	114	118576802	-	CENSYa_1622	-	-	hypothetical protein
+1623771..1623932	+	53	118576803	-	CENSYa_1624	-	-	hypothetical protein
+1624052..1625464	+	470	118576804	-	CENSYa_1625	-	-	hypothetical protein
+1625601..1627445	-	614	118576805	-	CENSYa_1626	-	COG1061KL	superfamily II helicase
+1627445..1628101	-	218	118576806	-	CENSYa_1627	-	COG1502I	hypothetical protein
+1628194..1629990	-	598	118576807	-	CENSYa_1628	-	-	hypothetical protein
+1629991..1633353	-	1120	118576808	-	CENSYa_1629	-	COG1061KL	DNA helicase
+1633373..1635529	-	718	118576809	-	CENSYa_1630	-	COG0642T	signal transduction histidine kinase
+1635661..1636638	-	325	118576810	-	CENSYa_1631	-	COG0270L	C-5 cytosine-specific DNA methylase
+1636700..1637173	+	157	118576811	-	CENSYa_1632	-	COG3727L	DNA G/T mismatch repair endonuclease
+1637318..1638322	+	334	118576812	-	CENSYa_1633	-	COG0598P	Mg2 and Co2 transporter
+1638466..1641234	-	922	118576813	-	CENSYa_1634	-	-	autotransporter adhesin
+1641262..1641564	-	100	118576814	-	CENSYa_1635	-	-	hypothetical protein
+1641570..1643405	-	611	118576815	-	CENSYa_1636	-	-	autotransporter adhesin
+1643436..1643732	-	98	118576816	-	CENSYa_1637	-	-	hypothetical protein
+1643856..1644485	-	209	118576817	-	CENSYa_1638	-	-	hypothetical protein
+1644537..1648088	-	1183	118576818	-	CENSYa_1639	-	-	ATPases involved in chromosome partitioning
+1648357..1648737	-	126	118576819	-	CENSYa_1640	-	COG0127F	xanthosine triphosphate pyrophosphatase
+1648913..1649869	-	318	118576820	-	CENSYa_1641	-	COG3642T	Mn2 -dependent serine/threonine protein kinase
+1649969..1650682	-	237	118576821	-	CENSYa_1642	-	COG0533O	O-sialoglycoprotein endopeptidase
+1650684..1650911	-	75	118576822	-	CENSYa_1643	-	-	hypothetical protein
+1650955..1652142	-	395	118576823	-	CENSYa_1644	-	COG0012J	GTPase
+1652305..1652766	+	153	118576824	-	CENSYa_1645	-	COG1936F	nucleotide kinase
+1652780..1654306	+	508	118576825	-	CENSYa_1646	-	COG0343J	queuine/archaeosine tRNA-ribosyltransferase
+1654313..1654615	-	100	118576826	-	CENSYa_1647	-	COG1143C	hypothetical protein
+1654830..1655054	-	74	118576827	-	CENSYa_1648	-	-	hypothetical protein
+1655177..1656430	+	417	118576828	-	CENSYa_1649	-	COG1236J	exonuclease of the beta-lactamase fold
+1656440..1656631	+	63	118576829	-	CENSYa_1650	-	-	hypothetical protein
+1656651..1657328	+	225	118576830	-	CENSYa_1651	-	COG0122L	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase
+1657288..1658103	-	271	118576831	-	CENSYa_1652	-	COG0483G	archaeal fructose-1,6-bisphosphatase
+1658197..1659321	+	374	118576832	-	CENSYa_1653	-	-	hypothetical protein
+1659318..1660478	+	386	118576833	-	CENSYa_1654	-	COG0470L	replication factor C/ATPase involved in DNA replication
+1660490..1660792	+	100	118576834	-	CENSYa_1655	-	COG0059EH	hypothetical protein
+1660812..1661540	+	242	118576835	-	CENSYa_1656	-	-	hypothetical protein
+1661549..1662619	+	356	118576836	-	CENSYa_1657	-	COG0373H	glutamyl-tRNA reductase
+1662677..1662856	+	59	118576837	-	CENSYa_1658	-	-	hypothetical protein
+1662970..1663809	-	279	118576838	-	CENSYa_1659	-	COG0543HC	Na -transporting NADH ubiquinone oxidoreductase subunit
+1663911..1665458	+	515	118576839	-	CENSYa_1660	-	COG4799I	acetyl-CoA carboxylase, carboxyltransferase component (subunit alpha and beta)
+1665512..1666942	+	476	118576840	-	CENSYa_1661	-	COG4770I	biotin carboxylase
+1666944..1667453	+	169	118576841	-	CENSYa_1662	-	COG4770I	acetyl/propionyl-CoA carboxylase, alpha subunit
+1667459..1667929	-	156	118576842	-	CENSYa_1663	-	COG1225O	peroxiredoxin
+1668048..1668419	+	123	118576843	-	CENSYa_1664	-	COG0838C	NADH-ubiquinone oxidoreductase subunit A
+1668474..1668956	+	160	118576844	-	CENSYa_1665	-	COG0377C	NADH-ubiquinone oxidoreductase subunit B
+1668953..1669765	+	270	118576845	-	CENSYa_1666	-	COG0852C	NADH-ubiquinone oxidoreductase subunit C
+1669768..1670907	+	379	118576846	-	CENSYa_1667	-	COG0649C	NADH-ubiquinone oxidoreductase subunit D
+1670907..1672205	+	432	118576847	-	CENSYa_1668	-	COG1005C	NADH-ubiquinone oxidoreductase subunit H
+1672202..1672702	+	166	118576848	-	CENSYa_1669	-	COG1143C	NADH-ubiquinone oxidoreductase subunit I
+1672728..1673207	+	159	118576849	-	CENSYa_1670	-	COG0839C	NADH-ubiquinone oxidoreductase subunit J
+1673218..1673493	+	91	118576850	-	CENSYa_1671	-	COG0713C	NADH-ubiquinone oxidoreductase subunit 4L
+1673493..1675055	+	520	118576851	-	CENSYa_1672	-	COG1008C	formate hydrogenlyase subunit 3/Multisubunit Na /H antiporter
+1675057..1677132	+	691	118576852	-	CENSYa_1673	-	COG1009CP	NADH-ubiquinone oxidoreductase subunit L
+1677146..1678633	+	495	118576853	-	CENSYa_1674	-	COG1007C	NADH-ubiquinone oxidoreductase subunit N
+1678623..1679441	-	272	118576854	-	CENSYa_1675	-	COG0142H	geranylgeranyl pyrophosphate synthase/geranyltranstransferase
+1679844..1680215	-	123	118576855	-	CENSYa_1677	-	-	hypothetical protein
+1680231..1680683	-	150	118576856	-	CENSYa_1678	-	-	hypothetical protein
+1680716..1680859	-	47	118576857	-	CENSYa_1679	-	-	hypothetical protein
+1680928..1681122	-	64	118576858	-	CENSYa_1680	-	-	hypothetical protein
+1681320..1681997	-	225	118576859	-	CENSYa_1681	-	-	hypothetical protein
+1682307..1683572	-	421	118576860	-	CENSYa_1682	-	COG4826O	serine protease inhibitor
+1684178..1684792	-	204	118576861	-	CENSYa_1683	-	-	hypothetical protein
+1684842..1685531	+	229	118576862	-	CENSYa_1684	-	COG5424H	pyrroloquinoline quinone (Coenzyme PQQ) biosynthesis protein C
+1685789..1686391	-	200	118576863	-	CENSYa_1686	-	COG0461F	orotate phosphoribosyltransferase
+1686443..1687516	+	357	118576864	-	CENSYa_1687	-	-	hypothetical protein
+1687508..1688602	-	364	118576865	-	CENSYa_1688	-	COG0750M	membrane-associated Zn-dependent protease
+1688627..1689688	-	353	118576866	-	CENSYa_1689	-	COG1503J	peptide chain release factor 1
+1689758..1690264	+	168	118576867	-	CENSYa_1690	-	COG0456R	acetyltransferase
+1690295..1690513	+	72	118576868	-	CENSYa_1691	-	-	transcription regulator containing HTH domain
+1690514..1691341	-	275	118576869	-	CENSYa_1692	-	COG2520R	methyltransferase
+1691468..1691908	-	146	118576870	-	CENSYa_1693	-	-	hypothetical protein
+1691905..1693689	-	594	118576871	-	CENSYa_1694	-	COG1245R	ATPase, RNase L inhibitor
+1693717..1694391	-	224	118576872	-	CENSYa_1695	-	COG2051J	ribosomal protein S27E
+1694592..1695773	+	393	118576873	-	CENSYa_1696	-	-	hypothetical protein
+1696144..1696713	+	189	118576874	-	CENSYa_1699	-	COG0009J	translation factor
+1696813..1698324	-	503	118576875	-	CENSYa_1700	-	COG0165E	argininosuccinate lyase
+1698323..1698646	+	107	118576876	-	CENSYa_1701	-	COG2151R	metal-sulfur cluster biosynthetic enzyme
+1698720..1699496	-	258	118576877	-	CENSYa_1702	-	COG0479C	succinate dehydrogenase/fumarate reductase iron-sulfur protein
+1699496..1699843	-	115	118576878	-	CENSYa_1703	-	COG2142C	hypothetical protein
+1699840..1700274	-	144	118576879	-	CENSYa_1704	-	COG2009C	succinate dehydrogenase, subunit D
+1700274..1701332	-	352	118576880	-	CENSYa_1705	-	COG1053C	succinate dehydrogenase, cytochrome b subunit
+1701527..1701985	-	152	118576881	-	CENSYa_1706	-	COG1053C	succinate dehydrogenase, flavoprotein subunit A
+1702349..1702942	+	197	118576882	-	CENSYa_1707	-	-	hypothetical protein
+1703109..1703915	+	268	118576883	-	CENSYa_1708	-	COG1695K	transcriptional regulator
+1703932..1704177	+	81	118576884	-	CENSYa_1709	-	-	hypothetical protein
+1704218..1705060	+	280	118576885	-	CENSYa_1710	-	COG2513G	PEP phosphonomutase
+1705085..1705375	-	96	118576886	-	CENSYa_1711	-	COG1581K	archaeal DNA-binding protein
+1705701..1705871	+	56	118576887	-	CENSYa_1713	-	-	hypothetical protein
+1705909..1706721	+	270	118576888	-	CENSYa_1714	-	COG1018C	flavodoxin reductases (ferredoxin-NADPH reductase)
+1707197..1707493	+	98	118576889	-	CENSYa_1716	-	-	hypothetical protein
+1707546..1708463	+	305	118576890	-	CENSYa_1717	-	COG0115EH	branched-chain amino acid aminotransferase/4-amino-4-deoxychorismate lyase
+1708460..1709395	+	311	118576891	-	CENSYa_1718	-	COG0673R	dehydrogenase
+1709392..1709661	+	89	118576892	-	CENSYa_1719	-	COG2835S	hypothetical protein
+1709666..1710142	+	158	118576893	-	CENSYa_1720	-	COG1043M	acetyltransferase
+1710360..1711349	-	329	118576894	-	CENSYa_1721	-	COG0472M	UDP-N-acetylglucosamine-1-phosphate transferase
+1711350..1713473	-	707	118576895	-	CENSYa_1722	-	COG1204R	superfamily II helicase
+1713470..1715563	-	697	118576896	-	CENSYa_1723	-	COG1241L	Cdc46/Mcm DNA replication licensing factor ATPase
+1715560..1716078	-	172	118576897	-	CENSYa_1724	-	COG1711S	hypothetical protein
+1716277..1717212	+	311	118576898	-	CENSYa_1725	-	COG0470L	replication factor C small subunit
+1717376..1717909	-	177	118576899	-	CENSYa_1727	-	COG1146C	ferredoxin
+1717976..1718470	-	164	118576900	-	CENSYa_1728	-	COG1146C	ferredoxin
+1718596..1719261	+	221	118576901	-	CENSYa_1729	-	COG1976J	translation initiation factor
+1719258..1720511	-	417	118576902	-	CENSYa_1730	-	COG0124J	histidyl-tRNA synthetase
+1720589..1720810	-	73	118576903	-	CENSYa_1731	-	-	hypothetical protein
+1720812..1722983	-	723	118576904	-	CENSYa_1732	-	-	surface antigen
+1723076..1723480	-	134	118576905	-	CENSYa_1733	-	-	hypothetical protein
+1723506..1725080	-	524	118576906	-	CENSYa_1734	-	-	hypothetical protein
+1725195..1726466	-	423	118576907	-	CENSYa_1735	-	COG0043H	3-polyprenyl-4-hydroxybenzoate decarboxylase
+1726513..1727001	-	162	118576908	-	CENSYa_1736	-	-	hypothetical protein
+1727322..1727849	-	175	118576909	-	CENSYa_1737	-	COG1303S	hypothetical protein
+1727846..1728928	-	360	118576910	-	CENSYa_1738	-	COG2262R	GTPase
+1728946..1729980	-	344	118576911	-	CENSYa_1739	-	COG0704P	phosphate uptake regulator
+1729984..1730163	-	59	118576912	-	CENSYa_1740	-	-	hypothetical protein
+1730258..1730734	+	158	118576913	-	CENSYa_1741	-	COG1370O	queuine tRNA-ribosyltransferase containing PUA domain
+1730734..1731072	+	112	118576914	-	CENSYa_1742	-	COG1308K	transcription factor
+1731107..1731442	+	111	118576915	-	CENSYa_1743	-	-	hypothetical protein
+1731593..1732126	+	177	118576916	-	CENSYa_1744	-	-	hypothetical protein
+1732262..1732492	-	76	118576917	-	CENSYa_1745	-	-	hypothetical protein
+1732509..1733099	-	196	118576918	-	CENSYa_1746	-	-	hypothetical protein
+1733099..1733863	-	254	118576919	-	CENSYa_1747	-	-	hypothetical protein
+1734041..1737916	+	1291	118576920	-	CENSYa_1748	-	-	hypothetical protein
+1737921..1738751	+	276	118576921	-	CENSYa_1749	-	-	hypothetical protein
+1739041..1739682	-	213	118576922	-	CENSYa_1750	-	-	hypothetical protein
+1739791..1740870	+	359	118576923	-	CENSYa_1751	-	COG0604CR	Zn-dependent oxidoreductase
+1740877..1741743	+	288	118576924	-	CENSYa_1752	-	COG2301G	citrate lyase beta subunit
+1741800..1742507	+	235	118576925	-	CENSYa_1753	-	COG3063NU	TPR repeat protein
+1742512..1743099	+	195	118576926	-	CENSYa_1754	-	COG0307H	riboflavin synthase alpha chain
+1743156..1743830	+	224	118576927	-	CENSYa_1755	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+1743846..1744256	+	136	118576928	-	CENSYa_1756	-	COG0054H	riboflavin synthase beta chain
+1744421..1744978	+	185	118576929	-	CENSYa_1757	-	COG2429S	GTP cyclohydrolase III
+1744975..1746153	+	392	118576930	-	CENSYa_1758	-	COG0402FR	cytosine deaminase
+1746161..1746814	+	217	118576931	-	CENSYa_1759	-	COG1985H	riboflavin specific deaminase
+1746840..1747355	+	171	118576932	-	CENSYa_1760	-	COG1675K	transcription initiation factor IIE, alpha subunit
+1747356..1747907	-	183	118576933	-	CENSYa_1761	-	COG3945S	hypothetical protein
+1748175..1749017	+	280	118576934	-	CENSYa_1762	-	-	hypothetical protein
+1749047..1749622	+	191	118576935	-	CENSYa_1763	-	-	hypothetical protein
+1750041..1750328	-	95	118576936	-	CENSYa_1764	-	COG2118R	DNA-binding protein
+1750336..1750770	-	144	118576937	-	CENSYa_1765	-	COG2238J	ribosomal protein S19E
+1750772..1751146	-	124	118576938	-	CENSYa_1766	-	COG2023J	RNase P subunit
+1751289..1751957	-	222	118576939	-	CENSYa_1768	-	COG1756S	hypothetical protein
+1751954..1753033	-	359	118576940	-	CENSYa_1769	-	COG3693G	hypothetical protein
+1753072..1755717	-	881	118576941	-	CENSYa_1770	-	COG0209F	ribonucleotide reductase, alpha subunit
+1755998..1756552	-	184	118576942	-	CENSYa_1771	-	COG1328F	oxygen-sensitive ribonucleoside-triphosphate reductase
+1756597..1758057	-	486	118576943	-	CENSYa_1772	-	COG1328F	oxygen-sensitive ribonucleoside-triphosphate reductase
+1758066..1758299	-	77	118576944	-	CENSYa_1773	-	-	hypothetical protein
+1758304..1758450	-	48	118576945	-	CENSYa_1774	-	-	hypothetical protein
+1758519..1759070	-	183	118576946	-	CENSYa_1775	-	-	hypothetical protein
+1759162..1760109	-	315	118576947	-	CENSYa_1776	-	-	hypothetical protein
+1760307..1763201	-	964	118576948	-	CENSYa_1777	-	-	autotransporter adhesin
+1763185..1763346	-	53	118576949	-	CENSYa_1778	-	-	hypothetical protein
+1763411..1763782	-	123	118576950	-	CENSYa_1779	-	COG1545R	nucleic-acid-binding protein
+1763784..1764938	-	384	118576951	-	CENSYa_1780	-	COG0183I	acetyl-CoA acetyltransferase
+1765152..1765706	-	184	118576952	-	CENSYa_1781	-	-	hypothetical protein
+1765747..1766373	+	208	118576953	-	CENSYa_1782	-	COG0551L	DNA topoisomerase I
+1766363..1767172	-	269	118576954	-	CENSYa_1783	-	COG0388R	amidohydrolase
+1767203..1767379	-	58	118576955	-	CENSYa_1784	-	COG1942R	hypothetical protein
+1767418..1768185	-	255	118576956	-	CENSYa_1785	-	COG0705R	uncharacterized membrane protein
+1768241..1768495	-	84	118576957	-	CENSYa_1786	-	-	hypothetical protein
+1768492..1768713	-	73	118576958	-	CENSYa_1787	-	-	hypothetical protein
+1768797..1769285	-	162	118576959	-	CENSYa_1788	-	COG3398S	hypothetical protein
+1769293..1769694	-	133	118576960	-	CENSYa_1789	-	-	hypothetical protein
+1769746..1769913	-	55	118576961	-	CENSYa_1790	-	-	hypothetical protein
+1769957..1771690	-	577	118576962	-	CENSYa_1791	-	-	secreted periplasmic Zn-dependent protease
+1771718..1771918	-	66	118576963	-	CENSYa_1792	-	-	hypothetical protein
+1771994..1772821	+	275	118576964	-	CENSYa_1793	-	-	hypothetical protein
+1772825..1773916	+	363	118576965	-	CENSYa_1794	-	COG3794C	copper binding protein, plastocyanin/azurin family
+1774086..1774961	+	291	118576966	-	CENSYa_1795	-	COG3794C	copper binding protein, plastocyanin/azurin family
+1775021..1776016	+	331	118576967	-	CENSYa_1796	-	COG3794C	copper binding protein, plastocyanin/azurin family
+1776029..1776727	-	232	118576968	-	CENSYa_1797	-	-	hypothetical protein
+1776761..1779544	+	927	118576969	-	CENSYa_1798	-	COG4257V	streptogramin lyase
+1779532..1780869	-	445	118576970	-	CENSYa_1799	-	-	hypothetical protein
+1780929..1782050	-	373	118576971	-	CENSYa_1800	-	-	hypothetical protein
+1782115..1782387	-	90	118576972	-	CENSYa_1801	-	-	hypothetical protein
+1782471..1784195	+	574	118576973	-	CENSYa_1802	-	COG0553KL	superfamily II DNA/RNA helicase, SNF2 family
+1784167..1784916	-	249	118576974	-	CENSYa_1803	-	-	hypothetical protein
+1784986..1786530	+	514	118576975	-	CENSYa_1804	-	-	hypothetical protein
+1786607..1786858	+	83	118576976	-	CENSYa_1805	-	-	hypothetical protein
+1786901..1788181	+	426	118576977	-	CENSYa_1806	-	COG1914P	Mn2 and Fe2 transporter of the NRAMP family
+1788174..1788599	-	141	118576978	-	CENSYa_1807	-	-	hypothetical protein
+1788680..1793407	-	1575	118576979	-	CENSYa_1808	-	-	RTX family exoprotein
+1793565..1794941	-	458	118576980	-	CENSYa_1809	-	COG0277C	FAD/FMN-containing dehydrogenase
+1794938..1796248	-	436	118576981	-	CENSYa_1810	-	-	hypothetical protein
+1796356..1796751	+	131	118576982	-	CENSYa_1811	-	-	hypothetical protein
+1796748..1797263	-	171	118576983	-	CENSYa_1812	-	COG0484O	molecular chaperone DnaJ
+1797267..1797725	-	152	118576984	-	CENSYa_1813	-	COG1522K	transcriptional regulator
+1797797..1798018	+	73	118576985	-	CENSYa_1814	-	COG5010U	TPR repeat protein
+1798058..1798531	+	157	118576986	-	CENSYa_1815	-	COG3063NU	TPR repeat protein
+1798528..1798701	-	57	118576987	-	CENSYa_1816	-	-	hypothetical protein
+1798830..1799927	+	365	118576988	-	CENSYa_1817	-	COG1060HR	thiamine biosynthesis enzyme
+1799924..1800238	-	104	118576989	-	CENSYa_1818	-	COG0011S	hypothetical protein
+1800283..1800564	-	93	118576990	-	CENSYa_1819	-	-	hypothetical protein
+1800611..1800907	-	98	118576991	-	CENSYa_1820	-	-	hypothetical protein
+1800958..1801551	-	197	118576992	-	CENSYa_1821	-	-	hypothetical protein
+1801614..1802432	-	272	118576993	-	CENSYa_1822	-	COG2524K	CBS domain
+1802477..1802830	-	117	118576994	-	CENSYa_1823	-	-	transcriptional regulator
+1802898..1803227	-	109	118576995	-	CENSYa_1824	-	COG0347E	nitrogen regulatory protein PII
+1803378..1804292	+	304	118576996	-	CENSYa_1825	-	COG1405K	transcription initiation factor TFIIB
+1804394..1804939	-	181	118576997	-	CENSYa_1826	-	COG1528P	ferritin-like protein
+1804970..1808308	-	1112	118576998	-	CENSYa_1827	-	COG1933L	archaeal DNA polymerase II, large subunit
+1808313..1809098	-	261	118576999	-	CENSYa_1828	-	COG1646R	phosphate-binding enzymes, TIM-barrel fold
+1809408..1809617	+	69	118577000	-	CENSYa_1829	-	-	hypothetical protein
+1809627..1809950	+	107	118577001	-	CENSYa_1830	-	-	hypothetical protein
+1810033..1811232	-	399	118577002	-	CENSYa_1831	-	COG3794C	hypothetical protein
+1811229..1811453	-	74	118577003	-	CENSYa_1832	-	-	hypothetical protein
+1811487..1811813	+	108	118577004	-	CENSYa_1833	-	-	hypothetical protein
+1811835..1812197	+	120	118577005	-	CENSYa_1834	-	-	hypothetical protein
+1812229..1812876	+	215	118577006	-	CENSYa_1835	-	-	hypothetical protein
+1813052..1813207	+	51	118577007	-	CENSYa_1836	-	-	hypothetical protein
+1813412..1813693	-	93	118577008	-	CENSYa_1837	-	-	hypothetical protein
+1813938..1814321	-	127	118577009	-	CENSYa_1838	-	-	hypothetical protein
+1814836..1816068	+	410	118577010	-	CENSYa_1839	-	COG1474LO	Cdc6-related protein, AAA superfamily ATPase
+1816083..1817513	-	476	118577011	-	CENSYa_1840	-	COG1311L	archaeal DNA polymerase II, small subunit/DNA polymerase delta, subunit B
+1817646..1818176	+	176	118577012	-	CENSYa_1841	-	-	hypothetical protein
+1818183..1818902	-	239	118577013	-	CENSYa_1842	-	COG2241H	precorrin-6B methylase 1
+1818899..1819387	-	162	118577014	-	CENSYa_1843	-	-	hypothetical protein
+1819536..1821173	+	545	118577015	-	CENSYa_1844	-	COG0652O	peptidyl-prolyl cis-trans isomerase (rotamase)
+1821115..1822368	-	417	118577016	-	CENSYa_1845	-	COG1252C	NADH dehydrogenase, FAD-containing subunit
+1822490..1823149	-	219	118577017	-	CENSYa_1846	-	-	hypothetical protein
+1823259..1823753	+	164	118577018	-	CENSYa_1847	-	COG0071O	molecular chaperone (small heat shock protein)
+1823778..1825907	+	709	118577019	-	CENSYa_1848	-	COG0464O	AAA ATPase
+1825900..1827225	-	441	118577020	-	CENSYa_1849	-	COG0112E	glycine/serine hydroxymethyltransferase
+1827224..1827580	+	118	118577021	-	CENSYa_1850	-	-	hypothetical protein
+1827824..1829524	+	566	118577022	-	CENSYa_1851	-	COG0459O	chaperonin GroEL (HSP60 family)
+1829653..1829907	+	84	118577023	-	CENSYa_1852	-	-	hypothetical protein
+1829910..1831358	-	482	118577024	-	CENSYa_1853	-	COG0174E	glutamine synthetase
+1831380..1831976	+	198	118577025	-	CENSYa_1854	-	COG1711S	hypothetical protein
+1831980..1832255	+	91	118577026	-	CENSYa_1855	-	-	hypothetical protein
+1832252..1832497	-	81	118577027	-	CENSYa_1856	-	COG3582R	nucleic acid binding protein containing the AN1-type Zn-finger
+1832578..1833309	+	243	118577028	-	CENSYa_1857	-	COG4221R	short-chain alcohol dehydrogenase
+1833306..1833506	-	66	118577029	-	CENSYa_1858	-	-	hypothetical protein
+1833639..1834202	-	187	118577030	-	CENSYa_1860	-	COG0122L	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase
+1834247..1834936	-	229	118577031	-	CENSYa_1861	-	COG2112T	Ser/Thr protein kinase
+1834968..1836296	-	442	118577032	-	CENSYa_1862	-	COG1746J	tRNA nucleotidyltransferase (CCA-adding enzyme)
+1836293..1836820	-	175	118577033	-	CENSYa_1863	-	COG1514J	2'-5' RNA ligase
+1836923..1837453	+	176	118577034	-	CENSYa_1864	-	COG0237H	dephospho-CoA kinase
+1837467..1837871	+	134	118577035	-	CENSYa_1865	-	COG1931S	hypothetical protein
+1837913..1838164	+	83	118577036	-	CENSYa_1866	-	-	hypothetical protein
+1838172..1839068	-	298	118577037	-	CENSYa_1867	-	COG1234R	metal-dependent hydrolase of the beta-lactamase superfamily III
+1839165..1840148	+	327	118577038	-	CENSYa_1868	-	COG0667C	oxidoreductase
+1840087..1840938	-	283	118577039	-	CENSYa_1869	-	COG0462FE	phosphoribosylpyrophosphate synthetase
+1841072..1842844	-	590	118577040	-	CENSYa_1870	-	COG3264M	small-conductance mechanosensitive channel
+1843004..1844374	+	456	118577041	-	CENSYa_1871	-	COG1509E	lysine 2,3-aminomutase
+1844447..1845874	+	475	118577042	-	CENSYa_1872	-	COG0174E	glutamine synthetase
+1845999..1846613	+	204	118577043	-	CENSYa_1873	-	-	hypothetical protein
+1846587..1848137	-	516	118577044	-	CENSYa_1874	-	-	secreted periplasmic Zn-dependent protease
+1848134..1849048	-	304	118577045	-	CENSYa_1875	-	-	hypothetical protein
+1849320..1850231	+	303	118577046	-	CENSYa_1876	-	COG1405K	transcription initiation factor TFIIB
+1850234..1851682	-	482	118577047	-	CENSYa_1877	-	COG3263P	NhaP-type Na /H and K /H antiporter
+1851707..1852723	-	338	118577048	-	CENSYa_1878	-	COG3513S	HNH endonuclease
+1852830..1853375	+	181	118577049	-	CENSYa_1879	-	COG3945S	hypothetical protein
+1853445..1853939	+	164	118577050	-	CENSYa_1880	-	COG0529P	adenylylsulfate kinase
+1853945..1854727	-	260	118577051	-	CENSYa_1881	-	COG1218P	3'-phosphoadenosine 5'-phosphosulfate (PAPS) 3'-phosphatase
+1854724..1855053	-	109	118577052	-	CENSYa_1882	-	-	hypothetical protein
+1855370..1855804	-	144	118577053	-	CENSYa_1883	-	-	hypothetical protein
+1855826..1856737	-	303	118577054	-	CENSYa_1884	-	COG1405K	transcription initiation factor TFIIB
+1857324..1857911	+	195	118577055	-	CENSYa_1885	-	COG5491N	conserved protein implicated in secretion
+1858052..1858387	+	111	118577056	-	CENSYa_1886	-	COG3432K	hypothetical protein
+1858390..1859367	+	325	118577057	-	CENSYa_1887	-	COG2512S	uncharacterized membrane-associated protein
+1859364..1860314	+	316	118577058	-	CENSYa_1888	-	-	hypothetical protein
+1860426..1860575	-	49	118577059	-	CENSYa_1889	-	-	hypothetical protein
+1860825..1861511	-	228	118577060	-	CENSYa_1890	-	-	hypothetical protein
+1861583..1861777	+	64	118577061	-	CENSYa_1891	-	-	hypothetical protein
+1861823..1862539	+	238	118577062	-	CENSYa_1892	-	COG0602O	organic radical activating enzyme
+1862589..1863158	+	189	118577063	-	CENSYa_1893	-	COG0302H	GTP cyclohydrolase I
+1863183..1863527	+	114	118577064	-	CENSYa_1894	-	-	hypothetical protein
+1863524..1864195	-	223	118577065	-	CENSYa_1895	-	COG0603R	PP-loop superfamily ATPase
+1864192..1864965	-	257	118577066	-	CENSYa_1896	-	COG0083E	homoserine kinase
+1865115..1865855	-	246	118577067	-	CENSYa_1897	-	COG1100R	GTPase
+1865926..1866957	+	343	118577068	-	CENSYa_1898	-	COG0392S	hypothetical protein
+1866962..1867729	+	255	118577069	-	CENSYa_1899	-	COG0300R	short-chain alcohol dehydrogenase
+1867726..1867968	-	80	118577070	-	CENSYa_1900	-	-	hypothetical protein
+1868110..1869285	-	391	118577071	-	CENSYa_1901	-	-	hypothetical protein
+1869343..1870470	-	375	118577072	-	CENSYa_1902	-	COG0301H	thiamine biosynthesis protein
+1870540..1871325	+	261	118577073	-	CENSYa_1903	-	COG0175EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase
+1871322..1872461	+	379	118577074	-	CENSYa_1904	-	COG2046P	ATP sulfurylase (sulfate adenylyltransferase)
+1872493..1873206	+	237	118577075	-	CENSYa_1905	-	-	hypothetical protein
+1873004..1873837	-	277	118577076	-	CENSYa_1906	-	COG0177L	EndoIII-related endonuclease
+1873844..1875040	+	398	118577077	-	CENSYa_1907	-	COG1679S	hypothetical protein
+1875088..1875396	+	102	118577078	-	CENSYa_1908	-	COG1786S	hypothetical protein
+1875393..1876043	-	216	118577079	-	CENSYa_1909	-	-	hypothetical protein
+1876052..1877455	-	467	118577080	-	CENSYa_1910	-	COG0034F	glutamine phosphoribosylpyrophosphate amidotransferase
+1877493..1879634	-	713	118577081	-	CENSYa_1911	-	COG0046F	phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain
+1879631..1880305	-	224	118577082	-	CENSYa_1912	-	COG0047F	phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain
+1880399..1881082	+	227	118577083	-	CENSYa_1913	-	COG1573L	uracil-DNA glycosylase
+1881108..1882265	+	385	118577084	-	CENSYa_1914	-	COG0463M	dolichol-phosphate mannosyltransferase
+1882322..1882966	-	214	118577085	-	CENSYa_1915	-	COG5491N	conserved protein implicated in secretion
+1883031..1883933	-	300	118577086	-	CENSYa_1916	-	COG2875H	precorrin-4 C11-methylase
+1883935..1884660	-	241	118577087	-	CENSYa_1917	-	COG2243H	precorrin-2 C20-methylase
+1884678..1885274	-	198	118577088	-	CENSYa_1918	-	COG2242H	precorrin-6B methylase
+1885281..1885766	-	161	118577089	-	CENSYa_1919	-	-	hypothetical protein
+1885975..1887870	+	631	118577090	-	CENSYa_1920	-	COG1293K	RNA-binding protein
+1888070..1888516	+	148	118577091	-	CENSYa_1921	-	-	hypothetical protein
+1888617..1888754	+	45	118577092	-	CENSYa_1922	-	-	hypothetical protein
+1888900..1889499	+	199	118577093	-	CENSYa_1923	-	COG2078S	hypothetical protein
+1889509..1890846	-	445	118577094	-	CENSYa_1924	-	COG0423J	glycyl-tRNA synthetase (class II)
+1890979..1891821	-	280	118577095	-	CENSYa_1925	-	COG0648L	endonuclease IV
+1891958..1892971	+	337	118577096	-	CENSYa_1926	-	COG2219L	eukaryotic-type DNA primase, large subunit
+1892964..1894082	+	372	118577097	-	CENSYa_1927	-	COG1467L	eukaryotic-type DNA primase, catalytic (small) subunit
+1894254..1897037	+	927	118577098	-	CENSYa_1928	-	COG1615S	hypothetical protein
+1897039..1897578	+	179	118577099	-	CENSYa_1929	-	COG0518F	GMP synthase, glutamine amidotransferase domain
+1897613..1898572	+	319	118577100	-	CENSYa_1930	-	COG2274V	TPR repeat protein
+1898697..1898876	+	59	118577101	-	CENSYa_1932	-	-	hypothetical protein
+1898951..1899070	+	39	118577102	-	CENSYa_1933	-	-	hypothetical protein
+1899102..1899503	+	133	118577103	-	CENSYa_1934	-	COG2125J	ribosomal protein S6E (S10)
+1899621..1900799	+	392	118577104	-	CENSYa_1935	-	COG5257J	translation initiation factor 2, gamma subunit (GTPase)
+1900831..1901166	+	111	118577105	-	CENSYa_1936	-	COG1412R	hypothetical protein
+1901192..1901644	+	150	118577106	-	CENSYa_1937	-	COG1881R	phospholipid-binding protein
+1901651..1902466	-	271	118577107	-	CENSYa_1938	-	-	hypothetical protein
+1902465..1904675	+	736	118577108	-	CENSYa_1939	-	COG1287R	uncharacterized membrane protein required for N-linked glycosylation
+1904838..1905773	+	311	118577109	-	CENSYa_1940	-	COG1903H	cobalt-precorrin-6A synthase
+1905805..1906848	+	347	118577110	-	CENSYa_1941	-	COG2073H	precorrin-3B C17-methyltransferase
+1906845..1907600	+	251	118577111	-	CENSYa_1942	-	COG2138S	sirohydrochlorin cobaltochelatase
+1907632..1908222	+	196	118577112	-	CENSYa_1943	-	COG2082H	precorrin isomerase
+1908224..1909495	-	423	118577113	-	CENSYa_1944	-	COG1797H	cobyrinic acid a,c-diamide synthase
+1909761..1915583	+	1940	118577114	-	CENSYa_1945	-	-	hypothetical protein
+1915835..1922194	+	2119	118577115	-	CENSYa_1946	-	-	hypothetical protein
+1922333..1922863	+	176	118577116	-	CENSYa_1947	-	COG2109H	ATP corrinoid adenosyltransferase
+1922910..1923689	+	259	118577117	-	CENSYa_1948	-	COG1093J	translation initiation factor 2, alpha subunit
+1923956..1924705	+	249	118577118	-	CENSYa_1949	-	COG0702MG	nucleoside-diphosphate-sugar epimerase
+1924679..1925845	-	388	118577119	-	CENSYa_1950	-	COG0192H	S-adenosylmethionine synthetase
+1925860..1926180	-	106	118577120	-	CENSYa_1951	-	COG1958K	small nuclear ribonucleoprotein
+1926247..1926903	+	218	118577121	-	CENSYa_1952	-	COG0468L	RecA/RadA recombinase related protein
+1927046..1929784	+	912	118577122	-	CENSYa_1953	-	COG1201R	Lhr-like helicase
+1929781..1931187	-	468	118577123	-	CENSYa_1954	-	COG1599L	single-stranded DNA-binding replication protein A, large (70 kD) subunit
+1931295..1932236	+	313	118577124	-	CENSYa_1955	-	COG1131V	multidrug ABC transporter ATPase component
+1932292..1932981	+	229	118577125	-	CENSYa_1956	-	COG1682GM	multidrug ABC transporter permease component
+1933158..1934201	-	347	118577126	-	CENSYa_1958	-	COG1817S	hypothetical protein
+1934200..1935390	+	396	118577127	-	CENSYa_1959	-	-	hypothetical protein
+1935423..1935986	+	187	118577128	-	CENSYa_1960	-	COG0576O	molecular chaperone GrpE
+1935989..1937959	+	656	118577129	-	CENSYa_1961	-	COG0443O	molecular chaperone
+1937993..1939048	+	351	118577130	-	CENSYa_1962	-	COG0484O	molecular chaperone DnaJ
+1939054..1939212	-	52	118577131	-	CENSYa_1963	-	-	hypothetical protein
+1939434..1940822	+	462	118577132	-	CENSYa_1965	-	COG4826O	serine protease inhibitor
+1940891..1941151	+	86	118577133	-	CENSYa_1966	-	-	hypothetical protein
+1941188..1943074	-	628	118577134	-	CENSYa_1967	-	COG2511J	archaeal Glu-tRNAGln amidotransferase subunit E
+1943097..1944275	-	392	118577135	-	CENSYa_1968	-	COG0252EJ	archaeal Glu-tRNAGln amidotransferase subunit D/asparaginase
+1944442..1946628	-	728	118577136	-	CENSYa_1969	-	COG0464O	AAA ATPase
+1946846..1947577	+	243	118577137	-	CENSYa_1970	-	COG0090J	ribosomal protein L2
+1947720..1948343	+	207	118577138	-	CENSYa_1971	-	COG2151R	metal-sulfur cluster biosynthetic enzyme
+1948340..1949260	-	306	118577139	-	CENSYa_1972	-	COG1028IQR	short-chain alcohol dehydrogenase
+1949468..1950619	+	383	118577140	-	CENSYa_1974	-	COG0436E	aspartate/tyrosine/aromatic aminotransferase
+1950616..1950939	-	107	118577141	-	CENSYa_1975	-	-	hypothetical protein
+1951001..1951237	-	78	118577142	-	CENSYa_1976	-	-	hypothetical protein
+1951240..1951860	-	206	118577143	-	CENSYa_1977	-	COG2085R	dinucleotide-binding enzyme
+1951880..1952566	+	228	118577144	-	CENSYa_1978	-	COG0406G	fructose-2,6-bisphosphatase
+1952711..1952971	+	86	118577145	-	CENSYa_1979	-	-	heme/copper-type cytochrome/quinol oxidase, subunit
+1952975..1953406	+	143	118577146	-	CENSYa_1980	-	COG1622C	heme/copper-type cytochrome/quinol oxidase, subunit 2
+1953456..1954982	+	508	118577147	-	CENSYa_1981	-	COG0843C	heme/copper-type cytochrome/quinol oxidase, subunit 1
+1954992..1955579	+	195	118577148	-	CENSYa_1982	-	COG3794C	hypothetical protein
+1955641..1956033	+	130	118577149	-	CENSYa_1983	-	COG1612O	uncharacterized protein required for cytochrome oxidase assembly
+1956065..1956634	-	189	118577150	-	CENSYa_1984	-	-	hypothetical protein
+1956860..1957351	+	163	118577151	-	CENSYa_1985	-	COG5637S	hypothetical protein
+1957626..1958033	-	135	118577152	-	CENSYa_1987	-	COG3118O	thiol-disulfide isomerase
+1958075..1958494	-	139	118577153	-	CENSYa_1988	-	COG1371S	hypothetical protein
+1958597..1959295	+	232	118577154	-	CENSYa_1989	-	COG5271R	AAA ATPase
+1959314..1959685	-	123	118577155	-	CENSYa_1990	-	-	hypothetical protein
+1959891..1960823	-	310	118577156	-	CENSYa_1991	-	COG0109O	polyprenyltransferase
+1960834..1961292	-	152	118577157	-	CENSYa_1992	-	COG1522K	transcriptional regulator
+1961358..1962437	-	359	118577158	-	CENSYa_1993	-	COG0136E	aspartate-semialdehyde dehydrogenase
+1962436..1963593	+	385	118577159	-	CENSYa_1994	-	COG0079E	threonine-phosphate decarboxylase
+1963590..1964420	+	276	118577160	-	CENSYa_1995	-	COG1492H	cobyric acid synthase
+1964417..1965379	+	320	118577161	-	CENSYa_1996	-	COG1270H	cobalamin biosynthesis protein
+1965441..1966100	+	219	118577162	-	CENSYa_1997	-	COG0368H	cobalamin-5-phosphate synthase
+1966100..1966696	+	198	118577163	-	CENSYa_1998	-	COG2266H	4-diphosphocytidyl-2C-methyl-D-erythritol synthase
+1966668..1966949	-	93	118577164	-	CENSYa_1999	-	COG1631J	ribosomal protein L44E
+1967039..1968868	+	609	118577165	-	CENSYa_2000	-	COG1001F	adenine deaminase
+1968870..1970474	+	534	118577166	-	CENSYa_2001	-	COG0459O	chaperonin GroEL (HSP60 family)
+1970486..1971334	+	282	118577167	-	CENSYa_2002	-	COG1940KG	ROK-family glucokinase
+1971335..1972858	-	507	118577168	-	CENSYa_2003	-	COG0519F	GMP synthase, PP-ATPase domain/subunit
+1972862..1973485	-	207	118577169	-	CENSYa_2004	-	-	hypothetical protein
+1973526..1974011	-	161	118577170	-	CENSYa_2005	-	-	hypothetical protein
+1974097..1974816	-	239	118577171	-	CENSYa_2006	-	COG1634R	uncharacterized Rossmann fold enzyme
+1974898..1975725	+	275	118577172	-	CENSYa_2007	-	COG0294H	dihydropteroate synthase
+1975735..1977159	+	474	118577173	-	CENSYa_2008	-	COG0516F	IMP dehydrogenase/GMP reductase
+1977209..1977934	+	241	118577174	-	CENSYa_2009	-	COG1848R	hypothetical protein
+1977993..1978679	+	228	118577175	-	CENSYa_2010	-	-	hypothetical protein
+1978698..1978949	+	83	118577176	-	CENSYa_2011	-	-	hypothetical protein
+1978994..1979407	+	137	118577177	-	CENSYa_2012	-	-	hypothetical protein
+1979404..1980111	-	235	118577178	-	CENSYa_2013	-	COG0077E	chorismate mutase/prephenate dehydratase
+1980218..1981306	-	362	118577179	-	CENSYa_2014	-	COG1096J	hypothetical protein
+1981705..1981899	+	64	118577180	-	CENSYa_2015	-	-	hypothetical protein
+1982014..1983342	+	442	118577181	-	CENSYa_2016	-	COG0604CR	Zn-dependent oxidoreductase
+1983345..1983965	+	206	118577182	-	CENSYa_2017	-	COG0457R	TPR repeat protein
+1983977..1984972	-	331	118577183	-	CENSYa_2018	-	COG0411E	diphthamide synthase subunit
+1985020..1985964	+	314	118577184	-	CENSYa_2019	-	COG2340S	uncharacterized protein with SCP/PR1 domains
+1986019..1986807	+	262	118577185	-	CENSYa_2020	-	COG0338L	site-specific DNA methylase
+1986834..1987454	-	206	118577186	-	CENSYa_2021	-	-	hypothetical protein
+1987506..1987763	-	85	118577187	-	CENSYa_2022	-	-	hypothetical protein
+1987870..1989396	+	508	118577188	-	CENSYa_2023	-	COG1571R	DNA-binding protein containing a Zn-ribbon domain
+1989566..1990738	+	390	118577189	-	CENSYa_2025	-	COG2133G	glucose/sorbosone dehydrogenase
+1990738..1991985	+	415	118577190	-	CENSYa_2026	-	COG1257I	hydroxymethylglutaryl-CoA reductase
+1992080..1992655	+	191	118577191	-	CENSYa_2027	-	COG3465S	hypothetical protein
+1992889..1993470	+	193	118577192	-	CENSYa_2028	-	-	hypothetical protein
+1993612..1994238	+	208	118577193	-	CENSYa_2029	-	-	hypothetical protein
+1994263..1994919	+	218	118577194	-	CENSYa_2030	-	-	hypothetical protein
+1995184..1995735	+	183	118577195	-	CENSYa_2031	-	COG3465S	hypothetical protein
+1995917..1996540	+	207	118577196	-	CENSYa_2032	-	-	hypothetical protein
+1996765..1997334	+	189	118577197	-	CENSYa_2033	-	-	hypothetical protein
+1997658..1997987	+	109	118577198	-	CENSYa_2034	-	-	hypothetical protein
+1998044..1999018	+	324	118577199	-	CENSYa_2035	-	COG0040E	ATP phosphoribosyltransferase
+1999015..2000283	+	422	118577200	-	CENSYa_2036	-	COG0141E	histidinol dehydrogenase
+2000283..2001347	+	354	118577201	-	CENSYa_2037	-	COG0079E	histidinol-phosphate aminotransferase
+2001344..2002309	+	321	118577202	-	CENSYa_2038	-	COG0546R	phosphatase
+2002309..2002890	+	193	118577203	-	CENSYa_2039	-	COG0131E	imidazoleglycerol-phosphate dehydratase
+2002890..2003495	+	201	118577204	-	CENSYa_2040	-	COG0118E	glutamine amidotransferase
+2003492..2004196	+	234	118577205	-	CENSYa_2041	-	COG0106E	phosphoribosyl formimino-5-aminoimidazole isomerase
+2004223..2004984	+	253	118577206	-	CENSYa_2042	-	COG0107E	imidazoleglycerol-phosphate synthase, cyclase subunit
+2005008..2005334	+	108	118577207	-	CENSYa_2043	-	COG0139E	phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphohydrolase
+2005331..2005741	-	136	118577208	-	CENSYa_2044	-	-	hypothetical protein
+2005985..2007223	+	412	118577209	-	CENSYa_2045	-	COG0498E	threonine synthase
+2007223..2008599	+	458	118577210	-	CENSYa_2046	-	COG0476H	4-methyl-5-(beta-hydroxyethyl)thiazole monophosphate synthesis protein
+2008883..2011555	-	890	118577211	-	CENSYa_2047	-	-	hypothetical protein
+2011552..2012247	-	231	118577212	-	CENSYa_2048	-	-	hypothetical protein
+2012343..2012567	-	74	118577213	-	CENSYa_2049	-	-	hypothetical protein
+2012607..2012888	+	93	118577214	-	CENSYa_2050	-	-	hypothetical protein
+2013120..2013734	+	204	118577215	-	CENSYa_2051	-	-	hypothetical protein
+2013953..2014357	+	134	118577216	-	CENSYa_2052	-	-	hypothetical protein
+2014409..2016274	+	621	118577217	-	CENSYa_2053	-	-	hypothetical protein
+2016351..2017487	+	378	118577218	-	CENSYa_2054	-	-	hypothetical protein
+2017581..2018819	+	412	118577219	-	CENSYa_2055	-	-	hypothetical protein
+2018918..2021014	+	698	118577220	-	CENSYa_2056	-	-	hypothetical protein
+2021083..2022129	+	348	118577221	-	CENSYa_2057	-	-	hypothetical protein
+2022318..2023262	-	314	118577222	-	CENSYa_2058	-	-	hypothetical protein
+2023388..2028928	+	1846	118577223	-	CENSYa_2059	-	-	hypothetical protein
+2030326..2034024	-	1232	118577224	-	CENSYa_2060	-	-	hypothetical protein
+2034098..2035519	-	473	118577225	-	CENSYa_2061	-	-	hypothetical protein
+2036124..2036567	-	147	118577226	-	CENSYa_2062	-	-	hypothetical protein
+2036668..2038896	-	742	118577227	-	CENSYa_2063	-	COG1196D	hypothetical protein
+2039034..2040605	-	523	118577228	-	CENSYa_2064	-	-	hypothetical protein
+2040933..2041727	-	264	118577229	-	CENSYa_2065	-	-	hypothetical protein
+2041909..2045052	+	1047	118577230	-	CENSYa_2066	-	COG1404O	surface layer-associated STABLE protease

@@ -1,0 +1,127 @@
+Escherichia coli SE11 plasmid pSE11-1, complete sequence - 1..100021
+124 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+46..1077	+	343	209921953	-	ECSE_P1-0001	-	-	replication initiation protein
+1981..2265	+	94	209921954	-	ECSE_P1-0002	-	COG3905K	hypothetical protein
+2265..2540	+	91	209921955	-	ECSE_P1-0003	-	COG3668R	hypothetical protein
+2646..2933	+	95	209921956	-	ECSE_P1-0004	-	-	hypothetical protein
+3124..3390	-	88	209921957	-	ECSE_P1-0005	-	-	hypothetical protein
+3390..3884	-	164	209921958	-	ECSE_P1-0006	-	-	hypothetical protein
+3940..4317	-	125	209921959	-	ECSE_P1-0007	-	COG3109T	truncated YafB protein
+4357..5079	-	240	209921960	-	ECSE_P1-0008	-	COG3316L	transposase
+5108..5275	-	55	209921961	-	ECSE_P1-0009	-	-	hypothetical protein
+6503..7162	-	219	209921962	-	ECSE_P1-0010	-	COG1309K	tetracycline repressor protein TetR
+7255..8445	+	396	209921963	-	ECSE_P1-0011	-	COG2814G	tetracycline resistance structural protein TetA
+8501..8629	-	42	209921964	-	ECSE_P1-0012	-	-	hypothetical protein
+8692..8883	+	63	209921965	-	ECSE_P1-0013	-	-	hypothetical protein
+8895..9173	+	92	209921966	-	ECSE_P1-0014	-	-	putative resolvase
+9403..9525	-	40	209921967	-	ECSE_P1-0015	-	-	hypothetical protein
+9531..10253	-	240	209921968	-	ECSE_P1-0016	-	COG3316L	transposase
+10272..10544	-	90	209921969	-	ECSE_P1-0017	-	-	truncated YafB protein
+10898..12244	+	448	209921970	-	ECSE_P1-0018	-	-	hypothetical protein
+12522..14402	+	626	209921971	-	ECSE_P1-0019	-	COG1196D	colicin protein
+14424..14759	-	111	209921972	-	ECSE_P1-0020	-	-	colicin immunity protein
+14927..15235	+	102	209921973	-	ECSE_P1-0021	-	-	hypothetical protein
+15255..15845	-	196	209921974	-	ECSE_P1-0022	-	-	hypothetical protein
+15845..16108	-	87	209921975	-	ECSE_P1-0023	-	-	hypothetical protein
+16211..16342	+	43	209921976	-	ECSE_P1-0024	-	-	hypothetical protein
+16382..16873	+	163	209921977	-	ECSE_P1-0025	-	-	hypothetical protein
+16885..17643	+	252	209921978	-	ECSE_P1-0026	-	-	hypothetical protein
+17847..19457	+	536	209921979	-	ECSE_P1-0027	-	-	hypothetical protein
+19492..20616	+	374	209921980	-	ECSE_P1-0028	-	-	hypothetical protein
+20616..20906	+	96	209921981	-	ECSE_P1-0029	-	-	hypothetical protein
+21422..22480	+	352	209921982	-	ECSE_P1-0030	-	-	hypothetical protein
+22654..22998	-	114	209921983	-	ECSE_P1-0031	-	-	abortive infection protein
+23521..23730	+	69	209921984	-	ECSE_P1-0032	-	-	hypothetical protein
+23800..24774	-	324	209921985	-	ECSE_P1-0033	-	-	hypothetical protein
+25243..25593	+	116	209921986	-	ECSE_P1-0034	-	-	hypothetical protein
+25652..26473	+	273	209921987	-	ECSE_P1-0035	-	-	hypothetical protein
+26473..27252	+	259	209921988	-	ECSE_P1-0036	-	COG4974L	resolvase
+27432..28076	+	214	209921989	-	ECSE_P1-0037	-	COG1192D	hypothetical protein
+28163..28471	+	102	209921990	-	ECSE_P1-0038	-	-	hypothetical protein
+28885..29865	+	326	209921991	-	ECSE_P1-0039	-	-	ParA protein
+29858..30274	+	138	209921992	-	ECSE_P1-0040	-	-	ParB protein
+30276..31550	-	424	209921993	umuC	ECSE_P1-0041	-	COG0389L	DNA polymerase V subunit UmuC
+31550..31987	-	145	209921994	-	ECSE_P1-0042	-	COG1974KT	ImpA protein
+31984..32232	-	82	209921995	-	ECSE_P1-0043	-	-	ImpC protein
+32343..32612	+	89	209921996	-	ECSE_P1-0044	-	-	hypothetical protein
+32581..33552	+	323	209921997	-	ECSE_P1-0045	-	-	hypothetical protein
+33549..33860	+	103	209921998	-	ECSE_P1-0046	-	-	hypothetical protein
+33937..34620	+	227	209921999	-	ECSE_P1-0047	-	COG0863L	putative methylase
+34621..34842	+	73	209922000	-	ECSE_P1-0048	-	-	hypothetical protein
+34856..35290	+	144	209922001	-	ECSE_P1-0049	-	-	hypothetical protein
+35336..36112	+	258	209922002	-	ECSE_P1-0050	-	-	hypothetical protein
+35985..36563	+	192	209922003	-	ECSE_P1-0051	-	-	hypothetical protein
+36529..36954	+	141	209922004	-	ECSE_P1-0052	-	-	hypothetical protein
+37001..37423	+	140	209922005	-	ECSE_P1-0053	-	-	hypothetical protein
+37420..37611	+	63	209922006	-	ECSE_P1-0054	-	-	hypothetical protein
+37683..37997	+	104	209922007	-	ECSE_P1-0055	-	-	hypothetical protein
+38178..38609	+	143	209922008	-	ECSE_P1-0056	-	-	single-stranded DNA binding protein Ssb
+38666..38899	+	77	209922009	-	ECSE_P1-0057	-	-	hypothetical protein
+38961..40919	+	652	209922010	-	ECSE_P1-0058	-	COG1475K	hypothetical protein
+40974..41408	+	144	209922011	psiB	ECSE_P1-0059	-	-	plasmid SOS inhibition protein B
+41405..42124	+	239	209922012	-	ECSE_P1-0060	-	-	plasmid SOS inhibition protein A
+42121..42717	+	198	209922013	-	ECSE_P1-0061	-	-	hypothetical protein
+43180..43680	+	166	209922014	-	ECSE_P1-0062	-	COG4734R	anti-restriction protein
+43820..44119	-	99	209922015	-	ECSE_P1-0063	-	-	hypothetical protein
+44101..44304	-	67	209922016	-	ECSE_P1-0064	-	-	hypothetical protein
+44409..44843	+	144	209922017	-	ECSE_P1-0065	-	-	hypothetical protein
+44937..45203	+	88	209922018	-	ECSE_P1-0066	-	-	hypothetical protein
+45268..46182	+	304	209922019	-	ECSE_P1-0067	-	COG5464S	hypothetical protein
+46245..46403	+	52	209922020	-	ECSE_P1-0068	-	-	hypothetical protein
+46434..46685	-	83	209922021	-	ECSE_P1-0069	-	-	hypothetical protein
+46744..47256	-	170	209922022	-	ECSE_P1-0070	-	-	hypothetical protein
+47258..48109	+	283	209922023	-	ECSE_P1-0071	-	-	hypothetical protein
+48195..48530	-	111	209922024	-	ECSE_P1-0072	-	-	hypothetical protein
+48763..49095	+	110	209922025	-	ECSE_P1-0073	-	-	relaxosome component NikA
+49106..51805	+	899	209922026	-	ECSE_P1-0074	-	-	relaxase NikB
+51842..54133	-	763	209922027	-	ECSE_P1-0075	-	-	TrbC protein
+54126..55196	-	356	209922028	-	ECSE_P1-0076	-	-	TrbB protein
+55215..56423	-	402	209922029	-	ECSE_P1-0077	-	-	TrbA protein
+56576..56860	+	94	209922030	-	ECSE_P1-0078	-	-	plasmid stability protein
+56939..57190	-	83	209922031	-	ECSE_P1-0079	-	-	hypothetical protein
+57656..57781	+	41	209922032	-	ECSE_P1-0080	-	-	hypothetical protein
+57846..58088	-	80	209922033	-	ECSE_P1-0081	-	-	hypothetical protein
+58207..58416	-	69	209922034	-	ECSE_P1-0082	-	-	putative regulator protein
+58514..59176	-	220	209922035	-	ECSE_P1-0083	-	-	surface exclusion protein ExcA
+59247..61484	-	745	209922036	-	ECSE_P1-0084	-	-	TraY protein
+61512..62096	-	194	209922037	-	ECSE_P1-0085	-	-	TraX protein
+62125..63327	-	400	209922038	-	ECSE_P1-0086	-	-	TraW protein
+63294..63908	-	204	209922039	-	ECSE_P1-0087	-	-	TraV protein
+63908..66952	-	1014	209922040	-	ECSE_P1-0088	-	-	TraU protein
+67042..67842	-	266	209922041	-	ECSE_P1-0089	-	-	TraT protein
+67826..68014	-	62	209922042	-	ECSE_P1-0090	-	-	TraS protein
+68078..68482	-	134	209922043	-	ECSE_P1-0091	-	-	TraR protein
+68532..69059	-	175	209922044	-	ECSE_P1-0092	-	-	TraQ protein
+69059..69763	-	234	209922045	-	ECSE_P1-0093	-	-	TraP protein
+69763..71052	-	429	209922046	-	ECSE_P1-0094	-	-	TraO protein
+71055..72038	-	327	209922047	-	ECSE_P1-0095	-	-	TraN protein
+72049..72741	-	230	209922048	-	ECSE_P1-0096	-	-	TraM protein
+72738..73085	-	115	209922049	-	ECSE_P1-0097	-	-	TraL protein
+73103..76870	-	1255	209922050	-	ECSE_P1-0098	-	COG4643S	DNA primase SogL
+76960..77511	-	183	209922051	-	ECSE_P1-0099	-	COG1502I	endonuclease
+77526..77816	-	96	209922052	-	ECSE_P1-0100	-	-	TraK protein
+77813..78961	-	382	209922053	-	ECSE_P1-0101	-	COG2805NU	TraJ protein
+78958..79776	-	272	209922054	-	ECSE_P1-0102	-	-	TraI protein
+79773..80231	-	152	209922055	-	ECSE_P1-0103	-	-	TraH protein
+80626..81210	-	194	209922056	-	ECSE_P1-0104	-	COG0406G	TraG protein
+81270..82472	-	400	209922057	-	ECSE_P1-0105	-	-	TraF protein
+82709..83383	-	224	209922058	-	ECSE_P1-0106	-	-	TraE protein
+83773..85065	-	430	209922059	-	ECSE_P1-0107	-	-	shufflon protein
+85065..85721	-	218	209922060	-	ECSE_P1-0108	-	-	prepilin peptidase PilU
+85706..86266	-	186	209922061	-	ECSE_P1-0109	-	COG0741M	PilT protein
+86276..86890	-	204	209922062	-	ECSE_P1-0110	-	-	type IV prepilin PilS
+86908..88005	-	365	209922063	-	ECSE_P1-0111	-	COG1459NU	PilR protein
+88018..89571	-	517	209922064	-	ECSE_P1-0112	-	COG2804NU	ATP-binding protein PilQ
+89582..90034	-	150	209922065	-	ECSE_P1-0113	-	-	pilus assembly protein PilP
+90021..91316	-	431	209922066	-	ECSE_P1-0114	-	-	PilO protein
+91309..92991	-	560	209922067	-	ECSE_P1-0115	-	COG1450NU	lipoprotein PilN
+93005..93442	-	145	209922068	-	ECSE_P1-0116	-	-	PilM protein
+93442..94509	-	355	209922069	-	ECSE_P1-0117	-	-	lipoprotein PilL
+94543..95133	-	196	209922070	-	ECSE_P1-0118	-	-	PilK protein
+95183..95497	-	104	209922071	-	ECSE_P1-0119	-	-	PilJ protein
+95572..95826	-	84	209922072	-	ECSE_P1-0120	-	-	PilI protein
+95990..96541	-	183	209922073	-	ECSE_P1-0121	-	-	TraD protein
+96714..97397	-	227	209922074	-	ECSE_P1-0122	-	-	TraC protein
+97651..98184	-	177	209922075	-	ECSE_P1-0123	-	-	TraB protein
+98626..98913	-	95	209922076	-	ECSE_P1-0124	-	-	TraA protein

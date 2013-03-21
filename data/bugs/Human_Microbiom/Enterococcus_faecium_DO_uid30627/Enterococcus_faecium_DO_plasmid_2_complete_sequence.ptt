@@ -1,0 +1,88 @@
+Enterococcus faecium DO plasmid 2, complete sequence - 1..66247
+85 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..128	-	41	389870172	-	HMPREF0351_12747	-	-	streptothricin acetyltransferase
+125..343	-	72	389870173	aadE	HMPREF0351_12748	-	-	aminoglycoside 6-adenylyltransferase
+515..1201	-	228	389870174	-	HMPREF0351_12749	-	-	IS431mec transposase
+1272..1469	+	65	389870175	-	HMPREF0351_12750	-	-	hypothetical protein
+1497..2036	+	179	389870176	-	HMPREF0351_12751	-	-	plasmid replication protein
+2052..2222	+	56	389870177	-	HMPREF0351_12752	-	-	hypothetical protein
+2536..2997	-	153	389870178	-	HMPREF0351_12753	-	-	helix-turn-helix domain-containing protein
+3130..3504	+	124	389870179	-	HMPREF0351_12754	-	-	lactococcin 972 family bacteriocin
+3558..5684	+	708	389870180	-	HMPREF0351_12755	-	-	bacteriocin-associated integral membrane protein
+5681..6301	+	206	389870181	-	HMPREF0351_12756	-	-	ABC superfamily ATP binding cassette transporter, ABC protein
+6415..6552	+	45	389870182	-	HMPREF0351_12757	-	-	hypothetical protein
+6512..6673	+	53	389870183	-	HMPREF0351_12758	-	-	hypothetical protein
+6895..7374	+	159	389870184	mobC	HMPREF0351_12759	-	-	mobilization protein C
+7356..8270	+	304	389870185	mobA	HMPREF0351_12760	-	-	mobilization protein A
+8218..8508	+	96	389870186	-	HMPREF0351_12761	-	-	hypothetical protein
+8510..9199	+	229	389870187	-	HMPREF0351_12762	-	-	hypothetical protein
+9679..10323	+	214	389870188	-	HMPREF0351_12763	-	-	IS1216 family transposase
+10385..10714	-	109	389870189	-	HMPREF0351_12764	-	-	IS3/IS911 family transposase
+10828..11115	-	95	389870190	prgN2	HMPREF0351_12765	-	-	replication control protein PrgN
+11251..12750	-	499	389870191	repE	HMPREF0351_12766	-	-	plasmid replication protein RepE
+13342..13794	-	150	389870192	-	HMPREF0351_12767	-	-	hypothetical protein
+14177..15427	+	416	389870193	-	HMPREF0351_12768	-	-	IS116/IS110/IS902 family transposase
+15568..16380	-	270	389870194	repB	HMPREF0351_12769	-	-	replication-associated protein RepB
+16581..17759	-	392	389870195	-	HMPREF0351_12770	-	-	transposase
+18308..19687	+	459	389870196	-	HMPREF0351_12771	-	-	DNA-directed DNA polymerase
+19671..20006	+	111	389870197	-	HMPREF0351_12772	-	-	hypothetical protein
+20137..20301	-	54	389870198	-	HMPREF0351_12773	-	-	hypothetical protein
+20256..20861	+	201	389870199	-	HMPREF0351_12774	-	-	hypothetical protein
+20892..22319	-	475	389870200	-	HMPREF0351_12775	-	-	IS4 family transposase
+22422..22643	-	73	389870201	-	HMPREF0351_12776	-	-	hypothetical protein
+22676..22876	-	66	389870202	-	HMPREF0351_12777	-	-	hypothetical protein
+23012..23647	+	211	389870203	-	HMPREF0351_12778	-	-	resolvase
+24072..25061	+	329	389870204	-	HMPREF0351_12779	-	-	integrase
+25302..25715	-	137	389870205	doc	HMPREF0351_12780	-	-	death-on-curing protein
+25712..25987	-	91	389870206	-	HMPREF0351_12781	-	-	addiction module antidote protein
+26140..26766	-	208	389870207	-	HMPREF0351_12782	-	-	hypothetical protein
+27138..29150	-	670	389870208	bgaB	HMPREF0351_12783	-	-	beta-galactosidase
+29780..30841	-	353	389870209	agaS	HMPREF0351_12784	-	-	sugar isomerase
+31037..31771	-	244	389870210	-	HMPREF0351_12785	-	-	transcriptional regulator
+31785..32582	-	265	389870211	-	HMPREF0351_12786	-	-	fructoselysine kinase
+32605..33315	-	236	389870212	-	HMPREF0351_12787	-	-	GntR family transcriptional regulator
+33440..34795	-	451	389870213	-	HMPREF0351_12788	-	-	APC family fructoselysine transporter
+34841..35287	-	148	389870214	-	HMPREF0351_12789	-	-	hypothetical protein
+35256..35882	-	208	389870215	-	HMPREF0351_12790	-	-	metal-dependent hydrolase
+35864..36004	-	46	389870216	-	HMPREF0351_12791	-	-	hypothetical protein
+36188..37834	+	548	389870217	-	HMPREF0351_12792	-	-	metal-dependent hydrolase
+38067..38753	-	228	389870218	-	HMPREF0351_12793	-	-	IS256 family transposase
+38851..39537	-	228	389870219	-	HMPREF0351_12794	-	-	IS431mec transposase
+39612..39968	-	118	389870220	-	HMPREF0351_12795	-	-	hypothetical protein
+39992..40564	-	190	389870221	-	HMPREF0351_12796	-	-	transcriptional regulator
+40840..41634	-	264	389870222	aphA	HMPREF0351_12797	-	-	kanamycin kinase
+41727..42269	-	180	389870223	-	HMPREF0351_12798	-	-	streptothricin acetyltransferase
+42266..43174	-	302	389870224	aadE2	HMPREF0351_12799	-	-	streptomycin aminoglycoside 6-adenyltransferase
+43207..43941	-	244	389870225	-	HMPREF0351_12800	-	-	SAM-dependent methyltransferase
+43922..44791	-	289	389870226	-	HMPREF0351_12801	-	-	DNA polymerase domain-containing protein
+44894..45139	-	81	389870227	-	HMPREF0351_12802	-	-	hypothetical protein
+45166..45840	-	224	389870228	-	HMPREF0351_12803	-	-	transposase
+46433..47170	-	245	389870229	ermA	HMPREF0351_12804	-	-	rRNA (adenine-N(6)-)-methyltransferase
+47399..47668	-	89	389870230	-	HMPREF0351_12805	-	-	omega transcriptional repressor
+47802..48023	-	73	389870231	-	HMPREF0351_12806	-	-	hypothetical protein
+48065..48745	+	226	389870232	-	HMPREF0351_12807	-	-	IS431mec transposase
+48787..49179	+	130	389870233	repC	HMPREF0351_12808	-	-	replication initiation factor
+49312..50499	+	395	389870234	-	HMPREF0351_12809	-	-	transposase
+50789..51436	+	215	389870235	cat	HMPREF0351_12810	-	-	chloramphenicol O-acetyltransferase
+51751..52149	+	132	389870236	mobC2	HMPREF0351_12811	-	-	mobilization protein MobC
+52131..52517	+	128	389870237	-	HMPREF0351_12812	-	-	relaxase/mobilization protein
+52571..53251	+	226	389870238	-	HMPREF0351_12813	-	-	IS431mec transposase
+53867..54907	-	346	389870239	repA	HMPREF0351_12814	-	-	replication initiator protein A
+55256..55582	-	108	389870240	-	HMPREF0351_12815	-	-	hypothetical protein
+55569..56357	-	262	389870241	soj2	HMPREF0351_12816	-	-	sporulation initiation inhibitor protein Soj
+56725..57015	-	96	389870242	prgN3	HMPREF0351_12817	-	-	replication control protein PrgN
+57151..57330	-	59	389870243	-	HMPREF0351_12818	-	-	hypothetical protein
+57327..57692	-	121	389870244	-	HMPREF0351_12819	-	-	hypothetical protein
+57670..58995	-	441	389870245	dinB2-2	HMPREF0351_12820	-	-	Y family DNA-directed DNA polymerase
+59445..60059	+	204	389870246	-	HMPREF0351_12821	-	-	resolvase
+60224..61228	-	334	389870247	-	HMPREF0351_12822	-	-	hypothetical protein
+61687..61944	-	85	389870248	-	HMPREF0351_12823	-	-	txe/YoeB family addiction module toxin
+61937..62206	-	89	389870249	-	HMPREF0351_12824	-	-	prevent-host-death family antitoxin
+62337..62516	-	59	389870250	-	HMPREF0351_12825	-	-	hypothetical protein
+62532..62732	-	66	389870251	ubiA	HMPREF0351_12826	-	-	4-hydroxybenzoate octaprenyltransferase
+62897..63592	-	231	389870252	-	HMPREF0351_12827	-	-	hypothetical protein
+63654..64334	+	226	389870253	-	HMPREF0351_12828	-	-	integrase
+64368..64670	-	100	389870254	-	HMPREF0351_12829	-	-	hypothetical protein
+64946..65740	-	264	389870255	aphA2	HMPREF0351_12830	-	-	3',5' aminoglycoside phosphotransferase, kanamycin kinase
+65833..65976	-	47	389870256	-	HMPREF0351_12831	-	-	streptothricin acetyltransferase

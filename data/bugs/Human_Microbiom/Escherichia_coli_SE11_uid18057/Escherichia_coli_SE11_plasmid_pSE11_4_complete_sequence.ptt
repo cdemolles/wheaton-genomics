@@ -1,0 +1,13 @@
+Escherichia coli SE11 plasmid pSE11-4, complete sequence - 1..6929
+10 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..309	+	102	209916807	-	ECSE_P4-0001	-	-	hypothetical protein
+488..1180	-	230	209916808	-	ECSE_P4-0002	-	-	hypothetical protein
+1294..1491	-	65	209916809	-	ECSE_P4-0003	-	-	hypothetical protein
+1616..3169	-	517	209916810	-	ECSE_P4-0005	-	-	mobilization protein MobA
+1963..2481	-	172	209916811	-	ECSE_P4-0004	-	-	mobilization protein MobB
+3159..3482	-	107	209916812	-	ECSE_P4-0006	-	-	mobilization protein MobC
+3548..3739	+	63	209916813	-	ECSE_P4-0007	-	-	RNA I inhibition modulator protein Rom
+4040..4195	-	51	209916814	-	ECSE_P4-0008	-	-	hypothetical protein
+4749..5423	-	224	209916815	-	ECSE_P4-0009	-	-	hypothetical protein
+5771..6187	+	138	209916816	-	ECSE_P4-0010	-	COG2188K	hypothetical protein

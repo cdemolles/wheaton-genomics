@@ -1,0 +1,1320 @@
+Gardnerella vaginalis HMP9231 chromosome, complete genome - 1..1726519
+1317 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+120..1727	+	535	385800987	dnaA	HMPREF9231_0001	-	-	chromosomal replication initiator protein DnaA
+2153..3271	+	372	385800988	dnaN	HMPREF9231_0002	-	-	DNA polymerase III subunit beta
+4560..5051	+	163	385800989	-	HMPREF9231_0005	-	-	hypothetical protein
+5202..7277	+	691	385800990	gyrB_1	HMPREF9231_0006	-	-	DNA gyrase subunit B
+7347..9986	+	879	385800991	gyrA_1	HMPREF9231_0007	-	-	DNA gyrase subunit A
+9979..10470	+	163	385800992	-	HMPREF9231_0008	-	-	hypothetical protein
+10562..10969	-	135	385800993	mscL	HMPREF9231_0009	-	-	large conductance mechanosensitive channel protein
+10983..11663	-	226	385800994	-	HMPREF9231_0010	-	-	PAP2 family protein
+11865..12557	+	230	385800995	-	HMPREF9231_0011	-	-	hypothetical protein
+12591..13115	+	174	385800996	-	HMPREF9231_0012	-	-	FHA domain-containing protein
+13120..14799	+	559	385800997	-	HMPREF9231_0013	-	-	protein phosphatase 2C
+14796..16220	+	474	385800998	-	HMPREF9231_0014	-	-	FtsW/RodA/SpoVE family cell cycle protein
+16213..17679	+	488	385800999	-	HMPREF9231_0015	-	-	putative penicillin-binding protein A
+17676..18641	+	321	385801000	-	HMPREF9231_0016	-	-	kinase domain protein
+18638..20722	+	694	385801001	-	HMPREF9231_0017	-	-	putative serine/threonine-protein kinase PrkC
+20956..22071	-	371	385801002	-	HMPREF9231_0018	-	-	sortase family protein
+22081..22878	-	265	385801003	-	HMPREF9231_0019	-	-	hypothetical protein
+22955..23356	+	133	385801004	-	HMPREF9231_0020	-	-	putative septation inhibitor protein
+23420..24727	-	435	385801005	-	HMPREF9231_0021	-	-	hypothetical protein
+24941..25642	-	233	385801006	-	HMPREF9231_0022	-	-	peptidase, S54 family
+25813..26025	+	70	385801007	-	HMPREF9231_0023	-	-	hypothetical protein
+26224..28707	-	827	385801008	-	HMPREF9231_0024	-	-	phosphorylase, glycogen/starch/alpha-glucan family
+28973..29422	+	149	385801009	-	HMPREF9231_0025	-	-	hypothetical protein
+29471..29878	-	135	385801010	-	HMPREF9231_0026	-	-	hypothetical protein
+30035..31126	+	363	385801011	trpS	HMPREF9231_0027	-	-	tryptophan--tRNA ligase
+31253..33025	-	590	385801012	-	HMPREF9231_0028	-	-	hypothetical protein
+33219..35975	+	918	385801013	ppc	HMPREF9231_0029	-	-	phosphoenolpyruvate carboxylase
+36163..36822	+	219	385801014	cah	HMPREF9231_0030	-	-	carbonate dehydratase
+36816..37919	+	367	385801015	-	HMPREF9231_0031	-	-	putative permease
+37916..38746	+	276	385801016	-	HMPREF9231_0032	-	-	hypothetical protein
+38816..40117	+	433	385801017	-	HMPREF9231_0033	-	-	hypothetical protein
+40168..40647	+	159	385801018	-	HMPREF9231_0034	-	-	putative DNA protection during starvation protein
+40625..40741	-	38	385801019	-	HMPREF9231_0035	-	-	hypothetical protein
+41199..43595	+	798	385801020	-	HMPREF9231_0038	-	-	heavy metal translocating P-type ATPase
+43807..45306	+	499	385801021	-	HMPREF9231_0039	-	-	putative NADPH-ferredoxin reductase FprA
+45501..46556	+	351	385801022	-	HMPREF9231_0040	-	-	peptidase, M48 family
+47353..48102	+	249	385801023	-	HMPREF9231_0042	-	-	ABC transporter ATP-binding protein
+48092..49510	+	472	385801024	-	HMPREF9231_0043	-	-	hypothetical protein
+49503..49820	+	105	385801025	-	HMPREF9231_0044	-	-	hypothetical protein
+49871..49996	+	41	385801026	-	HMPREF9231_0045	-	-	hypothetical protein
+50057..50368	+	103	385801027	-	HMPREF9231_0046	-	-	hypothetical protein
+50778..51668	-	296	385801028	-	HMPREF9231_0047	-	-	Fic/DOC family protein
+52059..53315	+	418	385801029	-	HMPREF9231_0048	-	-	hypothetical protein
+53423..53551	+	42	385801030	-	HMPREF9231_0049	-	-	hypothetical protein
+53752..54408	+	218	385801031	-	HMPREF9231_0050	-	-	hypothetical protein
+55109..56299	-	396	385801032	-	HMPREF9231_0051	-	-	triacylglycerol lipase domain protein
+56882..57814	+	310	385801033	-	HMPREF9231_0052	-	-	hypothetical protein
+57858..58859	+	333	385801034	-	HMPREF9231_0053	-	-	ROK family protein
+58884..59552	+	222	385801035	-	HMPREF9231_0054	-	-	thiazole biosynthesis protein ThiG-like protein
+59842..61407	+	521	385801036	-	HMPREF9231_0055	-	-	ABC transporter substrate-binding protein
+61555..62511	+	318	385801037	-	HMPREF9231_0056	-	-	putative glutathione ABC transporter, permease protein GsiC
+62513..64537	+	674	385801038	-	HMPREF9231_0057	-	-	oligopeptide/dipeptide transporter, C-terminal domain protein
+64534..65394	+	286	385801039	appF	HMPREF9231_0058	-	-	oligopeptide ABC transporter, ATP-binding protein AppF
+65566..66525	+	319	385801040	-	HMPREF9231_0059	-	-	dihydrodipicolinate synthase
+66697..67509	+	270	385801041	nagB	HMPREF9231_0060	-	-	glucosamine-6-phosphate deaminase
+67585..68844	+	419	385801042	nagA	HMPREF9231_0061	-	-	N-acetylglucosamine-6-phosphate deacetylase
+69332..70132	-	266	385801043	-	HMPREF9231_0062	-	-	bacterial regulatory protein, GntR family
+70116..72839	-	907	385801044	-	HMPREF9231_0063	-	-	BNR/Asp-box repeat-containing protein
+73173..73292	-	39	385801045	-	HMPREF9231_0065	-	-	hypothetical protein
+73341..74666	-	441	385801046	tgt	HMPREF9231_0066	-	-	tRNA-guanine transglycosylase
+75008..76819	+	603	385801047	-	HMPREF9231_0067	-	-	trypsin
+76829..77539	+	236	385801048	-	HMPREF9231_0068	-	-	nitroreductase family protein
+77564..79273	-	569	385801049	-	HMPREF9231_0069	-	-	hypothetical protein
+79306..80301	-	331	385801050	-	HMPREF9231_0070	-	-	TrmH family RNA methyltransferase
+80515..83472	+	985	385801051	-	HMPREF9231_0071	-	-	E1-E2 ATPase
+83563..84144	+	193	385801052	dcd	HMPREF9231_0072	-	-	dCTP deaminase
+84435..85256	+	273	385801053	-	HMPREF9231_0073	-	-	phospholipase/carboxylesterase
+85253..85717	+	154	385801054	-	HMPREF9231_0074	-	-	cytidine and deoxycytidylate deaminase zinc-binding region
+86203..87213	+	336	385801055	-	HMPREF9231_0075	-	-	bacterial regulatory protein, LacI family
+87476..88969	+	497	385801056	rbsA_1	HMPREF9231_0076	-	-	ribose transport, ATP-binding protein RbsA
+89142..90143	+	333	385801057	-	HMPREF9231_0077	-	-	branched-chain amino acid ABC transporter permease
+90442..91380	+	312	385801058	rbsB	HMPREF9231_0078	-	-	D-ribose-binding periplasmic protein
+91770..92165	+	131	385801059	-	HMPREF9231_0079	-	-	RbsD/FucU transport family protein
+92234..93298	+	354	385801060	-	HMPREF9231_0080	-	-	putative ribokinase
+93556..94524	+	322	385801061	-	HMPREF9231_0081	-	-	2-dehydropantoate 2-reductase
+94738..96690	+	650	385801062	malL_1	HMPREF9231_0082	-	-	oligo-1,6-glucosidase 1
+96719..97552	-	277	385801063	-	HMPREF9231_0083	-	-	Sir2 family transcriptional regulator
+97646..97804	+	52	385801064	-	HMPREF9231_0084	-	-	hypothetical protein
+97768..97881	+	37	385801065	-	HMPREF9231_0085	-	-	hypothetical protein
+103768..105222	+	484	385801066	thiE_1	HMPREF9231_0090	-	-	thiamine-phosphate diphosphorylase
+107323..107520	+	65	385801067	-	HMPREF9231_0092	-	-	hypothetical protein
+107517..107930	+	137	385801068	-	HMPREF9231_0093	-	-	hypothetical protein
+108111..108482	-	123	385801069	-	HMPREF9231_0094	-	-	hypothetical protein
+108644..109804	-	386	385801070	-	HMPREF9231_0095	-	-	hypothetical protein
+109801..110472	-	223	385801071	-	HMPREF9231_0096	-	-	response regulator receiver domain-containing protein
+110949..111851	+	300	385801072	-	HMPREF9231_0097	-	-	putative lipoprotein
+112542..113753	+	403	385801073	-	HMPREF9231_0099	-	-	efflux ABC transporter permease
+113781..114305	+	174	385801074	-	HMPREF9231_0100	-	-	hypothetical protein
+114350..115612	-	420	385801075	-	HMPREF9231_0101	-	-	transporter, major facilitator family protein
+116076..116201	+	41	385801076	-	HMPREF9231_0102	-	-	hypothetical protein
+116409..117680	+	423	385801077	-	HMPREF9231_0103	-	-	ABC transporter substrate-binding protein
+117765..118670	+	301	385801078	-	HMPREF9231_0104	-	-	ABC transporter permease
+118670..119491	+	273	385801079	-	HMPREF9231_0105	-	-	ABC transporter permease
+119524..120903	+	459	385801080	-	HMPREF9231_0106	-	-	putative neopullulanase
+120933..121991	+	352	385801081	-	HMPREF9231_0107	-	-	periplasmic binding protein and sugar binding domain of the LacI family protein
+122135..123661	-	508	385801082	-	HMPREF9231_0108	-	-	DNA-binding helix-turn-helix protein
+124022..126085	+	687	385801083	-	HMPREF9231_0109	-	-	transporter, CPA2 family
+126210..126368	-	52	385801084	-	HMPREF9231_0110	-	-	hypothetical protein
+126475..126861	+	128	385801085	-	HMPREF9231_0111	-	-	hypothetical protein
+126909..127724	-	271	385801086	-	HMPREF9231_0112	-	-	putative oxygen-insensitive NADPH nitroreductase
+127798..128382	-	194	385801087	-	HMPREF9231_0113	-	-	hypothetical protein
+128566..129324	+	252	385801088	-	HMPREF9231_0114	-	-	phosphoglycerate mutase family protein
+129479..130822	+	447	385801089	-	HMPREF9231_0115	-	-	ABC transporter substrate-binding protein
+131062..132081	-	339	385801090	-	HMPREF9231_0116	-	-	bacterial regulatory protein, LacI family
+132431..133285	+	284	385801091	-	HMPREF9231_0117	-	-	ABC transporter permease
+133282..134115	+	277	385801092	-	HMPREF9231_0118	-	-	ABC transporter permease
+134263..134877	+	204	385801093	-	HMPREF9231_0119	-	-	hypothetical protein
+135213..137462	-	749	385801094	malQ_1	HMPREF9231_0120	-	-	4-alpha-glucanotransferase
+137707..140352	-	881	385801095	-	HMPREF9231_0121	-	-	hypothetical protein
+140877..142007	+	376	385801096	-	HMPREF9231_0122	-	-	transposase, mutator-like family protein
+143561..143917	-	118	385801097	-	HMPREF9231_0123	-	-	putative addiction module antidote protein
+143911..144222	-	103	385801098	-	HMPREF9231_0124	-	-	putative addiction module killer protein
+145550..145663	+	37	385801099	-	HMPREF9231_0125	-	-	hypothetical protein
+146289..147200	-	303	385801100	-	HMPREF9231_0126	-	-	hypothetical protein
+147447..148739	-	430	385801101	-	HMPREF9231_0127	-	-	transporter, major facilitator family protein
+149096..149248	+	50	385801102	-	HMPREF9231_0128	-	-	hypothetical protein
+150076..153477	-	1133	385801103	-	HMPREF9231_0129	-	-	hypothetical protein
+153663..154721	-	352	385801104	-	HMPREF9231_0130	-	-	hypothetical protein
+154920..155753	-	277	385801105	-	HMPREF9231_0131	-	-	site-specific recombinase, phage integrase family
+156579..157439	+	286	385801106	atpB	HMPREF9231_0133	-	-	ATP synthase F0 subunit A
+157530..157763	+	77	385801107	atpE	HMPREF9231_0134	-	-	ATP synthase F0 subunit C
+157824..158366	+	180	385801108	atpF	HMPREF9231_0135	-	-	ATP synthase F0 subunit B
+158442..159023	+	193	385801109	atpH	HMPREF9231_0136	-	-	ATP synthase F1 subunit delta
+159041..160702	+	553	385801110	atpA	HMPREF9231_0137	-	-	ATP synthase F1 subunit alpha
+160706..161710	+	334	385801111	atpG	HMPREF9231_0138	-	-	ATP synthase F1 subunit gamma
+161717..163204	+	495	385801112	atpD	HMPREF9231_0139	-	-	ATP synthase F1 subunit beta
+163207..163521	+	104	385801113	-	HMPREF9231_0140	-	-	ATP synthase, delta/epsilon subunit, beta-sandwich domain protein
+163709..163822	+	37	385801114	-	HMPREF9231_0141	-	-	hypothetical protein
+164144..164911	+	255	385801115	-	HMPREF9231_0142	-	-	hypothetical protein
+165167..166450	-	427	385801116	-	HMPREF9231_0143	-	-	hypothetical protein
+166667..166876	+	69	385801117	-	HMPREF9231_0144	-	-	hypothetical protein
+167090..167392	-	100	385801118	higA	HMPREF9231_0145	-	-	addiction module antidote protein HigA
+167364..167651	-	95	385801119	higB	HMPREF9231_0146	-	-	toxin HigB-1
+167970..169220	+	416	385801120	-	HMPREF9231_0147	-	-	Fic/DOC family protein
+169311..169439	-	42	385801121	-	HMPREF9231_0148	-	-	toxin-antitoxin system, antitoxin component, Xre domain protein
+169706..170617	-	303	385801122	rbsK	HMPREF9231_0149	-	-	ribokinase
+170620..171645	-	341	385801123	-	HMPREF9231_0150	-	-	hypothetical protein
+171651..173027	-	458	385801124	fucP	HMPREF9231_0151	-	-	L-fucose:H+ symporter permease
+173024..173680	-	218	385801125	deoC	HMPREF9231_0152	-	-	deoxyribose-phosphate aldolase
+173786..174760	-	324	385801126	-	HMPREF9231_0153	-	-	sugar-binding domain-containing protein
+175550..176590	+	346	385801127	-	HMPREF9231_0154	-	-	ApbE family protein
+176785..176913	+	42	385801128	-	HMPREF9231_0155	-	-	hypothetical protein
+176908..178317	-	469	385801129	-	HMPREF9231_0156	-	-	ATPase/histidine kinase/DNA gyrase B/HSP90 domain protein
+178324..179025	-	233	385801130	-	HMPREF9231_0157	-	-	response regulator receiver domain-containing protein
+179165..179929	+	254	385801131	bcrA	HMPREF9231_0158	-	-	bacitracin ABC transporter ATP-binding protein
+179926..180651	+	241	385801132	-	HMPREF9231_0159	-	-	hypothetical protein
+180665..181429	+	254	385801133	-	HMPREF9231_0160	-	-	hypothetical protein
+181518..181643	-	41	385801134	-	HMPREF9231_0161	-	-	hypothetical protein
+181754..183466	+	570	385801135	hsdM	HMPREF9231_0162	-	-	type I restriction-modification system, M subunit
+183463..184617	+	384	385801136	-	HMPREF9231_0163	-	-	type I restriction modification DNA specificity domain protein
+184729..185682	+	317	385801137	-	HMPREF9231_0164	-	-	Abi family protein
+185741..189040	+	1099	385801138	-	HMPREF9231_0165	-	-	HsdR family type I site-specific deoxyribonuclease
+189287..191023	+	578	385801139	-	HMPREF9231_0166	-	-	iron permease FTR1 family protein
+191109..191741	+	210	385801140	-	HMPREF9231_0167	-	-	Fe2+ transport protein
+191856..193127	+	423	385801141	-	HMPREF9231_0168	-	-	hypothetical protein
+193140..194510	+	456	385801142	-	HMPREF9231_0169	-	-	efflux ABC transporter permease
+194500..195789	+	429	385801143	-	HMPREF9231_0170	-	-	efflux ABC transporter permease
+195855..196700	+	281	385801144	-	HMPREF9231_0171	-	-	ABC transporter ATP-binding protein
+196756..197379	+	207	385801145	-	HMPREF9231_0172	-	-	FMN-binding domain-containing protein
+197532..200951	-	1139	385801146	-	HMPREF9231_0173	-	-	hypothetical protein
+201165..201935	+	256	385801147	-	HMPREF9231_0174	-	-	hypothetical protein
+202064..202300	-	78	385801148	-	HMPREF9231_0175	-	-	hypothetical protein
+202560..202907	+	115	385801149	-	HMPREF9231_0176	-	-	hypothetical protein
+202934..203437	-	167	385801150	-	HMPREF9231_0177	-	-	hypothetical protein
+203631..204371	+	246	385801151	-	HMPREF9231_0178	-	-	LuxR family transcriptional regulator
+204365..205588	+	407	385801152	-	HMPREF9231_0179	-	-	hypothetical protein
+205868..206329	+	153	385801153	-	HMPREF9231_0180	-	-	hypothetical protein
+206364..207017	+	217	385801154	-	HMPREF9231_0181	-	-	LuxR family transcriptional regulator
+207052..208224	+	390	385801155	-	HMPREF9231_0182	-	-	hypothetical protein
+208444..208617	-	57	385801156	-	HMPREF9231_0183	-	-	hypothetical protein
+208614..208907	-	97	385801157	-	HMPREF9231_0184	-	-	hypothetical protein
+209193..210644	-	483	385801158	-	HMPREF9231_0185	-	-	hypothetical protein
+210931..211200	-	89	385801159	-	HMPREF9231_0186	-	-	RelB/DinJ family addiction module antitoxin
+211410..211709	+	99	385801160	-	HMPREF9231_0187	-	-	putative addiction module antidote protein
+211887..212981	-	364	385801161	-	HMPREF9231_0188	-	-	ribonucleoside-diphosphate reductase subunit beta
+213064..215286	-	740	385801162	-	HMPREF9231_0189	-	-	ribonucleoside-diphosphate reductase subunit alpha
+215368..215850	-	160	385801163	nrdI	HMPREF9231_0190	-	-	nrdI protein
+215935..216195	-	86	385801164	nrdH	HMPREF9231_0191	-	-	glutaredoxin-like protein NrdH
+216628..218082	+	484	385801165	gnd_1	HMPREF9231_0192	-	-	phosphogluconate dehydrogenase (decarboxylating)
+218329..219150	-	273	385801166	pgl	HMPREF9231_0193	-	-	6-phosphogluconolactonase
+219184..220137	-	317	385801167	-	HMPREF9231_0194	-	-	putative opcA protein
+220134..221714	-	526	385801168	zwf	HMPREF9231_0195	-	-	glucose-6-phosphate dehydrogenase
+221811..224243	-	810	385801169	-	HMPREF9231_0196	-	-	acyltransferase
+224684..225178	+	164	385801170	ppa	HMPREF9231_0197	-	-	inorganic diphosphatase
+225278..226003	-	241	385801171	-	HMPREF9231_0198	-	-	hypothetical protein
+226085..226966	+	293	385801172	-	HMPREF9231_0199	-	-	transcriptional regulatory protein, C-terminal domain protein
+226998..227699	+	233	385801173	nth	HMPREF9231_0200	-	-	endonuclease III
+227893..229440	+	515	385801174	-	HMPREF9231_0201	-	-	ABC transporter substrate-binding protein
+229573..232341	+	922	385801175	valS	HMPREF9231_0202	-	-	valine--tRNA ligase
+232509..234305	+	598	385801176	argS	HMPREF9231_0203	-	-	arginine--tRNA ligase
+234521..236077	+	518	385801177	brnQ	HMPREF9231_0204	-	-	branched-chain amino acid transport system II carrier protein
+236199..236546	-	115	385801178	-	HMPREF9231_0205	-	-	macrophage migration inhibitory factor
+236683..237192	+	169	385801179	-	HMPREF9231_0206	-	-	GtrA-like protein
+237195..237848	+	217	385801180	-	HMPREF9231_0207	-	-	phosphoglycerate mutase family protein
+237939..238877	+	312	385801181	-	HMPREF9231_0208	-	-	hypothetical protein
+238905..240467	+	520	385801182	gltX	HMPREF9231_0209	-	-	glutamate--tRNA ligase
+241729..244509	+	926	385801183	-	HMPREF9231_0212	-	-	hypothetical protein
+244694..246436	+	580	385801184	-	HMPREF9231_0213	-	-	Cna protein B-type domain-containing protein
+247002..247922	+	306	385801185	-	HMPREF9231_0214	-	-	sortase family protein
+248017..249459	+	480	385801186	-	HMPREF9231_0215	-	-	FHA domain-containing protein
+249478..253299	+	1273	385801187	-	HMPREF9231_0216	-	-	hypothetical protein
+253324..253527	+	67	385801188	-	HMPREF9231_0217	-	-	hypothetical protein
+253535..254206	-	223	385801189	-	HMPREF9231_0218	-	-	hypothetical protein
+254378..254554	-	58	385801190	-	HMPREF9231_0219	-	-	zinc ribbon domain protein
+254795..255838	+	347	385801191	-	HMPREF9231_0220	-	-	hypothetical protein
+256031..256324	+	97	385801192	groS	HMPREF9231_0221	-	-	chaperonin GroS
+256473..257567	+	364	385801193	hisC	HMPREF9231_0222	-	-	histidinol-phosphate transaminase
+257979..258149	+	56	385801194	rpmG	HMPREF9231_0226	-	-	50S ribosomal protein L33
+258238..259521	+	427	385801195	-	HMPREF9231_0227	-	-	UDP-N-acetylenolpyruvoylglucosamine reductase, C-terminal domain protein
+259735..261345	+	536	385801196	-	HMPREF9231_0228	-	-	amino acid permease
+261526..261846	+	106	385801197	fdxA	HMPREF9231_0229	-	-	ferredoxin
+261843..263177	-	444	385801198	-	HMPREF9231_0230	-	-	ImpB/MucB/SamB family protein
+263290..264228	+	312	385801199	-	HMPREF9231_0231	-	-	EamA-like transporter family protein
+264754..268065	+	1103	385801200	-	HMPREF9231_0233	-	-	hypothetical protein
+268246..268539	+	97	385801201	-	HMPREF9231_0234	-	-	hypothetical protein
+268618..269259	+	213	385801202	-	HMPREF9231_0235	-	-	YigZ family protein
+269353..270021	+	222	385801203	-	HMPREF9231_0236	-	-	hypothetical protein
+270130..272298	+	722	385801204	malQ_2	HMPREF9231_0237	-	-	4-alpha-glucanotransferase
+272565..273014	+	149	385801205	rplM	HMPREF9231_0238	-	-	50S ribosomal protein L13
+273035..273523	+	162	385801206	rpsI	HMPREF9231_0239	-	-	30S ribosomal protein S9
+273897..276602	+	901	385801207	adh	HMPREF9231_0240	-	-	aldehyde-alcohol dehydrogenase 2
+276949..277209	-	86	385801208	-	HMPREF9231_0241	-	-	hypothetical protein
+277324..277974	+	216	385801209	rplC	HMPREF9231_0242	-	-	50S ribosomal protein L3
+277980..278645	+	221	385801210	rplD	HMPREF9231_0243	-	-	50S ribosomal protein L4
+278982..279812	+	276	385801211	rplB	HMPREF9231_0244	-	-	50S ribosomal protein L2
+280123..280482	+	119	385801212	rplV	HMPREF9231_0245	-	-	50S ribosomal protein L22
+280485..281300	+	271	385801213	rpsC	HMPREF9231_0246	-	-	30S ribosomal protein S3
+281305..281724	+	139	385801214	rplP	HMPREF9231_0247	-	-	50S ribosomal protein L16
+281724..281975	+	83	385801215	rpmC	HMPREF9231_0248	-	-	50S ribosomal protein L29
+282705..283040	+	111	385801216	rplX	HMPREF9231_0249	-	-	50S ribosomal protein L24
+283037..283609	+	190	385801217	rplE	HMPREF9231_0250	-	-	50S ribosomal protein L5
+283879..284277	+	132	385801218	rpsH	HMPREF9231_0251	-	-	30S ribosomal protein S8
+284294..284833	+	179	385801219	rplF	HMPREF9231_0252	-	-	50S ribosomal protein L6
+284835..285206	+	123	385801220	rplR	HMPREF9231_0253	-	-	50S ribosomal protein L18
+285230..285931	+	233	385801221	rpsE	HMPREF9231_0254	-	-	30S ribosomal protein S5
+285931..286113	+	60	385801222	rpmD	HMPREF9231_0255	-	-	50S ribosomal protein L30
+286116..286571	+	151	385801223	rplO	HMPREF9231_0256	-	-	50S ribosomal protein L15
+286774..288114	+	446	385801224	secY	HMPREF9231_0257	-	-	preprotein translocase subunit SecY
+288178..288738	+	186	385801225	adk	HMPREF9231_0258	-	-	adenylate kinase
+288887..289105	+	72	385801226	infA	HMPREF9231_0259	-	-	translation initiation factor IF-1
+289127..289240	+	37	385801227	rpmJ	HMPREF9231_0260	-	-	50S ribosomal protein L36
+289373..289750	+	125	385801228	rpsM	HMPREF9231_0261	-	-	30S ribosomal protein S13
+289834..290232	+	132	385801229	rpsK	HMPREF9231_0262	-	-	30S ribosomal protein S11
+290312..291307	+	331	385801230	rpoA	HMPREF9231_0263	-	-	DNA-directed RNA polymerase subunit alpha
+291387..291821	+	144	385801231	rplQ	HMPREF9231_0264	-	-	50S ribosomal protein L17
+291975..293255	+	426	385801232	-	HMPREF9231_0265	-	-	triacylglycerol lipase
+293353..294285	+	310	385801233	truA	HMPREF9231_0266	-	-	tRNA pseudouridine synthase A
+294757..295773	-	338	385801234	-	HMPREF9231_0268	-	-	periplasmic binding protein and sugar binding domain of the LacI family protein
+295972..297195	+	407	385801235	-	HMPREF9231_0269	-	-	ABC transporter substrate-binding protein
+297246..298169	+	307	385801236	-	HMPREF9231_0270	-	-	ABC transporter permease
+298166..298987	+	273	385801237	-	HMPREF9231_0271	-	-	ABC transporter permease
+299055..301391	+	778	385801238	kojP	HMPREF9231_0272	-	-	kojibiose phosphorylase
+301393..302265	+	290	385801239	-	HMPREF9231_0273	-	-	EamA-like transporter family protein
+302273..302920	+	215	385801240	pgmB	HMPREF9231_0274	-	-	beta-phosphoglucomutase
+302934..305951	+	1005	385801241	-	HMPREF9231_0275	-	-	glycosyl hydrolase, family 2
+305970..306422	+	150	385801242	-	HMPREF9231_0276	-	-	putative cryptic beta-D-galactosidase subunit beta
+306513..307718	-	401	385801243	-	HMPREF9231_0277	-	-	ROK family protein
+307923..309425	+	500	385801244	-	HMPREF9231_0278	-	-	putative xylulokinase
+309514..310551	+	345	385801245	-	HMPREF9231_0279	-	-	periplasmic binding protein and sugar binding domain of the LacI family protein
+310594..312165	+	523	385801246	-	HMPREF9231_0280	-	-	ABC transporter ATP-binding protein
+312162..313190	+	342	385801247	-	HMPREF9231_0281	-	-	branched-chain amino acid ABC transporter permease
+313226..314299	+	357	385801248	-	HMPREF9231_0282	-	-	branched-chain amino acid ABC transporter permease
+314363..314917	+	184	385801249	-	HMPREF9231_0283	-	-	putative 6-phospho 3-hexuloisomerase
+315407..315940	+	177	385801250	-	HMPREF9231_0284	-	-	hypothetical protein
+315996..317126	-	376	385801251	-	HMPREF9231_0285	-	-	transposase, mutator-like family protein
+317311..318108	+	265	385801252	-	HMPREF9231_0286	-	-	hypothetical protein
+318280..319272	+	330	385801253	-	HMPREF9231_0287	-	-	hypothetical protein
+319948..320799	+	283	385801254	-	HMPREF9231_0288	-	-	hypothetical protein
+320803..321759	+	318	385801255	-	HMPREF9231_0289	-	-	hypothetical protein
+321762..322859	+	365	385801256	-	HMPREF9231_0290	-	-	RES domain-containing protein
+323043..324029	-	328	385801257	-	HMPREF9231_0291	-	-	periplasmic binding protein and sugar binding domain of the LacI family protein
+324305..325048	+	247	385801258	-	HMPREF9231_0292	-	-	hypothetical protein
+325114..326085	+	323	385801259	-	HMPREF9231_0293	-	-	hypothetical protein
+326132..327154	+	340	385801260	-	HMPREF9231_0294	-	-	linear amide C-N hydrolase, choloylglycine hydrolase family protein
+327566..328594	+	342	385801261	-	HMPREF9231_0295	-	-	periplasmic binding protein and sugar binding domain of the LacI family protein
+328894..329874	+	326	385801262	-	HMPREF9231_0296	-	-	ABC transporter permease
+329894..330694	+	266	385801263	-	HMPREF9231_0297	-	-	ABC transporter permease
+330717..332852	+	711	385801264	-	HMPREF9231_0298	-	-	glycosyl hydrolase, family 43
+332967..334295	+	442	385801265	-	HMPREF9231_0299	-	-	ABC transporter substrate-binding protein
+334505..335638	-	377	385801266	-	HMPREF9231_0300	-	-	RelA/SpoT domain-containing protein
+335683..336141	+	152	385801267	-	HMPREF9231_0301	-	-	hypothetical protein
+336364..337017	-	217	385801268	-	HMPREF9231_0302	-	-	BioY family protein
+337168..339015	+	615	385801269	-	HMPREF9231_0303	-	-	ATP-grasp domain-containing protein
+339012..340658	+	548	385801270	-	HMPREF9231_0304	-	-	malonate decarboxylase subunit gamma
+340841..350389	+	3182	385801271	-	HMPREF9231_0305	-	-	hypothetical protein
+350932..356970	+	2012	385801272	pulA_1	HMPREF9231_0306	-	-	pullulanase
+357154..357417	-	87	385801273	-	HMPREF9231_0307	-	-	hypothetical protein
+358188..367751	-	3187	385801274	-	HMPREF9231_0308	-	-	Rib/alpha/Esp surface antigen repeat (3 repeats)
+368325..368801	+	158	385801275	-	HMPREF9231_0309	-	-	4'-phosphopantetheinyl transferase
+369264..371183	+	639	385801276	-	HMPREF9231_0311	-	-	glycosyl hydrolase family 25
+371776..373470	+	564	385801277	-	HMPREF9231_0314	-	-	glucose-6-phosphate isomerase
+373902..374096	+	64	385801278	-	HMPREF9231_0316	-	-	hypothetical protein
+374247..375995	+	582	385801279	-	HMPREF9231_0317	-	-	ABC transporter permease
+376104..377654	+	516	385801280	-	HMPREF9231_0318	-	-	nitrate/sulfonate/bicarbonate family ABC transporter ATPase
+377908..378276	+	122	385801281	rplS	HMPREF9231_0319	-	-	50S ribosomal protein L19
+378315..379169	+	284	385801282	lepB	HMPREF9231_0320	-	-	signal peptidase I
+379209..379892	+	227	385801283	rnhB	HMPREF9231_0321	-	-	ribonuclease HII
+380146..382746	+	866	385801284	-	HMPREF9231_0322	-	-	hypothetical protein
+382730..383467	+	245	385801285	-	HMPREF9231_0323	-	-	hypothetical protein
+385315..385431	-	38	385801286	-	HMPREF9231_0326	-	-	hypothetical protein
+385501..386448	+	315	385801287	-	HMPREF9231_0327	-	-	EamA-like transporter family protein
+386460..387143	+	227	385801288	-	HMPREF9231_0328	-	-	TrmH family RNA methyltransferase
+387208..387933	+	241	385801289	-	HMPREF9231_0329	-	-	hypothetical protein
+388133..391699	+	1188	385801290	rpoB	HMPREF9231_0330	-	-	DNA-directed RNA polymerase subunit beta
+391787..395806	+	1339	385801291	rpoC	HMPREF9231_0331	-	-	DNA-directed RNA polymerase subunit beta'
+396026..397468	-	480	385801292	-	HMPREF9231_0332	-	-	hypothetical protein
+397536..397730	-	64	385801293	-	HMPREF9231_0333	-	-	hypothetical protein
+398160..399974	+	604	385801294	-	HMPREF9231_0334	-	-	Cna protein B-type domain-containing protein
+400041..401306	+	421	385801295	-	HMPREF9231_0335	-	-	sortase family protein
+401451..409511	+	2686	385801296	-	HMPREF9231_0336	-	-	hypothetical protein
+409641..410396	+	251	385801297	-	HMPREF9231_0337	-	-	hypothetical protein
+410634..415601	+	1655	385801298	-	HMPREF9231_0338	-	-	UvrD/REP helicase domain protein
+415594..419772	+	1392	385801299	-	HMPREF9231_0339	-	-	UvrD/REP helicase
+419860..420531	+	223	385801300	-	HMPREF9231_0340	-	-	GNAT family acetyltransferase
+420822..421004	-	60	385801301	-	HMPREF9231_0341	-	-	hypothetical protein
+421028..421186	+	52	385801302	-	HMPREF9231_0342	-	-	hypothetical protein
+427542..432035	-	1497	385801303	-	HMPREF9231_0344	-	-	hypothetical protein
+432435..433814	+	459	385801304	-	HMPREF9231_0345	-	-	transporter, major facilitator family protein
+434092..434235	+	47	385801305	-	HMPREF9231_0346	-	-	hypothetical protein
+434398..436362	+	654	385801306	-	HMPREF9231_0347	-	-	hypothetical protein
+436399..439011	+	870	385801307	pepN	HMPREF9231_0348	-	-	membrane alanyl aminopeptidase
+439133..440725	+	530	385801308	-	HMPREF9231_0349	-	-	metallopeptidase family M24
+440974..441870	+	298	385801309	-	HMPREF9231_0350	-	-	carbohydrate kinase, PfkB family
+442196..442894	-	232	385801310	-	HMPREF9231_0352	-	-	ABC-type cobalt transport system, permease protein
+443412..444866	+	484	385801311	folC	HMPREF9231_0353	-	-	bifunctional protein folylpolyglutamate synthase/dihydrofolate synthase
+444885..446678	-	597	385801312	murE	HMPREF9231_0354	-	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+446700..447470	-	256	385801313	-	HMPREF9231_0355	-	-	exonuclease
+447803..449149	+	448	385801314	galT_1	HMPREF9231_0356	-	-	UTP--hexose-1-phosphate uridylyltransferase
+449232..450509	+	425	385801315	galK	HMPREF9231_0357	-	-	galactokinase
+450713..452614	-	633	385801316	-	HMPREF9231_0358	-	-	hypothetical protein
+452620..453936	-	438	385801317	-	HMPREF9231_0359	-	-	putative PTS system, cellobiose-specific IIC component
+454283..455623	+	446	385801318	-	HMPREF9231_0360	-	-	ABC transporter substrate-binding protein
+455620..456573	+	317	385801319	-	HMPREF9231_0361	-	-	ABC transporter permease
+456570..457427	+	285	385801320	-	HMPREF9231_0362	-	-	ABC transporter permease
+457475..458587	+	370	385801321	-	HMPREF9231_0363	-	-	ROK family protein
+458812..459822	-	336	385801322	galE	HMPREF9231_0364	-	-	UDP-glucose 4-epimerase
+460690..462120	+	476	385801323	-	HMPREF9231_0365	-	-	hypothetical protein
+462658..463131	+	157	385801324	-	HMPREF9231_0366	-	-	DNA-binding helix-turn-helix protein
+463149..463958	+	269	385801325	-	HMPREF9231_0367	-	-	zeta toxin
+464467..465426	-	319	385801326	-	HMPREF9231_0368	-	-	aldose 1-epimerase
+465474..466025	-	183	385801327	ybaK	HMPREF9231_0369	-	-	YbaK/EbsC protein
+466084..467139	-	351	385801328	gap	HMPREF9231_0370	-	-	glyceraldehyde-3-phosphate dehydrogenase, type I
+467315..468052	-	245	385801329	-	HMPREF9231_0371	-	-	thiamine diphosphokinase
+468352..469089	+	245	385801330	-	HMPREF9231_0372	-	-	translation initiation factor IF-3, C-terminal domain protein
+469070..469264	+	64	385801331	rpmI	HMPREF9231_0373	-	-	50S ribosomal protein L35
+469321..469704	+	127	385801332	rplT	HMPREF9231_0374	-	-	50S ribosomal protein L20
+470072..470365	+	97	385801333	-	HMPREF9231_0375	-	-	ACT domain-containing protein
+470385..471749	+	454	385801334	-	HMPREF9231_0376	-	-	hypothetical protein
+471831..472853	+	340	385801335	-	HMPREF9231_0377	-	-	putative ribokinase
+472921..473937	+	338	385801336	prs_1	HMPREF9231_0378	-	-	ribose-phosphate diphosphokinase
+474110..474406	+	98	385801337	rpsF	HMPREF9231_0379	-	-	30S ribosomal protein S6
+474481..475122	+	213	385801338	ssb	HMPREF9231_0380	-	-	single-strand binding protein
+475328..475576	+	82	385801339	rpsR	HMPREF9231_0381	-	-	30S ribosomal protein S18
+475593..476039	+	148	385801340	rplI	HMPREF9231_0382	-	-	50S ribosomal protein L9
+476554..477711	+	385	385801341	mvk	HMPREF9231_0383	-	-	mevalonate kinase
+477778..478917	+	379	385801342	mvaD	HMPREF9231_0384	-	-	diphosphomevalonate decarboxylase
+479380..481401	+	673	385801343	fni	HMPREF9231_0386	-	-	isopentenyl-diphosphate delta-isomerase
+481546..481740	+	64	385801344	rpmB	HMPREF9231_0387	-	-	50S ribosomal protein L28
+481836..484238	+	800	385801345	-	HMPREF9231_0388	-	-	type III restriction enzyme, res subunit
+484472..485620	+	382	385801346	-	HMPREF9231_0389	-	-	HTH domain protein
+485746..487167	-	473	385801347	-	HMPREF9231_0390	-	-	transporter, major facilitator family protein
+487196..488134	-	312	385801348	rihA_1	HMPREF9231_0391	-	-	cytidine/uridine-specific hydrolase
+488360..488944	+	194	385801349	-	HMPREF9231_0392	-	-	RsmD family RNA methyltransferase
+488948..489772	-	274	385801350	trmD	HMPREF9231_0393	-	-	tRNA (guanine-N(1)-)-methyltransferase
+489805..490389	-	194	385801351	rimM	HMPREF9231_0394	-	-	16S rRNA processing protein RimM
+490398..490631	-	77	385801352	-	HMPREF9231_0395	-	-	KH domain-containing protein
+490634..491095	-	153	385801353	rpsP	HMPREF9231_0396	-	-	30S ribosomal protein S16
+491825..492886	-	353	385801354	-	HMPREF9231_0397	-	-	endonuclease/exonuclease/phosphatase family protein
+492912..494612	-	566	385801355	ffh	HMPREF9231_0398	-	-	signal recognition particle protein
+494685..496274	-	529	385801356	cysS	HMPREF9231_0399	-	-	cysteine--tRNA ligase
+496414..496761	+	115	385801357	-	HMPREF9231_0400	-	-	hypothetical protein
+496758..498167	-	469	385801358	pncB	HMPREF9231_0401	-	-	nicotinate phosphoribosyltransferase
+498487..499056	+	189	385801359	coaD	HMPREF9231_0402	-	-	pantetheine-phosphate adenylyltransferase
+499130..500059	+	309	385801360	-	HMPREF9231_0403	-	-	hypothetical protein
+500062..500706	+	214	385801361	-	HMPREF9231_0404	-	-	hypothetical protein
+500808..501002	+	64	385801362	rpmF	HMPREF9231_0405	-	-	50S ribosomal protein L32
+501113..502009	+	298	385801363	rnc	HMPREF9231_0406	-	-	ribonuclease III
+502052..503125	+	357	385801364	-	HMPREF9231_0407	-	-	site-specific recombinase, phage integrase family
+503135..503395	-	86	385801365	-	HMPREF9231_0408	-	-	Txe/YoeB family addiction module toxin
+503388..503651	-	87	385801366	-	HMPREF9231_0409	-	-	RelB/DinJ family addiction module antitoxin
+503883..505442	+	519	385801367	sufB	HMPREF9231_0410	-	-	FeS assembly protein SufB
+505442..506731	+	429	385801368	sufD	HMPREF9231_0411	-	-	FeS assembly protein SufD
+506741..507517	+	258	385801369	sufC	HMPREF9231_0412	-	-	FeS assembly ATPase SufC
+507600..509522	+	640	385801370	typA	HMPREF9231_0413	-	-	GTP-binding protein TypA
+509532..509966	+	144	385801371	-	HMPREF9231_0414	-	-	hypothetical protein
+510097..511125	+	342	385801372	-	HMPREF9231_0415	-	-	prephenate dehydratase
+511119..512186	+	355	385801373	-	HMPREF9231_0416	-	-	prephenate dehydrogenase
+512211..513218	+	335	385801374	xerD	HMPREF9231_0417	-	-	tyrosine recombinase XerD
+513272..514111	+	279	385801375	soj_1	HMPREF9231_0418	-	-	sporulation initiation inhibitor protein Soj
+514351..514632	-	93	385801376	-	HMPREF9231_0419	-	-	hypothetical protein
+515613..515804	-	63	385801377	-	HMPREF9231_0420	-	-	hypothetical protein
+515812..521634	+	1940	385801378	-	HMPREF9231_0421	-	-	hypothetical protein
+521634..521753	+	39	385801379	-	HMPREF9231_0422	-	-	hypothetical protein
+521929..523569	+	546	385801380	-	HMPREF9231_0423	-	-	LPXTG-motif cell wall anchor domain-containing protein
+523848..524978	+	376	385801381	-	HMPREF9231_0424	-	-	sortase family protein
+525094..525210	+	38	385801382	-	HMPREF9231_0425	-	-	hypothetical protein
+525216..526022	+	268	385801383	-	HMPREF9231_0426	-	-	RelA/SpoT domain-containing protein
+526244..527005	+	253	385801384	-	HMPREF9231_0427	-	-	hypothetical protein
+527326..528456	-	376	385801385	-	HMPREF9231_0429	-	-	transposase, mutator-like family protein
+528786..530093	-	435	385801386	-	HMPREF9231_0430	-	-	hydroxymethylglutaryl-CoA synthase
+530235..531560	-	441	385801387	-	HMPREF9231_0431	-	-	hydroxymethylglutaryl-CoA reductase, degradative
+531752..532984	-	410	385801388	-	HMPREF9231_0432	-	-	acetyl-CoA C-acetyltransferase
+533207..533788	-	193	385801389	xpt	HMPREF9231_0433	-	-	xanthine phosphoribosyltransferase
+534120..536966	+	948	385801390	-	HMPREF9231_0434	-	-	putative ATP-dependent DNA helicase PcrA
+537345..537770	+	141	385801391	-	HMPREF9231_0435	-	-	hypothetical protein
+537792..539003	+	403	385801392	-	HMPREF9231_0436	-	-	efflux ABC transporter permease
+539005..539790	+	261	385801393	-	HMPREF9231_0437	-	-	putative lipoprotein ABC transporter, ATP-binding protein
+540005..540631	+	208	385801394	rpsD	HMPREF9231_0438	-	-	30S ribosomal protein S4
+541157..543136	+	659	385801395	galT_2	HMPREF9231_0439	-	-	UTP--hexose-1-phosphate uridylyltransferase
+543278..543952	+	224	385801396	-	HMPREF9231_0440	-	-	phosphoglycerate mutase family protein
+544114..544548	+	144	385801397	-	HMPREF9231_0441	-	-	hypothetical protein
+544548..544787	+	79	385801398	-	HMPREF9231_0442	-	-	hypothetical protein
+544975..547659	+	894	385801399	alaS	HMPREF9231_0443	-	-	alanine--tRNA ligase
+547718..548188	+	156	385801400	-	HMPREF9231_0444	-	-	RNAse H domain protein, YqgF family
+548287..549444	+	385	385801401	-	HMPREF9231_0445	-	-	YceG family protein
+549744..549923	+	59	385801402	-	HMPREF9231_0446	-	-	hypothetical protein
+549994..550509	+	171	385801403	-	HMPREF9231_0447	-	-	peptidase, A24 type IV prepilin peptidase family protein
+550676..550804	+	42	385801404	-	HMPREF9231_0448	-	-	hypothetical protein
+551049..552236	+	395	385801405	aroC	HMPREF9231_0449	-	-	chorismate synthase
+552233..553975	+	580	385801406	aroB	HMPREF9231_0450	-	-	3-dehydroquinate synthase
+553979..554446	+	155	385801407	aroQ	HMPREF9231_0451	-	-	3-dehydroquinate dehydratase
+554507..556174	+	555	385801408	pyrG	HMPREF9231_0452	-	-	CTP synthase
+556719..558350	+	543	385801409	-	HMPREF9231_0453	-	-	ABC transporter substrate-binding protein
+558583..559509	+	308	385801410	-	HMPREF9231_0454	-	-	putative dipeptide ABC transporter, permease protein DppB
+559522..560511	+	329	385801411	-	HMPREF9231_0455	-	-	putative oligopeptide ABC transporter, permease protein OppC
+560535..562562	+	675	385801412	-	HMPREF9231_0456	-	-	oligopeptide/dipeptide transporter, C-terminal domain protein
+562712..563575	+	287	385801413	-	HMPREF9231_0457	-	-	putative exodeoxyribonuclease III
+563699..564505	+	268	385801414	-	HMPREF9231_0458	-	-	hypothetical protein
+564562..565335	+	257	385801415	-	HMPREF9231_0459	-	-	hypothetical protein
+565391..566818	+	475	385801416	-	HMPREF9231_0460	-	-	putative 23S rRNA 5-methyluridine methyltransferase
+567688..569697	+	669	385801417	-	HMPREF9231_0461	-	-	peptidase, C39 family
+569793..570086	+	97	385801418	-	HMPREF9231_0462	-	-	hypothetical protein
+570073..570699	+	208	385801419	-	HMPREF9231_0463	-	-	putative mutacin ABC transporter, ATP-binding protein MutF
+570711..570962	+	83	385801420	-	HMPREF9231_0464	-	-	hypothetical protein
+570931..571581	+	216	385801421	-	HMPREF9231_0465	-	-	hypothetical protein
+571585..571974	+	129	385801422	-	HMPREF9231_0466	-	-	thioredoxin
+572340..572453	+	37	385801423	-	HMPREF9231_0467	-	-	hypothetical protein
+573095..573658	+	187	385801424	-	HMPREF9231_0468	-	-	hypothetical protein
+573672..573917	+	81	385801425	-	HMPREF9231_0469	-	-	hypothetical protein
+574025..574147	-	40	385801426	-	HMPREF9231_0470	-	-	hypothetical protein
+574920..575132	+	70	385801427	-	HMPREF9231_0472	-	-	hypothetical protein
+575263..576705	-	480	385801428	-	HMPREF9231_0473	-	-	hypothetical protein
+576722..577453	-	243	385801429	-	HMPREF9231_0474	-	-	hypothetical protein
+578280..578912	+	210	385801430	-	HMPREF9231_0475	-	-	sigma-70, region 4
+579208..579510	+	100	385801431	-	HMPREF9231_0476	-	-	hypothetical protein
+579503..580633	+	376	385801432	-	HMPREF9231_0477	-	-	hypothetical protein
+580638..581186	+	182	385801433	-	HMPREF9231_0478	-	-	hypothetical protein
+581203..581322	+	39	385801434	-	HMPREF9231_0479	-	-	hypothetical protein
+581413..583389	+	658	385801435	-	HMPREF9231_0480	-	-	DNA-directed DNA polymerase domain protein
+583756..583911	+	51	385801436	-	HMPREF9231_0481	-	-	hypothetical protein
+584208..586124	+	638	385801437	-	HMPREF9231_0482	-	-	D5-like N-terminal domain protein
+586522..586857	+	111	385801438	-	HMPREF9231_0483	-	-	hypothetical protein
+586829..587119	+	96	385801439	-	HMPREF9231_0484	-	-	VRR-NUC domain-containing protein
+587100..588539	+	479	385801440	-	HMPREF9231_0485	-	-	SNF2 family N-terminal domain protein
+588559..588927	+	122	385801441	-	HMPREF9231_0486	-	-	hypothetical protein
+589070..591508	+	812	385801442	-	HMPREF9231_0487	-	-	hypothetical protein
+592089..592448	+	119	385801443	-	HMPREF9231_0488	-	-	HNH endonuclease domain protein
+592609..593160	+	183	385801444	-	HMPREF9231_0489	-	-	phage terminase small subunit
+593173..593958	+	261	385801445	-	HMPREF9231_0490	-	-	S-adenosylmethionine synthetase, N-terminal domain protein
+593973..595208	+	411	385801446	-	HMPREF9231_0491	-	-	DNA (cytosine-5-)-methyltransferase
+595307..595957	+	216	385801447	-	HMPREF9231_0492	-	-	hypothetical protein
+595941..596105	+	54	385801448	-	HMPREF9231_0493	-	-	hypothetical protein
+596269..596553	+	94	385801449	-	HMPREF9231_0494	-	-	hypothetical protein
+596705..596929	+	74	385801450	-	HMPREF9231_0495	-	-	hypothetical protein
+597054..598646	+	530	385801451	-	HMPREF9231_0496	-	-	putative phage terminase, large subunit
+598658..599947	+	429	385801452	-	HMPREF9231_0497	-	-	phage portal protein, HK97 family
+599904..600638	+	244	385801453	-	HMPREF9231_0498	-	-	putative ATP-dependent Clp protease, proteolytic subunit ClpP
+600641..601825	+	394	385801454	-	HMPREF9231_0499	-	-	phage major capsid protein, HK97 family
+601851..602129	+	92	385801455	-	HMPREF9231_0500	-	-	phage DNA packaging protein
+602459..602839	+	126	385801456	-	HMPREF9231_0501	-	-	hypothetical protein
+602832..603170	+	112	385801457	-	HMPREF9231_0502	-	-	hypothetical protein
+603154..603726	+	190	385801458	-	HMPREF9231_0503	-	-	phage major tail protein, phi13 family
+603744..604109	+	121	385801459	-	HMPREF9231_0504	-	-	hypothetical protein
+604106..604270	+	54	385801460	-	HMPREF9231_0505	-	-	hypothetical protein
+604360..606927	+	855	385801461	-	HMPREF9231_0506	-	-	tail tape measure protein, TP901 family
+606930..607592	+	220	385801462	-	HMPREF9231_0507	-	-	hypothetical protein
+607605..610412	+	935	385801463	-	HMPREF9231_0508	-	-	hypothetical protein
+610542..610706	+	54	385801464	-	HMPREF9231_0509	-	-	hypothetical protein
+610706..611056	+	116	385801465	-	HMPREF9231_0510	-	-	hypothetical protein
+611227..611646	+	139	385801466	-	HMPREF9231_0511	-	-	toxin secretion/phage lysis holin
+611639..612559	+	306	385801467	-	HMPREF9231_0512	-	-	glycosyl hydrolase family 25
+613105..613317	+	70	385801468	-	HMPREF9231_0513	-	-	hypothetical protein
+613378..614973	+	531	385801469	-	HMPREF9231_0514	-	-	recombinase
+614943..615353	+	136	385801470	-	HMPREF9231_0515	-	-	hypothetical protein
+617833..617952	+	39	385801471	-	HMPREF9231_0518	-	-	hypothetical protein
+618182..618619	+	145	385801472	-	HMPREF9231_0519	-	-	FR47-like protein
+619096..619392	+	98	385801473	-	HMPREF9231_0520	-	-	RelB antitoxin
+619406..620689	+	427	385801474	-	HMPREF9231_0521	-	-	hypothetical protein
+621158..622144	+	328	385801475	-	HMPREF9231_0522	-	-	DNA-binding helix-turn-helix protein
+622364..622522	+	52	385801476	-	HMPREF9231_0523	-	-	hypothetical protein
+623062..623706	+	214	385801477	-	HMPREF9231_0524	-	-	DNA-binding helix-turn-helix protein
+623730..624131	-	133	385801478	-	HMPREF9231_0525	-	-	hypothetical protein
+624128..624331	-	67	385801479	-	HMPREF9231_0526	-	-	DNA-binding helix-turn-helix protein
+624523..625716	+	397	385801480	-	HMPREF9231_0527	-	-	hypothetical protein
+625826..625963	+	45	385801481	-	HMPREF9231_0528	-	-	toxin-antitoxin system, toxin component, RelE domain protein
+626218..626550	-	110	385801482	-	HMPREF9231_0529	-	-	plasmid stabilization system protein, RelE/ParE family
+626547..626852	-	101	385801483	-	HMPREF9231_0530	-	-	RelB/DinJ family addiction module antitoxin
+627210..627716	+	168	385801484	-	HMPREF9231_0531	-	-	hypothetical protein
+627841..628791	+	316	385801485	-	HMPREF9231_0532	-	-	hypothetical protein
+629673..629897	+	74	385801486	-	HMPREF9231_0533	-	-	hypothetical protein
+629998..631605	+	535	385801487	-	HMPREF9231_0534	-	-	ABC transporter, ATP-binding domain protein
+631635..632867	+	410	385801488	-	HMPREF9231_0535	-	-	ABC transporter transmembrane region domain protein
+632911..633276	+	121	385801489	-	HMPREF9231_0536	-	-	RelB antitoxin
+633541..634749	+	402	385801490	-	HMPREF9231_0537	-	-	hypothetical protein
+635738..636313	+	191	385801491	-	HMPREF9231_0538	-	-	hypothetical protein
+637356..638054	+	232	385801492	-	HMPREF9231_0539	-	-	cyclic nucleotide-binding domain-containing protein
+638571..639257	+	228	385801493	-	HMPREF9231_0540	-	-	hypothetical protein
+639250..639987	+	245	385801494	-	HMPREF9231_0541	-	-	cobalt transport protein
+639987..640826	+	279	385801495	-	HMPREF9231_0542	-	-	ABC transporter ATP-binding protein
+640829..641623	+	264	385801496	-	HMPREF9231_0543	-	-	ABC transporter ATP-binding protein
+641623..642555	+	310	385801497	rihA_2	HMPREF9231_0544	-	-	cytidine/uridine-specific hydrolase
+642993..643124	-	43	385801498	-	HMPREF9231_0545	-	-	hypothetical protein
+643222..644328	+	368	385801499	-	HMPREF9231_0546	-	-	ABC transporter ATP-binding protein
+644339..645118	+	259	385801500	-	HMPREF9231_0547	-	-	hypothetical protein
+645115..646053	+	312	385801501	-	HMPREF9231_0548	-	-	ABC transporter
+646474..647781	+	435	385801502	-	HMPREF9231_0549	-	-	hypothetical protein
+647991..649247	+	418	385801503	-	HMPREF9231_0550	-	-	transporter, dicarboxylate/amino acid:cation Na+/H+ symporter family protein
+649348..649770	+	140	385801504	-	HMPREF9231_0551	-	-	GNAT family acetyltransferase
+649778..650635	-	285	385801505	-	HMPREF9231_0552	-	-	putative serine O-acetyltransferase
+650776..651708	-	310	385801506	cysK	HMPREF9231_0553	-	-	cysteine synthase A
+652342..653151	+	269	385801507	-	HMPREF9231_0554	-	-	phosphorylase family protein
+653423..655225	+	600	385801508	-	HMPREF9231_0555	-	-	ABC transporter
+655413..656228	-	271	385801509	-	HMPREF9231_0556	-	-	ABC transporter ATP-binding protein
+657061..657861	-	266	385801510	-	HMPREF9231_0558	-	-	cobalt transport protein
+657940..658539	-	199	385801511	-	HMPREF9231_0559	-	-	hypothetical protein
+658894..659880	+	328	385801512	-	HMPREF9231_0560	-	-	hypothetical protein
+659954..660508	+	184	385801513	-	HMPREF9231_0561	-	-	LemA family protein
+664982..665734	+	250	385801514	-	HMPREF9231_0565	-	-	KR domain-containing protein
+665746..666708	+	320	385801515	-	HMPREF9231_0566	-	-	putative 2-keto-3-deoxygluconate transporter
+667334..668077	+	247	385801516	-	HMPREF9231_0567	-	-	hypothetical protein
+668067..670145	+	692	385801517	-	HMPREF9231_0568	-	-	hypothetical protein
+670446..671099	+	217	385801518	-	HMPREF9231_0569	-	-	TENA/THI-4 family protein
+671262..672395	-	377	385801519	-	HMPREF9231_0570	-	-	alcohol dehydrogenase, iron-dependent
+672577..673917	-	446	385801520	noxE	HMPREF9231_0571	-	-	NADH oxidase
+674063..674251	-	62	385801521	-	HMPREF9231_0572	-	-	HicB family protein
+674312..675802	+	496	385801522	-	HMPREF9231_0573	-	-	signal transduction histidine kinase
+675810..676082	-	90	385801523	-	HMPREF9231_0574	-	-	transcription factor WhiB
+676261..678150	-	629	385801524	-	HMPREF9231_0575	-	-	FtsK/SpoIIIE family protein
+678247..679167	-	306	385801525	-	HMPREF9231_0576	-	-	hypothetical protein
+679182..679631	-	149	385801526	-	HMPREF9231_0577	-	-	hypothetical protein
+679773..681227	-	484	385801527	-	HMPREF9231_0578	-	-	hypothetical protein
+681332..684631	+	1099	385801528	-	HMPREF9231_0579	-	-	hypothetical protein
+684681..686282	+	533	385801529	-	HMPREF9231_0580	-	-	hypothetical protein
+686311..686739	-	142	385801530	-	HMPREF9231_0581	-	-	hypothetical protein
+686915..687733	+	272	385801531	-	HMPREF9231_0582	-	-	eukaryotic phosphomannomutase
+687852..688637	+	261	385801532	-	HMPREF9231_0583	-	-	phosphoribosyl transferase domain protein
+688645..689769	-	374	385801533	-	HMPREF9231_0584	-	-	ATPase/histidine kinase/DNA gyrase B/HSP90 domain protein
+689750..690490	-	246	385801534	phoP_1	HMPREF9231_0585	-	-	alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+690538..692823	-	761	385801535	glgB	HMPREF9231_0586	-	-	1,4-alpha-glucan-branching protein
+692928..693554	+	208	385801536	-	HMPREF9231_0587	-	-	CarD-like protein
+693665..694738	-	357	385801537	-	HMPREF9231_0588	-	-	periplasmic solute-binding family protein
+694982..695866	+	294	385801538	-	HMPREF9231_0589	-	-	tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain protein
+696029..697531	+	500	385801539	rpsA	HMPREF9231_0590	-	-	30S ribosomal protein S1
+697752..698081	+	109	385801540	-	HMPREF9231_0591	-	-	TM2 domain-containing protein
+698152..698271	+	39	385801541	-	HMPREF9231_0592	-	-	dephospho-CoA kinase domain protein
+698493..699065	+	190	385801542	-	HMPREF9231_0593	-	-	TM2 domain-containing protein
+699135..699806	+	223	385801543	coaE	HMPREF9231_0594	-	-	dephospho-CoA kinase
+699897..702011	+	704	385801544	uvrB	HMPREF9231_0595	-	-	excinuclease ABC subunit B
+702252..703691	+	479	385801545	pyk	HMPREF9231_0596	-	-	pyruvate kinase
+704397..705812	+	471	385801546	glmU	HMPREF9231_0599	-	-	UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase
+705850..706287	+	145	385801547	-	HMPREF9231_0600	-	-	iojap family protein
+706297..707118	+	273	385801548	-	HMPREF9231_0601	-	-	phosphoglycerate mutase family protein
+707297..707797	+	166	385801549	-	HMPREF9231_0602	-	-	LytTr DNA-binding domain protein
+707875..708324	+	149	385801550	-	HMPREF9231_0603	-	-	hypothetical protein
+708487..708891	-	134	385801551	-	HMPREF9231_0604	-	-	pyridoxamine 5'-phosphate oxidase family protein
+709374..709532	+	52	385801552	-	HMPREF9231_0605	-	-	hypothetical protein
+709764..710759	+	331	385801553	-	HMPREF9231_0606	-	-	EamA-like transporter family protein
+710837..711961	+	374	385801554	-	HMPREF9231_0607	-	-	hypothetical protein
+712386..713645	+	419	385801555	nhaA	HMPREF9231_0609	-	-	Na+/H+ antiporter NhaA
+713715..714584	+	289	385801556	-	HMPREF9231_0610	-	-	hypothetical protein
+714591..715745	-	384	385801557	-	HMPREF9231_0611	-	-	succinate dehydrogenase and fumarate reductase iron-sulfur protein
+715890..716687	+	265	385801558	-	HMPREF9231_0612	-	-	RsmE family RNA methyltransferase
+716800..717168	+	122	385801559	-	HMPREF9231_0613	-	-	scavenger mRNA decapping enzyme
+717172..718419	+	415	385801560	-	HMPREF9231_0614	-	-	PhoH family protein
+718422..718949	+	175	385801561	-	HMPREF9231_0615	-	-	metalloprotein, YbeY family
+718939..720471	+	510	385801562	-	HMPREF9231_0616	-	-	hypothetical protein
+720481..721554	+	357	385801563	era	HMPREF9231_0617	-	-	GTP-binding protein Era
+721897..726267	-	1456	385801564	-	HMPREF9231_0618	-	-	hypothetical protein
+726714..728000	+	428	385801565	-	HMPREF9231_0619	-	-	hypothetical protein
+728397..730463	-	688	385801566	-	HMPREF9231_0620	-	-	AMP-binding protein
+730853..731470	+	205	385801567	-	HMPREF9231_0621	-	-	50S ribosomal protein L25
+741173..741472	+	99	385801568	rpmE	HMPREF9231_0623	-	-	50S ribosomal protein L31
+741638..742735	+	365	385801569	prfA	HMPREF9231_0624	-	-	peptide chain release factor 1
+742805..743704	+	299	385801570	prmC	HMPREF9231_0625	-	-	protein-(glutamine-N5) methyltransferase
+743697..744383	+	228	385801571	-	HMPREF9231_0626	-	-	Sua5/YciO/YrdC/YwlC family protein
+744380..745483	+	367	385801572	-	HMPREF9231_0627	-	-	glycosyltransferase family protein
+745565..747109	+	514	385801573	guaB	HMPREF9231_0628	-	-	inosine-5'-monophosphate dehydrogenase
+747302..747541	+	79	385801574	-	HMPREF9231_0629	-	-	hypothetical protein
+747552..747929	+	125	385801575	-	HMPREF9231_0630	-	-	hypothetical protein
+748001..748708	+	235	385801576	orn	HMPREF9231_0631	-	-	oligoribonuclease
+748748..750196	+	482	385801577	-	HMPREF9231_0632	-	-	PIF1 helicase domain protein
+750332..752197	+	621	385801578	proS	HMPREF9231_0633	-	-	proline--tRNA ligase
+752404..753048	-	214	385801579	-	HMPREF9231_0634	-	-	ssDNA-binding protein
+753442..754653	+	403	385801580	-	HMPREF9231_0635	-	-	hypothetical protein
+754755..756887	-	710	385801581	-	HMPREF9231_0636	-	-	peptidase family M13
+756979..757752	+	257	385801582	map	HMPREF9231_0637	-	-	methionine aminopeptidase
+757813..758955	+	380	385801583	prfB	HMPREF9231_0638	-	-	peptide chain release factor 2
+759074..760420	+	448	385801584	ftsE	HMPREF9231_0639	-	-	cell division ATP-binding protein FtsE
+760420..761343	+	307	385801585	-	HMPREF9231_0640	-	-	efflux ABC transporter permease
+761499..762893	+	464	385801586	-	HMPREF9231_0641	-	-	CHAP domain protein
+762947..763435	+	162	385801587	smpB	HMPREF9231_0642	-	-	SsrA-binding protein
+763437..763550	+	37	385801588	-	HMPREF9231_0643	-	-	hypothetical protein
+764043..764969	+	308	385801589	-	HMPREF9231_0644	-	-	ABC transporter substrate-binding protein
+765130..766122	+	330	385801590	-	HMPREF9231_0645	-	-	ABC transporter permease
+766189..767010	+	273	385801591	aotP	HMPREF9231_0646	-	-	arginine/ornithine ABC transporter, ATP-binding protein AotP
+767119..769026	+	635	385801592	glmS	HMPREF9231_0647	-	-	glutamine-fructose-6-phosphate transaminase
+769038..770528	+	496	385801593	-	HMPREF9231_0648	-	-	ABC transporter substrate-binding protein
+770568..771338	-	256	385801594	-	HMPREF9231_0649	-	-	pantothenate kinase
+771539..773302	+	587	385801595	-	HMPREF9231_0650	-	-	putative neopullulanase 2
+773397..773990	-	197	385801596	pdxT	HMPREF9231_0651	-	-	pyridoxal 5'-phosphate synthase, glutaminase subunit Pdx2
+774006..774941	-	311	385801597	-	HMPREF9231_0652	-	-	pyridoxal 5'-phosphate synthase, synthase subunit Pdx1
+775360..777042	+	560	385801598	-	HMPREF9231_0653	-	-	ABC transporter substrate-binding protein
+777205..778173	+	322	385801599	-	HMPREF9231_0654	-	-	ABC transporter permease
+778182..779027	+	281	385801600	-	HMPREF9231_0655	-	-	ABC transporter permease
+779017..780690	+	557	385801601	-	HMPREF9231_0656	-	-	ABC transporter ATP-binding protein
+780873..781373	+	166	385801602	luxS	HMPREF9231_0657	-	-	S-ribosylhomocysteinase
+781434..781979	+	181	385801603	-	HMPREF9231_0658	-	-	hypothetical protein
+782115..783470	+	451	385801604	alr	HMPREF9231_0659	-	-	alanine racemase
+783515..784798	+	427	385801605	-	HMPREF9231_0660	-	-	putative dGTPase
+784858..786960	+	700	385801606	dnaG	HMPREF9231_0661	-	-	DNA primase
+787139..788389	-	416	385801607	-	HMPREF9231_0662	-	-	N-acylglucosamine 2-epimerase
+788841..791921	+	1026	385801608	-	HMPREF9231_0663	-	-	glycosyl hydrolase family 38, N-terminal domain protein
+791967..792812	-	281	385801609	-	HMPREF9231_0664	-	-	ABC transporter ATP-binding protein
+792796..793650	-	284	385801610	-	HMPREF9231_0665	-	-	ABC transporter ATP-binding protein
+793634..794440	-	268	385801611	-	HMPREF9231_0666	-	-	hypothetical protein
+794495..795106	-	203	385801612	-	HMPREF9231_0667	-	-	hypothetical protein
+795186..795887	-	233	385801613	-	HMPREF9231_0668	-	-	cyclic nucleotide-binding domain-containing protein
+796024..797202	+	392	385801614	-	HMPREF9231_0669	-	-	transporter, major facilitator family protein
+797220..798185	+	321	385801615	-	HMPREF9231_0670	-	-	inosine-uridine preferring nucleoside hydrolase
+798322..800265	-	647	385801616	-	HMPREF9231_0671	-	-	glycosyl hydrolase family 20, catalytic domain protein
+800332..801471	-	379	385801617	-	HMPREF9231_0672	-	-	ROK family protein
+801749..802705	+	318	385801618	-	HMPREF9231_0673	-	-	putative glucokinase
+802867..804582	-	571	385801619	-	HMPREF9231_0674	-	-	acetolactate synthase
+804782..806053	+	423	385801620	-	HMPREF9231_0675	-	-	citrate transporter
+806456..807841	+	461	385801621	-	HMPREF9231_0676	-	-	PTS system sugar-specific permease protein
+808141..808869	+	242	385801622	-	HMPREF9231_0677	-	-	UbiC transcription regulator-associated domain protein
+809014..809274	-	86	385801623	rpsT	HMPREF9231_0678	-	-	30S ribosomal protein S20
+809530..811410	+	626	385801624	lepA	HMPREF9231_0679	-	-	GTP-binding protein LepA
+811419..812729	+	436	385801625	-	HMPREF9231_0680	-	-	putative coproporphyrinogen dehydrogenase
+812775..813230	+	151	385801626	-	HMPREF9231_0681	-	-	hypothetical protein
+813680..815050	+	456	385801627	-	HMPREF9231_0682	-	-	efflux ABC transporter permease
+815051..816439	+	462	385801628	-	HMPREF9231_0683	-	-	efflux ABC transporter permease
+816598..817236	+	212	385801629	-	HMPREF9231_0684	-	-	ABC transporter ATP-binding protein
+817267..817851	+	194	385801630	purE	HMPREF9231_0685	-	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+817835..819007	+	390	385801631	purK	HMPREF9231_0686	-	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+819100..819504	+	134	385801632	-	HMPREF9231_0687	-	-	putative Ferric uptake regulation protein
+819589..822297	-	902	385801633	-	HMPREF9231_0688	-	-	hypothetical protein
+822301..823677	-	458	385801634	-	HMPREF9231_0689	-	-	putative esterase
+823951..825978	+	675	385801635	-	HMPREF9231_0690	-	-	arylsulfatase
+826004..827278	-	424	385801636	purD	HMPREF9231_0691	-	-	phosphoribosylamine--glycine ligase
+827336..828370	-	344	385801637	purM	HMPREF9231_0692	-	-	phosphoribosylformylglycinamidine cyclo-ligase
+828451..829938	-	495	385801638	purF	HMPREF9231_0693	-	-	amidophosphoribosyltransferase
+830005..833766	-	1253	385801639	-	HMPREF9231_0694	-	-	phosphoribosylformylglycinamidine synthase
+833904..834686	-	260	385801640	purC	HMPREF9231_0695	-	-	phosphoribosylaminoimidazole succinocarboxamide synthase
+834859..836196	-	445	385801641	purT	HMPREF9231_0696	-	-	phosphoribosylglycinamide formyltransferase 2
+836602..839355	+	917	385801642	spoIIIE	HMPREF9231_0698	-	-	stage III sporulation protein E
+839419..840033	+	204	385801643	pgsA	HMPREF9231_0699	-	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+840041..840757	+	238	385801644	cinA	HMPREF9231_0700	-	-	competence/damage-inducible protein CinA
+840744..840977	+	77	385801645	-	HMPREF9231_0701	-	-	hypothetical protein
+841190..842344	+	384	385801646	recA	HMPREF9231_0702	-	-	recombinase A
+842431..843156	+	241	385801647	recX	HMPREF9231_0703	-	-	regulatory protein RecX
+843167..844684	-	505	385801648	thrC	HMPREF9231_0704	-	-	threonine synthase
+844757..846115	+	452	385801649	proA	HMPREF9231_0705	-	-	glutamate-5-semialdehyde dehydrogenase
+846165..846740	+	191	385801650	-	HMPREF9231_0706	-	-	hypothetical protein
+846790..847626	+	278	385801651	nadD	HMPREF9231_0707	-	-	nicotinate-nucleotide adenylyltransferase
+847720..848775	+	351	385801652	prs_2	HMPREF9231_0708	-	-	ribose-phosphate diphosphokinase
+849029..849691	+	220	385801653	-	HMPREF9231_0710	-	-	CDP-alcohol phosphatidyltransferase
+849757..850515	+	252	385801654	-	HMPREF9231_0711	-	-	YebC/PmpR family DNA-binding regulatory protein
+850522..851103	+	193	385801655	ruvC	HMPREF9231_0712	-	-	crossover junction endodeoxyribonuclease RuvC
+851152..851790	+	212	385801656	ruvA	HMPREF9231_0713	-	-	Holliday junction DNA helicase RuvA
+851797..852858	+	353	385801657	ruvB	HMPREF9231_0714	-	-	Holliday junction DNA helicase RuvB
+852927..853343	+	138	385801658	yajC	HMPREF9231_0715	-	-	preprotein translocase subunit YajC
+853362..853943	+	193	385801659	apt	HMPREF9231_0716	-	-	adenine phosphoribosyltransferase
+854077..855672	+	531	385801660	-	HMPREF9231_0717	-	-	hypothetical protein
+855704..857386	+	560	385801661	-	HMPREF9231_0718	-	-	putative phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+857493..857882	+	129	385801662	-	HMPREF9231_0719	-	-	hypothetical protein
+857910..858896	-	328	385801663	-	HMPREF9231_0720	-	-	transporter, major intrinsic protein (MIP) family protein
+859096..859869	+	257	385801664	-	HMPREF9231_0721	-	-	pseudouridylate synthase
+859866..862070	+	734	385801665	engA	HMPREF9231_0722	-	-	ribosome-associated GTPase EngA
+862136..864664	+	842	385801666	-	HMPREF9231_0723	-	-	hypothetical protein
+866208..866513	-	101	385801667	-	HMPREF9231_0726	-	-	RNA-binding protein, YhbY family
+866771..869116	-	781	385801668	-	HMPREF9231_0727	-	-	cobalt transport protein
+869175..869774	-	199	385801669	-	HMPREF9231_0728	-	-	hypothetical protein
+870040..871050	+	336	385801670	-	HMPREF9231_0730	-	-	glycosyltransferase, group 2 family protein
+871157..872167	-	336	385801671	adhP	HMPREF9231_0731	-	-	alcohol dehydrogenase
+872817..873380	+	187	385801672	ahpC	HMPREF9231_0733	-	-	peroxiredoxin
+873456..875069	+	537	385801673	ahpF	HMPREF9231_0734	-	-	alkyl hydroperoxide reductase
+875099..876058	+	319	385801674	-	HMPREF9231_0735	-	-	putative hydrogen peroxide-inducible protein activator
+876329..879628	+	1099	385801675	-	HMPREF9231_0736	-	-	hypothetical protein
+879715..882597	+	960	385801676	-	HMPREF9231_0737	-	-	NAD-dependent DNA ligase domain protein
+882607..883755	+	382	385801677	-	HMPREF9231_0738	-	-	ParA/MinD ATPase-like protein
+883819..885186	-	455	385801678	-	HMPREF9231_0739	-	-	hypothetical protein
+885283..886683	+	466	385801679	hisS	HMPREF9231_0740	-	-	histidine--tRNA ligase
+886798..888594	+	598	385801680	aspS	HMPREF9231_0741	-	-	aspartate--tRNA ligase
+888811..889581	+	256	385801681	gluA	HMPREF9231_0742	-	-	glutamate ABC transporter, ATP-binding protein GluA
+889637..890509	+	290	385801682	glnH	HMPREF9231_0743	-	-	ABC transporter substrate-binding protein
+890511..891188	+	225	385801683	-	HMPREF9231_0744	-	-	ABC transporter permease
+891194..892297	+	367	385801684	-	HMPREF9231_0745	-	-	ABC transporter permease
+892461..893888	+	475	385801685	-	HMPREF9231_0746	-	-	UTP--glucose-1-phosphate uridylyltransferase
+894141..896066	+	641	385801686	-	HMPREF9231_0747	-	-	hypothetical protein
+896068..896433	+	121	385801687	-	HMPREF9231_0748	-	-	hypothetical protein
+896488..899127	+	879	385801688	-	HMPREF9231_0749	-	-	type III restriction enzyme, res subunit
+899218..899565	+	115	385801689	-	HMPREF9231_0750	-	-	hypothetical protein
+899611..900309	+	232	385801690	-	HMPREF9231_0751	-	-	haloacid dehalogenase-like hydrolase
+900425..900949	-	174	385801691	-	HMPREF9231_0752	-	-	hypothetical protein
+900949..901389	-	146	385801692	odhI	HMPREF9231_0753	-	-	oxoglutarate dehydrogenase inhibitor
+901408..902310	-	300	385801693	-	HMPREF9231_0754	-	-	hypothetical protein
+902312..902644	-	110	385801694	-	HMPREF9231_0755	-	-	hypothetical protein
+902656..903687	-	343	385801695	-	HMPREF9231_0756	-	-	hypothetical protein
+903730..904332	-	200	385801696	-	HMPREF9231_0757	-	-	putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+904434..905099	-	221	385801697	rpe	HMPREF9231_0758	-	-	ribulose-phosphate 3-epimerase
+905164..906099	-	311	385801698	lgt	HMPREF9231_0759	-	-	prolipoprotein diacylglyceryl transferase
+906190..907230	-	346	385801699	cdsA	HMPREF9231_0760	-	-	phosphatidate cytidylyltransferase
+907265..907819	-	184	385801700	frr	HMPREF9231_0761	-	-	ribosome recycling factor
+907922..908671	-	249	385801701	pyrH	HMPREF9231_0762	-	-	UMP kinase
+908848..909699	-	283	385801702	tsf	HMPREF9231_0763	-	-	translation elongation factor Ts
+909729..910529	-	266	385801703	rpsB	HMPREF9231_0764	-	-	30S ribosomal protein S2
+910800..911288	-	162	385801704	def_1	HMPREF9231_0765	-	-	peptide deformylase
+911416..913395	-	659	385801705	-	HMPREF9231_0766	-	-	AMP-binding protein
+913688..914269	-	193	385801706	-	HMPREF9231_0767	-	-	hypothetical protein
+914576..915706	-	376	385801707	-	HMPREF9231_0768	-	-	IMP dehydrogenase family protein
+915795..918026	-	743	385801708	uvrC	HMPREF9231_0769	-	-	excinuclease ABC subunit C
+918071..921094	-	1007	385801709	uvrA	HMPREF9231_0770	-	-	excinuclease ABC subunit A
+921355..922956	+	533	385801710	-	HMPREF9231_0771	-	-	ABC transporter ATP-binding protein
+922972..925191	+	739	385801711	-	HMPREF9231_0772	-	-	hypothetical protein
+925202..926416	-	404	385801712	-	HMPREF9231_0773	-	-	class I/II aminotransferase
+926530..927300	-	256	385801713	ppgK	HMPREF9231_0774	-	-	polyphosphate--glucose phosphotransferase
+927481..928323	-	280	385801714	-	HMPREF9231_0775	-	-	inositol monophosphatase family protein
+928591..929274	+	227	385801715	serB	HMPREF9231_0776	-	-	phosphoserine phosphatase SerB
+929337..930317	-	326	385801716	fmt	HMPREF9231_0777	-	-	methionyl-tRNA formyltransferase
+930433..931590	-	385	385801717	-	HMPREF9231_0778	-	-	putative chaperone protein DnaJ
+931650..932681	-	343	385801718	hrcA	HMPREF9231_0779	-	-	heat-inducible transcription repressor HrcA
+932928..935027	+	699	385801719	tkt	HMPREF9231_0780	-	-	transketolase
+935240..936343	+	367	385801720	tal	HMPREF9231_0781	-	-	transaldolase
+936420..937193	-	257	385801721	-	HMPREF9231_0782	-	-	hypothetical protein
+937508..938233	-	241	385801722	-	HMPREF9231_0783	-	-	putative HTH-type transcriptional activator mta
+938487..938729	+	80	385801723	-	HMPREF9231_0784	-	-	toxin-antitoxin system, antitoxin component, PHD family
+939351..939977	-	208	385801724	-	HMPREF9231_0785	-	-	cadmium resistance transporter family protein
+940639..941457	+	272	385801725	-	HMPREF9231_0786	-	-	sulfite exporter TauE/SafE domain protein
+942134..943612	-	492	385801726	-	HMPREF9231_0787	-	-	ABC transporter ATP-binding protein
+944096..944689	-	197	385801727	-	HMPREF9231_0788	-	-	hypothetical protein
+945201..945866	-	221	385801728	-	HMPREF9231_0789	-	-	hypothetical protein
+946089..946289	+	66	385801729	-	HMPREF9231_0790	-	-	DNA-binding helix-turn-helix protein
+946291..946740	+	149	385801730	-	HMPREF9231_0791	-	-	hypothetical protein
+946964..947083	-	39	385801731	-	HMPREF9231_0792	-	-	hypothetical protein
+947330..948166	-	278	385801732	-	HMPREF9231_0793	-	-	cof family hydrolase
+948297..948545	-	82	385801733	secG	HMPREF9231_0794	-	-	preprotein translocase subunit SecG
+948605..949402	-	265	385801734	tpiA	HMPREF9231_0795	-	-	triose-phosphate isomerase
+949508..950713	-	401	385801735	pgk	HMPREF9231_0796	-	-	phosphoglycerate kinase
+950929..951867	-	312	385801736	-	HMPREF9231_0797	-	-	sporulation regulator WhiA N-terminal domain protein
+952043..952942	-	299	385801737	-	HMPREF9231_0798	-	-	hypothetical protein
+952939..954063	-	374	385801738	-	HMPREF9231_0799	-	-	putative shikimate dehydrogenase
+956579..957805	-	408	385801739	metK	HMPREF9231_0802	-	-	methionine adenosyltransferase
+957919..958203	-	94	385801740	rpoZ	HMPREF9231_0803	-	-	DNA-directed RNA polymerase subunit omega
+958313..958930	-	205	385801741	gmk	HMPREF9231_0804	-	-	guanylate kinase
+958953..959852	-	299	385801742	pyrF_1	HMPREF9231_0805	-	-	orotidine 5'-phosphate decarboxylase
+959856..963251	-	1131	385801743	carB	HMPREF9231_0806	-	-	carbamoyl-phosphate synthase large subunit
+963281..964495	-	404	385801744	carA	HMPREF9231_0807	-	-	carbamoyl-phosphate synthase small subunit
+964698..965228	-	176	385801745	nusB	HMPREF9231_0808	-	-	transcription antitermination factor NusB
+965392..965955	-	187	385801746	efp	HMPREF9231_0809	-	-	translation elongation factor P
+966092..967036	-	314	385801747	-	HMPREF9231_0810	-	-	hypothetical protein
+967164..967856	-	230	385801748	pyrE	HMPREF9231_0811	-	-	orotate phosphoribosyltransferase
+967919..968914	-	331	385801749	-	HMPREF9231_0812	-	-	dihydroorotate dehydrogenase 1B
+968921..969829	-	302	385801750	-	HMPREF9231_0813	-	-	iron-sulfur cluster binding domain of dihydroorotate dehydrogenase B
+970018..971052	-	344	385801751	pyrF_2	HMPREF9231_0814	-	-	orotidine 5'-phosphate decarboxylase
+971137..972549	-	470	385801752	-	HMPREF9231_0815	-	-	amidohydrolase family protein
+972636..973865	-	409	385801753	pyrB	HMPREF9231_0816	-	-	aspartate carbamoyltransferase
+973977..977249	-	1090	385801754	-	HMPREF9231_0817	-	-	GlnD PII-uridylyltransferase
+977299..978153	-	284	385801755	metF	HMPREF9231_0818	-	-	methylenetetrahydrofolate reductase
+978150..980486	-	778	385801756	metE	HMPREF9231_0819	-	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+980663..981220	-	185	385801757	-	HMPREF9231_0820	-	-	phosphoglycerate mutase
+981242..982342	-	366	385801758	-	HMPREF9231_0821	-	-	tRNA methyltransferase complex GCD14 subunit domain protein
+982379..983443	-	354	385801759	-	HMPREF9231_0822	-	-	putative glycoprotease GCP
+983436..984044	-	202	385801760	rimI	HMPREF9231_0823	-	-	ribosomal-protein-alanine acetyltransferase
+984065..984859	-	264	385801761	yeaZ	HMPREF9231_0824	-	-	hypothetical protein
+984898..985461	-	187	385801762	-	HMPREF9231_0825	-	-	hydrolase, P-loop family
+985532..986503	-	323	385801763	-	HMPREF9231_0826	-	-	putative DNA polymerase III, delta subunit
+986630..988453	-	607	385801764	-	HMPREF9231_0827	-	-	competence protein
+988480..989271	-	263	385801765	-	HMPREF9231_0828	-	-	competence protein ComEA helix-hairpin-helix repeat region
+989421..992405	-	994	385801766	leuS	HMPREF9231_0829	-	-	leucyl-tRNA synthetase
+992611..993051	+	146	385801767	-	HMPREF9231_0830	-	-	hypothetical protein
+993126..993569	+	147	385801768	-	HMPREF9231_0831	-	-	hypothetical protein
+993659..994465	+	268	385801769	-	HMPREF9231_0832	-	-	fructosamine kinase
+994543..996261	+	572	385801770	-	HMPREF9231_0833	-	-	putative lipoprotein
+996268..998082	-	604	385801771	-	HMPREF9231_0834	-	-	AMP-binding protein
+998177..998938	-	253	385801772	-	HMPREF9231_0835	-	-	peptidase, M23 family
+999500..1000498	+	332	385801773	-	HMPREF9231_0837	-	-	hypothetical protein
+1000564..1002012	-	482	385801774	lysP	HMPREF9231_0838	-	-	lysine-specific permease
+1002308..1003081	-	257	385801775	-	HMPREF9231_0840	-	-	hypothetical protein
+1003263..1004432	-	389	385801776	ilvE	HMPREF9231_0841	-	-	branched-chain-amino-acid transaminase
+1004769..1006397	-	542	385801777	-	HMPREF9231_0843	-	-	Ppx/GppA phosphatase family protein
+1006458..1007078	-	206	385801778	-	HMPREF9231_0844	-	-	septum formation initiator
+1007261..1008175	-	304	385801779	-	HMPREF9231_0845	-	-	L-2-hydroxyisocaproate dehydrogenase
+1008397..1009692	-	431	385801780	eno	HMPREF9231_0846	-	-	phosphopyruvate hydratase
+1009934..1010731	+	265	385801781	-	HMPREF9231_0848	-	-	aliphatic sulfonates ABC transporter permease
+1010919..1011923	+	334	385801782	-	HMPREF9231_0849	-	-	NMT1/THI5-like protein
+1011982..1012722	+	246	385801783	-	HMPREF9231_0850	-	-	ABC transporter ATP-binding protein
+1012756..1016358	-	1200	385801784	mfd	HMPREF9231_0851	-	-	transcription-repair coupling factor
+1016348..1016947	-	199	385801785	pth	HMPREF9231_0852	-	-	aminoacyl-tRNA hydrolase
+1017112..1018164	-	350	385801786	-	HMPREF9231_0853	-	-	NMT1/THI5-like protein
+1018479..1019270	+	263	385801787	-	HMPREF9231_0854	-	-	ABC transporter permease
+1019357..1022944	-	1195	385801788	-	HMPREF9231_0855	-	-	hypothetical protein
+1023087..1024376	-	429	385801789	-	HMPREF9231_0856	-	-	putative uracil permease
+1024720..1025088	-	122	385801790	-	HMPREF9231_0857	-	-	hypothetical protein
+1025329..1026390	+	353	385801791	-	HMPREF9231_0858	-	-	hypothetical protein
+1026471..1027226	-	251	385801792	-	HMPREF9231_0859	-	-	L,D-transpeptidase catalytic domain-containing protein
+1027340..1028428	-	362	385801793	ychF	HMPREF9231_0860	-	-	GTP-binding protein YchF
+1028486..1029289	-	267	385801794	proC	HMPREF9231_0861	-	-	pyrroline-5-carboxylate reductase
+1029446..1030825	-	459	385801795	pip	HMPREF9231_0862	-	-	prolyl aminopeptidase
+1030955..1033498	+	847	385801796	-	HMPREF9231_0863	-	-	histidine kinase
+1033531..1034253	+	240	385801797	-	HMPREF9231_0864	-	-	putative oxygen regulatory protein NreC
+1034458..1035909	-	483	385801798	-	HMPREF9231_0865	-	-	hypothetical protein
+1036281..1038974	-	897	385801799	-	HMPREF9231_0866	-	-	efflux ABC transporter permease
+1038992..1039819	-	275	385801800	-	HMPREF9231_0867	-	-	ABC transporter ATP-binding protein
+1040382..1041533	+	383	385801801	fucO	HMPREF9231_0868	-	-	lactaldehyde reductase
+1041675..1042718	-	347	385801802	-	HMPREF9231_0869	-	-	periplasmic binding protein and sugar binding domain of the LacI family protein
+1043208..1044491	+	427	385801803	-	HMPREF9231_0870	-	-	mandelate racemase/muconate lactonizing enzyme, C-terminal domain protein
+1044624..1045415	+	263	385801804	-	HMPREF9231_0871	-	-	KR domain-containing protein
+1045558..1046844	+	428	385801805	-	HMPREF9231_0872	-	-	transporter, major facilitator family protein
+1046911..1047684	+	257	385801806	-	HMPREF9231_0873	-	-	amidohydrolase domain protein
+1047808..1048722	+	304	385801807	-	HMPREF9231_0874	-	-	dihydrodipicolinate synthase
+1048841..1050871	-	676	385801808	thrS	HMPREF9231_0875	-	-	threonine--tRNA ligase
+1051017..1051916	-	299	385801809	-	HMPREF9231_0876	-	-	ABC 3 transport family protein
+1051919..1052863	-	314	385801810	-	HMPREF9231_0877	-	-	iron chelate uptake ABC transporter permease
+1052853..1053686	-	277	385801811	-	HMPREF9231_0878	-	-	putative manganese transport system ATP-binding protein MntA
+1053760..1054944	-	394	385801812	-	HMPREF9231_0879	-	-	periplasmic solute-binding family protein
+1055286..1056329	+	347	385801813	-	HMPREF9231_0880	-	-	putative YjeF C-terminal domain protein
+1056329..1057030	+	233	385801814	-	HMPREF9231_0881	-	-	HAD hydrolase, family IA, variant 3 domain protein
+1057137..1058069	+	310	385801815	-	HMPREF9231_0882	-	-	LysR family transcriptional regulator
+1059067..1060089	+	340	385801816	-	HMPREF9231_0887	-	-	hypothetical protein
+1060423..1061109	+	228	385801817	-	HMPREF9231_0888	-	-	hypothetical protein
+1061396..1062163	-	255	385801818	-	HMPREF9231_0889	-	-	hypothetical protein
+1062344..1064524	+	726	385801819	-	HMPREF9231_0890	-	-	hypothetical protein
+1064656..1067145	-	829	385801820	clpC	HMPREF9231_0891	-	-	negative regulator of genetic competence ClpC/MecB
+1067215..1068483	-	422	385801821	-	HMPREF9231_0892	-	-	hypothetical protein
+1068502..1068891	-	129	385801822	-	HMPREF9231_0893	-	-	cold-shock protein
+1069081..1071114	-	677	385801823	-	HMPREF9231_0894	-	-	ATPase/histidine kinase/DNA gyrase B/HSP90 domain protein
+1071117..1071857	-	246	385801824	phoP_2	HMPREF9231_0895	-	-	alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+1071918..1072613	-	231	385801825	-	HMPREF9231_0896	-	-	hypothetical protein
+1072839..1073132	+	97	385801826	-	HMPREF9231_0897	-	-	type VII secretion target protein
+1073251..1074876	-	541	385801827	groL	HMPREF9231_0898	-	-	chaperonin GroL
+1075150..1075833	-	227	385801828	-	HMPREF9231_0899	-	-	transcription initiation factor IIF, alpha subunit domain protein
+1075980..1076690	+	236	385801829	ung	HMPREF9231_0900	-	-	uracil-DNA glycosylase
+1076752..1077906	+	384	385801830	-	HMPREF9231_0901	-	-	AAA ATPase
+1077903..1078937	+	344	385801831	-	HMPREF9231_0902	-	-	hypothetical protein
+1078950..1079483	+	177	385801832	-	HMPREF9231_0903	-	-	hypothetical protein
+1079480..1080670	+	396	385801833	-	HMPREF9231_0904	-	-	von Willebrand factor type A domain-containing protein
+1080667..1081704	+	345	385801834	-	HMPREF9231_0905	-	-	von Willebrand factor type A domain-containing protein
+1081701..1082315	+	204	385801835	-	HMPREF9231_0906	-	-	hypothetical protein
+1082641..1084311	+	556	385801836	-	HMPREF9231_0907	-	-	PGAP1-like domain protein
+1084381..1085823	+	480	385801837	-	HMPREF9231_0908	-	-	putative adenylosuccinate lyase
+1085853..1088288	+	811	385801838	-	HMPREF9231_0909	-	-	hypothetical protein
+1088542..1088859	+	105	385801839	hupA	HMPREF9231_0910	-	-	DNA-binding protein HU-alpha
+1089225..1089893	-	222	385801840	clpP	HMPREF9231_0912	-	-	endopeptidase Clp
+1089900..1090511	-	203	385801841	-	HMPREF9231_0913	-	-	putative ATP-dependent Clp protease, proteolytic subunit ClpP
+1090547..1092022	-	491	385801842	-	HMPREF9231_0914	-	-	chloride transporter, ClC family
+1092133..1093491	-	452	385801843	tig	HMPREF9231_0915	-	-	trigger factor
+1093544..1094917	-	457	385801844	-	HMPREF9231_0916	-	-	3'-5' exonuclease
+1095147..1095503	-	118	385801845	-	HMPREF9231_0917	-	-	hypothetical protein
+1095626..1096507	-	293	385801846	pflA	HMPREF9231_0918	-	-	pyruvate formate-lyase activating enzyme
+1096629..1099004	-	791	385801847	pflB	HMPREF9231_0919	-	-	formate C-acetyltransferase
+1099246..1100961	-	571	385801848	nadE	HMPREF9231_0920	-	-	NAD+ synthetase
+1100940..1101113	-	57	385801849	-	HMPREF9231_0921	-	-	hypothetical protein
+1101252..1102100	+	282	385801850	-	HMPREF9231_0922	-	-	NLPA lipoprotein
+1102205..1103029	+	274	385801851	-	HMPREF9231_0923	-	-	ABC transporter ATP-binding protein
+1103032..1103715	+	227	385801852	metI	HMPREF9231_0924	-	-	D-methionine transport system permease protein MetI
+1104002..1106620	+	872	385801853	thiC	HMPREF9231_0926	-	-	thiamine biosynthesis protein ThiC
+1106768..1107307	+	179	385801854	cypB	HMPREF9231_0927	-	-	peptidyl-prolyl cis-trans isomerase B
+1107411..1109750	-	779	385801855	relA	HMPREF9231_0928	-	-	GTP diphosphokinase
+1109911..1110408	-	165	385801856	dut	HMPREF9231_0929	-	-	dUTP diphosphatase
+1110408..1110701	-	97	385801857	-	HMPREF9231_0930	-	-	hypothetical protein
+1110907..1112238	+	443	385801858	-	HMPREF9231_0931	-	-	hypothetical protein
+1112250..1113452	-	400	385801859	-	HMPREF9231_0932	-	-	type I phosphodiesterase/nucleotide pyrophosphatase
+1113600..1116269	+	889	385801860	gyrA_2	HMPREF9231_0933	-	-	DNA gyrase subunit A
+1116652..1119090	-	812	385801861	-	HMPREF9231_0934	-	-	hypothetical protein
+1119126..1119302	-	58	385801862	-	HMPREF9231_0935	-	-	putative lipoprotein
+1119546..1121510	-	654	385801863	-	HMPREF9231_0936	-	-	hypothetical protein
+1121765..1122943	-	392	385801864	-	HMPREF9231_0937	-	-	transporter, major facilitator family protein
+1122936..1123112	-	58	385801865	-	HMPREF9231_0938	-	-	hypothetical protein
+1123885..1124994	+	369	385801866	-	HMPREF9231_0939	-	-	zinc finger/helix-turn-helix protein, YgiT family
+1125138..1127411	-	757	385801867	-	HMPREF9231_0940	-	-	hypothetical protein
+1127486..1127695	-	69	385801868	-	HMPREF9231_0941	-	-	hypothetical protein
+1127673..1127972	-	99	385801869	-	HMPREF9231_0942	-	-	hypothetical protein
+1128181..1130316	-	711	385801870	-	HMPREF9231_0943	-	-	putative lipoprotein
+1130535..1132895	-	786	385801871	gyrB_2	HMPREF9231_0944	-	-	DNA gyrase subunit B
+1133004..1134308	-	434	385801872	rpoD	HMPREF9231_0945	-	-	RNA polymerase sigma factor RpoD
+1134439..1135389	-	316	385801873	-	HMPREF9231_0946	-	-	hypothetical protein
+1135568..1136650	+	360	385801874	-	HMPREF9231_0947	-	-	polyprenyl synthetase
+1136741..1139062	+	773	385801875	-	HMPREF9231_0948	-	-	kinase domain protein
+1139064..1139186	-	40	385801876	-	HMPREF9231_0949	-	-	hypothetical protein
+1139196..1139885	-	229	385801877	-	HMPREF9231_0950	-	-	acyltransferase
+1139962..1140504	+	180	385801878	-	HMPREF9231_0951	-	-	hypothetical protein
+1140604..1143375	-	923	385801879	secA	HMPREF9231_0952	-	-	Preprotein translocase subunit SecA
+1143588..1144262	-	224	385801880	raiA	HMPREF9231_0953	-	-	ribosomal subunit interface protein
+1144789..1145487	-	232	385801881	-	HMPREF9231_0955	-	-	HAD hydrolase, family IA, variant 3
+1145552..1147330	-	592	385801882	recN	HMPREF9231_0956	-	-	DNA repair protein RecN
+1147340..1148368	-	342	385801883	ppnK	HMPREF9231_0957	-	-	inorganic polyphosphate/ATP-NAD kinase
+1148477..1149256	-	259	385801884	rrmJ	HMPREF9231_0958	-	-	ribosomal RNA large subunit methyltransferase J
+1149295..1150392	-	365	385801885	-	HMPREF9231_0959	-	-	HAD hydrolase, family IIA
+1150491..1152038	-	515	385801886	-	HMPREF9231_0960	-	-	hypothetical protein
+1152122..1153441	-	439	385801887	tyrS	HMPREF9231_0961	-	-	tyrosine--tRNA ligase
+1153508..1155013	-	501	385801888	argH	HMPREF9231_0962	-	-	argininosuccinate lyase
+1155044..1156258	-	404	385801889	argG	HMPREF9231_0963	-	-	argininosuccinate synthase
+1156546..1157169	-	207	385801890	-	HMPREF9231_0964	-	-	arginine repressor, C-terminal domain protein
+1157364..1159988	-	874	385801891	pheT	HMPREF9231_0965	-	-	phenylalanine--tRNA ligase, beta subunit
+1159994..1161061	-	355	385801892	pheS	HMPREF9231_0966	-	-	phenylalanine--tRNA ligase, alpha subunit
+1161122..1162087	-	321	385801893	-	HMPREF9231_0967	-	-	TrmH family RNA methyltransferase
+1162156..1163157	-	333	385801894	-	HMPREF9231_0968	-	-	cation diffusion facilitator family transporter
+1163309..1164298	-	329	385801895	miaA	HMPREF9231_0969	-	-	tRNA dimethylallyltransferase
+1164669..1165415	+	248	385801896	-	HMPREF9231_0970	-	-	hypothetical protein
+1166206..1167888	-	560	385801897	-	HMPREF9231_0972	-	-	putative alpha-amylase
+1167979..1169541	-	520	385801898	-	HMPREF9231_0973	-	-	GMP synthase
+1169957..1172434	+	825	385801899	xfp	HMPREF9231_0974	-	-	D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase
+1172685..1174343	+	552	385801900	pta	HMPREF9231_0975	-	-	phosphate acetyltransferase
+1174483..1175712	+	409	385801901	ackA	HMPREF9231_0976	-	-	acetate kinase
+1175825..1177195	-	456	385801902	aroA	HMPREF9231_0977	-	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1177258..1178151	-	297	385801903	-	HMPREF9231_0978	-	-	cobalt transport protein
+1178154..1179731	-	525	385801904	-	HMPREF9231_0979	-	-	ABC transporter ATP-binding protein
+1179930..1180532	-	200	385801905	-	HMPREF9231_0980	-	-	ABC-type cobalt transport system, permease protein
+1181087..1182184	+	365	385801906	-	HMPREF9231_0983	-	-	hypothetical protein
+1182258..1184396	-	712	385801907	glgX	HMPREF9231_0984	-	-	glycogen debranching protein GlgX
+1184628..1185089	+	153	385801908	-	HMPREF9231_0985	-	-	hypothetical protein
+1185089..1186774	+	561	385801909	-	HMPREF9231_0986	-	-	putative Mg chelatase-like protein
+1186771..1188285	+	504	385801910	dprA	HMPREF9231_0987	-	-	DNA protecting protein DprA
+1188327..1190306	+	659	385801911	-	HMPREF9231_0988	-	-	putative succinate dehydrogenase flavoprotein subunit
+1190542..1191399	-	285	385801912	-	HMPREF9231_0990	-	-	dinuclear metal center protein, YbgI family
+1191469..1194570	-	1033	385801913	polA	HMPREF9231_0991	-	-	DNA-directed DNA polymerase
+1194693..1195481	-	262	385801914	-	HMPREF9231_0992	-	-	response regulator receiver domain-containing protein
+1195709..1196791	-	360	385801915	-	HMPREF9231_0993	-	-	putative 1,4-dihydroxy-2-naphthoate octaprenyltransferase
+1196849..1197622	-	257	385801916	-	HMPREF9231_0994	-	-	cobalt transport protein
+1197641..1199458	-	605	385801917	-	HMPREF9231_0995	-	-	ABC transporter ATP-binding protein
+1199567..1200148	-	193	385801918	-	HMPREF9231_0996	-	-	hypothetical protein
+1200270..1200896	-	208	385801919	-	HMPREF9231_0997	-	-	hypothetical protein
+1201471..1203078	+	535	385801920	thiE_2	HMPREF9231_0999	-	-	thiamine-phosphate diphosphorylase
+1203246..1205858	-	870	385801921	-	HMPREF9231_1001	-	-	cobalt transport protein
+1206323..1207690	-	455	385801922	-	HMPREF9231_1003	-	-	peptidase dimerization domain-containing protein
+1207807..1208463	+	218	385801923	-	HMPREF9231_1004	-	-	hypothetical protein
+1208591..1209376	+	261	385801924	-	HMPREF9231_1005	-	-	hypothetical protein
+1209484..1210029	-	181	385801925	-	HMPREF9231_1006	-	-	putative low molecular weight protein-tyrosine-phosphatase
+1210038..1210670	-	210	385801926	folA	HMPREF9231_1007	-	-	dihydrofolate reductase
+1210719..1211591	-	290	385801927	thyA	HMPREF9231_1008	-	-	thymidylate synthase
+1211786..1212205	+	139	385801928	-	HMPREF9231_1009	-	-	OsmC-like protein
+1212297..1213535	+	412	385801929	-	HMPREF9231_1010	-	-	glycosyltransferase, group 1 family protein
+1213669..1214712	-	347	385801930	-	HMPREF9231_1011	-	-	universal stress family protein
+1214925..1215665	-	246	385801931	-	HMPREF9231_1012	-	-	NlpC/P60 family protein
+1215842..1216846	-	334	385801932	-	HMPREF9231_1013	-	-	CHAP domain protein
+1217041..1217166	-	41	385801933	-	HMPREF9231_1014	-	-	hypothetical protein
+1217323..1218750	-	475	385801934	-	HMPREF9231_1015	-	-	putative signal-transduction histidine kinase senX3
+1218870..1219598	+	242	385801935	phoU	HMPREF9231_1016	-	-	phosphate transport system regulatory protein PhoU
+1219730..1220470	-	246	385801936	gpmA	HMPREF9231_1017	-	-	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+1220599..1222272	-	557	385801937	lysS	HMPREF9231_1018	-	-	lysine--tRNA ligase
+1222466..1222603	-	45	385801938	-	HMPREF9231_1019	-	-	hypothetical protein
+1222908..1224947	+	679	385801939	-	HMPREF9231_1021	-	-	hypothetical protein
+1224947..1225576	+	209	385801940	-	HMPREF9231_1022	-	-	hypothetical protein
+1225602..1226264	-	220	385801941	-	HMPREF9231_1023	-	-	hypothetical protein
+1226278..1226718	-	146	385801942	-	HMPREF9231_1024	-	-	hypothetical protein
+1226772..1227419	-	215	385801943	-	HMPREF9231_1025	-	-	NifU family SUF system FeS assembly protein
+1227486..1228832	-	448	385801944	-	HMPREF9231_1026	-	-	cysteine desulfurase, SufS family
+1228991..1229953	-	320	385801945	-	HMPREF9231_1027	-	-	L-lactate dehydrogenase
+1230087..1231604	-	505	385801946	hflX	HMPREF9231_1028	-	-	GTP-binding protein HflX
+1231726..1232427	+	233	385801947	-	HMPREF9231_1029	-	-	ribosomal protein L11 methyltransferase-like protein
+1232456..1236523	+	1355	385801948	-	HMPREF9231_1030	-	-	ATP-dependent helicase HrpA-like protein
+1236641..1238044	-	467	385801949	-	HMPREF9231_1031	-	-	transporter, major facilitator family protein
+1238155..1239111	-	318	385801950	-	HMPREF9231_1032	-	-	inosine-uridine preferring nucleoside hydrolase
+1239501..1240838	-	445	385801951	glnA_1	HMPREF9231_1033	-	-	glutamine synthetase, type I
+1240992..1241687	-	231	385801952	-	HMPREF9231_1034	-	-	hypothetical protein
+1241749..1245300	-	1183	385801953	-	HMPREF9231_1035	-	-	putative DNA polymerase III subunit alpha
+1245353..1246285	-	310	385801954	-	HMPREF9231_1036	-	-	RluA family pseudouridine synthase
+1246278..1246772	-	164	385801955	lspA	HMPREF9231_1037	-	-	signal peptidase II
+1246821..1248137	-	438	385801956	-	HMPREF9231_1038	-	-	DivIVA protein
+1248311..1248607	-	98	385801957	-	HMPREF9231_1039	-	-	hypothetical protein
+1248793..1249260	-	155	385801958	-	HMPREF9231_1040	-	-	hypothetical protein
+1249285..1250487	-	400	385801959	ftsZ	HMPREF9231_1041	-	-	cell division protein FtsZ
+1250714..1251868	-	384	385801960	-	HMPREF9231_1042	-	-	nifR3 family TIM-barrel protein
+1251938..1253458	-	506	385801961	-	HMPREF9231_1043	-	-	glycine--tRNA ligase-like protein
+1253629..1254003	+	124	385801962	-	HMPREF9231_1044	-	-	hypothetical protein
+1254068..1255297	+	409	385801963	-	HMPREF9231_1045	-	-	amidohydrolase
+1255324..1256118	-	264	385801964	uppS	HMPREF9231_1046	-	-	di-trans,poly-cis-decaprenylcistransferase
+1256223..1257452	-	409	385801965	-	HMPREF9231_1047	-	-	phosphotransferase enzyme family protein
+1257594..1258517	-	307	385801966	-	HMPREF9231_1048	-	-	NMT1/THI5-like protein
+1258696..1259316	-	206	385801967	-	HMPREF9231_1049	-	-	ABC-type cobalt transport system, permease protein
+1259564..1260298	-	244	385801968	recO	HMPREF9231_1051	-	-	DNA repair protein RecO
+1260345..1261871	-	508	385801969	-	HMPREF9231_1052	-	-	DivIVA domain repeat-containing protein
+1262432..1263577	-	381	385801970	-	HMPREF9231_1054	-	-	sortase family protein
+1263666..1263785	-	39	385801971	-	HMPREF9231_1055	-	-	hypothetical protein
+1263867..1265513	-	548	385801972	-	HMPREF9231_1056	-	-	Cna protein B-type domain-containing protein
+1265784..1271171	-	1795	385801973	-	HMPREF9231_1057	-	-	hypothetical protein
+1271791..1272684	-	297	385801974	-	HMPREF9231_1058	-	-	lon protease S16 C-terminal proteolytic domain protein
+1272943..1274769	+	608	385801975	-	HMPREF9231_1059	-	-	putative hydrolase
+1274888..1276471	-	527	385801976	-	HMPREF9231_1060	-	-	UvrD/REP helicase
+1276623..1278158	+	511	385801977	-	HMPREF9231_1061	-	-	phosphotransferase enzyme domain protein
+1278241..1278465	+	74	385801978	-	HMPREF9231_1062	-	-	hypothetical protein
+1278474..1279361	-	295	385801979	-	HMPREF9231_1063	-	-	PHP domain-containing protein
+1279443..1280147	+	234	385801980	-	HMPREF9231_1064	-	-	vitamin K epoxide reductase family protein
+1280225..1281007	-	260	385801981	murI	HMPREF9231_1065	-	-	glutamate racemase
+1281058..1282683	-	541	385801982	-	HMPREF9231_1066	-	-	ABC transporter ATP-binding protein
+1282700..1284448	-	582	385801983	-	HMPREF9231_1067	-	-	ABC transporter substrate-binding protein
+1284591..1285598	-	335	385801984	-	HMPREF9231_1068	-	-	putative glutathione ABC transporter, permease protein GsiC
+1285595..1286482	-	295	385801985	-	HMPREF9231_1069	-	-	putative oligopeptide ABC transporter, permease protein OppC
+1286765..1290175	-	1136	385801986	ileS	HMPREF9231_1070	-	-	isoleucine--tRNA ligase
+1290554..1290862	-	102	385801987	xseB	HMPREF9231_1072	-	-	exodeoxyribonuclease VII small subunit
+1291018..1292373	-	451	385801988	xseA	HMPREF9231_1073	-	-	exodeoxyribonuclease VII large subunit
+1292526..1298549	-	2007	385801989	-	HMPREF9231_1074	-	-	peptidase, S8/S53 family
+1299830..1301029	-	399	385801990	-	HMPREF9231_1077	-	-	elongation factor Tu C-terminal domain protein
+1300769..1301056	+	95	385801991	-	HMPREF9231_1076	-	-	hypothetical protein
+1301200..1303329	-	709	385801992	fusA	HMPREF9231_1078	-	-	translation elongation factor G
+1303372..1303842	-	156	385801993	rpsG	HMPREF9231_1079	-	-	30S ribosomal protein S7
+1303846..1304217	-	123	385801994	rpsL	HMPREF9231_1080	-	-	30S ribosomal protein S12
+1304497..1305630	-	377	385801995	-	HMPREF9231_1081	-	-	POTRA domain protein, FtsQ-type
+1305695..1307206	-	503	385801996	murC	HMPREF9231_1082	-	-	UDP-N-acetylmuramate--L-alanine ligase
+1307209..1308435	-	408	385801997	-	HMPREF9231_1083	-	-	putative undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+1308568..1309896	-	442	385801998	-	HMPREF9231_1084	-	-	putative cell division protein FtsW
+1309883..1311460	-	525	385801999	murD	HMPREF9231_1085	-	-	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+1311538..1312641	-	367	385802000	mraY	HMPREF9231_1086	-	-	phospho-N-acetylmuramoyl-pentapeptide-transferase
+1312638..1314368	-	576	385802001	murF	HMPREF9231_1087	-	-	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+1314462..1315706	-	414	385802002	-	HMPREF9231_1088	-	-	hypothetical protein
+1315735..1317828	-	697	385802003	-	HMPREF9231_1089	-	-	penicillin-binding protein, transpeptidase domain protein
+1317828..1318460	-	210	385802004	-	HMPREF9231_1090	-	-	hypothetical protein
+1318460..1319521	-	353	385802005	mraW	HMPREF9231_1091	-	-	S-adenosyl-methyltransferase MraW
+1319533..1320306	-	257	385802006	mraZ	HMPREF9231_1092	-	-	protein MraZ
+1320536..1322812	+	758	385802007	-	HMPREF9231_1093	-	-	hypothetical protein
+1322887..1323336	-	149	385802008	nrdR	HMPREF9231_1094	-	-	transcriptional regulator NrdR
+1323390..1323581	-	63	385802009	-	HMPREF9231_1095	-	-	hypothetical protein
+1323627..1323995	-	122	385802010	-	HMPREF9231_1096	-	-	LysM domain-containing protein
+1324167..1324886	+	239	385802011	lexA	HMPREF9231_1097	-	-	repressor LexA
+1325053..1325532	-	159	385802012	greA	HMPREF9231_1098	-	-	transcription elongation factor GreA
+1325599..1326006	-	135	385802013	fkbP	HMPREF9231_1099	-	-	FK506-binding protein
+1326254..1327756	-	500	385802014	-	HMPREF9231_1100	-	-	putative L-serine ammonia-lyase
+1327874..1330618	-	914	385802015	-	HMPREF9231_1101	-	-	E1-E2 ATPase
+1330662..1331396	-	244	385802016	-	HMPREF9231_1102	-	-	hypothetical protein
+1331443..1332555	-	370	385802017	-	HMPREF9231_1103	-	-	bacterial regulatory protein, LacI family
+1332595..1334271	-	558	385802018	-	HMPREF9231_1104	-	-	glycosyl hydrolase family protein
+1334582..1335835	+	417	385802019	-	HMPREF9231_1105	-	-	ABC transporter substrate-binding protein
+1335979..1336923	+	314	385802020	-	HMPREF9231_1106	-	-	ABC transporter permease
+1336923..1337753	+	276	385802021	-	HMPREF9231_1107	-	-	ABC transporter permease
+1338384..1344644	-	2086	385802022	-	HMPREF9231_1108	-	-	GA module
+1345199..1346197	-	332	385802023	-	HMPREF9231_1109	-	-	FemAB domain protein
+1346268..1347944	-	558	385802024	-	HMPREF9231_1110	-	-	ChvD family ATP-binding protein
+1348087..1348596	-	169	385802025	-	HMPREF9231_1111	-	-	hypothetical protein
+1348596..1349657	-	353	385802026	-	HMPREF9231_1112	-	-	hypothetical protein
+1349755..1352010	-	751	385802027	hflB	HMPREF9231_1113	-	-	ATP-dependent metallopeptidase HflB
+1352202..1352756	-	184	385802028	hpt	HMPREF9231_1114	-	-	hypoxanthine phosphoribosyltransferase
+1352826..1353917	+	363	385802029	tilS	HMPREF9231_1115	-	-	tRNA(Ile)-lysidine synthetase
+1354106..1355890	-	594	385802030	-	HMPREF9231_1116	-	-	D-Ala-D-Ala carboxypeptidase 3 (S13) domain protein
+1356037..1357689	-	550	385802031	-	HMPREF9231_1117	-	-	hypothetical protein
+1357705..1358643	-	312	385802032	-	HMPREF9231_1118	-	-	daunorubicin/doxorubicin resistance ATP-binding protein DrrA family protein
+1359114..1360340	-	408	385802033	-	HMPREF9231_1119	-	-	glycosyltransferase, group 2 family protein
+1360337..1361938	-	533	385802034	-	HMPREF9231_1120	-	-	hypothetical protein
+1362103..1363539	+	478	385802035	glnA_2	HMPREF9231_1121	-	-	glutamine synthetase, type I
+1363609..1364262	-	217	385802036	def_2	HMPREF9231_1122	-	-	peptide deformylase
+1364568..1365980	-	470	385802037	glmM	HMPREF9231_1123	-	-	phosphoglucosamine mutase
+1366397..1367296	-	299	385802038	-	HMPREF9231_1125	-	-	putative tRNA (guanine-N(7)-)-methyltransferase
+1367755..1369806	-	683	385802039	-	HMPREF9231_1128	-	-	ABC transporter
+1369809..1371659	-	616	385802040	-	HMPREF9231_1129	-	-	ABC transporter
+1372511..1373218	-	235	385802041	nrdG	HMPREF9231_1130	-	-	anaerobic ribonucleoside-triphosphate reductase activating protein
+1373413..1375866	-	817	385802042	nrdD	HMPREF9231_1131	-	-	anaerobic ribonucleoside-triphosphate reductase
+1376150..1376572	+	140	385802043	-	HMPREF9231_1132	-	-	hypothetical protein
+1377153..1378961	-	602	385802044	-	HMPREF9231_1133	-	-	DEAD/DEAH box helicase
+1379231..1380031	-	266	385802045	-	HMPREF9231_1134	-	-	DeoR family transcriptional regulator
+1380434..1380577	+	47	385802046	-	HMPREF9231_1135	-	-	hypothetical protein
+1380626..1380751	+	41	385802047	-	HMPREF9231_1136	-	-	hypothetical protein
+1380801..1380959	+	52	385802048	-	HMPREF9231_1137	-	-	hypothetical protein
+1380950..1382608	-	552	385802049	-	HMPREF9231_1138	-	-	drug resistance MFS transporter, drug:H+ antiporter-2 family
+1382810..1383814	-	334	385802050	-	HMPREF9231_1139	-	-	G5 domain-containing protein
+1383833..1383961	-	42	385802051	-	HMPREF9231_1140	-	-	hypothetical protein
+1383948..1384334	-	128	385802052	trxA	HMPREF9231_1141	-	-	thioredoxin
+1384413..1385699	+	428	385802053	serS	HMPREF9231_1142	-	-	serine--tRNA ligase
+1385915..1387174	-	419	385802054	glf	HMPREF9231_1143	-	-	UDP-galactopyranose mutase
+1387198..1388325	-	375	385802055	-	HMPREF9231_1144	-	-	glycosyltransferase, group 2 family protein
+1388336..1389217	-	293	385802056	-	HMPREF9231_1145	-	-	glycosyltransferase, group 2 family protein
+1389219..1390316	-	365	385802057	-	HMPREF9231_1146	-	-	acyltransferase
+1392311..1393597	-	428	385802058	-	HMPREF9231_1148	-	-	glycosyltransferase, group 2 family protein
+1393760..1395454	+	564	385802059	-	HMPREF9231_1149	-	-	hypothetical protein
+1395494..1396465	-	323	385802060	-	HMPREF9231_1150	-	-	putative bactoprenol glucosyl transferase-like protein
+1396531..1397373	-	280	385802061	-	HMPREF9231_1151	-	-	NAD dependent epimerase/dehydratase family protein
+1397554..1397706	-	50	385802062	-	HMPREF9231_1153	-	-	hypothetical protein
+1397700..1398563	+	287	385802063	-	HMPREF9231_1152	-	-	ABC transporter
+1398614..1399387	+	257	385802064	-	HMPREF9231_1154	-	-	putative O-antigen export system ATP-binding protein RfbB
+1399445..1400479	+	344	385802065	rfbB	HMPREF9231_1155	-	-	dTDP-glucose 4,6-dehydratase
+1400578..1402020	+	480	385802066	-	HMPREF9231_1156	-	-	putative dTDP-4-dehydrorhamnose reductase
+1402035..1402934	+	299	385802067	rfbA	HMPREF9231_1157	-	-	glucose-1-phosphate thymidylyltransferase
+1402992..1403684	-	230	385802068	-	HMPREF9231_1158	-	-	Ham1 family protein
+1403739..1404503	-	254	385802069	rph	HMPREF9231_1159	-	-	tRNA nucleotidyltransferase
+1404590..1406623	-	677	385802070	-	HMPREF9231_1160	-	-	ABC transporter ATP-binding protein
+1406833..1407987	+	384	385802071	pyrD	HMPREF9231_1161	-	-	dihydroorotate oxidase
+1408105..1410495	-	796	385802072	-	HMPREF9231_1162	-	-	transglycosylase
+1410548..1411267	-	239	385802073	-	HMPREF9231_1163	-	-	cyclic nucleotide-binding domain-containing protein
+1411298..1413805	-	835	385802074	-	HMPREF9231_1164	-	-	peptidase, S9A/B/C family, catalytic domain protein
+1413874..1415193	-	439	385802075	-	HMPREF9231_1165	-	-	hypothetical protein
+1415258..1416895	-	545	385802076	-	HMPREF9231_1166	-	-	L,D-transpeptidase catalytic domain-containing protein
+1417105..1418238	+	377	385802077	-	HMPREF9231_1167	-	-	diacylglycerol kinase
+1418269..1419942	+	557	385802078	pgm	HMPREF9231_1168	-	-	phosphoglucomutase, alpha-D-glucose phosphate-specific
+1419977..1421038	+	353	385802079	rnhA	HMPREF9231_1169	-	-	ribonuclease HI
+1421155..1421853	+	232	385802080	rpiA	HMPREF9231_1170	-	-	ribose 5-phosphate isomerase A
+1422263..1422892	-	209	385802081	-	HMPREF9231_1171	-	-	hypothetical protein
+1422986..1424431	+	481	385802082	radA	HMPREF9231_1172	-	-	DNA repair protein RadA
+1424466..1425980	+	504	385802083	-	HMPREF9231_1173	-	-	S-adenosyl-L-homocysteine hydrolase
+1426073..1427494	+	473	385802084	-	HMPREF9231_1174	-	-	amidohydrolase family protein
+1427572..1428120	+	182	385802085	-	HMPREF9231_1175	-	-	cupin family protein
+1428133..1429023	-	296	385802086	-	HMPREF9231_1176	-	-	phosphorylase family protein
+1429290..1430159	+	289	385802087	-	HMPREF9231_1177	-	-	ABC transporter substrate-binding protein
+1430312..1431205	+	297	385802088	-	HMPREF9231_1178	-	-	ABC transporter permease
+1431205..1432029	+	274	385802089	-	HMPREF9231_1179	-	-	ABC transporter ATP-binding protein
+1432304..1433164	-	286	385802090	morA	HMPREF9231_1180	-	-	morphine 6-dehydrogenase
+1433258..1434772	-	504	385802091	araA	HMPREF9231_1181	-	-	L-arabinose isomerase
+1434824..1435516	-	230	385802092	-	HMPREF9231_1182	-	-	putative L-ribulose-5-phosphate 4-epimerase
+1435607..1437220	-	537	385802093	-	HMPREF9231_1183	-	-	carbohydrate kinase, FGGY family protein
+1437294..1437524	-	76	385802094	-	HMPREF9231_1184	-	-	hypothetical protein
+1437661..1438881	-	406	385802095	-	HMPREF9231_1185	-	-	branched-chain amino acid ABC transporter permease
+1438889..1440433	-	514	385802096	rbsA_2	HMPREF9231_1186	-	-	ribose transport, ATP-binding protein RbsA
+1440533..1441687	-	384	385802097	sbpA	HMPREF9231_1187	-	-	multiple sugar-binding periplasmic protein SbpA
+1441959..1443137	+	392	385802098	-	HMPREF9231_1188	-	-	ROK family protein
+1443193..1444032	+	279	385802099	-	HMPREF9231_1189	-	-	ABC transporter ATP-binding protein
+1444376..1445593	-	405	385802100	-	HMPREF9231_1190	-	-	hypothetical protein
+1446151..1446321	-	56	385802101	-	HMPREF9231_1191	-	-	hypothetical protein
+1446305..1447297	-	330	385802102	-	HMPREF9231_1192	-	-	hypothetical protein
+1447408..1449546	+	712	385802103	-	HMPREF9231_1193	-	-	hypothetical protein
+1449543..1450832	+	429	385802104	-	HMPREF9231_1194	-	-	hypothetical protein
+1450920..1451615	-	231	385802105	rplA	HMPREF9231_1195	-	-	50S ribosomal protein L1
+1451631..1452062	-	143	385802106	rplK	HMPREF9231_1196	-	-	50S ribosomal protein L11
+1452359..1452742	-	127	385802107	rplL	HMPREF9231_1197	-	-	50S ribosomal protein L7/L12
+1452838..1453359	-	173	385802108	rplJ	HMPREF9231_1198	-	-	50S ribosomal protein L10
+1453807..1455201	-	464	385802109	-	HMPREF9231_1199	-	-	permease family protein
+1455495..1456274	-	259	385802110	pstB	HMPREF9231_1200	-	-	phosphate ABC transporter ATP-binding protein
+1456304..1457311	-	335	385802111	pstA	HMPREF9231_1201	-	-	phosphate ABC transporter permease PstA
+1457308..1458270	-	320	385802112	pstC	HMPREF9231_1202	-	-	phosphate ABC transporter permease PstC
+1458365..1459546	-	393	385802113	pstS	HMPREF9231_1203	-	-	phosphate ABC transporter substrate-binding protein
+1459830..1460531	-	233	385802114	mtnN	HMPREF9231_1204	-	-	MTA/SAH nucleosidase
+1460540..1461016	-	158	385802115	-	HMPREF9231_1205	-	-	hypothetical protein
+1461528..1461650	+	40	385802116	-	HMPREF9231_1206	-	-	hypothetical protein
+1461681..1462940	-	419	385802117	-	HMPREF9231_1207	-	-	3-deoxy-7-phosphoheptulonate synthase
+1463054..1464391	-	445	385802118	-	HMPREF9231_1208	-	-	riboflavin kinase
+1464481..1465683	-	400	385802119	truB	HMPREF9231_1209	-	-	tRNA pseudouridine synthase B
+1465720..1466301	-	193	385802120	rbfA	HMPREF9231_1210	-	-	ribosome-binding factor A
+1466304..1469237	-	977	385802121	infB	HMPREF9231_1211	-	-	translation initiation factor IF-2
+1469492..1470541	-	349	385802122	nusA	HMPREF9231_1212	-	-	transcription termination factor NusA
+1470883..1471716	+	277	385802123	-	HMPREF9231_1213	-	-	hypothetical protein
+1471909..1473243	-	444	385802124	-	HMPREF9231_1214	-	-	peptidase C1-like protein
+1473421..1474812	-	463	385802125	-	HMPREF9231_1215	-	-	hypothetical protein
+1474922..1475593	-	223	385802126	-	HMPREF9231_1216	-	-	putative pyroglutamyl-peptidase I
+1475625..1476590	-	321	385802127	-	HMPREF9231_1217	-	-	YfiH family protein
+1476645..1477502	-	285	385802128	-	HMPREF9231_1218	-	-	oxidoreductase, aldo/keto reductase family protein
+1477629..1480373	-	914	385802129	gpsI	HMPREF9231_1219	-	-	guanosine pentaphosphate synthetase I/polyribonucleotide nucleotidyltransferase
+1480808..1481077	-	89	385802130	rpsO	HMPREF9231_1220	-	-	30S ribosomal protein S15
+1481223..1481903	-	226	385802131	-	HMPREF9231_1221	-	-	hypothetical protein
+1482281..1482928	+	215	385802132	-	HMPREF9231_1222	-	-	hypothetical protein
+1483476..1485455	-	659	385802133	-	HMPREF9231_1224	-	-	kinase domain protein
+1485613..1486971	-	452	385802134	murA	HMPREF9231_1225	-	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1487060..1488469	-	469	385802135	-	HMPREF9231_1226	-	-	hypothetical protein
+1488949..1489803	-	284	385802136	nusG	HMPREF9231_1227	-	-	transcription termination/antitermination factor NusG
+1489832..1490047	-	71	385802137	secE	HMPREF9231_1228	-	-	Preprotein translocase subunit SecE
+1490326..1491588	-	420	385802138	aspC	HMPREF9231_1230	-	-	aspartate transaminase
+1492058..1493203	-	381	385802139	proB	HMPREF9231_1231	-	-	glutamate 5-kinase
+1493204..1494868	-	554	385802140	cgtA	HMPREF9231_1232	-	-	Obg family GTPase CgtA
+1494963..1495214	-	83	385802141	rpmA	HMPREF9231_1233	-	-	50S ribosomal protein L27
+1495248..1495556	-	102	385802142	rplU	HMPREF9231_1234	-	-	50S ribosomal protein L21
+1495738..1499145	-	1135	385802143	-	HMPREF9231_1235	-	-	ribonuclease E/G family protein
+1499489..1500430	+	313	385802144	-	HMPREF9231_1236	-	-	transporter, auxin efflux carrier domain protein
+1500741..1502102	-	453	385802145	-	HMPREF9231_1237	-	-	hypothetical protein
+1502938..1503798	-	286	385802146	-	HMPREF9231_1238	-	-	KilA-N domain protein
+1504164..1505597	-	477	385802147	-	HMPREF9231_1239	-	-	putative septum formation protein Maf
+1505631..1506653	-	340	385802148	thrB	HMPREF9231_1240	-	-	homoserine kinase
+1506718..1508106	-	462	385802149	hom	HMPREF9231_1241	-	-	homoserine dehydrogenase
+1508212..1509204	-	330	385802150	-	HMPREF9231_1242	-	-	CAAX amino terminal protease family protein
+1509348..1510493	-	381	385802151	-	HMPREF9231_1243	-	-	D-alanine--D-alanine ligase
+1510650..1511645	-	331	385802152	gpsA	HMPREF9231_1244	-	-	glycerol-3-phosphate dehydrogenase [NAD(P)+]
+1511812..1512693	-	293	385802153	-	HMPREF9231_1245	-	-	acyltransferase
+1512728..1513600	-	290	385802154	-	HMPREF9231_1246	-	-	anchored repeat-type ABC transporter, permease subunit
+1513600..1514400	-	266	385802155	-	HMPREF9231_1247	-	-	anchored repeat-type ABC transporter, ATP-binding subunit
+1514438..1516267	-	609	385802156	-	HMPREF9231_1248	-	-	anchored repeat ABC transporter, substrate-binding protein
+1516286..1518484	-	732	385802157	-	HMPREF9231_1249	-	-	hypothetical protein
+1518498..1519697	-	399	385802158	-	HMPREF9231_1250	-	-	hypothetical protein
+1522296..1522850	-	184	385802159	-	HMPREF9231_1252	-	-	isochorismatase family protein
+1528771..1528884	-	37	385802160	-	HMPREF9231_1256	-	-	hypothetical protein
+1528848..1529006	-	52	385802161	-	HMPREF9231_1257	-	-	hypothetical protein
+1529153..1530028	-	291	385802162	gnd_2	HMPREF9231_1258	-	-	phosphogluconate dehydrogenase (decarboxylating)
+1530126..1531466	-	446	385802163	-	HMPREF9231_1259	-	-	transporter, gluconate:H+ symporter family
+1531647..1532174	-	175	385802164	-	HMPREF9231_1260	-	-	putative gluconokinase
+1532336..1533076	+	246	385802165	-	HMPREF9231_1261	-	-	FCD domain protein
+1533106..1533939	-	277	385802166	-	HMPREF9231_1262	-	-	HD domain-containing protein
+1534009..1536510	-	833	385802167	-	HMPREF9231_1263	-	-	potassium transporter domain protein
+1536711..1537691	-	326	385802168	-	HMPREF9231_1264	-	-	TatD family hydrolase
+1537757..1539553	-	598	385802169	-	HMPREF9231_1265	-	-	ABC transporter
+1539555..1541381	-	608	385802170	-	HMPREF9231_1266	-	-	ABC transporter
+1541414..1541536	-	40	385802171	-	HMPREF9231_1267	-	-	hypothetical protein
+1541594..1543342	-	582	385802172	-	HMPREF9231_1268	-	-	ABC transporter substrate-binding protein
+1543668..1545563	-	631	385802173	gsiA	HMPREF9231_1269	-	-	glutathione ABC transporter, ATP-binding protein GsiA
+1545584..1546531	-	315	385802174	-	HMPREF9231_1270	-	-	putative oligopeptide ABC transporter, permease protein OppC
+1546557..1547540	-	327	385802175	-	HMPREF9231_1271	-	-	ABC transporter permease
+1548027..1549466	+	479	385802176	-	HMPREF9231_1272	-	-	putative aminopeptidase C
+1549958..1551829	-	623	385802177	metG	HMPREF9231_1273	-	-	methionine--tRNA ligase
+1552033..1552899	+	288	385802178	-	HMPREF9231_1274	-	-	hypothetical protein
+1552889..1553200	+	103	385802179	-	HMPREF9231_1275	-	-	hypothetical protein
+1553195..1554088	-	297	385802180	-	HMPREF9231_1276	-	-	S-adenosylmethionine-dependent methyltransferase, YraL family
+1554230..1555075	+	281	385802181	-	HMPREF9231_1277	-	-	peptidase, S9A/B/C family, catalytic domain protein
+1555699..1558530	-	943	385802182	-	HMPREF9231_1278	-	-	Cna protein B-type domain-containing protein
+1559018..1560550	-	510	385802183	-	HMPREF9231_1279	-	-	formate--tetrahydrofolate ligase domain protein
+1560748..1562355	-	535	385802184	pepD	HMPREF9231_1280	-	-	dipeptidase
+1562553..1563104	-	183	385802185	-	HMPREF9231_1281	-	-	Raf-like protein
+1563166..1564356	-	396	385802186	-	HMPREF9231_1282	-	-	putative DNA polymerase III, delta' subunit
+1564383..1565093	-	236	385802187	tmk	HMPREF9231_1283	-	-	dTMP kinase
+1565115..1567973	-	952	385802188	topA	HMPREF9231_1284	-	-	DNA topoisomerase I
+1568144..1569319	-	391	385802189	-	HMPREF9231_1285	-	-	PAP2 family protein
+1569769..1570911	-	380	385802190	-	HMPREF9231_1287	-	-	putative inositol 1-phosphate synthase
+1571046..1573397	+	783	385802191	-	HMPREF9231_1288	-	-	transglycosylase
+1573759..1574472	-	237	385802192	-	HMPREF9231_1289	-	-	HAD hydrolase, family IA, variant 3
+1574616..1575230	-	204	385802193	-	HMPREF9231_1290	-	-	putative heat shock protein HspR
+1575271..1576314	-	347	385802194	-	HMPREF9231_1291	-	-	DnaJ C-terminal domain protein
+1576524..1577282	-	252	385802195	grpE	HMPREF9231_1292	-	-	co-chaperone GrpE
+1577282..1579180	-	632	385802196	dnaK	HMPREF9231_1293	-	-	chaperone protein DnaK
+1579254..1579415	-	53	385802197	-	HMPREF9231_1294	-	-	hypothetical protein
+1579381..1580109	-	242	385802198	-	HMPREF9231_1295	-	-	ThiF family protein
+1580152..1580973	-	273	385802199	thiG	HMPREF9231_1296	-	-	thiazole biosynthesis protein ThiG
+1581060..1581266	-	68	385802200	thiS	HMPREF9231_1297	-	-	thiamine biosynthesis protein ThiS
+1581337..1582407	-	356	385802201	thiO	HMPREF9231_1298	-	-	glycine oxidase ThiO
+1591451..1594237	-	928	385802202	-	HMPREF9231_1301	-	-	glycosyl hydrolase family protein
+1594253..1595086	-	277	385802203	-	HMPREF9231_1302	-	-	ABC transporter permease
+1595083..1596018	-	311	385802204	-	HMPREF9231_1303	-	-	ABC transporter permease
+1596089..1597477	-	462	385802205	-	HMPREF9231_1304	-	-	ABC transporter substrate-binding protein
+1597736..1598752	+	338	385802206	-	HMPREF9231_1305	-	-	bacterial regulatory protein, LacI family
+1598736..1599509	-	257	385802207	-	HMPREF9231_1306	-	-	protein TraX
+1599833..1601542	-	569	385802208	malL_2	HMPREF9231_1307	-	-	oligo-1,6-glucosidase 1
+1602025..1603254	+	409	385802209	-	HMPREF9231_1308	-	-	ABC transporter substrate-binding protein
+1603415..1604818	+	467	385802210	-	HMPREF9231_1309	-	-	ABC transporter permease
+1604815..1605735	+	306	385802211	-	HMPREF9231_1310	-	-	ABC transporter permease
+1605841..1607832	+	663	385802212	pulA_2	HMPREF9231_1311	-	-	pullulanase
+1608026..1609156	-	376	385802213	-	HMPREF9231_1312	-	-	transposase, mutator-like family protein
+1609358..1610389	-	343	385802214	-	HMPREF9231_1313	-	-	hypothetical protein
+1610456..1611481	-	341	385802215	-	HMPREF9231_1314	-	-	hypothetical protein
+1611497..1613302	-	601	385802216	-	HMPREF9231_1315	-	-	hypothetical protein
+1613673..1614545	+	290	385802217	-	HMPREF9231_1316	-	-	FKBP-type peptidyl-prolyl cis-trans isomerase
+1614692..1615480	-	262	385802218	-	HMPREF9231_1317	-	-	hypothetical protein
+1615523..1616995	-	490	385802219	-	HMPREF9231_1318	-	-	putative proline-specific permease ProY
+1617074..1619851	-	925	385802220	-	HMPREF9231_1319	-	-	efflux ABC transporter permease
+1619870..1620571	-	233	385802221	-	HMPREF9231_1320	-	-	ABC transporter ATP-binding protein
+1620651..1621271	-	206	385802222	-	HMPREF9231_1321	-	-	hypothetical protein
+1621323..1622390	-	355	385802223	asd	HMPREF9231_1322	-	-	aspartate-semialdehyde dehydrogenase
+1624043..1624651	-	202	385802224	recR	HMPREF9231_1325	-	-	recombination protein RecR
+1624658..1626973	-	771	385802225	dnaX	HMPREF9231_1326	-	-	DNA polymerase III, subunit gamma and tau
+1627128..1627538	-	136	385802226	-	HMPREF9231_1327	-	-	TadE-like protein
+1627535..1627933	-	132	385802227	-	HMPREF9231_1328	-	-	hypothetical protein
+1628094..1628375	-	93	385802228	-	HMPREF9231_1329	-	-	hypothetical protein
+1628471..1629088	-	205	385802229	-	HMPREF9231_1330	-	-	type II secretion system F domain protein
+1629119..1629757	-	212	385802230	-	HMPREF9231_1331	-	-	hypothetical protein
+1629788..1630846	-	352	385802231	-	HMPREF9231_1332	-	-	type II/IV secretion system protein
+1630827..1632008	-	393	385802232	-	HMPREF9231_1333	-	-	hypothetical protein
+1632126..1633484	-	452	385802233	-	HMPREF9231_1334	-	-	chloride transporter, ClC family
+1633597..1634016	-	139	385802234	-	HMPREF9231_1335	-	-	CrcB-like protein
+1634013..1634570	-	185	385802235	-	HMPREF9231_1336	-	-	CrcB-like protein
+1634618..1635919	-	433	385802236	purA	HMPREF9231_1337	-	-	adenylosuccinate synthase
+1636024..1637076	-	350	385802237	fbaA	HMPREF9231_1338	-	-	fructose-bisphosphate aldolase
+1637188..1637547	-	119	385802238	-	HMPREF9231_1339	-	-	chorismate mutase
+1637555..1638052	-	165	385802239	-	HMPREF9231_1340	-	-	putative HTH-type transcriptional regulator LrpA
+1638485..1640479	-	664	385802240	rho	HMPREF9231_1341	-	-	transcription termination factor Rho
+1640659..1642275	-	538	385802241	-	HMPREF9231_1342	-	-	monoamine oxidase
+1642379..1642693	-	104	385802242	-	HMPREF9231_1343	-	-	hypothetical protein
+1642690..1643613	-	307	385802243	-	HMPREF9231_1344	-	-	GNAT family acetyltransferase
+1643835..1645334	-	499	385802244	gatB	HMPREF9231_1345	-	-	aspartyl/glutamyl-tRNA amidotransferase subunit B
+1645367..1646908	-	513	385802245	gatA	HMPREF9231_1346	-	-	aspartyl/glutamyl-tRNA amidotransferase subunit A
+1646912..1647208	-	98	385802246	gatC	HMPREF9231_1347	-	-	aspartyl/glutamyl-tRNA amidotransferase subunit C
+1647709..1649259	+	516	385802247	-	HMPREF9231_1348	-	-	thiol-activated cytolysin
+1649402..1650391	-	329	385802248	-	HMPREF9231_1349	-	-	hypothetical protein
+1650388..1651407	-	339	385802249	-	HMPREF9231_1350	-	-	ABC transporter ATP-binding protein
+1651539..1652345	-	268	385802250	-	HMPREF9231_1351	-	-	TrmH family RNA methyltransferase
+1652403..1653251	-	282	385802251	-	HMPREF9231_1352	-	-	hypothetical protein
+1653309..1654649	-	446	385802252	-	HMPREF9231_1353	-	-	RmuC domain-containing protein
+1654704..1655435	-	243	385802253	-	HMPREF9231_1354	-	-	hypothetical protein
+1655425..1656519	-	364	385802254	-	HMPREF9231_1355	-	-	hypothetical protein
+1657050..1657820	-	256	385802255	-	HMPREF9231_1356	-	-	ABC transporter ATP-binding protein
+1657847..1658008	-	53	385802256	-	HMPREF9231_1357	-	-	hypothetical protein
+1658303..1660897	-	864	385802257	clpB	HMPREF9231_1358	-	-	ATP-dependent chaperone protein ClpB
+1661116..1661931	+	271	385802258	-	HMPREF9231_1359	-	-	FAH family protein
+1661981..1662781	-	266	385802259	-	HMPREF9231_1360	-	-	pyridoxal phosphate enzyme, YggS family
+1662816..1663865	-	349	385802260	-	HMPREF9231_1361	-	-	tRNA ligase class I, catalytic domain protein
+1664028..1664759	-	243	385802261	gla	HMPREF9231_1362	-	-	glycerol facilitator-aquaporin
+1665334..1667571	+	745	385802262	ppk1	HMPREF9231_1363	-	-	polyphosphate kinase 1
+1667820..1669304	-	494	385802263	-	HMPREF9231_1364	-	-	DNA mismatch repair protein MutH
+1669413..1670687	-	424	385802264	-	HMPREF9231_1365	-	-	putative modification methylase BanI
+1670976..1672169	+	397	385802265	-	HMPREF9231_1366	-	-	NUDIX family hydrolase
+1672216..1672878	+	220	385802266	-	HMPREF9231_1367	-	-	hypothetical protein
+1673176..1673814	+	212	385802267	upp	HMPREF9231_1368	-	-	uracil phosphoribosyltransferase
+1673947..1674378	-	143	385802268	-	HMPREF9231_1369	-	-	hypothetical protein
+1674365..1675387	-	340	385802269	-	HMPREF9231_1370	-	-	hypothetical protein
+1675605..1676024	-	139	385802270	-	HMPREF9231_1371	-	-	hypothetical protein
+1676024..1676221	-	65	385802271	-	HMPREF9231_1372	-	-	hypothetical protein
+1676302..1677108	-	268	385802272	-	HMPREF9231_1373	-	-	CobB/CobQ-like glutamine amidotransferase domain protein
+1677125..1678504	-	459	385802273	-	HMPREF9231_1374	-	-	hypothetical protein
+1678519..1679979	-	486	385802274	dnaB	HMPREF9231_1375	-	-	replicative DNA helicase
+1680106..1681497	-	463	385802275	-	HMPREF9231_1376	-	-	MATE efflux family protein
+1681891..1683714	-	607	385802276	-	HMPREF9231_1377	-	-	putative ammonia transporter
+1683829..1684938	-	369	385802277	ftsY	HMPREF9231_1378	-	-	signal recognition particle-docking protein FtsY
+1685102..1685365	+	87	385802278	-	HMPREF9231_1379	-	-	putative glutaredoxin-like protein
+1687079..1688398	+	439	385802279	-	HMPREF9231_1381	-	-	ABC transporter substrate-binding protein
+1688507..1689439	+	310	385802280	-	HMPREF9231_1382	-	-	ABC transporter permease
+1689423..1690400	+	325	385802281	-	HMPREF9231_1383	-	-	ABC transporter permease
+1690504..1693656	+	1050	385802282	-	HMPREF9231_1385	-	-	glycosyl hydrolase family 2, TIM barrel domain protein
+1693763..1695190	-	475	385802283	-	HMPREF9231_1386	-	-	alpha-L-fucosidase
+1695421..1699302	-	1293	385802284	-	HMPREF9231_1387	-	-	F5/8 type C domain-containing protein
+1699715..1700161	-	148	385802285	fucU	HMPREF9231_1388	-	-	L-fucose mutarotase
+1700320..1701735	-	471	385802286	-	HMPREF9231_1389	-	-	lipopolysaccharide kinase, Kdo/WaaP family
+1701929..1703056	-	375	385802287	-	HMPREF9231_1390	-	-	ABC transporter ATP-binding protein
+1703410..1705131	+	573	385802288	-	HMPREF9231_1391	-	-	RIO1 family protein
+1705231..1706172	+	313	385802289	-	HMPREF9231_1392	-	-	hypothetical protein
+1708307..1709197	+	296	385802290	ksgA	HMPREF9231_1395	-	-	dimethyladenosine transferase
+1709339..1709962	+	207	385802291	-	HMPREF9231_1396	-	-	hypothetical protein
+1710033..1711502	-	489	385802292	-	HMPREF9231_1397	-	-	tRNA adenylyltransferase
+1711545..1712309	+	254	385802293	-	HMPREF9231_1398	-	-	NUDIX family hydrolase
+1712302..1714725	+	807	385802294	-	HMPREF9231_1399	-	-	hypothetical protein
+1716635..1719118	+	827	385802295	-	HMPREF9231_1401	-	-	hypothetical protein
+1719156..1720097	+	313	385802296	trxB	HMPREF9231_1402	-	-	thioredoxin-disulfide reductase
+1720193..1721473	-	426	385802297	-	HMPREF9231_1403	-	-	ParB-like protein
+1721473..1722435	-	320	385802298	soj_2	HMPREF9231_1404	-	-	sporulation initiation inhibitor protein Soj
+1722722..1723432	-	236	385802299	gidB	HMPREF9231_1405	-	-	16S rRNA (guanine(527)-N(7))-methyltransferase GidB
+1723549..1724106	-	185	385802300	-	HMPREF9231_1406	-	-	R3H domain-containing protein
+1724213..1725220	-	335	385802301	-	HMPREF9231_1407	-	-	60Kd inner membrane protein
+1725547..1725984	-	145	385802302	-	HMPREF9231_1408	-	-	putative ribonuclease P protein component
+1726095..1726229	-	44	385802303	rpmH	HMPREF9231_1409	-	-	50S ribosomal protein L34

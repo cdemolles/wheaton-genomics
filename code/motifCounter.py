@@ -1,39 +1,65 @@
 from bug import *
 from sequence import *
-import glob
+import sqlite3
 import os
 import re
 import dnaFunctions
 
 def main():
 
-	svmOutputRNA = open('../data/SVM_RNA_mismatch.tsv', 'w')
-	svmOutputDNA = open('../data/SVM_DNA_mismatch.tsv', 'w')
+	parser = SafeConfigParser()
+	parser.read('config.ini')
+
+	# get the root directory from the configuration file
+	rootDirectory = parser.get('directories', 'root_dir')
+
+	# get the data directory from the configuration file
+	dataDirectory = os.path.join(rootDirectory, parser.get('directories', 'data_subdir'))
+
+	# get the database file name
+	databaseFileName = os.path.join(dataDirectory, parser.get('files', 'database_file_name'))
+
+	dbConnection = sqlite3.connect(databaseFileName)
+	cursor = dbConnection.cursor()
+
+	svmOutputRNA = open('../data/SVM_RNA_irDistributions_largeRun_noEukaryotic.tsv', 'w')
+	svmOutputDNA = open('../data/SVM_DNA_irDistributions_largeRun_noEukaryotic.tsv', 'w')
 	
 	allPossibleFourMers = dnaFunctions.allPossibleMotifs(4)
 
 	outputHeading(svmOutputRNA, allPossibleFourMers)
 	outputHeading(svmOutputDNA, allPossibleFourMers)
 
-	for filePath in glob.glob('/home/chris/Documents/microbes/HMP_new/*'):
+	bugDataQuery = "SELECT name, kingdom, category FROM organisms WHERE kingdom <> 'Human_Microbiom' AND kingdom <> 'Eukaryotic'"
 
-		 bugName = os.path.split(filePath)[1]
-		 bugName = re.split('_uid', bugName)[0]
+	# for each tuple of bug data in the result set
+	for bugData in cursor.execute(bugDataQuery):
 
-		 print bugName
+		# the bug name is the first column in the result set
+		bugName  = bugData[0].encode('ascii', 'ignore')
+		kingdom  = bugData[1].encode('ascii', 'ignore')
+		category = bugData[2]
 
-		 if glob.glob('/home/chris/Documents/microbes/HMP_new/' + bugName + '*/*_complete_genome*') != []:
+		if category is not None:
+			category = category.encode('ascii', 'ignore')
+		else:
+			category = ''
 
-			 bug = Bug(bugName)
+		print "Counting", bugName, "..."
 
-			 # gets a dictionary of RNA sequences (with the key as the name of the RNA and the value as a sequence object)
-			 bugRNA = bug.getRna()
+		# make a new bug object given the bug name
+		bug = Bug(bugName)
 
-			 # gets a dictionary of DNA sequences (with the key as the starting location of the DNA and the value as a sequence object)
-			 bugDNA = bug.getDna()
+		# gets a dictionary of RNA sequences (with the key as the name of the RNA and the value as a sequence object)
+		bugRNA = bug.getUniqueRNA()
 
-			 outputData(svmOutputRNA, bugRNA, bugName, 'RNA', allPossibleFourMers)
-			 outputData(svmOutputDNA, bugDNA, bugName, 'DNA', allPossibleFourMers)
+		# gets a dictionary of DNA sequences (with the key as the starting location of the DNA and the value as a sequence object)
+		bugDNA = bug.getDNA()
+
+		outputData(svmOutputRNA, bugRNA, bugName, kingdom, category, 'RNA', allPossibleFourMers)
+		outputData(svmOutputDNA, bugDNA, bugName, kingdom, category, 'DNA', allPossibleFourMers)
+
+		print "Done counting", bugName, "..."
 
 	svmOutputRNA.close()
 	svmOutputDNA.close()
@@ -48,31 +74,35 @@ def outputHeading(outputFile, allPossibleFourMers):
 		outputFile.write(motif)
 		outputFile.write('\t')
 
-	outputFile.write('IRs of Length 6')
+	outputFile.write('IRs_Stem_Len_3_Perfect')
 	outputFile.write('\t')
 
-	outputFile.write('IRs of Length 8')
+	outputFile.write('IRs_Stem_Len_4_Perfect')
 	outputFile.write('\t')
 
-	outputFile.write('IRs of Length 10')
+	outputFile.write('IRs_Stem_Len_5_Perfect')
 	outputFile.write('\t')
 
-	outputFile.write('IRs 1 Mismatch Length 6')
+	outputFile.write('IRs_Stem_Len_4_1_Mismatch')
 	outputFile.write('\t')
 
-	outputFile.write('IRs 1 Mismatch Length 8')
+	outputFile.write('Kingdom')
+	outputFile.write('\t')
+
+	outputFile.write('Category')
 	outputFile.write('\t')
 
 	outputFile.write('Type')
 	outputFile.write('\n')
 
-def outputData(outputFile, data, bugName, type, allPossibleFourMers):
+
+def outputData(outputFile, data, bugName, kingdom, category, type, allPossibleFourMers):
 
 	for sequenceName, sequence in data.iteritems():
 
-		motifs          = sequence.countMotifs(4, 4)
-		invertedRepeats = sequence.countInvertedRepeats(3, 5, 0)
-		invertedRepeatsMismatch = sequence.countInvertedRepeats(3, 4, 1)
+		motifs                  = sequence.countMotifs(4, 4)
+		invertedRepeats         = sequence.countInvertedRepeats(3, 5, 0)
+		invertedRepeatsMismatch = sequence.countInvertedRepeats(4, 4, 1)
 
 		strandName = ''
 
@@ -105,13 +135,20 @@ def outputData(outputFile, data, bugName, type, allPossibleFourMers):
 
 		outputFile.write(str(invertedRepeats[3]))
 		outputFile.write('\t')
+
 		outputFile.write(str(invertedRepeats[4]))
 		outputFile.write('\t')
+
 		outputFile.write(str(invertedRepeats[5]))
 		outputFile.write('\t')
-		outputFile.write(str(invertedRepeatsMismatch[3]))
-		outputFile.write('\t')
+
 		outputFile.write(str(invertedRepeatsMismatch[4]))
+		outputFile.write('\t')
+
+		outputFile.write(kingdom)
+		outputFile.write('\t')
+
+		outputFile.write(category)
 		outputFile.write('\t')
 
 		if type == 'DNA':

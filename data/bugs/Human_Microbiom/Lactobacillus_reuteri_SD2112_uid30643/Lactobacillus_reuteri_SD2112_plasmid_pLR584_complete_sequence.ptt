@@ -1,0 +1,20 @@
+Lactobacillus reuteri SD2112 plasmid pLR584, complete sequence - 1..19059
+17 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+361..720	+	119	338204607	-	HMPREF0538_22286	-	COG1715V	hypothetical protein
+717..1304	+	195	338204608	-	HMPREF0538_22287	-	COG0582L	integrase
+1854..3236	-	460	338204609	-	HMPREF0538_22289	-	COG3344L	RNA-directed DNA polymerase
+3795..4190	-	131	338204610	-	HMPREF0538_22290	-	-	hypothetical protein
+4773..5642	+	289	338204611	-	HMPREF0538_22291	-	-	replication rep protein
+6865..7749	+	294	338204612	repB	HMPREF0538_22292	-	COG1192D	replication-associated protein RepB
+7749..8123	+	124	338204613	-	HMPREF0538_22293	-	-	replication-associated protein
+8192..8785	-	197	338204614	-	HMPREF0538_22294	-	-	resolvase
+8928..10934	+	668	338204615	sthIM	HMPREF0538_22295	-	COG2189L	type III restriction-modification system DNA methylase
+10934..13567	+	877	338204616	-	HMPREF0538_22296	-	COG3421S	type III restriction-modification system restriction subunit
+14085..14381	-	98	338204617	-	HMPREF0538_22297	-	-	lysophospholipase family protein
+14400..14609	-	69	338204618	-	HMPREF0538_22298	-	-	hypothetical protein
+14741..14932	-	63	338204619	-	HMPREF0538_22299	-	-	hypothetical protein
+14940..17237	-	765	338204620	atkB	HMPREF0538_22300	-	COG2217P	copper-exporting ATPase
+17344..17775	-	143	338204621	copY	HMPREF0538_22301	-	COG3682K	transcriptional repressor CopY
+18036..18386	-	116	338204622	cadC	HMPREF0538_22302	-	COG0640K	transcriptional regulator CadC
+18403..19020	-	205	338204623	cadD	HMPREF0538_22303	-	COG4300P	cadmium resistance protein CadD

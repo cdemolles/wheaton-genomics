@@ -1,0 +1,70 @@
+Escherichia coli SE11 plasmid pSE11-3, complete sequence - 1..60555
+67 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1044	+	347	209921876	-	ECSE_P3-0001	-	COG1453R	anaerobic sulfite reductase subunit A
+1048..1866	+	272	209921877	-	ECSE_P3-0002	-	COG0543HC	anaerobic sulfite reductase subunit B
+1877..2890	+	337	209921878	-	ECSE_P3-0003	-	COG2221C	anaerobic sulfite reductase subunit C
+3692..3946	-	84	209921879	-	ECSE_P3-0004	-	COG0726G	putative xylanase/chitin deacetylase
+4607..5017	+	136	209921880	-	ECSE_P3-0005	-	COG2963L	insertion sequence 2 OrfA protein
+4975..5766	+	263	209921881	-	ECSE_P3-0006	-	COG2801L	truncated transposase
+5699..5869	+	56	209921882	-	ECSE_P3-0007	-	COG2801L	truncated transposase
+6312..7226	-	304	209921883	-	ECSE_P3-0008	-	-	hypothetical protein
+7758..7928	+	56	209921884	-	ECSE_P3-0009	-	-	hypothetical protein
+8130..8291	+	53	209921885	-	ECSE_P3-0010	-	-	hypothetical protein
+8661..9401	+	246	209921886	-	ECSE_P3-0011	-	COG4974L	integrase
+9686..10663	-	325	209921887	-	ECSE_P3-0012	-	-	replication protein RepA
+11454..11978	+	174	209921888	-	ECSE_P3-0013	-	-	hypothetical protein
+12156..12692	+	178	209921889	-	ECSE_P3-0014	-	COG2963L	truncated transposase
+12692..13039	+	115	209921890	-	ECSE_P3-0015	-	COG3436L	transposase
+13059..14420	+	453	209921891	-	ECSE_P3-0016	-	COG3436L	truncated transposase
+14411..14620	+	69	209921892	-	ECSE_P3-0017	-	-	truncated transposase
+14812..15018	-	68	209921893	-	ECSE_P3-0018	-	-	hypothetical protein
+15972..16346	+	124	209921894	-	ECSE_P3-0019	-	-	hypothetical protein
+16524..17201	+	225	209921895	-	ECSE_P3-0020	-	-	hypothetical protein
+17747..18157	+	136	209921896	zraP	ECSE_P3-0021	-	COG3678UNTP	zinc resistance protein
+18583..18831	+	82	209921897	-	ECSE_P3-0022	-	-	hypothetical protein
+18983..20443	-	486	209921898	-	ECSE_P3-0023	-	COG0471P	putative cation transport protein
+20759..23035	+	758	209921899	-	ECSE_P3-0024	-	COG0243C	thiosulfate reductase subunit A
+23050..23628	+	192	209921900	-	ECSE_P3-0025	-	COG0437C	thiosulfate reductase iron-sulfur subunit
+23625..24389	+	254	209921901	-	ECSE_P3-0026	-	COG4117C	thiosulfate reductase cytochrome b subunit
+24565..24741	+	58	209921902	-	ECSE_P3-0027	-	-	hypothetical protein
+24850..26046	+	398	209921903	-	ECSE_P3-0028	-	-	transposase
+26182..26547	-	121	209921904	-	ECSE_P3-0029	-	-	transposase
+27049..27315	+	88	209921905	-	ECSE_P3-0030	-	-	hypothetical protein
+28243..30681	+	812	209921906	-	ECSE_P3-0031	-	COG3188NU	fimbrial usher protein FaeD
+30674..31450	+	258	209921907	-	ECSE_P3-0032	-	COG3121NU	fimbrial chaperone FaeE
+31485..31976	+	163	209921908	-	ECSE_P3-0033	-	-	fimbrial protein FaeF
+32215..33054	+	279	209921909	-	ECSE_P3-0034	-	-	fimbrial protein FaeG
+33225..34022	+	265	209921910	-	ECSE_P3-0035	-	-	fimbrial protein FaeH
+34052..34816	+	254	209921911	-	ECSE_P3-0036	-	-	fimbrial protein FaeI
+34833..35606	+	257	209921912	-	ECSE_P3-0037	-	-	fimbrial protein FaeJ
+35756..36019	-	87	209921913	-	ECSE_P3-0038	-	-	hypothetical protein
+36077..36976	-	299	209921914	-	ECSE_P3-0039	-	COG2801L	transposase
+36964..37290	-	108	209921915	-	ECSE_P3-0040	-	COG2963L	transposase
+37426..37851	+	141	209921916	-	ECSE_P3-0041	-	COG0675L	truncated transposase
+37851..38864	+	337	209921917	-	ECSE_P3-0042	-	COG3436L	truncated transposase
+39287..39463	-	58	209921918	-	ECSE_P3-0043	-	-	hypothetical protein
+39533..41011	-	492	209921919	-	ECSE_P3-0044	-	COG0471P	putative transport protein
+41059..42711	-	550	209921920	-	ECSE_P3-0045	-	COG0281C	malate dehydrogenase
+42794..43891	-	365	209921921	-	ECSE_P3-0046	-	COG3049M	choloylglycine hydrolase
+43934..44233	-	99	209921922	-	ECSE_P3-0047	-	-	hypothetical protein
+44301..44969	+	222	209921923	-	ECSE_P3-0048	-	COG1028IQR	putative acetoin reductase
+45482..45643	-	53	209921924	-	ECSE_P3-0049	-	-	hypothetical protein
+45716..45943	+	75	209921925	-	ECSE_P3-0050	-	-	transposase
+45962..47191	+	409	209921926	-	ECSE_P3-0051	-	COG2963L	hypothetical protein
+47353..47769	-	138	209921927	-	ECSE_P3-0052	-	COG1487R	hypothetical protein
+47766..47996	-	76	209921928	-	ECSE_P3-0053	-	COG4456S	hypothetical protein
+48133..48309	-	58	209921929	-	ECSE_P3-0054	-	-	truncated transposase
+48297..48623	-	108	209921930	-	ECSE_P3-0055	-	COG2963L	transposase
+48796..49029	-	77	209921931	-	ECSE_P3-0056	-	-	hypothetical protein
+49207..50091	-	294	209921932	-	ECSE_P3-0057	-	COG2207K	putative transcription regulator
+50376..51206	+	276	209921933	-	ECSE_P3-0058	-	COG4977K	putative transcription regulator
+51251..52069	-	272	209921934	-	ECSE_P3-0059	-	COG2200T	hypothetical protein
+53582..56194	-	870	209921935	-	ECSE_P3-0060	-	COG3188NU	putative fimbrial usher protein
+56198..56923	-	241	209921936	-	ECSE_P3-0061	-	COG3121NU	putative fimbrial chaperone
+56934..57635	-	233	209921937	-	ECSE_P3-0062	-	COG3121NU	putative fimbrial chaperone
+57638..58201	-	187	209921938	-	ECSE_P3-0063	-	COG3539NU	putative fimbrial protein
+58231..58794	-	187	209921939	-	ECSE_P3-0064	-	-	putative fimbrial protein
+58802..59512	-	236	209921940	-	ECSE_P3-0065	-	COG3121NU	putative fimbrial chaperone
+59579..60133	-	184	209921941	-	ECSE_P3-0066	-	-	putative fimbrial protein
+60409..60537	+	42	209921942	-	ECSE_P3-0067	-	-	hypothetical protein

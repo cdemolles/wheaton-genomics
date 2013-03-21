@@ -1,16 +1,18 @@
 import dnaFunctions as DNA
-import random
+import random, re
 
 class Sequence:
 
 
 	#==============================================================================================#
-	def __init__(self, sequence, start=None, end=None, strand=None):
+	def __init__(self, sequence, start=None, end=None, strand=None, type=None, name=None):
 
 		self.sequence = sequence.strip()
 		self.start    = start
 		self.end      = end
 		self.strand   = strand
+		self.type     = type
+		self.name     = name
 
 
 	#==============================================================================================#
@@ -92,9 +94,9 @@ class Sequence:
 
 
 	#==============================================================================================#
-	def countInvertedRepeats(self, min, max, mismatches, relativePercentages=True):
+	def getInvertedRepeats(self, min, max, mismatches):
 
-		countsOfIRs = {}
+		irs = {}
 
 		motifs = self.motifs(min, max)
 
@@ -126,33 +128,78 @@ class Sequence:
 						# loop over each starting position in the list of location(s) where the reverse complement occurs
 						for reverseComplementLocation in reverseComplementLocations:
 
-							# construct a unique identifier for each motif and its reverse complement along with the starting locations
-							# this is to avoid counting the same thing multiple times
-							if motifLocation < reverseComplementLocation:
-								identifier = motif + '_' + reverseComplement + '_' + str(motifLocation) + '_' + str(reverseComplementLocation)
-							elif reverseComplementLocation < motifLocation:
-								identifier = reverseComplement + '_' + motif + '_' + str(reverseComplementLocation) + '_' + str(motifLocation)
-							else:
-								identifier = None
+							# make sure there are no letters shared between the motifs
+							if abs(reverseComplementLocation - motifLocation) >= len(motif):
 
-							# add the identifier to the set of potential inverted repeats
-							# the data structure is a set so if the identifer is already in the set, it will not be added again
-							if identifier is not None:
-								potentialInvertedRepeats.add(identifier)
+								# construct a unique identifier for each motif and its reverse complement along with the starting locations
+								# this is to avoid counting the same thing multiple times
+								if motifLocation < reverseComplementLocation:
+									identifier = motif + '_' + reverseComplement + '_' + str(motifLocation) + '_' + str(reverseComplementLocation)
+								elif reverseComplementLocation < motifLocation:
+									identifier = reverseComplement + '_' + motif + '_' + str(reverseComplementLocation) + '_' + str(motifLocation)
+								else:
+									identifier = None
+
+								# add the identifier to the set of potential inverted repeats
+								# the data structure is a set so if the identifer is already in the set, it will not be added again
+								if identifier is not None:
+									potentialInvertedRepeats.add(identifier)
 
 			# get the length of the motif
 			key = len(motif)
 
 			# if we've already begun counting IRs of length 2 * key, then union the exisiting set with the generated set of potential inverted repeats
-			if countsOfIRs.has_key(key):
-				countsOfIRs[key] = countsOfIRs[key].union(potentialInvertedRepeats)
+			if irs.has_key(key):
+				irs[key] = irs[key].union(potentialInvertedRepeats)
 			# otherwise, initialize an empty set
 			else:
-				countsOfIRs[key] = set()
+				irs[key] = set()
 
-		for key in countsOfIRs.keys():
+		return irs
 
-			countsOfIRs[key] = len(countsOfIRs[key])
+
+	def getIRDistributions(self, min, max, mismatches, relativePercentages=True):
+
+		irIdentifiers = self.getInvertedRepeats(min, max, mismatches)
+		irDistributions = {}
+
+		for key in irIdentifiers.keys():
+
+			irSet = irIdentifiers[key]
+
+			irDistribution = {}
+
+			for invertedRepeat in irSet:
+
+				regexString = '([ACGT]{' + str(key) + '})_[ACGT]{' + str(key) + '}_\d+_\d+'
+				match = re.match(regexString, invertedRepeat)
+
+				distributionKey = match.groups()[0]
+
+				if irDistribution.has_key(distributionKey):
+					irDistribution[distributionKey] = irDistribution[distributionKey] + 1
+				else:
+					irDistribution[distributionKey] = 1
+
+			if relativePercentages == True:
+
+				for irKey in irDistribution.keys():
+					irDistribution[irKey] = float(irDistribution[irKey]) / len(self.sequence)
+
+			irDistributions[key] = irDistribution
+
+		return irDistributions
+
+
+	def countInvertedRepeats(self, min, max, mismatches, relativePercentages=True):
+
+		irIdentifiers = self.getInvertedRepeats(min, max, mismatches)
+
+		countsOfIRs = {}
+
+		for key in irIdentifiers.keys():
+
+			countsOfIRs[key] = len(irIdentifiers[key])
 
 			if relativePercentages == True:
 				countsOfIRs[key] = float(countsOfIRs[key]) / len(self.sequence)
@@ -168,7 +215,15 @@ class Sequence:
 	def shuffle(self):
 
 		listOfChars = list(self.sequence)
-		random.shuffle(listOfChars)
+		random.seed()
+
+		for i in range(len(listOfChars) - 1, 0, -1):
+
+			j = random.randint(0, i)
+
+			temp = listOfChars[j]
+			listOfChars[j] = listOfChars[i]
+			listOfChars[i] = temp
 
 		shuffledSequence = ''.join(listOfChars)
 

@@ -1,0 +1,1437 @@
+Ignicoccus hospitalis KIN4/I chromosome, complete genome - 1..1297538
+1434 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+143..1972	-	609	156936796	-	Igni_0001	-	COG0532J	translation initiation factor IF-2
+2130..3431	-	433	156936797	-	Igni_0002	-	COG0277C	FAD linked oxidase domain-containing protein
+3442..3864	-	140	156936798	-	Igni_0003	-	-	hypothetical protein
+4026..4610	+	194	156936799	-	Igni_0004	-	COG1676J	tRNA splicing endonuclease
+4549..5286	-	245	156936800	-	Igni_0005	-	COG5014R	radical SAM domain-containing protein
+5291..5671	-	126	156936801	-	Igni_0006	-	-	hypothetical protein
+5710..7683	-	657	156936802	-	Igni_0007	-	COG0550L	DNA topoisomerase I
+7738..8553	+	271	156936803	-	Igni_0008	-	-	hypothetical protein
+8558..10516	-	652	156936804	-	Igni_0009	-	COG0054H	beta-lactamase domain-containing protein
+10527..10958	-	143	156936805	-	Igni_0010	-	-	hypothetical protein
+10984..11508	+	174	156936806	-	Igni_0011	-	COG0521H	molybdenum cofactor synthesis domain-containing protein
+11486..11920	+	144	156936807	-	Igni_0012	-	COG1371S	hypothetical protein
+11946..13400	-	484	156936808	gatB	Igni_0013	-	COG0064J	aspartyl/glutamyl-tRNA amidotransferase subunit B
+13348..13752	-	134	156936809	-	Igni_0014	-	COG2345K	ArsR family transcriptional regulator
+13731..14405	-	224	156936810	-	Igni_0015	-	-	hypothetical protein
+14447..16678	+	743	156936811	-	Igni_0016	-	COG1287R	hypothetical protein
+16698..19751	+	1017	156936812	-	Igni_0017	-	-	hypothetical protein
+19735..20838	+	367	156936813	-	Igni_0018	-	COG0337E	3-dehydroquinate synthase
+20824..21534	-	236	156936814	-	Igni_0019	-	COG4043S	ProFAR isomerase family protein
+21592..22017	+	141	156936815	-	Igni_0020	-	COG0432S	hypothetical protein
+22014..23168	+	384	156936816	-	Igni_0021	-	COG1488H	nicotinate phosphoribosyltransferase
+23149..23751	-	200	156936817	-	Igni_0022	-	COG0098J	RNA-binding protein
+23816..24517	+	233	156936818	-	Igni_0023	-	-	hypothetical protein
+24570..24944	+	124	156936819	-	Igni_0024	-	-	hypothetical protein
+24979..26793	+	604	156936820	-	Igni_0025	-	COG2414C	aldehyde ferredoxin oxidoreductase
+27333..27749	+	138	156936821	-	Igni_0026	-	-	hypothetical protein
+27791..28123	-	110	156936822	-	Igni_0027	-	-	hypothetical protein
+28207..28446	-	79	156936823	-	Igni_0028	-	-	hypothetical protein
+28586..28894	+	102	156936824	-	Igni_0029	-	COG0140E	phosphoribosyl-ATP pyrophosphohydrolase
+28875..29468	+	197	156936825	-	Igni_0030	-	COG0118E	imidazole glycerol phosphate synthase subunit hisH
+29465..30049	-	194	156936826	-	Igni_0031	-	-	hypothetical protein
+30286..30687	+	133	156936827	-	Igni_0032	-	-	hypothetical protein
+30684..31172	+	162	156936828	-	Igni_0033	-	COG4933S	hypothetical protein
+31169..32383	-	404	156936829	-	Igni_0034	-	COG0714R	hypothetical protein
+32522..33181	-	219	156936830	-	Igni_0035	-	-	hypothetical protein
+33252..35234	-	660	156936831	-	Igni_0036	-	COG1328F	anaerobic ribonucleoside triphosphate reductase
+35355..35714	-	119	156936832	-	Igni_0037	-	-	hypothetical protein
+35720..37534	-	604	156936833	-	Igni_0038	-	COG1245R	ATPase RIL
+37776..37943	+	55	156936834	-	Igni_0039	-	-	hypothetical protein
+38018..39262	+	414	156936835	-	Igni_0040	-	COG0499H	adenosylhomocysteinase
+39256..40149	+	297	156936836	-	Igni_0041	-	COG0524G	ribokinase-like domain-containing protein
+40502..41164	-	220	156936837	-	Igni_0042	-	COG0543HC	oxidoreductase FAD/NAD(P)-binding subunit
+41171..41644	-	157	156936838	-	Igni_0043	-	COG1781F	aspartate carbamoyltransferase
+41646..42563	-	305	156936839	-	Igni_0044	-	COG0540F	aspartate carbamoyltransferase
+42586..44703	+	705	156936840	-	Igni_0045	-	COG5650S	hypothetical protein
+44652..45074	-	140	156936841	-	Igni_0046	-	COG1412R	hypothetical protein
+45142..46239	+	365	156936842	-	Igni_0047	-	COG0755O	cytochrome c assembly protein
+46305..46700	+	131	156936843	-	Igni_0048	-	-	hypothetical protein
+46676..47461	+	261	156936844	-	Igni_0049	-	-	hypothetical protein
+47461..48195	+	244	156936845	-	Igni_0050	-	COG1767H	hypothetical protein
+48192..49349	+	385	156936846	-	Igni_0051	-	COG1092R	SAM-dependent methyltransferase
+49321..50190	-	289	156936847	-	Igni_0052	-	COG0558I	CDP-alcohol phosphatidyltransferase
+50209..51969	-	586	156936848	-	Igni_0053	-	COG1199KL	DEAD/DEAH box helicase
+51990..52433	-	147	156936849	-	Igni_0054	-	-	hypothetical protein
+52482..53213	+	243	156936850	-	Igni_0055	-	COG2430S	hypothetical protein
+53197..53970	-	257	156936851	-	Igni_0056	-	COG3264M	MscS mechanosensitive ion channel
+54109..54954	+	281	156936852	-	Igni_0057	-	COG0189HJ	L-2-aminoadipate N-acetyltransferase
+55001..55720	+	239	156936853	-	Igni_0058	-	COG1047O	peptidylprolyl isomerase, FKBP-type
+55751..56284	-	177	156936854	-	Igni_0059	-	COG0195K	transcription elongation factor
+56585..57256	+	223	156936855	-	Igni_0060	-	COG2129R	metallophosphoesterase
+57314..58639	+	441	156936856	-	Igni_0061	-	COG0358L	DNA primase
+58650..61010	-	786	156936857	-	Igni_0062	-	COG0417L	DNA polymerase II
+61050..61421	-	123	156936858	-	Igni_0063	-	-	hypothetical protein
+61482..62123	+	213	156936859	-	Igni_0064	-	-	hypothetical protein
+62158..62478	+	106	156936860	-	Igni_0065	-	COG0051J	30S ribosomal protein S10P
+62924..63997	-	357	156936861	-	Igni_0066	-	COG1252C	FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+64061..65041	-	326	156936862	-	Igni_0067	-	COG0144J	ribosomal RNA methyltransferase NOP2
+65081..65857	+	258	156936863	-	Igni_0068	-	-	hypothetical protein
+65854..66576	-	240	156936864	-	Igni_0069	-	COG0730R	hypothetical protein
+66725..68026	+	433	156936865	-	Igni_0070	-	COG1498J	C/D box methylation guide ribonucleoprotein complex aNOP56 subunit
+68032..68724	+	230	156936866	-	Igni_0071	-	-	hypothetical protein
+68721..69644	-	307	156936867	-	Igni_0072	-	-	metallophosphoesterase
+69864..70889	-	341	156936868	-	Igni_0073	-	-	hypothetical protein
+70886..71686	-	266	156936869	-	Igni_0074	-	COG3463S	hypothetical protein
+71690..72067	-	125	156936870	-	Igni_0075	-	COG0864K	CopG family transcriptional regulator
+72129..72314	-	61	156936871	-	Igni_0076	-	-	hypothetical protein
+72307..74220	-	637	156936872	-	Igni_0077	-	COG2511J	glutamyl-tRNA(Gln) amidotransferase subunit E
+74402..75472	+	356	156936873	-	Igni_0078	-	COG2219L	DNA primase large subunit
+75438..76121	-	227	156936874	-	Igni_0079	-	COG2220R	Zn-dependent hydrolase of the beta-lactamase fold-like protein
+76162..76518	-	118	156936875	-	Igni_0080	-	COG1917S	cupin
+76719..80897	+	1392	156936876	-	Igni_0081	-	COG5185	hypothetical protein
+80811..81365	-	184	156936877	-	Igni_0082	-	COG1909S	hypothetical protein
+81380..81592	-	70	156936878	-	Igni_0083	-	COG2093K	DNA-directed RNA polymerase subunit E''
+81589..82122	-	177	156936879	-	Igni_0084	-	COG1095K	DNA-directed RNA polymerase subunit E'
+82186..83076	-	296	156936880	-	Igni_0085	-	COG0074C	succinyl-CoA synthetase subunit alpha
+83094..84224	-	376	156936881	-	Igni_0086	-	COG0045C	succinyl-CoA synthetase subunit beta
+84340..84822	+	160	156936882	-	Igni_0087	-	COG1730O	prefoldin subunit alpha
+84833..85045	+	70	156936883	-	Igni_0088	-	-	hypothetical protein
+85094..85840	+	248	156936884	-	Igni_0089	-	COG0007H	uroporphyrin-III C-methyltransferase
+85828..86532	+	234	156936885	-	Igni_0090	-	COG1587H	uroporphyrinogen III synthase HEM4
+86553..86711	+	52	156936886	-	Igni_0091	-	-	hypothetical protein
+86708..87322	-	204	156936887	-	Igni_0092	-	COG1458R	hypothetical protein
+87471..88118	-	215	156936888	-	Igni_0093	-	COG2386O	hypothetical protein
+88150..88554	-	134	156936889	-	Igni_0094	-	-	hypothetical protein
+88603..88929	-	108	156936890	-	Igni_0095	-	COG1633S	hypothetical protein
+89714..91390	+	558	156936891	-	Igni_0096	-	COG0459O	thermosome
+91438..92253	+	271	156936892	-	Igni_0097	-	COG1578S	hypothetical protein
+92257..93321	+	354	156936893	-	Igni_0098	-	COG0438M	hypothetical protein
+93303..93716	-	137	156936894	-	Igni_0099	-	COG1733K	HxlR family transcriptional regulator
+93710..94735	-	341	156936895	-	Igni_0100	-	COG0006E	peptidase M24
+94754..95290	-	178	156936896	-	Igni_0101	-	COG5491N	hypothetical protein
+95361..96416	-	351	156936897	-	Igni_0102	-	COG0247C	hypothetical protein
+96488..96697	+	69	156936898	-	Igni_0103	-	COG2051J	30S ribosomal protein S27E
+96780..98099	+	439	156936899	-	Igni_0104	-	COG0422H	thiamine biosynthesis protein ThiC
+98081..99205	-	374	156936900	-	Igni_0105	-	COG1415S	hypothetical protein
+99205..99963	-	252	156936901	-	Igni_0106	-	COG1117P	phosphate ABC transporter ATPase
+99953..100792	-	279	156936902	-	Igni_0107	-	COG0581P	binding-protein-dependent transporters inner membrane component
+100785..101708	-	307	156936903	-	Igni_0108	-	COG0573P	phosphate ABC transporter, inner membrane subunit PstC
+101770..102357	-	195	156936904	-	Igni_0109	-	COG1994R	peptidase M50
+102360..102695	-	111	156936905	-	Igni_0110	-	COG0073R	tRNA-binding domain-containing protein
+102732..103712	-	326	156936906	-	Igni_0111	-	COG0123BQ	histone deacetylase superfamily protein
+103723..104604	-	293	156936907	-	Igni_0112	-	COG0648L	hypothetical protein
+104637..104930	-	97	156936908	-	Igni_0113	-	-	hypothetical protein
+104917..105717	-	266	156936909	-	Igni_0114	-	-	hypothetical protein
+105714..106226	-	170	156936910	-	Igni_0115	-	COG0476H	UBA/THIF-type NAD/FAD binding protein
+106219..106578	-	119	156936911	-	Igni_0116	-	-	hypothetical protein
+106478..107263	-	261	156936912	-	Igni_0117	-	-	hypothetical protein
+107253..107996	-	247	156936913	-	Igni_0118	-	COG1121P	ABC transporter
+108022..108447	-	141	156936914	-	Igni_0119	-	-	hypothetical protein
+108432..108974	-	180	156936915	-	Igni_0120	-	COG1676J	tRNA intron endonuclease
+108978..109670	-	230	156936916	-	Igni_0121	-	-	hypothetical protein
+109953..110501	+	182	156936917	-	Igni_0122	-	COG1522K	AsnC family transcriptional regulator
+110482..111099	+	205	156936918	-	Igni_0123	-	COG0121R	glutamine amidotransferase-like protein
+111086..111316	-	76	156936919	-	Igni_0124	-	-	hypothetical protein
+111346..112122	-	258	156936920	-	Igni_0125	-	COG0705R	rhomboid family protein
+112189..113982	+	597	156936921	-	Igni_0126	-	COG1542S	hypothetical protein
+114019..114705	+	228	156936922	-	Igni_0127	-	COG0565J	tRNA/rRNA methyltransferase SpoU
+114686..115276	-	196	156936923	-	Igni_0128	-	COG2095U	multiple antibiotic resistance (MarC)-like protein
+115291..117726	-	811	156936924	-	Igni_0129	-	COG1444R	hypothetical protein
+117775..118473	+	232	156936925	-	Igni_0130	-	COG0084L	TatD-related deoxyribonuclease
+118545..119135	-	196	156936926	-	Igni_0131	-	COG1896R	metal dependent phosphohydrolase
+119157..120401	-	414	156936927	-	Igni_0132	-	COG1454C	alcohol dehydrogenase
+120480..121745	+	421	156936928	-	Igni_0133	-	COG0175EH	hypothetical protein
+121776..122573	+	265	156936929	-	Igni_0134	-	-	hypothetical protein
+122524..122970	+	148	156936930	-	Igni_0135	-	-	hypothetical protein
+122973..123701	+	242	156936931	-	Igni_0136	-	-	hypothetical protein
+123694..124473	+	259	156936932	-	Igni_0137	-	-	hypothetical protein
+124437..125228	+	263	156936933	-	Igni_0138	-	COG0476H	UBA/THIF-type NAD/FAD binding protein
+125234..126523	-	429	156936934	-	Igni_0139	-	COG0683E	extracellular ligand-binding receptor
+126575..127870	-	431	156936935	-	Igni_0140	-	COG0683E	extracellular ligand-binding receptor
+127999..128748	+	249	156936936	-	Igni_0141	-	-	hypothetical protein
+128799..129314	+	171	156936937	-	Igni_0142	-	COG1848R	hypothetical protein
+129316..129516	+	66	156936938	-	Igni_0143	-	-	hypothetical protein
+129521..129964	+	147	156936939	-	Igni_0144	-	COG0589T	UspA domain-containing protein
+129973..131652	-	559	156936940	-	Igni_0145	-	COG1061KL	DEAD/DEAH box helicase
+131734..132693	+	319	156936941	-	Igni_0146	-	COG1131V	daunorubicin resistance ABC transporter ATPase subunit
+132698..133465	+	255	156936942	-	Igni_0147	-	COG0842V	daunorubicin resistance ABC transporter, inner membrane subunit B
+133508..133795	+	95	156936943	-	Igni_0148	-	-	hypothetical protein
+134008..134847	-	279	156936944	-	Igni_0149	-	COG1502I	hypothetical protein
+135275..138343	+	1022	156936945	-	Igni_0150	-	COG0495J	leucyl-tRNA synthetase
+138383..138676	+	97	156936946	-	Igni_0151	-	COG1758K	DNA-directed RNA polymerase subunit K
+138681..139523	+	280	156936947	-	Igni_0152	-	-	hypothetical protein
+139529..140017	+	162	156936948	-	Igni_0153	-	COG0681U	peptidase S26B, signal peptidase
+139969..140610	-	213	156936949	-	Igni_0154	-	-	hypothetical protein
+140582..141184	-	200	156936950	-	Igni_0155	-	COG0311H	SNO glutamine amidotransferase
+141177..142205	-	342	156936951	-	Igni_0156	-	COG0214H	pyridoxal biosynthesis lyase PdxS
+142310..142585	+	91	156936952	-	Igni_0157	-	COG1958K	like-Sm ribonucleoprotein, core
+142596..143801	+	401	156936953	-	Igni_0158	-	COG1812E	S-adenosylmethionine synthetase
+143798..144076	-	92	156936954	-	Igni_0159	-	-	hypothetical protein
+144100..144684	+	194	156936955	-	Igni_0160	-	COG2813J	methyltransferase small
+144893..145549	+	218	156936956	-	Igni_0161	-	COG1131V	ABC transporter
+145622..147376	+	584	156936957	-	Igni_0162	-	COG0303H	molybdenum cofactor synthesis domain-containing protein
+147351..148076	+	241	156936958	-	Igni_0163	-	COG1136V	ABC transporter
+148062..148604	-	180	156936959	-	Igni_0164	-	-	hypothetical protein
+148667..150052	+	461	156936960	-	Igni_0165	-	COG0151F	phosphoribosylamine--glycine ligase
+150109..150804	+	231	156936961	-	Igni_0166	-	-	hypothetical protein
+150801..151592	+	263	156936962	-	Igni_0167	-	COG1161R	GTP-binding protein YlqF
+151589..152470	+	293	156936963	-	Igni_0168	-	COG0189HJ	30S ribosomal protein S6
+152731..153078	-	115	156936964	-	Igni_0169	-	-	hypothetical protein
+153125..153502	-	125	156936965	-	Igni_0170	-	-	hypothetical protein
+153739..155517	+	592	156936966	-	Igni_0171	-	COG0449M	glutamine--fructose-6-phosphate transaminase
+155574..156308	+	244	156936967	-	Igni_0172	-	COG1149C	4Fe-4S ferredoxin
+156290..156925	+	211	156936968	-	Igni_0173	-	COG1149C	4Fe-4S ferredoxin
+156959..157252	+	97	156936969	-	Igni_0174	-	COG1581K	DNA/RNA-binding protein albA
+157311..157631	+	106	156936970	-	Igni_0175	-	-	hypothetical protein
+157616..157888	-	90	156936971	-	Igni_0176	-	-	hypothetical protein
+157892..158599	-	235	156936972	-	Igni_0177	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+158651..159265	+	204	156936973	-	Igni_0178	-	COG3642T	Mn2+-dependent serine/threonine protein kinase
+159259..159825	+	188	156936974	-	Igni_0179	-	COG0127F	RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
+160032..160490	+	152	156936975	rps13p	Igni_0180	-	COG0099J	30S ribosomal protein S13
+160502..161002	+	166	156936976	rps4p	Igni_0181	-	COG0522J	30S ribosomal protein S4
+161022..161414	+	130	156936977	rps11p	Igni_0182	-	COG0100J	30S ribosomal protein S11
+161418..162269	+	283	156936978	-	Igni_0183	-	COG0202K	DNA-directed RNA polymerase subunit D
+162277..162633	+	118	156936979	-	Igni_0184	-	COG1727J	50S ribosomal protein L18
+162644..163090	+	148	156936980	-	Igni_0185	-	COG0102J	50S ribosomal protein L13
+163090..163536	+	148	156936981	-	Igni_0186	-	COG0103J	30S ribosomal protein S9
+163547..163753	+	68	156936982	-	Igni_0187	-	COG1644K	DNA-directed RNA polymerase subunit N
+163756..164394	+	212	156936983	rps2P	Igni_0188	-	COG0052J	30S ribosomal protein S2
+164523..164762	+	79	156936984	-	Igni_0189	-	COG1141C	ferredoxin-like protein
+164769..164996	-	75	156936985	-	Igni_0190	-	-	hypothetical protein
+165104..167935	+	943	156936986	-	Igni_0191	-	COG1201R	DEAD/DEAH box helicase
+167967..169355	+	462	156936987	-	Igni_0192	-	COG0168P	cation transporter
+169800..170174	+	124	156936988	-	Igni_0193	-	COG4901J	30S ribosomal protein S25E
+170186..170986	+	266	156936989	-	Igni_0194	-	COG1938R	hypothetical protein
+170998..171306	+	102	156936990	-	Igni_0195	-	COG0071O	hypothetical protein
+171346..174051	+	901	156936991	alaS	Igni_0196	-	COG0013J	alanyl-tRNA synthetase
+174422..175888	-	488	156936992	-	Igni_0197	-	-	hypothetical protein
+175934..176950	+	338	156936993	-	Igni_0198	-	COG2100R	radical SAM domain-containing protein
+176932..178317	-	461	156936994	-	Igni_0199	-	COG0527E	aspartate kinase
+178366..178527	-	53	156936995	-	Igni_0200	-	-	hypothetical protein
+178708..180036	+	442	156936996	-	Igni_0201	-	COG0252EJ	glutamyl-tRNA(Gln) amidotransferase subunit D
+180005..180832	-	275	156936997	-	Igni_0202	-	-	hypothetical protein
+181026..181334	+	102	156936998	-	Igni_0203	-	COG0350L	methylated-DNA--protein-cysteine methyltransferase
+181315..181683	-	122	156936999	-	Igni_0204	-	-	hypothetical protein
+181849..182793	+	314	156937000	-	Igni_0205	-	COG0714R	ATPase
+182790..184076	+	428	156937001	-	Igni_0206	-	COG1305E	transglutaminase domain-containing protein
+184359..185135	-	258	156937002	-	Igni_0207	-	COG2014S	hypothetical protein
+185180..185482	-	100	156937003	-	Igni_0208	-	-	hypothetical protein
+185567..186397	-	276	156937004	-	Igni_0209	-	COG2123J	exosome complex RNA-binding protein Rrp42
+186398..187123	-	241	156937005	-	Igni_0210	-	COG0689J	ribosomal RNA-processing protein RRP41/SKI6
+187120..187839	-	239	156937006	-	Igni_0211	-	COG1097J	exosome complex RNA-binding protein Rrp4
+187888..188598	+	236	156937007	-	Igni_0212	-	COG1571R	hypothetical protein
+188552..189037	-	161	156937008	-	Igni_0213	-	COG2512S	hypothetical protein
+189083..189391	-	102	156937009	-	Igni_0214	-	-	hypothetical protein
+189454..190242	-	262	156937010	-	Igni_0215	-	COG0169E	shikimate dehydrogenase
+190320..190559	+	79	156937011	-	Igni_0216	-	-	hypothetical protein
+190596..191744	-	382	156937012	-	Igni_0217	-	-	hypothetical protein
+191746..192036	-	96	156937013	-	Igni_0218	-	-	hypothetical protein
+192084..192932	+	282	156937014	-	Igni_0219	-	COG0611H	AIR synthase-like protein
+192965..195343	+	792	156937015	valS	Igni_0220	-	COG0525J	valyl-tRNA synthetase
+195429..196637	+	402	156937016	-	Igni_0221	-	COG0433R	ATPase
+196621..197166	-	181	156937017	-	Igni_0222	-	COG1936F	nucleotide kinase-like protein
+197200..198057	+	285	156937018	-	Igni_0223	-	COG1082G	xylose isomerase domain-containing protein
+198065..198607	-	180	156937019	dcd	Igni_0224	-	COG0717F	deoxycytidine triphosphate deaminase
+198709..199065	+	118	156937020	-	Igni_0225	-	-	hypothetical protein
+199062..199295	-	77	156937021	-	Igni_0226	-	COG1522K	AsnC family transcriptional regulator
+199341..200249	-	302	156937022	-	Igni_0227	-	COG0167F	dihydroorotate dehydrogenase 1B
+200321..201187	+	288	156937023	-	Igni_0228	-	-	hypothetical protein
+201184..201840	-	218	156937024	-	Igni_0229	-	COG0602O	radical SAM domain-containing protein
+201840..202226	-	128	156937025	rpl7ae	Igni_0230	-	COG1358J	50S ribosomal protein L7
+202406..203692	-	428	156937026	-	Igni_0231	-	COG2848S	hypothetical protein
+203703..204038	-	111	156937027	-	Igni_0232	-	COG1617S	hypothetical protein
+204061..204654	-	197	156937028	-	Igni_0233	-	COG2236R	phosphoribosyltransferase
+204733..205083	-	116	156937029	-	Igni_0234	-	-	hypothetical protein
+205149..205901	-	250	156937030	-	Igni_0235	-	COG0668M	hypothetical protein
+205907..206569	-	220	156937031	-	Igni_0236	-	COG0569P	TrkA domain-containing protein
+206576..206938	-	120	156937032	-	Igni_0237	-	-	hypothetical protein
+206916..207602	-	228	156937033	-	Igni_0238	-	COG2129R	hypothetical protein
+207603..208457	+	284	156937034	-	Igni_0239	-	-	hypothetical protein
+208429..208863	-	144	156937035	-	Igni_0240	-	COG1325J	hypothetical protein
+208860..209297	-	145	156937036	-	Igni_0241	-	COG4080L	exonuclease-like protein
+209327..209953	-	208	156937037	-	Igni_0242	-	COG0560E	HAD family hydrolase
+210087..212756	+	889	156937038	-	Igni_0243	-	COG0086K	DNA-directed RNA polymerase subunit A'
+212753..214021	+	422	156937039	-	Igni_0244	-	COG0086K	DNA-directed RNA polymerase subunit A
+214018..214341	+	107	156937040	-	Igni_0245	-	COG1911J	50S ribosomal protein L30
+214343..214774	+	143	156937041	-	Igni_0246	-	COG0195K	NusA family protein
+214789..215232	+	147	156937042	rps12P	Igni_0247	-	COG0048J	30S ribosomal protein S12
+215236..215619	-	127	156937043	-	Igni_0248	-	COG1259S	hypothetical protein
+215791..216378	+	195	156937044	-	Igni_0249	-	COG0049J	30S ribosomal protein S7
+216447..217658	+	403	156937045	-	Igni_0250	-	COG1474LO	ORC complex protein Cdc6/Orc1
+217726..218178	+	150	156937046	-	Igni_0251	-	COG1628S	hypothetical protein
+218147..219043	-	298	156937047	-	Igni_0252	-	COG0462FE	ribose-phosphate pyrophosphokinase
+219077..220117	-	346	156937048	-	Igni_0253	-	COG1537R	translation factor pelota
+220405..220641	-	78	156937049	-	Igni_0254	-	-	hypothetical protein
+220718..221128	+	136	156937050	-	Igni_0255	-	COG0589T	UspA domain-containing protein
+221174..222412	+	412	156937051	-	Igni_0256	-	COG0365I	AMP-dependent synthetase/ligase
+222448..223149	+	233	156937052	-	Igni_0257	-	COG0365I	acyl-CoA synthetase
+223186..223602	-	138	156937053	-	Igni_0258	-	-	hypothetical protein
+223694..224443	-	249	156937054	-	Igni_0259	-	COG1407R	phosphoesterase
+224474..225136	-	220	156937055	-	Igni_0260	-	COG0314H	molybdopterin biosynthesis MoaE protein
+225241..226707	+	488	156937056	-	Igni_0261	-	COG0119E	pyruvate carboxyltransferase
+226742..226927	+	61	156937057	-	Igni_0262	-	-	hypothetical protein
+226924..227223	-	99	156937058	-	Igni_0263	-	-	hypothetical protein
+227539..227922	+	127	156937059	-	Igni_0264	-	-	hypothetical protein
+227919..229367	-	482	156937060	-	Igni_0265	-	COG4805S	hypothetical protein
+229405..230394	-	329	156937061	-	Igni_0266	-	COG0533O	metalloendopeptidase glycoprotease family
+230408..230923	-	171	156937062	-	Igni_0267	-	-	hypothetical protein
+230961..232355	-	464	156937063	-	Igni_0268	-	-	hypothetical protein
+232430..233077	+	215	156937064	-	Igni_0269	-	COG0269G	orotidine 5'-phosphate decarboxylase
+233082..233258	-	58	156937065	-	Igni_0270	-	COG1998J	30S ribosomal protein S27AE
+233270..233587	-	105	156937066	-	Igni_0271	-	COG2004J	30S ribosomal protein S24
+233601..233825	-	74	156937067	rps17E	Igni_0272	-	COG1383J	30S ribosomal protein S17
+233827..234930	-	367	156937068	-	Igni_0273	-	COG0402FR	amidohydrolase
+235012..236238	-	408	156937069	pgk	Igni_0274	-	COG0126G	phosphoglycerate kinase
+236443..236685	+	80	156937070	-	Igni_0275	-	-	hypothetical protein
+236728..238413	+	561	156937071	-	Igni_0276	-	COG1053C	nitrate/sulfonate/bicarbonate ABC transporter substrate-binding protein
+238454..239641	+	395	156937072	-	Igni_0277	-	-	hypothetical protein
+239556..240710	-	384	156937073	-	Igni_0278	-	COG0420L	metallophosphoesterase
+240763..241122	-	119	156937074	-	Igni_0279	-	-	hypothetical protein
+241125..241772	-	215	156937075	-	Igni_0280	-	COG0710E	3-dehydroquinate dehydratase
+242242..242436	-	64	156937076	-	Igni_0282	-	COG1148C	hypothetical protein
+242430..243548	-	372	156937077	-	Igni_0283	-	COG2262R	HSR1-like GTP-binding protein
+243679..244146	+	155	156937078	-	Igni_0284	-	COG2238J	30S ribosomal protein S19
+244151..244501	+	116	156937079	-	Igni_0285	-	COG2118R	DNA-binding protein
+244495..244662	+	55	156937080	-	Igni_0286	-	COG2167J	50S ribosomal protein L39
+244673..244978	+	101	156937081	-	Igni_0287	-	COG2097J	50S ribosomal protein L31
+244985..245656	+	223	156937082	-	Igni_0288	-	COG1976J	translation initiation factor IF-6
+245698..246765	+	355	156937083	-	Igni_0289	-	COG1209M	nucleotidyl transferase
+247120..247404	+	94	156937084	-	Igni_0290	-	COG4830J	30S ribosomal protein S26
+247407..247976	+	189	156937085	-	Igni_0291	-	COG1901S	hypothetical protein
+247939..249426	-	495	156937086	-	Igni_0292	-	COG0146EQ	5-oxoprolinase
+249501..250328	+	275	156937087	-	Igni_0293	-	COG0467T	hypothetical protein
+250654..251247	+	197	156937088	-	Igni_0294	-	COG2263J	methyltransferase
+251198..252118	-	306	156937089	-	Igni_0295	-	COG0024J	methionine aminopeptidase
+252136..254094	-	652	156937090	-	Igni_0296	-	COG2414C	glyceraldehyde-3-phosphate ferredoxin oxidoreductase
+254141..254524	+	127	156937091	-	Igni_0297	-	COG2835S	hypothetical protein
+254521..255606	+	361	156937092	-	Igni_0298	-	COG2814G	hypothetical protein
+255626..255922	+	98	156937093	-	Igni_0299	-	-	hypothetical protein
+255913..257043	-	376	156937094	-	Igni_0300	-	COG1533L	radical SAM domain-containing protein
+257049..257624	-	191	156937095	-	Igni_0301	-	COG1573L	phage SPO1 DNA polymerase-related protein
+257685..258764	+	359	156937096	-	Igni_0302	-	COG2814G	major facilitator transporter
+258725..259000	-	91	156937097	-	Igni_0303	-	COG3830T	ACT domain-containing protein
+259042..259602	-	186	156937098	-	Igni_0304	-	COG0066E	3-isopropylmalate dehydratase small subunit
+259584..260075	-	163	156937099	-	Igni_0305	-	COG1611R	hypothetical protein
+261315..262178	+	287	156937100	-	Igni_0306	-	COG0467T	circadian clock protein KaiC
+262175..263110	-	311	156937101	-	Igni_0307	-	COG0077E	prephenate dehydratase
+263164..263424	+	86	156937102	-	Igni_0308	-	COG1522K	AsnC family transcriptional regulator
+263421..264614	+	397	156937103	-	Igni_0309	-	COG1571R	DNA-binding protein
+264611..264973	-	120	156937104	-	Igni_0310	-	-	hypothetical protein
+265071..266030	+	319	156937105	-	Igni_0311	-	COG0150F	phosphoribosylformylglycinamidine cyclo-ligase
+266020..266562	-	180	156937106	-	Igni_0312	-	-	hypothetical protein
+266591..268249	-	552	156937107	-	Igni_0313	-	COG0441J	anticodon-binding domain-containing protein
+268286..271210	-	974	156937108	-	Igni_0314	-	COG1138O	cytochrome c assembly protein
+271268..272425	-	385	156937109	-	Igni_0315	-	COG0624E	acetylornithine deacetylase
+272555..274015	+	486	156937110	-	Igni_0316	-	COG0785O	thioredoxin domain-containing protein
+273994..274761	-	255	156937111	-	Igni_0317	-	COG1829R	GHMP kinase
+274795..275598	-	267	156937112	-	Igni_0318	-	COG0122L	HhH-GPD family protein
+275595..276566	-	323	156937113	-	Igni_0319	-	COG2520R	methyltransferase
+276493..277536	-	347	156937114	-	Igni_0320	-	-	hypothetical protein
+277637..278860	+	407	156937115	-	Igni_0321	-	-	hypothetical protein
+278815..279405	-	196	156937116	-	Igni_0322	-	COG2230M	cyclopropane fatty acid synthase-like protein
+279553..280800	+	415	156937117	-	Igni_0323	-	COG5257J	translation initiation factor IF-2
+280797..281825	-	342	156937118	-	Igni_0324	-	COG0113H	delta-aminolevulinic acid dehydratase
+281891..282595	+	234	156937119	-	Igni_0325	-	COG2013S	hypothetical protein
+282698..284269	+	523	156937120	-	Igni_0326	-	COG1517L	hypothetical protein
+284384..285220	+	278	156937121	-	Igni_0327	-	COG1336L	CRISPR-associated RAMP Cmr4 family protein
+285517..288594	+	1025	156937122	-	Igni_0328	-	COG1353R	hypothetical protein
+288601..289665	+	354	156937123	-	Igni_0329	-	COG3956R	hypothetical protein
+290035..290451	-	138	156937124	-	Igni_0330	-	-	hypothetical protein
+291016..292575	-	519	156937125	pyrG	Igni_0331	-	COG0504F	CTP synthetase
+292640..293686	-	348	156937126	-	Igni_0332	-	COG0641R	radical SAM domain-containing protein
+293686..294030	-	114	156937127	-	Igni_0333	-	-	hypothetical protein
+294150..294566	+	138	156937128	-	Igni_0334	-	COG0041F	phosphoribosylaminoimidazole carboxylase
+294580..295182	+	200	156937129	-	Igni_0335	-	-	hypothetical protein
+295179..295706	+	175	156937130	-	Igni_0336	-	-	hypothetical protein
+295689..296324	-	211	156937131	-	Igni_0337	-	COG1515L	endonuclease V
+296321..297136	-	271	156937132	-	Igni_0338	-	COG0142H	polyprenyl synthetase
+297180..297563	+	127	156937133	-	Igni_0339	-	COG0526OC	hypothetical protein
+297469..298623	-	384	156937134	-	Igni_0340	-	COG0635H	radical SAM domain-containing protein
+298680..300146	-	488	156937135	-	Igni_0341	-	COG1892S	phosphoenolpyruvate carboxylase
+300240..301523	+	427	156937136	-	Igni_0342	-	COG1258J	pseudouridylate synthase
+301431..302267	-	278	156937137	-	Igni_0343	-	COG0483G	inositol monophosphatase
+302251..302910	-	219	156937138	-	Igni_0344	-	COG3382S	phosphoenolpyruvate synthase
+302944..304341	-	465	156937139	-	Igni_0345	-	COG2509R	FAD dependent oxidoreductase
+304343..305362	-	339	156937140	-	Igni_0346	-	COG0104F	adenylosuccinate synthetase
+305408..306544	-	378	156937141	-	Igni_0347	-	COG0162J	tyrosyl-tRNA synthetase
+306631..306993	+	120	156937142	-	Igni_0348	-	COG1826U	Sec-independent protein translocase TatA
+307034..307714	+	226	156937143	-	Igni_0349	-	COG1926R	phosphoribosyltransferase
+308325..308603	+	92	156937144	-	Igni_0350	-	-	hypothetical protein
+308648..309364	+	238	156937145	-	Igni_0351	-	COG2820F	purine phosphorylase family 1
+309361..309966	+	201	156937146	-	Igni_0352	-	COG0792L	hypothetical protein
+309947..310510	-	187	156937147	-	Igni_0353	-	-	hypothetical protein
+310555..311283	-	242	156937148	-	Igni_0354	-	COG1489R	sugar fermentation stimulation protein A
+311280..311921	-	213	156937149	-	Igni_0355	-	COG0378OK	hydrogenase nickel incorporation protein HypB
+312097..312621	-	174	156937150	-	Igni_0356	-	-	hypothetical protein
+312618..312842	-	74	156937151	-	Igni_0357	-	-	hypothetical protein
+312967..313521	+	184	156937152	-	Igni_0358	-	COG0727R	hypothetical protein
+313518..314198	+	226	156937153	-	Igni_0359	-	-	hypothetical protein
+314316..315068	-	250	156937154	-	Igni_0360	-	COG0212H	5-formyltetrahydrofolate cyclo-ligase
+315142..315642	+	166	156937155	-	Igni_0361	-	-	hypothetical protein
+315677..317113	+	478	156937156	-	Igni_0362	-	COG0442J	prolyl-tRNA synthetase
+317110..318273	-	387	156937157	-	Igni_0363	-	COG1980G	hypothetical protein
+318375..319961	-	528	156937158	-	Igni_0364	-	COG1196D	hypothetical protein
+319966..320622	-	218	156937159	-	Igni_0365	-	-	hypothetical protein
+320726..320995	+	89	156937160	-	Igni_0366	-	COG1594K	DNA-directed RNA polymerase subunit M
+321035..321334	+	99	156937161	-	Igni_0367	-	-	hypothetical protein
+321331..322596	+	421	156937162	-	Igni_0368	-	COG1032C	radical SAM domain-containing protein
+322627..323802	+	391	156937163	-	Igni_0369	-	COG1341R	GTPase or GTP-binding protein-like protein
+323799..327824	-	1341	156937164	-	Igni_0370	-	-	hypothetical protein
+327949..328521	+	190	156937165	-	Igni_0371	-	-	hypothetical protein
+328506..329006	+	166	156937166	-	Igni_0372	-	-	hypothetical protein
+328987..329595	-	202	156937167	-	Igni_0373	-	COG0009J	translation factor SUA5
+329592..330527	-	311	156937168	-	Igni_0374	-	COG0805U	Sec-independent protein translocase TatC
+330676..331179	+	167	156937169	-	Igni_0375	-	COG1986S	hypothetical protein
+331246..332289	+	347	156937170	-	Igni_0376	-	COG3425I	hypothetical protein
+332295..333356	+	353	156937171	-	Igni_0377	-	COG0183I	acetyl-CoA acetyltransferase
+333360..333755	+	131	156937172	-	Igni_0378	-	COG1545R	hypothetical protein
+333742..335166	-	474	156937173	-	Igni_0379	-	COG0318IQ	AMP-dependent synthetase/ligase
+335205..335582	-	125	156937174	-	Igni_0380	-	-	hypothetical protein
+335616..336473	-	285	156937175	-	Igni_0381	-	COG2962R	hypothetical protein
+336507..336827	-	106	156937176	-	Igni_0382	-	COG2412S	hypothetical protein
+336829..337755	-	308	156937177	-	Igni_0383	-	COG0111HE	D-isomer specific 2-hydroxyacid dehydrogenase
+337790..339004	-	404	156937178	-	Igni_0384	-	COG0141E	histidinol dehydrogenase
+339020..339571	-	183	156937179	-	Igni_0385	-	COG1042C	hypothetical protein
+339562..340929	-	455	156937180	-	Igni_0386	-	COG1042C	CoA-binding domain-containing protein
+340953..341243	+	96	156937181	-	Igni_0387	-	COG4352J	50S ribosomal protein L13
+341338..341931	+	197	156937182	-	Igni_0388	-	COG0163H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+341893..342774	-	293	156937183	-	Igni_0389	-	-	hypothetical protein
+342828..343901	+	357	156937184	-	Igni_0390	-	-	hypothetical protein
+343917..345161	-	414	156937185	-	Igni_0391	-	COG2814G	major facilitator transporter
+345247..346038	+	263	156937186	panB	Igni_0392	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+346096..347550	+	484	156937187	-	Igni_0393	-	COG1690S	hypothetical protein
+347540..349012	-	490	156937188	-	Igni_0394	-	COG0475P	sodium/hydrogen exchanger
+349120..349650	+	176	156937189	-	Igni_0395	-	COG0693R	PfpI family intracellular peptidase
+349631..350038	-	135	156937190	-	Igni_0396	-	COG0441J	Ser-tRNA(Thr) hydrolase
+350168..351349	+	393	156937191	-	Igni_0397	-	COG0535R	radical SAM domain-containing protein
+351364..352503	+	379	156937192	-	Igni_0398	-	COG1228Q	amidohydrolase
+352643..353479	-	278	156937193	-	Igni_0399	-	COG1208MJ	nucleoside-diphosphate-sugar pyrophosphorylase-like protein
+353476..354813	-	445	156937194	-	Igni_0400	-	COG0015F	adenylosuccinate lyase
+354883..355191	+	102	156937195	-	Igni_0401	-	COG1324P	CutA1 divalent ion tolerance protein
+355182..355469	+	95	156937196	-	Igni_0402	-	COG0721J	glutamyl-tRNA(Gln) amidotransferase subunit C
+355466..356566	+	366	156937197	-	Igni_0403	-	-	hypothetical protein
+356582..356824	+	80	156937198	-	Igni_0404	-	-	hypothetical protein
+357054..357575	-	173	156937199	-	Igni_0405	-	-	hypothetical protein
+357633..358754	+	373	156937200	-	Igni_0406	-	COG0436E	class I and II aminotransferase
+358802..359692	+	296	156937201	-	Igni_0407	-	COG0067E	glutamate synthase (NADPH) GltB1 subunit
+359677..361830	+	717	156937202	-	Igni_0408	-	COG0069E	ferredoxin-dependent glutamate synthase
+361781..362818	-	345	156937203	-	Igni_0409	-	COG2270R	hypothetical protein
+363308..364246	+	312	156937204	-	Igni_0410	-	COG0491R	beta-lactamase domain-containing protein
+364233..365054	-	273	156937205	-	Igni_0411	-	-	hypothetical protein
+365067..365627	-	186	156937206	-	Igni_0412	-	COG0301H	thiamine biosynthesis protein
+365668..366804	+	378	156937207	-	Igni_0413	-	COG0409O	hydrogenase formation HypD protein
+366858..367925	-	355	156937208	-	Igni_0414	-	COG1499J	hypothetical protein
+367963..368613	-	216	156937209	-	Igni_0415	-	COG2140GR	glucose-6-phosphate isomerase
+368619..369584	+	321	156937210	-	Igni_0416	-	COG0382H	(S)-2,3-di-O-geranylgeranyl glyceryl phosphate synthase
+369581..369844	+	87	156937211	-	Igni_0417	-	COG1581K	DNA/RNA-binding protein
+369816..373079	-	1087	156937212	-	Igni_0418	-	COG1110L	reverse gyrase
+373139..374701	-	520	156937213	-	Igni_0419	-	COG2319R	hypothetical protein
+374817..375605	-	262	156937214	-	Igni_0420	-	COG2048C	succinate dehydrogenase subunit C
+375671..376345	+	224	156937215	-	Igni_0421	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+376359..376637	-	92	156937216	-	Igni_0422	-	-	hypothetical protein
+376706..377368	-	220	156937217	-	Igni_0423	-	COG2413R	DNA polymerase subunit beta
+377310..378560	-	416	156937218	-	Igni_0424	-	COG1973O	AIR synthase-like protein
+378551..379288	-	245	156937219	-	Igni_0425	-	COG1646R	geranylgeranylglyceryl phosphate synthase
+379291..379527	-	78	156937220	-	Igni_0426	-	COG4888R	hypothetical protein
+379538..379927	-	129	156937221	-	Igni_0427	-	COG5431S	zinc finger SWIM domain-containing protein
+379924..380589	-	221	156937222	-	Igni_0428	-	COG0120G	ribose 5-phosphate isomerase
+380793..381035	-	80	156937223	-	Igni_0429	-	-	hypothetical protein
+381032..382969	-	645	156937224	-	Igni_0430	-	-	hypothetical protein
+383194..383946	-	250	156937225	-	Igni_0431	-	COG0159E	tryptophan synthase subunit alpha
+384049..384234	-	61	156937226	-	Igni_0432	-	-	hypothetical protein
+384410..384892	+	160	156937227	-	Igni_0433	-	-	hypothetical protein
+385255..386265	+	336	156937228	-	Igni_0434	-	COG5276S	hypothetical protein
+386453..387235	+	260	156937229	-	Igni_0435	-	-	hypothetical protein
+387238..387951	+	237	156937230	-	Igni_0436	-	COG0515RTKL	protein kinase
+388035..388694	-	219	156937231	-	Igni_0437	-	COG4913S	hypothetical protein
+389444..389971	-	175	156937232	-	Igni_0438	-	COG2110R	hypothetical protein
+390007..390714	+	235	156937233	-	Igni_0439	-	-	hypothetical protein
+390674..391771	-	365	156937234	-	Igni_0440	-	COG0463M	glycosyl transferase family protein
+391778..392707	-	309	156937235	-	Igni_0441	-	-	hypothetical protein
+392769..393812	+	347	156937236	purP	Igni_0442	-	COG1759R	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+393910..394365	+	151	156937237	-	Igni_0443	-	COG2426S	hypothetical protein
+394353..394742	-	129	156937238	-	Igni_0444	-	COG2524K	signal transduction protein
+394830..395789	+	319	156937239	-	Igni_0445	-	COG0479C	succinate dehydrogenase iron-sulfur subunit
+396155..396553	-	132	156937240	-	Igni_0446	-	COG1833S	hypothetical protein
+396618..397169	+	183	156937241	-	Igni_0447	-	-	hypothetical protein
+397166..397906	-	246	156937242	-	Igni_0448	-	COG0656R	aldo/keto reductase
+397903..398409	-	168	156937243	-	Igni_0449	-	COG1818R	hypothetical protein
+398495..398824	+	109	156937244	-	Igni_0450	-	-	hypothetical protein
+398864..399187	+	107	156937245	rpl12p	Igni_0451	-	COG2058J	50S ribosomal protein L12
+399220..399969	+	249	156937246	-	Igni_0452	-	COG1701S	hypothetical protein
+399955..400674	-	239	156937247	-	Igni_0453	-	COG0638O	proteasome subunit alpha
+400720..402339	-	539	156937248	-	Igni_0454	-	COG4147R	Na+/solute symporter
+402339..402548	-	69	156937249	-	Igni_0455	-	COG3162S	hypothetical protein
+402628..403050	+	140	156937250	-	Igni_0456	-	COG0589T	UspA domain-containing protein
+403136..403915	+	259	156937251	-	Igni_0457	-	COG0382H	4-hydroxybenzoate polyprenyltransferase
+403984..404709	+	241	156937252	-	Igni_0458	-	COG1180O	anaerobic ribonucleoside-triphosphate reductase activating protein
+404841..405545	+	234	156937253	-	Igni_0459	-	COG0450O	alkyl hydroperoxide reductase
+405721..406551	+	276	156937254	-	Igni_0460	-	COG1336L	CRISPR-associated RAMP Cmr4 family protein
+406562..407170	+	202	156937255	-	Igni_0461	-	-	CRISPR-associated Cmr5 family protein
+407151..408071	+	306	156937256	-	Igni_0462	-	COG1604L	CRISPR-associated RAMP Cmr6 family protein
+408078..411029	+	983	156937257	-	Igni_0463	-	COG1353R	hypothetical protein
+411036..412010	+	324	156937258	-	Igni_0464	-	-	hypothetical protein
+412003..413493	-	496	156937259	-	Igni_0465	-	COG1384J	lysyl-tRNA synthetase
+414641..415246	+	201	156937260	-	Igni_0466	-	COG0512EH	anthranilate synthase, component II
+415273..415839	+	188	156937261	-	Igni_0467	-	COG1468L	CRISPR-associated Cas4 family protein
+415787..416476	-	229	156937262	-	Igni_0468	-	COG0491R	beta-lactamase domain-containing protein
+416495..416935	+	146	156937263	-	Igni_0469	-	-	hypothetical protein
+416932..417516	+	194	156937264	-	Igni_0470	-	COG3839G	ABC transporter
+417479..418129	-	216	156937265	-	Igni_0471	-	COG4662H	tungstate ABC transporter periplasmic protein
+418108..418971	-	287	156937266	-	Igni_0472	-	COG2998H	ABC tungstate transporter permease component-like protein
+418991..420352	-	453	156937267	-	Igni_0473	-	-	hypothetical protein
+420400..421155	-	251	156937268	-	Igni_0474	-	-	hypothetical protein
+421334..422815	+	493	156937269	-	Igni_0475	-	COG1541H	coenzyme F390 synthetase-like protein
+422877..424103	+	408	156937270	-	Igni_0476	-	COG1257I	3-hydroxy-3-methylglutaryl-CoA reductase
+424100..424921	+	273	156937271	-	Igni_0477	-	-	hypothetical protein
+424991..426523	+	510	156937272	-	Igni_0478	-	COG0343J	tRNA-guanine transglycosylase, various specificities
+426443..427621	-	392	156937273	-	Igni_0479	-	COG4591M	hypothetical protein
+427618..430452	-	944	156937274	-	Igni_0480	-	COG1361M	S-layer protein
+430537..431124	+	195	156937275	-	Igni_0481	-	COG4998L	recombinase B
+431121..432308	+	395	156937276	-	Igni_0482	-	-	hypothetical protein
+432244..433002	-	252	156937277	-	Igni_0483	-	COG1648H	siroheme synthase
+433214..433750	+	178	156937278	-	Igni_0484	-	COG1859J	RNA 2'-phosphotransferase-like protein
+433797..434285	+	162	156937279	-	Igni_0485	-	COG4021S	hypothetical protein
+434361..434834	-	157	156937280	-	Igni_0486	-	COG1813K	XRE family transcriptional regulator
+434882..436429	-	515	156937281	-	Igni_0487	-	COG0535R	radical SAM domain-containing protein
+436476..437579	+	367	156937282	-	Igni_0488	-	COG1313R	radical SAM domain-containing protein
+437572..438114	-	180	156937283	-	Igni_0489	-	COG1506E	dipeptidyl aminopeptidase/acylaminoacyl-peptidase-like protein
+438199..439212	+	337	156937284	-	Igni_0490	-	COG0309O	hydrogenase expression/formation protein HypE
+439214..439801	-	195	156937285	-	Igni_0491	-	-	hypothetical protein
+439846..441450	-	534	156937286	-	Igni_0492	-	COG3044R	ABC transporter ATPase
+441490..441777	+	95	156937287	-	Igni_0493	-	-	hypothetical protein
+441761..442219	-	152	156937288	-	Igni_0494	-	COG1522K	AsnC family transcriptional regulator
+442365..442931	+	188	156937289	-	Igni_0495	-	COG0461F	orotate phosphoribosyltransferase
+442922..443911	+	329	156937290	-	Igni_0496	-	COG0685E	methylenetetrahydrofolate reductase
+443937..444722	+	261	156937291	-	Igni_0497	-	COG2905T	signal-transduction protein
+444719..445285	+	188	156937292	-	Igni_0498	-	-	hypothetical protein
+445302..445745	+	147	156937293	-	Igni_0499	-	-	hypothetical protein
+445840..446418	+	192	156937294	-	Igni_0500	-	COG3342S	hypothetical protein
+446457..446681	+	74	156937295	-	Igni_0501	-	-	hypothetical protein
+446724..446936	+	70	156937296	-	Igni_0502	-	-	hypothetical protein
+446933..447364	+	143	156937297	-	Igni_0503	-	-	hypothetical protein
+447361..447903	+	180	156937298	-	Igni_0504	-	COG0680C	hydrogenase maturation protease
+447891..448148	+	85	156937299	-	Igni_0505	-	COG1888S	hypothetical protein
+448145..449059	+	304	156937300	-	Igni_0506	-	COG0037D	PP-loop domain-containing protein
+448994..449515	-	173	156937301	-	Igni_0507	-	COG1437F	adenylate cyclase
+449583..449777	+	64	156937302	-	Igni_0508	-	COG2888J	hypothetical protein
+449781..450065	+	94	156937303	ef1B	Igni_0509	-	COG2092J	elongation factor 1-beta
+450140..450763	+	207	156937304	-	Igni_0510	-	-	hypothetical protein
+450760..451611	+	283	156937305	-	Igni_0511	-	COG2248R	metallo-beta-lactamase superfamily hydrolase
+451641..452966	+	441	156937306	-	Igni_0512	-	COG0373H	glutamyl-tRNA reductase
+454999..455856	-	285	156937307	-	Igni_0514	-	-	hypothetical protein
+455923..456969	-	348	156937308	-	Igni_0515	-	-	hypothetical protein
+457134..460913	+	1259	156937309	-	Igni_0516	-	COG1110L	reverse gyrase
+460895..463714	-	939	156937310	-	Igni_0517	-	COG1205R	DEAD/DEAH box helicase
+463755..463988	+	77	156937311	-	Igni_0518	-	-	hypothetical protein
+463976..465031	+	351	156937312	-	Igni_0519	-	COG0182J	translation initiation factor 2B subunit I
+465028..465483	-	151	156937313	-	Igni_0520	-	-	hypothetical protein
+465543..466700	-	385	156937314	-	Igni_0521	-	COG0624E	acetylornithine deacetylase or succinyl-diaminopimelate desuccinylase
+466735..466998	-	87	156937315	-	Igni_0522	-	-	hypothetical protein
+467040..467537	-	165	156937316	-	Igni_0523	-	COG2410S	hypothetical protein
+467575..468054	+	159	156937317	-	Igni_0524	-	COG1719R	hypothetical protein
+468315..469103	+	262	156937318	-	Igni_0525	-	COG2129R	metallophosphoesterase
+469134..470135	+	333	156937319	-	Igni_0526	-	COG1423L	hypothetical protein
+470132..470512	+	126	156937320	-	Igni_0527	-	-	hypothetical protein
+470481..471911	-	476	156937321	-	Igni_0528	-	COG5557C	polysulfide reductase NrfD
+471937..472998	-	353	156937322	-	Igni_0529	-	COG0437C	sulfide reductase subunit B
+473085..473735	-	216	156937323	-	Igni_0530	-	-	cytochrome
+473818..474960	+	380	156937324	-	Igni_0531	-	COG0082E	chorismate synthase
+474957..476018	-	353	156937325	-	Igni_0532	-	COG0430A	RNA 3'-terminal-phosphate cyclase
+476048..476911	-	287	156937326	-	Igni_0533	-	COG0616OU	hypothetical protein
+477153..478562	+	469	156937327	-	Igni_0534	-	COG1404O	peptidase S8/S53 subtilisin kexin sedolisin
+478593..480665	+	690	156937328	-	Igni_0535	-	-	hypothetical protein
+480653..481420	+	255	156937329	-	Igni_0536	-	COG0061G	NAD(+) kinase
+481431..481778	+	115	156937330	-	Igni_0537	-	COG2138S	cobalamin (vitamin B12) biosynthesis CbiX protein
+481775..482167	+	130	156937331	-	Igni_0538	-	COG2090S	hypothetical protein
+482150..483844	-	564	156937332	-	Igni_0539	-	COG1055P	citrate transporter
+483958..484776	-	272	156937333	-	Igni_0540	-	COG1685EH	shikimate kinase
+484832..486262	+	476	156937334	-	Igni_0541	-	COG0497L	hypothetical protein
+486259..487881	-	540	156937335	-	Igni_0542	-	COG0649C	NADH-ubiquinone oxidoreductase, chain 49kDa
+487878..488501	-	207	156937336	-	Igni_0543	-	COG0377C	NADH-quinone oxidoreductase subunit B
+488489..488857	-	122	156937337	-	Igni_0544	-	COG0838C	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
+488854..490344	-	496	156937338	-	Igni_0545	-	COG1008C	proton-translocating NADH-quinone oxidoreductase subunit M
+490348..492426	-	692	156937339	-	Igni_0546	-	COG1009CP	proton-translocating NADH-quinone oxidoreductase subunit L
+492495..493034	-	179	156937340	-	Igni_0547	-	COG1339KH	hypothetical protein
+492529..494343	-	604	156937341	-	Igni_0548	-	COG4974L	phage integrase family protein
+494397..494711	+	104	156937342	-	Igni_0549	-	-	hypothetical protein
+494708..495295	+	195	156937343	-	Igni_0550	-	COG1120PH	ABC transporter
+495273..496511	-	412	156937344	-	Igni_0551	-	COG0043H	UbiD family decarboxylase
+496508..497077	-	189	156937345	-	Igni_0552	-	-	hypothetical protein
+497164..497682	-	172	156937346	-	Igni_0553	-	COG0456R	30S ribosomal protein S18
+497710..498912	+	400	156937347	-	Igni_0554	-	COG0452H	phosphopantothenoylcysteine decarboxylase
+499003..500097	-	364	156937348	-	Igni_0555	-	-	major facilitator transporter
+500197..500850	+	217	156937349	-	Igni_0556	-	-	hypothetical protein
+501020..501985	-	321	156937350	-	Igni_0557	-	COG0608L	hypothetical protein
+501972..502241	-	89	156937351	-	Igni_0558	-	-	hypothetical protein
+502238..503002	-	254	156937352	-	Igni_0559	-	COG1058R	competence/damage-inducible protein cinA
+502999..503796	-	265	156937353	-	Igni_0560	-	COG1635H	ribulose-1,5-biphosphate synthetase
+503906..505030	+	374	156937354	-	Igni_0561	-	COG2319R	hypothetical protein
+505017..505406	+	129	156937355	-	Igni_0562	-	COG0139E	phosphoribosyl-AMP cyclohydrolase
+505540..506631	-	363	156937356	-	Igni_0563	-	COG1180O	radical SAM domain-containing protein
+506636..507079	-	147	156937357	-	Igni_0564	-	COG0589T	UspA domain-containing protein
+507379..508251	-	290	156937358	-	Igni_0565	-	COG0455D	hypothetical protein
+508317..509027	-	236	156937359	-	Igni_0566	-	COG1608R	aspartate/glutamate/uridylate kinase
+509501..510814	-	437	156937360	-	Igni_0567	-	COG0683E	hypothetical protein
+510811..512553	-	580	156937361	-	Igni_0568	-	COG0423J	glycyl-tRNA synthetase
+512760..514052	-	430	156937362	-	Igni_0569	-	-	hypothetical protein
+514046..515878	-	610	156937363	-	Igni_0570	-	COG0367E	asparagine synthase
+515938..517407	-	489	156937364	-	Igni_0571	-	COG0043H	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+517448..517702	+	84	156937365	-	Igni_0572	-	COG0298O	hydrogenase assembly chaperone HypC/HupF
+517736..519064	+	442	156937366	-	Igni_0573	-	COG0531E	amino acid permease
+519017..519274	-	85	156937367	-	Igni_0574	-	-	hypothetical protein
+519258..519554	-	98	156937368	-	Igni_0575	-	COG1761K	DNA-directed RNA polymerase subunit L
+519551..520156	-	201	156937369	-	Igni_0576	-	COG3286S	hypothetical protein
+520166..520744	-	192	156937370	-	Igni_0577	-	COG1096J	RNA-binding protein
+520798..521241	+	147	156937371	-	Igni_0578	-	COG0456R	ribosomal-protein-alanine acetyltransferase
+521225..521662	-	145	156937372	-	Igni_0579	-	-	hypothetical protein
+521730..522671	+	313	156937373	-	Igni_0580	-	COG0031E	pyridoxal-5'-phosphate-dependent protein subunit beta
+522652..523110	-	152	156937374	-	Igni_0581	-	COG1719R	4-vinyl reductase, 4VR
+523148..524389	+	413	156937375	-	Igni_0582	-	COG1163R	TGS domain-containing protein
+524377..525462	-	361	156937376	-	Igni_0583	-	COG0644C	dehydrogenase (flavoprotein)-like protein
+525510..526124	+	204	156937377	-	Igni_0584	-	-	hypothetical protein
+526108..526530	+	140	156937378	-	Igni_0585	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+526541..527353	-	270	156937379	-	Igni_0586	-	COG0020I	undecaprenyl pyrophosphate synthetase
+527621..528823	-	400	156937380	-	Igni_0587	-	COG1222O	proteasome-activating nucleotidase
+528976..529395	+	139	156937381	rps19p	Igni_0588	-	COG0185J	30S ribosomal protein S19
+529406..529885	+	159	156937382	rpl22p	Igni_0589	-	COG0091J	50S ribosomal protein L22
+529887..530612	+	241	156937383	-	Igni_0590	-	COG0092J	30S ribosomal protein S3
+530609..530827	+	72	156937384	-	Igni_0591	-	COG0255J	50S ribosomal protein L29
+530824..531102	+	92	156937385	-	Igni_0592	-	COG1588J	ribonuclease P subunit
+531155..531562	+	135	156937386	-	Igni_0593	-	-	hypothetical protein
+531559..532119	+	186	156937387	-	Igni_0594	-	-	hypothetical protein
+532213..533751	+	512	156937388	-	Igni_0595	-	COG2368Q	vinylacetyl-CoA Delta-isomerase
+533760..534911	-	383	156937389	-	Igni_0596	-	COG0044F	dihydroorotase
+534919..535401	-	160	156937390	-	Igni_0597	-	-	hypothetical protein
+535428..535844	-	138	156937391	-	Igni_0598	-	COG2524K	signal transduction protein
+535945..536511	+	188	156937392	-	Igni_0599	-	-	hypothetical protein
+536474..537748	-	424	156937393	-	Igni_0600	-	COG0034F	amidophosphoribosyltransferase
+537755..539272	-	505	156937394	-	Igni_0601	-	COG1142C	4Fe-4S ferredoxin
+539523..540248	+	241	156937395	-	Igni_0602	-	COG1709K	helix-turn-helix domain-containing protein
+540230..540604	-	124	156937396	-	Igni_0603	-	COG1308K	nascent polypeptide associated complex NAC
+540675..541961	+	428	156937397	-	Igni_0604	-	COG1236J	beta-lactamase domain-containing protein
+541962..542219	-	85	156937398	-	Igni_0605	-	-	hypothetical protein
+542257..542901	-	214	156937399	-	Igni_0606	-	COG2078S	AMMECR1 domain-containing protein
+543007..543639	-	210	156937400	-	Igni_0607	-	COG0704P	phosphate uptake regulator PhoU
+543699..544730	+	343	156937401	-	Igni_0608	-	COG0059EH	ketol-acid reductoisomerase
+544952..546916	-	654	156937402	-	Igni_0609	-	COG1269C	V-type ATP synthase subunit I
+547026..547772	+	248	156937403	-	Igni_0610	-	COG0592L	DNA polymerase sliding clamp subunit A
+547791..548198	-	135	156937404	-	Igni_0611	-	COG1586E	S-adenosylmethionine decarboxylase-like protein
+548278..548958	+	226	156937405	-	Igni_0612	-	-	hypothetical protein
+548967..549218	+	83	156937406	-	Igni_0613	-	-	hypothetical protein
+549272..550363	+	363	156937407	-	Igni_0614	-	COG1824P	MgtE integral membrane protein
+550360..551379	-	339	156937408	-	Igni_0615	-	COG1236J	RNA procession exonuclease-like protein
+551424..552020	-	198	156937409	-	Igni_0616	-	COG0638O	proteasome endopeptidase complex protein
+552058..552975	-	305	156937410	-	Igni_0617	-	COG0492O	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+552972..553817	-	281	156937411	-	Igni_0618	-	-	hypothetical protein
+553839..554759	-	306	156937412	-	Igni_0619	-	COG1041L	RNA methylase
+554756..555463	-	235	156937413	-	Igni_0620	-	COG0655R	NADPH-dependent FMN reductase
+555567..556361	-	264	156937414	-	Igni_0621	-	COG0548E	N2-acetyl-L-aminoadipate kinase
+558010..559266	+	418	156937415	-	Igni_0622	-	COG0677M	UDP-glucose 6-dehydrogenase
+559263..560348	+	361	156937416	-	Igni_0623	-	COG0381M	UDP-N-acetylglucosamine 2-epimerase
+560345..560605	+	86	156937417	-	Igni_0624	-	-	hypothetical protein
+560850..561857	+	335	156937418	-	Igni_0625	-	COG0438M	hypothetical protein
+561836..562786	-	316	156937419	-	Igni_0626	-	COG0438M	hypothetical protein
+562836..564044	+	402	156937420	-	Igni_0627	-	-	hypothetical protein
+563989..566217	-	742	156937421	-	Igni_0628	-	COG1064R	alcohol dehydrogenase
+566198..566491	-	97	156937422	-	Igni_0629	-	-	hypothetical protein
+566519..567688	-	389	156937423	-	Igni_0630	-	COG0535R	radical SAM domain-containing protein
+567730..568689	-	319	156937424	-	Igni_0631	-	COG1899O	deoxyhypusine synthase
+568762..569322	+	186	156937425	-	Igni_0632	-	COG0302H	GTP cyclohydrolase
+569314..570240	-	308	156937426	-	Igni_0633	-	COG0421E	spermine synthase
+570264..571226	+	320	156937427	-	Igni_0634	-	-	metallophosphoesterase
+571309..572499	+	396	156937428	-	Igni_0635	-	COG0137E	argininosuccinate synthase
+572471..573244	-	257	156937429	-	Igni_0636	-	COG5551S	hypothetical protein
+573345..574457	+	370	156937430	-	Igni_0637	-	COG0519F	GMP synthase
+574621..575463	+	280	156937431	-	Igni_0638	-	-	hypothetical protein
+575449..576690	-	413	156937432	-	Igni_0639	-	COG3889R	hypothetical protein
+576872..577870	+	332	156937433	-	Igni_0640	-	COG4034S	hypothetical protein
+577842..578762	-	306	156937434	-	Igni_0641	-	COG0379H	quinolinate synthetase A
+578837..579400	+	187	156937435	-	Igni_0642	-	COG1040R	hypothetical protein
+579397..580368	-	323	156937436	-	Igni_0643	-	-	hypothetical protein
+580375..580782	-	135	156937437	-	Igni_0644	-	-	hypothetical protein
+580881..582524	+	547	156937438	-	Igni_0645	-	COG0119E	alpha-isopropylmalate synthase
+582620..583537	+	305	156937439	-	Igni_0646	-	COG1192D	hypothetical protein
+583534..584682	-	382	156937440	-	Igni_0647	-	COG3273S	TrkA domain-containing protein
+584721..585548	-	275	156937441	-	Igni_0648	-	COG2524K	signal transduction protein
+585589..586329	+	246	156937442	-	Igni_0649	-	COG0647G	HAD family hydrolase
+586380..586670	-	96	156937443	-	Igni_0650	-	-	hypothetical protein
+586673..590071	-	1132	156937444	-	Igni_0651	-	COG0085K	DNA-directed RNA polymerase subunit B
+590077..590298	-	73	156937445	-	Igni_0652	-	COG2012K	DNA-directed RNA polymerase subunit H
+590362..591345	+	327	156937446	-	Igni_0653	-	COG1721R	hypothetical protein
+591366..591911	+	181	156937447	-	Igni_0654	-	-	hypothetical protein
+591874..592269	-	131	156937448	-	Igni_0655	-	COG2905T	signal-transduction protein
+592435..592536	+	33	156937449	-	Igni_0656	-	-	hypothetical protein
+592533..593255	+	240	156937450	-	Igni_0657	-	COG1798J	diphthine synthase
+593323..593499	+	58	156937451	-	Igni_0658	-	COG0864K	CopG family transcriptional regulator
+593489..594226	-	245	156937452	-	Igni_0659	-	COG0345E	pyrroline-5-carboxylate reductase
+594261..594428	-	55	156937453	-	Igni_0660	-	-	hypothetical protein
+594439..594939	-	166	156937454	-	Igni_0661	-	COG1439R	nucleic acid binding protein
+594989..595543	+	184	156937455	-	Igni_0662	-	COG1437F	hypothetical protein
+595512..595937	-	141	156937456	-	Igni_0663	-	-	hypothetical protein
+595927..596946	-	339	156937457	-	Igni_0664	-	COG0624E	N2-acetyl-L-lysine deacetylase
+596991..597722	-	243	156937458	-	Igni_0665	-	COG4006S	CRISPR-associated protein
+597914..598264	+	116	156937459	-	Igni_0666	-	-	hypothetical protein
+598515..599309	+	264	156937460	-	Igni_0667	-	-	hypothetical protein
+599991..600719	-	242	156937461	-	Igni_0668	-	-	hypothetical protein
+600712..602358	-	548	156937462	-	Igni_0669	-	-	hypothetical protein
+602454..603386	-	310	156937463	-	Igni_0670	-	-	hypothetical protein
+603471..604823	-	450	156937464	-	Igni_0671	-	COG0446R	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+604863..605318	-	151	156937465	-	Igni_0672	-	COG2427S	hypothetical protein
+605325..606482	-	385	156937466	-	Igni_0673	-	COG1252C	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+606551..608761	-	736	156937467	-	Igni_0674	-	COG0068O	(NiFe) hydrogenase maturation protein HypF
+608834..609736	-	300	156937468	-	Igni_0675	-	COG1718TD	non-specific serine/threonine protein kinase
+609778..610176	-	132	156937469	-	Igni_0676	-	COG0361J	translation initiation factor 1A (aeIF-1A)
+610238..610948	-	236	156937470	-	Igni_0677	-	COG2125J	30S ribosomal protein S6
+610990..612468	+	492	156937471	-	Igni_0678	-	COG1951C	fumarase
+612535..613950	+	471	156937472	-	Igni_0679	-	COG1156C	V-type ATP synthase subunit B
+613967..614611	+	214	156937473	-	Igni_0680	-	COG1394C	V-type ATP synthase subunit D
+614611..614775	+	54	156937474	-	Igni_0681	-	-	hypothetical protein
+614833..615174	+	113	156937475	-	Igni_0682	-	-	H+-transporting two-sector ATPase, C subunit
+615235..616506	+	423	156937476	-	Igni_0683	-	COG0001H	glutamate-1-semialdehyde 2,1-aminomutase
+616503..617417	+	304	156937477	hemC	Igni_0684	-	COG0181H	porphobilinogen deaminase
+617532..618116	+	194	156937478	-	Igni_0685	-	COG2411S	hypothetical protein
+618171..618605	+	144	156937479	-	Igni_0686	-	COG1586E	S-adenosylmethionine decarboxylase-like protein
+618545..619192	-	215	156937480	-	Igni_0687	-	COG1427R	periplasmic solute-binding protein-like protein
+619252..620373	+	373	156937481	-	Igni_0688	-	-	hypothetical protein
+620420..621172	+	250	156937482	-	Igni_0689	-	COG1402R	creatininase
+621184..623928	-	914	156937483	-	Igni_0690	-	COG0417L	DNA polymerase I
+624002..625054	-	350	156937484	-	Igni_0691	-	COG0258L	flap endonuclease-1
+625090..625377	-	95	156937485	-	Igni_0692	-	-	hypothetical protein
+625388..627592	-	734	156937486	-	Igni_0693	-	COG0464O	ATPase AAA
+627596..628054	-	152	156937487	-	Igni_0694	-	COG1786S	hypothetical protein
+628018..629163	-	381	156937488	-	Igni_0695	-	COG1679S	aconitase subunit 1
+629160..629828	-	222	156937489	-	Igni_0696	-	COG0149G	triosephosphate isomerase
+629845..630540	-	231	156937490	-	Igni_0697	-	COG1500J	RNA-associated protein
+630530..631588	-	352	156937491	-	Igni_0698	-	COG2896H	radical SAM domain-containing protein
+631626..632093	-	155	156937492	-	Igni_0699	-	-	hypothetical protein
+632093..632464	-	123	156937493	-	Igni_0700	-	-	hypothetical protein
+632531..633352	+	273	156937494	-	Igni_0701	-	COG1719R	hypothetical protein
+633366..633743	-	125	156937495	-	Igni_0702	-	COG1321K	iron dependent repressor
+633740..634048	-	102	156937496	-	Igni_0703	-	COG0011S	hypothetical protein
+634120..634776	+	218	156937497	-	Igni_0704	-	COG2236R	phosphoribosyltransferase
+634825..635892	+	355	156937498	-	Igni_0705	-	COG0644C	dehydrogenase (flavoprotein)-like protein
+635903..636367	+	154	156937499	-	Igni_0706	-	COG1522K	AsnC family transcriptional regulator
+636354..637505	-	383	156937500	-	Igni_0707	-	COG0037D	PP-loop domain-containing protein
+637502..639028	-	508	156937501	-	Igni_0708	-	COG1031C	radical SAM domain-containing protein
+639056..639331	+	91	156937502	-	Igni_0709	-	COG4997S	hypothetical protein
+639369..639809	+	146	156937503	-	Igni_0710	-	COG1497K	transcriptional regulator TrmB
+639822..640484	+	220	156937504	-	Igni_0711	-	-	hypothetical protein
+640481..642508	+	675	156937505	-	Igni_0712	-	COG5542S	hypothetical protein
+642480..643250	-	256	156937506	-	Igni_0713	-	COG0592L	DNA polymerase sliding clamp subunit B
+643314..643700	+	128	156937507	-	Igni_0714	-	-	hypothetical protein
+643789..645171	-	460	156937508	-	Igni_0715	-	COG1674D	ATPase AAA
+645182..646708	-	508	156937509	-	Igni_0716	-	-	hypothetical protein
+646762..648708	+	648	156937510	-	Igni_0717	-	COG0175EH	phosphoadenosine phosphosulfate reductase
+648743..649006	+	87	156937511	-	Igni_0718	-	-	hypothetical protein
+649074..649640	+	188	156937512	-	Igni_0719	-	COG4882R	hypothetical protein
+649676..649987	-	103	156937513	-	Igni_0720	-	COG1990S	peptidyl-tRNA hydrolase
+649989..651068	-	359	156937514	-	Igni_0721	-	COG2419S	tRNA (guanine-N1-)-methyltransferase
+651114..651992	+	292	156937515	-	Igni_0722	-	COG1192D	chromosome partitioning ATPase
+651978..652259	-	93	156937516	rps28e	Igni_0723	-	COG2053J	30S ribosomal protein S28
+652304..652486	+	60	156937517	-	Igni_0724	-	COG2075J	50S ribosomal protein L24
+652492..652935	+	147	156937518	-	Igni_0725	-	COG0105F	nucleoside diphosphate kinase
+652963..653433	+	156	156937519	-	Igni_0726	-	-	hypothetical protein
+653433..654299	+	288	156937520	-	Igni_0727	-	-	hypothetical protein
+654296..655366	-	356	156937521	argC	Igni_0728	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+655468..656781	+	437	156937522	-	Igni_0729	-	COG0559E	inner-membrane translocator
+656797..657825	+	342	156937523	-	Igni_0730	-	COG4177E	inner-membrane translocator
+657822..658586	+	254	156937524	-	Igni_0731	-	COG0411E	ABC transporter
+658590..659330	+	246	156937525	-	Igni_0732	-	COG0410E	ABC transporter
+659334..659999	+	221	156937526	-	Igni_0733	-	COG0528F	uridylate kinase
+659991..660806	-	271	156937527	-	Igni_0734	-	-	hypothetical protein
+660794..662551	-	585	156937528	-	Igni_0735	-	COG0433R	hypothetical protein
+662584..663612	+	342	156937529	-	Igni_0736	-	COG1630S	hypothetical protein
+663659..663970	+	103	156937530	-	Igni_0737	-	-	hypothetical protein
+664267..665628	+	453	156937531	-	Igni_0738	-	COG0260E	leucyl aminopeptidase
+665641..666009	+	122	156937532	-	Igni_0739	-	-	hypothetical protein
+666022..666348	-	108	156937533	-	Igni_0740	-	-	hypothetical protein
+666353..667261	-	302	156937534	-	Igni_0741	-	COG0455D	hypothetical protein
+667267..667866	-	199	156937535	-	Igni_0742	-	-	hypothetical protein
+667871..668509	+	212	156937536	-	Igni_0743	-	-	hypothetical protein
+668502..669236	+	244	156937537	-	Igni_0744	-	-	hypothetical protein
+669233..669688	+	151	156937538	-	Igni_0745	-	-	hypothetical protein
+669692..670354	+	220	156937539	-	Igni_0746	-	-	hypothetical protein
+670357..671382	-	341	156937540	-	Igni_0747	-	COG0620E	methionine synthase
+671388..672386	-	332	156937541	-	Igni_0748	-	COG0620E	cobalamin-independent synthase MetE
+672427..673053	-	208	156937542	-	Igni_0749	-	COG2226H	methyltransferase type 11
+673194..674405	+	403	156937543	-	Igni_0750	-	COG1693S	hypothetical protein
+674699..675529	-	276	156937544	-	Igni_0751	-	COG2106S	hypothetical protein
+675711..676790	+	359	156937545	-	Igni_0752	-	COG0136E	aspartate-semialdehyde dehydrogenase
+676778..677404	-	208	156937546	-	Igni_0753	-	-	hypothetical protein
+677502..678353	+	283	156937547	hisG	Igni_0754	-	COG0040E	ATP phosphoribosyltransferase
+678342..679196	-	284	156937548	-	Igni_0755	-	-	hypothetical protein
+679215..679733	+	172	156937549	-	Igni_0756	-	COG1102F	cytidylate kinase
+679714..680568	-	284	156937550	-	Igni_0757	-	COG0489D	chromosome partitioning ATPase
+680638..681603	+	321	156937551	-	Igni_0758	-	COG1577I	mevalonate kinase
+681667..682275	+	202	156937552	-	Igni_0759	-	-	hypothetical protein
+682372..682644	+	90	156937553	-	Igni_0760	-	COG1698S	hypothetical protein
+682656..684065	+	469	156937554	-	Igni_0761	-	COG2306S	hypothetical protein
+684073..684534	+	153	156937555	-	Igni_0762	-	-	hypothetical protein
+684522..685037	+	171	156937556	-	Igni_0763	-	COG0575I	hypothetical protein
+684991..685185	-	64	156937557	-	Igni_0764	-	COG2260J	nucleolar RNA-binding protein Nop10p
+685182..685979	-	265	156937558	-	Igni_0765	-	COG1093J	translation initiation factor 2 subunit alpha (aeIF-2a)
+686024..686578	-	184	156937559	-	Igni_0766	-	COG0237H	dephospho-CoA kinase-like protein
+686668..687060	+	130	156937560	-	Igni_0767	-	COG2007J	30S ribosomal protein S8
+687068..687367	+	99	156937561	-	Igni_0768	-	COG1400U	signal recognition particle subunit SRP19 (srp19)
+687432..687632	+	66	156937562	-	Igni_0769	-	-	hypothetical protein
+687639..688712	+	357	156937563	-	Igni_0770	-	COG1405K	transcription initiation factor IIB
+688709..688993	+	94	156937564	-	Igni_0771	-	-	hypothetical protein
+689028..689747	+	239	156937565	-	Igni_0772	-	COG3889R	hypothetical protein
+689798..690565	+	255	156937566	-	Igni_0773	-	COG0107E	imidazole glycerol phosphate synthase subunit hisF
+690529..690912	-	127	156937567	-	Igni_0774	-	-	hypothetical protein
+690936..691907	+	323	156937568	-	Igni_0775	-	COG0472M	glycosyl transferase family protein
+691921..692316	+	131	156937569	-	Igni_0776	-	-	hypothetical protein
+692285..693370	-	361	156937570	-	Igni_0777	-	COG2407G	L-fucose isomerase
+693429..693728	+	99	156937571	-	Igni_0778	-	COG2139J	50S ribosomal protein L21
+693765..694217	+	150	156937572	-	Igni_0779	-	COG0720H	hypothetical protein
+694261..694578	+	105	156937573	-	Igni_0780	-	-	hypothetical protein
+694545..695114	+	189	156937574	-	Igni_0781	-	-	hypothetical protein
+695085..695699	-	204	156937575	-	Igni_0782	-	COG0415L	RNA-processing protein
+695700..696584	+	294	156937576	-	Igni_0783	-	COG1665S	hypothetical protein
+696535..697143	-	202	156937577	-	Igni_0784	-	-	hypothetical protein
+697167..697688	+	173	156937578	-	Igni_0785	-	-	hypothetical protein
+697724..698506	+	260	156937579	-	Igni_0786	-	COG1712R	dinucleotide-utilizing protein-like protein
+698485..699162	+	225	156937580	-	Igni_0787	-	COG0018J	ATP-binding protein
+699195..699800	+	201	156937581	-	Igni_0788	-	COG0794M	hexulose-6-phosphate isomerase
+699797..700654	+	285	156937582	-	Igni_0789	-	COG1533L	radical SAM domain-containing protein
+700621..700944	-	107	156937583	-	Igni_0790	-	-	hypothetical protein
+701012..701680	+	222	156937584	-	Igni_0791	-	COG1756S	ribosome biogenesis protein
+701677..702126	+	149	156937585	-	Igni_0792	-	-	hypothetical protein
+702361..702624	+	87	156937586	-	Igni_0793	-	COG1997J	50S ribosomal protein L37
+702631..703173	+	180	156937587	-	Igni_0794	-	COG2136JA	ribosomal biogenesis protein, containing Brix domain
+703154..703393	+	79	156937588	-	Igni_0795	-	COG2892S	hypothetical protein
+703413..704177	+	254	156937589	-	Igni_0796	-	COG1100R	GTPase
+704281..705381	+	366	156937590	-	Igni_0797	-	-	hypothetical protein
+705500..705658	+	52	156937591	-	Igni_0798	-	-	hypothetical protein
+705666..706706	-	346	156937592	-	Igni_0799	-	COG0501O	peptidase M48, Ste24p
+706788..707801	+	337	156937593	-	Igni_0800	-	-	major facilitator transporter
+707785..708444	-	219	156937594	-	Igni_0801	-	COG0437C	4Fe-4S ferredoxin
+708441..710945	-	834	156937595	-	Igni_0802	-	COG0243C	molybdopterin oxidoreductase
+710952..711893	-	313	156937596	-	Igni_0803	-	-	hypothetical protein
+711954..713036	-	360	156937597	-	Igni_0804	-	COG1304C	isopentenyl pyrophosphate isomerase
+713108..713677	+	189	156937598	-	Igni_0805	-	COG0131E	imidazoleglycerol-phosphate dehydratase
+713850..715811	-	653	156937599	-	Igni_0806	-	-	hypothetical protein
+716311..716556	-	81	156937600	-	Igni_0807	-	-	hypothetical protein
+716621..717616	-	331	156937601	-	Igni_0808	-	COG5276S	hypothetical protein
+717756..718067	-	103	156937602	-	Igni_0809	-	-	hypothetical protein
+718413..719333	+	306	156937603	-	Igni_0810	-	-	hypothetical protein
+719777..720121	+	114	156937604	-	Igni_0811	-	COG3889R	hypothetical protein
+720341..720574	-	77	156937605	-	Igni_0812	-	COG1143C	4Fe-4S ferredoxin
+720740..721099	+	119	156937606	-	Igni_0813	-	COG1382O	prefoldin subunit beta
+721297..722268	+	323	156937607	-	Igni_0814	-	COG0618R	phosphoesterase domain-containing protein
+722288..723529	-	413	156937608	-	Igni_0815	-	COG1215M	glycosyl transferase family protein
+723587..724216	+	209	156937609	-	Igni_0816	-	-	hypothetical protein
+724239..725129	+	296	156937610	-	Igni_0817	-	COG0343J	hypothetical protein
+725116..726099	+	327	156937611	-	Igni_0818	-	COG0116L	RNA methylase
+726167..726808	-	213	156937612	-	Igni_0819	-	-	hypothetical protein
+726871..727137	-	88	156937613	-	Igni_0820	-	COG1977H	MoaD family protein
+727174..727929	-	251	156937614	-	Igni_0821	-	COG2453T	hypothetical protein
+730149..730955	-	268	156937615	-	Igni_0822	-	COG0434R	photosystem I assembly BtpA
+734506..734787	-	93	156937616	-	Igni_0823	-	-	hypothetical protein
+734912..735451	-	179	156937617	-	Igni_0824	-	COG2457S	hypothetical protein
+735487..735906	+	139	156937618	-	Igni_0825	-	COG0375R	hydrogenase expression/synthesis, HypA
+735975..737753	+	592	156937619	-	Igni_0826	-	COG1964R	radical SAM domain-containing protein
+737719..738081	-	120	156937620	-	Igni_0827	-	-	hypothetical protein
+738175..738468	+	97	156937621	-	Igni_0828	-	COG3357K	transcriptional regulator
+738475..739737	+	420	156937622	-	Igni_0829	-	COG1055P	citrate transporter
+739853..740308	+	151	156937623	-	Igni_0830	-	-	hypothetical protein
+740353..741102	+	249	156937624	-	Igni_0831	-	-	hypothetical protein
+741117..741794	+	225	156937625	-	Igni_0832	-	COG1402R	hypothetical protein
+741781..742305	+	174	156937626	-	Igni_0833	-	-	hypothetical protein
+742308..742505	+	65	156937627	-	Igni_0834	-	-	hypothetical protein
+742507..742905	-	132	156937628	-	Igni_0835	-	COG1374J	hypothetical protein
+742905..743531	-	208	156937629	-	Igni_0836	-	COG2178J	haloacid dehalogenase
+743524..744093	-	189	156937630	-	Igni_0837	-	COG4914R	nucleotidyltransferase-like protein
+744100..744267	-	55	156937631	rpl40e	Igni_0838	-	COG1552J	50S ribosomal protein L40
+744369..745331	+	320	156937632	-	Igni_0839	-	COG1522K	AsnC family transcriptional regulator
+745414..745905	+	163	156937633	-	Igni_0840	-	COG1318K	hypothetical protein
+745959..747164	+	401	156937634	-	Igni_0841	-	COG1602S	hypothetical protein
+747097..747603	-	168	156937635	-	Igni_0842	-	-	hypothetical protein
+747672..748379	+	235	156937636	-	Igni_0843	-	COG0152F	phosphoribosylaminoimidazole-succinocarboxamide synthase
+748372..748644	+	90	156937637	-	Igni_0844	-	COG1828F	hypothetical protein
+748631..749290	+	219	156937638	-	Igni_0845	-	COG0047F	phosphoribosylformylglycinamidine synthase I
+749274..749885	-	203	156937639	-	Igni_0846	-	COG1318K	transcriptional regulator-like protein
+749963..752881	+	972	156937640	-	Igni_0847	-	-	hypothetical protein
+752871..753569	-	232	156937641	-	Igni_0848	-	COG2112T	Ser/Thr protein kinase-like protein
+753560..754870	-	436	156937642	-	Igni_0849	-	COG1746J	tRNA CCA-pyrophosphorylase
+754867..755424	-	185	156937643	-	Igni_0850	-	COG1514J	2'-5' RNA ligase
+755333..755569	-	78	156937644	-	Igni_0851	-	-	hypothetical protein
+755566..755907	-	113	156937645	-	Igni_0852	-	COG1594K	DNA-directed RNA polymerase subunit M
+756002..757390	+	462	156937646	-	Igni_0853	-	COG0441J	Ser-tRNA(Thr) hydrolase
+757433..758170	+	245	156937647	-	Igni_0854	-	COG0592L	proliferating cell nuclear antigen PcnA
+758160..759215	+	351	156937648	-	Igni_0855	-	COG1467L	DNA primase small subunit
+759220..759903	+	227	156937649	-	Igni_0856	-	-	hypothetical protein
+760090..760869	-	259	156937650	-	Igni_0857	-	COG0388R	nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+761044..761418	+	124	156937651	-	Igni_0858	-	COG1695K	PadR family transcriptional regulator
+761461..762675	+	404	156937652	-	Igni_0859	-	COG1167KE	2-aminoadipate aminotransferase
+762709..763188	+	159	156937653	rps15p	Igni_0860	-	COG0184J	30S ribosomal protein S15
+763202..764497	+	431	156937654	-	Igni_0861	-	-	hypothetical protein
+764505..764741	+	78	156937655	-	Igni_0862	-	-	hypothetical protein
+764748..765386	+	212	156937656	-	Igni_0863	-	COG1890J	30S ribosomal protein S3Ae
+765361..765999	-	212	156937657	-	Igni_0864	-	COG0177L	HhH-GPD family protein
+765996..766544	-	182	156937658	-	Igni_0865	-	-	hypothetical protein
+766469..766783	-	104	156937659	-	Igni_0866	-	-	hypothetical protein
+766780..767562	-	260	156937660	-	Igni_0867	-	COG0603R	exsB protein
+767559..768653	-	364	156937661	-	Igni_0868	-	COG1060HR	radical SAM domain-containing protein
+768667..770094	-	475	156937662	-	Igni_0869	-	COG1078R	HD superfamily phosphohydrolase-like protein
+770082..771134	-	350	156937663	-	Igni_0870	-	COG2152G	glycosidase
+771144..772307	-	387	156937664	-	Igni_0871	-	COG1260I	myo-inositol-1-phosphate synthase
+772397..773545	+	382	156937665	-	Igni_0872	-	COG1702T	PhoH family protein
+773561..774811	+	416	156937666	-	Igni_0873	-	COG1208MJ	nucleotidyl transferase
+774827..776371	+	514	156937667	-	Igni_0874	-	COG0294H	dihydropteroate synthase-like protein
+776368..777183	+	271	156937668	-	Igni_0875	-	COG2107R	hypothetical protein
+777170..778537	-	455	156937669	-	Igni_0876	-	COG3864S	von Willebrand factor A
+778559..779194	-	211	156937670	-	Igni_0877	-	COG2518O	protein-L-isoaspartate O-methyltransferase
+779267..779626	+	119	156937671	-	Igni_0878	-	-	hypothetical protein
+779635..780924	+	429	156937672	-	Igni_0879	-	COG0124J	histidyl-tRNA synthetase
+780951..781514	+	187	156937673	-	Igni_0880	-	COG0221C	inorganic diphosphatase
+781511..781996	+	161	156937674	-	Igni_0881	-	-	hypothetical protein
+782000..782476	+	158	156937675	-	Igni_0882	-	COG3432K	hypothetical protein
+782473..783369	-	298	156937676	-	Igni_0883	-	COG0704P	SpoVT/AbrB domain-containing protein
+783408..783692	+	94	156937677	-	Igni_0884	-	-	hypothetical protein
+783781..785151	+	456	156937678	-	Igni_0885	-	COG1109G	phosphoglucosamine mutase
+785184..786290	+	368	156937679	-	Igni_0886	-	COG1226P	Ion transport 2 domain-containing protein
+786287..787090	-	267	156937680	-	Igni_0887	-	-	hypothetical protein
+787111..788403	+	430	156937681	-	Igni_0888	-	COG0351H	phosphomethylpyrimidine kinase type-1
+788436..790094	+	552	156937682	-	Igni_0889	-	COG1750R	peptidase S16, lon domain-containing protein
+790091..790783	-	230	156937683	-	Igni_0890	-	COG1801S	hypothetical protein
+790840..791790	+	316	156937684	-	Igni_0891	-	COG3958G	transketolase subunit B
+791787..792833	+	348	156937685	-	Igni_0892	-	COG0287E	chorismate mutase
+793684..794199	+	171	156937686	-	Igni_0894	-	-	hypothetical protein
+795456..795773	-	105	156937687	-	Igni_0896	-	-	hypothetical protein
+796148..797773	+	541	156937688	-	Igni_0897	-	COG0459O	thermosome
+797815..798597	+	260	156937689	-	Igni_0898	-	-	hypothetical protein
+798697..799800	+	367	156937690	-	Igni_0899	-	COG1252C	FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+799803..800960	-	385	156937691	-	Igni_0900	-	COG0144J	Fmu (Sun) domain-containing protein
+801012..801983	+	323	156937692	-	Igni_0901	-	-	hypothetical protein
+801971..803269	-	432	156937693	-	Igni_0902	-	COG0034F	amidophosphoribosyltransferase
+803305..803820	-	171	156937694	-	Igni_0903	-	COG0622R	phosphodiesterase
+803810..804601	-	263	156937695	-	Igni_0904	-	COG0301H	THUMP domain-containing protein
+804577..804933	-	118	156937696	-	Igni_0905	-	COG2522R	hypothetical protein
+805012..805722	+	236	156937697	-	Igni_0906	-	COG3634O	glutaredoxin-like domain-containing protein
+805766..806503	-	245	156937698	-	Igni_0907	-	COG1632J	50S ribosomal protein L15
+806541..806972	+	143	156937699	-	Igni_0908	-	COG1779R	hypothetical protein
+807004..808290	+	428	156937700	-	Igni_0909	-	COG0312R	C69 family peptidase
+808295..808852	+	185	156937701	-	Igni_0910	-	COG1402R	creatininase
+808908..809894	+	328	156937702	-	Igni_0911	-	COG0492O	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+809884..810567	-	227	156937703	-	Igni_0912	-	COG1549J	queuine tRNA-ribosyltransferase
+810599..811519	-	306	156937704	-	Igni_0913	-	COG1108P	hypothetical protein
+811516..812349	-	277	156937705	-	Igni_0914	-	COG0803P	metal ABC transporter periplasmic protein
+812346..812771	-	141	156937706	-	Igni_0915	-	COG1051F	NUDIX hydrolase
+812869..814206	+	445	156937707	-	Igni_0916	-	COG0154J	aspartyl/glutamyl-tRNA amidotransferase subunit A
+814228..814698	-	156	156937708	-	Igni_0917	-	-	hypothetical protein
+814809..815492	+	227	156937709	-	Igni_0918	-	COG4920S	membrane protein-like protein
+815479..816108	+	209	156937710	-	Igni_0919	-	COG1756S	ribosome biogenesis protein
+816145..816570	+	141	156937711	-	Igni_0920	-	COG2105S	hypothetical protein
+816604..816975	+	123	156937712	-	Igni_0921	-	COG0239D	camphor resistance protein CrcB
+816957..817223	-	88	156937713	-	Igni_0922	-	-	hypothetical protein
+817280..817963	+	227	156937714	-	Igni_0923	-	COG4879S	hypothetical protein
+817968..819017	+	349	156937715	-	Igni_0924	-	COG0130J	rRNA pseudouridine synthase
+818997..820202	-	401	156937716	-	Igni_0925	-	COG0147EH	anthranilate synthase, component I
+820252..820836	-	194	156937717	-	Igni_0926	-	COG0135E	phosphoribosylanthranilate isomerase
+820934..822037	+	367	156937718	-	Igni_0927	-	COG1236J	RNA-metabolising metallo-beta-lactamase
+822027..823895	-	622	156937719	argS	Igni_0928	-	COG0018J	arginyl-tRNA synthetase
+824139..824510	+	123	156937720	-	Igni_0929	-	COG2018R	roadblock/LC7 family protein
+824525..824782	+	85	156937721	-	Igni_0930	-	-	hypothetical protein
+824889..826148	+	419	156937722	-	Igni_0931	-	COG0065E	3-isopropylmalate dehydratase large subunit
+826202..826849	-	215	156937723	-	Igni_0932	-	COG1036C	flavoprotein
+826824..827396	-	190	156937724	-	Igni_0933	-	COG1634R	hypothetical protein
+827424..828974	+	516	156937725	-	Igni_0934	-	COG0464O	ATPase
+828980..829195	+	71	156937726	-	Igni_0935	-	-	hypothetical protein
+829183..829602	-	139	156937727	-	Igni_0936	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+829642..830199	-	185	156937728	-	Igni_0937	-	COG4122R	O-methyltransferase family protein
+830236..832773	+	845	156937729	-	Igni_0938	-	COG0495J	leucyl-tRNA synthetase
+832770..833144	+	124	156937730	-	Igni_0939	-	-	hypothetical protein
+833150..834043	+	297	156937731	-	Igni_0940	-	-	hypothetical protein
+834040..834942	+	300	156937732	-	Igni_0941	-	COG2520R	methyltransferase
+834973..836757	+	594	156937733	-	Igni_0942	-	COG1793L	ATP-dependent DNA ligase
+836750..837850	-	366	156937734	-	Igni_0943	-	COG1759R	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+837927..839087	+	386	156937735	-	Igni_0944	-	COG4992E	N2-acetyl-L-lysine aminotransferase
+839077..839502	+	141	156937736	-	Igni_0945	-	-	hypothetical protein
+839492..840622	-	376	156937737	-	Igni_0946	-	COG0075E	L-aspartate aminotransferase
+840689..841441	+	250	156937738	-	Igni_0947	-	COG1912S	hypothetical protein
+841438..841953	+	171	156937739	-	Igni_0948	-	COG1056H	nicotinamide-nucleotide adenylyltransferase
+841950..842363	-	137	156937740	-	Igni_0949	-	COG2151R	hypothetical protein
+842470..842757	+	95	156937741	-	Igni_0950	-	-	hypothetical protein
+843028..844218	-	396	156937742	-	Igni_0951	-	-	hypothetical protein
+844273..844830	+	185	156937743	-	Igni_0952	-	-	hypothetical protein
+844869..845273	+	134	156937744	-	Igni_0953	-	COG1599L	single-stranded DNA-binding protein
+845197..845508	-	103	156937745	-	Igni_0954	-	COG4742K	hypothetical protein
+845573..847228	-	551	156937746	-	Igni_0955	-	-	hypothetical protein
+847334..847999	-	221	156937747	-	Igni_0956	-	COG1985H	2,5-diamino-6-(5-phosphoribosylamino)pyrimidin-4(3H)-one reductase
+848043..848600	+	185	156937748	-	Igni_0957	-	-	hypothetical protein
+848590..849033	+	147	156937749	-	Igni_0958	-	COG1931S	hypothetical protein
+848999..850489	+	496	156937750	-	Igni_0959	-	COG1032C	radical SAM domain-containing protein
+850479..851837	-	452	156937751	-	Igni_0960	-	COG1151C	hydroxylamine reductase
+851968..853626	-	552	156937752	-	Igni_0961	-	COG0129EG	dihydroxyacid dehydratase
+853725..856319	+	864	156937753	-	Igni_0962	-	COG2409R	MMPL domain-containing protein
+856364..857716	+	450	156937754	-	Igni_0963	-	COG1224K	TBP-interacting protein TIP49
+857777..858853	+	358	156937755	rpl3p	Igni_0964	-	COG0087J	50S ribosomal protein L3P
+858868..859683	+	271	156937756	rpl4lp	Igni_0965	-	COG0088J	50S ribosomal protein L4
+859680..859943	+	87	156937757	-	Igni_0966	-	COG0089J	50S ribosomal protein L23
+859953..860180	+	75	156937758	-	Igni_0967	-	-	hypothetical protein
+860363..860902	-	179	156937759	-	Igni_0968	-	COG0529P	adenylylsulfate kinase
+860886..862223	-	445	156937760	-	Igni_0969	-	COG3379S	type I phosphodiesterase/nucleotide pyrophosphatase
+862259..863407	-	382	156937761	sat	Igni_0970	-	COG2046P	sulfate adenylyltransferase
+863424..863636	-	70	156937762	-	Igni_0971	-	-	hypothetical protein
+863701..864414	+	237	156937763	-	Igni_0972	-	-	hypothetical protein
+864447..865841	+	464	156937764	-	Igni_0973	-	-	hypothetical protein
+865878..866270	+	130	156937765	-	Igni_0974	-	COG1917S	cupin
+866321..867361	-	346	156937766	-	Igni_0975	-	COG0226P	phosphate ABC transporter, periplasmic phosphate-binding protein
+867464..868132	-	222	156937767	-	Igni_0976	-	COG1237R	beta-lactamase superfamily hydrolase
+868353..870542	+	729	156937768	-	Igni_0977	-	COG1061KL	type III restriction enzyme, res subunit
+870591..870812	+	73	156937769	-	Igni_0978	-	COG1958K	like-Sm ribonucleoprotein, core
+870817..871008	+	63	156937770	rpl37e	Igni_0979	-	COG2126J	50S ribosomal protein L37
+871054..871692	+	212	156937771	-	Igni_0980	-	COG0638O	proteasome endopeptidase complex protein
+871740..874895	+	1051	156937772	-	Igni_0981	-	-	hypothetical protein
+874935..875966	+	343	156937773	-	Igni_0982	-	COG0473CE	3-isopropylmalate dehydrogenase
+875944..877143	-	399	156937774	-	Igni_0983	-	COG0119E	isopropylmalate/citramalate/homocitrate synthase
+877236..877817	+	193	156937775	-	Igni_0984	-	-	hypothetical protein
+877916..878332	+	138	156937776	-	Igni_0985	-	-	hypothetical protein
+878198..878920	-	240	156937777	-	Igni_0986	-	COG0560E	HAD family hydrolase
+879352..879705	+	117	156937778	-	Igni_0988	-	-	hypothetical protein
+879702..880325	-	207	156937779	-	Igni_0989	-	COG2101K	TATA binding protein of transcription factor TFIID
+880379..881755	-	458	156937780	-	Igni_0990	-	COG0172J	seryl-tRNA synthetase
+882317..883711	-	464	156937781	-	Igni_0991	-	COG0215J	cysteinyl-tRNA synthetase
+883799..884656	+	285	156937782	-	Igni_0992	-	COG1355R	hypothetical protein
+884637..885518	-	293	156937783	-	Igni_0993	-	COG0451MG	NAD-dependent epimerase/dehydratase
+885564..886664	-	366	156937784	-	Igni_0994	-	COG0464O	ATPase
+886661..887428	-	255	156937785	-	Igni_0995	-	COG1349KG	hypothetical protein
+887455..888132	-	225	156937786	-	Igni_0996	-	COG1196D	hypothetical protein
+888123..888461	-	112	156937787	-	Igni_0997	-	-	hypothetical protein
+888494..889426	-	310	156937788	-	Igni_0998	-	COG0411E	diphthamide biosynthesis protein
+889433..889954	-	173	156937789	rpl10e	Igni_0999	-	COG0197J	50S ribosomal protein L10
+890052..890648	+	198	156937790	-	Igni_1000	-	COG1590S	hypothetical protein
+890769..891827	+	352	156937791	-	Igni_1001	-	COG0057G	glyceraldehyde-3-phosphate dehydrogenase
+891865..893880	+	671	156937792	-	Igni_1002	-	COG0370P	small GTP-binding protein
+893944..894135	+	63	156937793	-	Igni_1003	-	-	hypothetical protein
+894414..894713	+	99	156937794	-	Igni_1004	-	-	hypothetical protein
+894710..896083	+	457	156937795	-	Igni_1005	-	COG1404O	peptidase S8/S53 subtilisin kexin sedolisin
+896102..897085	-	327	156937796	radA	Igni_1006	-	COG0468L	DNA repair and recombination protein RadA
+897141..898385	-	414	156937797	-	Igni_1007	-	COG0148G	enolase
+898480..899604	+	374	156937798	-	Igni_1008	-	COG2814G	major facilitator transporter
+899589..901295	+	568	156937799	-	Igni_1009	-	COG0630NU	type II secretion system protein E
+901292..902272	+	326	156937800	-	Igni_1010	-	COG1955NU	hypothetical protein
+902276..903211	+	311	156937801	-	Igni_1011	-	-	type II secretion system protein
+903244..904329	+	361	156937802	-	Igni_1012	-	-	hypothetical protein
+904326..904484	-	52	156937803	-	Igni_1013	-	COG4919J	30S ribosomal protein S30e
+904534..904890	+	118	156937804	-	Igni_1014	-	-	hypothetical protein
+904844..905113	-	89	156937805	-	Igni_1015	-	COG1694R	MazG nucleotide pyrophosphohydrolase
+905110..905295	-	61	156937806	-	Igni_1016	-	-	hypothetical protein
+905292..908369	-	1025	156937807	ileS	Igni_1017	-	COG0060J	isoleucyl-tRNA synthetase
+908427..908948	+	173	156937808	-	Igni_1018	-	COG2890J	methylase of polypeptide chain release factors-like protein
+908935..909627	-	230	156937809	-	Igni_1019	-	COG1173EP	binding-protein-dependent transporters inner membrane component
+909593..910372	-	259	156937810	-	Igni_1020	-	-	binding-protein-dependent transporters inner membrane component
+910377..911897	-	506	156937811	-	Igni_1021	-	COG0747E	extracellular solute-binding protein
+911967..912275	+	102	156937812	-	Igni_1022	-	COG1433S	hypothetical protein
+912272..912619	+	115	156937813	-	Igni_1023	-	COG5652S	VanZ family protein
+912832..913053	+	73	156937814	-	Igni_1024	-	-	hypothetical protein
+913094..913327	+	77	156937815	-	Igni_1025	-	-	hypothetical protein
+913339..913488	+	49	156937816	-	Igni_1026	-	-	hypothetical protein
+913806..914045	+	79	156937817	-	Igni_1027	-	COG1522K	AsnC family transcriptional regulator
+914051..914923	-	290	156937818	-	Igni_1028	-	COG1651O	hypothetical protein
+916103..918298	+	731	156937819	-	Igni_1029	-	COG5271R	thrombospondin type 3 repeat-containing protein
+918359..919921	+	520	156937820	-	Igni_1030	-	-	LamG domain-containing protein
+919930..920559	-	209	156937821	-	Igni_1031	-	-	hypothetical protein
+920717..922570	+	617	156937822	-	Igni_1032	-	COG2414C	aldehyde ferredoxin oxidoreductase
+922579..922830	-	83	156937823	-	Igni_1033	-	-	hypothetical protein
+922896..924122	+	408	156937824	-	Igni_1034	-	COG0498E	L-threonine synthase
+924315..924881	+	188	156937825	-	Igni_1035	-	-	hypothetical protein
+924861..925646	-	261	156937826	-	Igni_1036	-	COG1028IQR	short-chain dehydrogenase/reductase SDR
+925659..926561	-	300	156937827	-	Igni_1037	-	COG1234R	ribonuclease Z
+926982..928511	-	509	156937828	-	Igni_1039	-	-	hypothetical protein
+928545..929225	-	226	156937829	-	Igni_1040	-	COG0615MI	cytidyltransferase-like protein
+929222..929650	-	142	156937830	-	Igni_1041	-	COG2002K	hypothetical protein
+929696..930160	-	154	156937831	-	Igni_1042	-	COG5399S	hypothetical protein
+930206..930883	+	225	156937832	-	Igni_1043	-	COG0613R	phosphotransferase domain-containing protein
+930877..932205	-	442	156937833	-	Igni_1044	-	COG0541U	signal recognition particle subunit FFH/SRP54 (srp54)
+932312..932494	+	60	156937834	-	Igni_1045	-	-	hypothetical protein
+932472..933464	-	330	156937835	-	Igni_1046	-	COG0402FR	amidohydrolase
+933495..934520	-	341	156937836	-	Igni_1047	-	COG1084R	small GTP-binding protein
+934558..934806	+	82	156937837	-	Igni_1048	-	-	hypothetical protein
+934823..935164	+	113	156937838	-	Igni_1049	-	-	hypothetical protein
+935174..935857	+	227	156937839	-	Igni_1050	-	COG1590S	hypothetical protein
+935891..936316	+	141	156937840	-	Igni_1051	-	-	hypothetical protein
+936297..936974	-	225	156937841	-	Igni_1052	-	-	hypothetical protein
+937033..938175	-	380	156937842	-	Igni_1053	-	COG1697L	DNA topoisomerase VI subunit A
+938239..938622	-	127	156937843	-	Igni_1054	-	COG1901S	hypothetical protein
+938640..939239	-	199	156937844	-	Igni_1055	-	-	hypothetical protein
+939242..940627	-	461	156937845	-	Igni_1056	-	COG0063G	carbohydrate kinase
+940624..941667	-	347	156937846	-	Igni_1057	-	-	hypothetical protein
+941964..944015	-	683	156937847	-	Igni_1058	-	COG1250I	3-hydroxyacyl-CoA dehydrogenase
+944000..944731	-	243	156937848	-	Igni_1059	-	COG0030J	dimethyladenosine transferase
+944733..945362	-	209	156937849	-	Igni_1060	-	COG1491J	hypothetical protein
+945454..945630	+	58	156937850	-	Igni_1061	-	COG4023U	Sec61beta
+945702..946442	+	246	156937851	-	Igni_1062	-	COG1948L	ERCC4 domain-containing protein
+946439..946738	-	99	156937852	-	Igni_1063	-	-	hypothetical protein
+946735..947994	-	419	156937853	-	Igni_1064	-	COG0538C	isocitrate dehydrogenase (NADP)
+948031..948717	-	228	156937854	-	Igni_1065	-	-	hypothetical protein
+948777..949292	-	171	156937855	-	Igni_1066	-	COG1618F	hypothetical protein
+950680..950907	+	75	156937856	-	Igni_1068	-	COG2442S	hypothetical protein
+950894..951265	+	123	156937857	-	Igni_1069	-	COG4634S	hypothetical protein
+952930..953727	-	265	156937858	-	Igni_1070	-	-	hypothetical protein
+953724..954038	-	104	156937859	-	Igni_1071	-	-	hypothetical protein
+954028..954390	-	120	156937860	-	Igni_1072	-	COG1966T	hypothetical protein
+954487..955419	+	310	156937861	-	Igni_1073	-	COG1518L	CRISPR-associated Cas1 family protein
+957275..958750	-	491	156937862	-	Igni_1074	-	-	hypothetical protein
+958907..959155	-	82	156937863	-	Igni_1075	-	COG1148C	4Fe-4S ferredoxin
+959155..959682	-	175	156937864	-	Igni_1076	-	COG1014C	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+959679..960545	-	288	156937865	-	Igni_1077	-	COG1013C	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+960542..961624	-	360	156937866	-	Igni_1078	-	COG0674C	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+961722..962459	+	245	156937867	-	Igni_1079	-	COG0274F	deoxyribose-phosphate aldolase
+962559..963185	-	208	156937868	-	Igni_1080	-	COG1390C	H+-transporting two-sector ATPase subunit E
+963229..963537	-	102	156937869	-	Igni_1081	-	COG1436C	vacuolar H+-transporting two-sector ATPase, F subunit
+963571..964965	-	464	156937870	-	Igni_1082	-	COG4346O	membrane-bound dolichyl-phosphate-mannose-protein mannosyltransferase-like protein
+965137..965898	+	253	156937871	-	Igni_1083	-	COG0586S	hypothetical protein
+965863..967212	-	449	156937872	-	Igni_1084	-	COG1668CP	sodium ABC transporter permease
+967202..967942	-	246	156937873	-	Igni_1085	-	COG1131V	ABC transporter
+967973..969028	-	351	156937874	-	Igni_1086	-	COG1060HR	radical SAM domain-containing protein
+969129..970418	-	429	156937875	-	Igni_1087	-	COG0065E	3-isopropylmalate dehydratase
+970466..970714	-	82	156937876	-	Igni_1088	-	-	hypothetical protein
+970826..971314	+	162	156937877	-	Igni_1089	-	-	hypothetical protein
+971369..973030	-	553	156937878	-	Igni_1090	-	COG1389L	DNA topoisomerase VI subunit B
+973088..974389	-	433	156937879	glyA	Igni_1091	-	COG0112E	serine hydroxymethyltransferase
+974410..975261	-	283	156937880	-	Igni_1092	-	COG0648L	endonuclease IV
+975350..975601	+	83	156937881	-	Igni_1093	-	COG2451J	50S ribosomal protein L35
+976147..976578	+	143	156937882	-	Igni_1094	-	COG2905T	signal-transduction protein
+976565..977386	-	273	156937883	-	Igni_1095	-	COG0679R	auxin efflux carrier
+977383..978261	-	292	156937884	-	Igni_1096	-	-	hypothetical protein
+978284..980017	+	577	156937885	-	Igni_1097	-	COG0028EH	acetolactate synthase, large subunit
+980022..980321	+	99	156937886	-	Igni_1098	-	-	hypothetical protein
+980355..980768	+	137	156937887	-	Igni_1099	-	COG0537FGR	histidine triad (HIT) protein
+980808..982088	+	426	156937888	-	Igni_1100	-	COG1350R	tryptophan synthase subunit beta
+982103..983797	+	564	156937889	-	Igni_1101	-	COG3383R	molybdopterin oxidoreductase
+983790..984953	-	387	156937890	-	Igni_1102	-	COG0626E	cystathionine gamma-synthase
+985043..985861	+	272	156937891	-	Igni_1103	-	COG0005F	5'-methylthioadenosine phosphorylase
+985900..986229	+	109	156937892	-	Igni_1104	-	-	hypothetical protein
+986270..986839	-	189	156937893	-	Igni_1105	-	COG1779R	ZPR1-related zinc finger protein
+986935..987210	+	91	156937894	rpl44e	Igni_1106	-	COG1631J	50S ribosomal protein L44
+987188..988180	-	330	156937895	-	Igni_1107	-	COG0535R	radical SAM domain-containing protein
+988278..989612	+	444	156937896	-	Igni_1108	-	COG0644C	geranylgeranyl reductase
+989588..990526	-	312	156937897	-	Igni_1109	-	COG0707M	UDP-N-acetylglucosamine:LPS N-acetylglucosamine transferase-like protein
+990540..992228	-	562	156937898	-	Igni_1110	-	COG0008J	glutamyl-tRNA synthetase
+992320..992658	-	112	156937899	-	Igni_1111	-	COG3118O	hypothetical protein
+992675..993214	-	179	156937900	-	Igni_1112	-	-	hypothetical protein
+993306..995771	-	821	156937901	-	Igni_1113	-	COG0574G	phosphoenolpyruvate synthase
+995854..996528	+	224	156937902	-	Igni_1114	-	COG1695K	hypothetical protein
+996510..997058	-	182	156937903	-	Igni_1115	-	COG2226H	methyltransferase type 11
+997040..998137	-	365	156937904	-	Igni_1116	-	COG4046S	hypothetical protein
+998172..1000031	-	619	156937905	-	Igni_1117	-	COG1444R	hypothetical protein
+1000070..1000309	-	79	156937906	-	Igni_1118	-	-	hypothetical protein
+1000394..1000657	+	87	156937907	-	Igni_1119	-	-	hypothetical protein
+1001012..1001992	+	326	156937908	-	Igni_1120	-	-	hypothetical protein
+1001982..1002788	-	268	156937909	-	Igni_1121	-	-	hypothetical protein
+1002923..1003303	+	126	156937910	-	Igni_1122	-	-	hypothetical protein
+1003300..1003956	+	218	156937911	-	Igni_1123	-	COG1303S	hypothetical protein
+1003811..1004332	+	173	156937912	-	Igni_1124	-	COG1675K	transcription factor TFIIE subunit alpha
+1004313..1005260	+	315	156937913	-	Igni_1125	-	COG0270L	DNA-cytosine methyltransferase
+1005257..1005928	+	223	156937914	-	Igni_1126	-	COG3971Q	hypothetical protein
+1005925..1006353	-	142	156937915	-	Igni_1127	-	COG1591L	holliday junction resolvase
+1006412..1006819	-	135	156937916	-	Igni_1128	-	COG0231J	translation initiation factor IF-5A
+1006885..1007985	-	366	156937917	-	Igni_1129	-	-	hypothetical protein
+1008227..1009807	+	526	156937918	-	Igni_1130	-	-	hypothetical protein
+1010635..1011390	+	251	156937919	-	Igni_1131	-	COG2519J	tRNA methyltransferase complex GCD14 subunit
+1011522..1012271	+	249	156937920	-	Igni_1132	-	COG4343S	CRISPR-associated RAMP Csa1 family protein
+1012268..1013185	+	305	156937921	-	Igni_1133	-	COG1518L	CRISPR-associated Cas1 family protein
+1013167..1013424	+	85	156937922	-	Igni_1134	-	COG1343L	CRISPR-associated Cas2 family protein
+1013417..1013923	+	168	156937923	-	Igni_1135	-	COG1468L	CRISPR-associated Cas4 family protein
+1013853..1014638	-	261	156937924	-	Igni_1136	-	COG2254L	metal dependent phosphohydrolase
+1014625..1016256	-	543	156937925	-	Igni_1137	-	COG1203R	CRISPR-associated helicase Cas3
+1016257..1017273	-	338	156937926	-	Igni_1138	-	-	hypothetical protein
+1017270..1018151	-	293	156937927	-	Igni_1139	-	COG1688L	CRISPR-associated Cas5 family protein
+1018155..1019198	-	347	156937928	-	Igni_1140	-	COG1857L	CRISPR-associated autoregulator DevR family protein
+1019204..1019650	-	148	156937929	-	Igni_1141	-	-	hypothetical protein
+1019785..1020357	+	190	156937930	-	Igni_1142	-	COG1378K	transcriptional regulator TrmB
+1020350..1022005	-	551	156937931	-	Igni_1143	-	COG1750R	serine protease-like protein
+1022011..1023078	+	355	156937932	-	Igni_1144	-	COG1005C	NADH dehydrogenase (quinone)
+1023089..1023658	+	189	156937933	-	Igni_1145	-	COG1143C	4Fe-4S ferredoxin
+1023658..1024140	+	160	156937934	-	Igni_1146	-	COG0839C	NADH-ubiquinone/plastoquinone oxidoreductase, chain 6
+1024137..1024445	+	102	156937935	-	Igni_1147	-	COG0713C	hypothetical protein
+1024445..1025758	+	437	156937936	-	Igni_1148	-	COG1007C	NADH/ubiquinone/plastoquinone (complex I)
+1025765..1026391	+	208	156937937	-	Igni_1149	-	COG2112T	hypothetical protein
+1026397..1027725	-	442	156937938	-	Igni_1150	-	COG5256J	elongation factor 1-alpha
+1027860..1028576	-	238	156937939	-	Igni_1151	-	-	hypothetical protein
+1028704..1029441	-	245	156937940	-	Igni_1152	-	COG1650S	hypothetical protein
+1030724..1031215	+	163	156937941	-	Igni_1153	-	COG0328L	ribonuclease H
+1031199..1031753	-	184	156937942	-	Igni_1154	-	-	hypothetical protein
+1031812..1033497	-	561	156937943	-	Igni_1155	-	COG0143J	methionyl-tRNA synthetase
+1033641..1034273	+	210	156937944	-	Igni_1156	-	COG5491N	hypothetical protein
+1034270..1034998	-	242	156937945	-	Igni_1157	-	COG0121R	hypothetical protein
+1034995..1035171	-	58	156937946	-	Igni_1158	-	-	hypothetical protein
+1035246..1035944	+	232	156937947	-	Igni_1159	-	COG1208MJ	nucleotidyl transferase
+1035955..1036134	+	59	156937948	-	Igni_1160	-	-	hypothetical protein
+1036177..1036380	+	67	156937949	-	Igni_1161	-	-	hypothetical protein
+1036377..1036844	+	155	156937950	-	Igni_1162	-	COG1370O	PUA domain-containing protein
+1036841..1037575	+	244	156937951	-	Igni_1163	-	COG1938R	hypothetical protein
+1037566..1038111	-	181	156937952	-	Igni_1164	-	-	hypothetical protein
+1038115..1038447	-	110	156937953	-	Igni_1165	-	-	hypothetical protein
+1038514..1039467	+	317	156937954	-	Igni_1166	-	COG0392S	hypothetical protein
+1039367..1039852	-	161	156937955	-	Igni_1167	-	COG4072S	hypothetical protein
+1039852..1040835	-	327	156937956	-	Igni_1168	-	COG0142H	polyprenyl synthetase
+1040931..1042130	-	399	156937957	-	Igni_1169	-	-	hypothetical protein
+1042182..1043987	-	601	156937958	-	Igni_1170	-	COG0433R	hypothetical protein
+1044063..1044785	+	240	156937959	-	Igni_1171	-	COG1234R	beta-lactamase domain-containing protein
+1044683..1047331	-	882	156937960	-	Igni_1172	-	COG1201R	ATP-dependent helicase
+1047372..1048745	-	457	156937961	-	Igni_1173	-	-	hypothetical protein
+1048773..1049831	-	352	156937962	-	Igni_1174	-	COG0371C	3-dehydroquinate synthase
+1049922..1050236	+	104	156937963	-	Igni_1175	-	COG2157J	50S ribosomal protein LX
+1050233..1050694	+	153	156937964	-	Igni_1176	-	COG1730O	prefoldin subunit alpha
+1050642..1051664	+	340	156937965	-	Igni_1177	-	COG0552U	signal recognition particle-docking protein FtsY
+1051661..1051855	+	64	156937966	-	Igni_1178	-	COG2443U	protein translocase SEC61 complex subunit gamma
+1051855..1052298	+	147	156937967	nusG	Igni_1179	-	COG0250K	transcription antitermination protein NusG
+1052306..1052815	+	169	156937968	rpl11p	Igni_1180	-	COG0080J	50S ribosomal protein L11
+1052797..1053495	+	232	156937969	rpl1P	Igni_1181	-	COG0081J	50S ribosomal protein L1
+1053502..1054542	+	346	156937970	rplP0	Igni_1182	-	COG0244J	acidic ribosomal protein P0
+1054531..1055118	-	195	156937971	-	Igni_1183	-	COG2428S	hypothetical protein
+1055155..1056315	+	386	156937972	-	Igni_1184	-	COG1867J	tRNA (guanine-N(2)-)-methyltransferase
+1056349..1056909	+	186	156937973	-	Igni_1185	-	-	hypothetical protein
+1057844..1059082	+	412	156937974	-	Igni_1186	-	COG0426C	beta-lactamase domain-containing protein
+1059079..1059867	-	262	156937975	-	Igni_1187	-	COG0451MG	NAD-dependent epimerase/dehydratase
+1060515..1060961	-	148	156937976	-	Igni_1188	-	-	hypothetical protein
+1060958..1062091	-	377	156937977	-	Igni_1189	-	COG4948MR	mandelate racemase/muconate lactonizing protein
+1062098..1063150	-	350	156937978	-	Igni_1190	-	COG2813J	hypothetical protein
+1063260..1063931	+	223	156937979	-	Igni_1191	-	COG0584C	glycerophosphoryl diester phosphodiesterase
+1064549..1065118	+	189	156937980	-	Igni_1193	-	COG2129R	metallophosphoesterase
+1065115..1065906	-	263	156937981	-	Igni_1194	-	COG2226H	methyltransferase type 11
+1065959..1066456	-	165	156937982	-	Igni_1195	-	-	hypothetical protein
+1066501..1066719	-	72	156937983	-	Igni_1196	-	-	hypothetical protein
+1066899..1067174	-	91	156937984	-	Igni_1197	-	COG2174J	50S ribosomal protein L34
+1067208..1067816	-	202	156937985	-	Igni_1198	-	COG2019F	adenylate kinase
+1067813..1069252	-	479	156937986	-	Igni_1199	-	COG0201U	protein translocase subunit secY/sec61 alpha
+1069415..1070452	-	345	156937987	-	Igni_1200	-	COG0123BQ	histone deacetylase superfamily protein
+1070489..1072843	-	784	156937988	-	Igni_1201	-	COG3889R	solute binding protein-like protein
+1072902..1073354	-	150	156937989	-	Igni_1202	-	COG0315H	molybdenum cofactor biosynthesis protein C
+1073344..1074192	-	282	156937990	-	Igni_1203	-	COG0609P	transporter permease
+1074234..1075154	-	306	156937991	-	Igni_1204	-	COG0614P	periplasmic binding protein
+1075186..1076073	-	295	156937992	-	Igni_1205	-	COG0455D	hypothetical protein
+1076152..1076490	+	112	156937993	-	Igni_1206	-	COG1645R	hypothetical protein
+1076477..1077028	-	183	156937994	-	Igni_1207	-	COG1335Q	isochorismatase hydrolase
+1077105..1078010	+	301	156937995	-	Igni_1208	-	COG0083E	homoserine kinase
+1077961..1079073	-	370	156937996	-	Igni_1209	-	COG2237S	hypothetical protein
+1079042..1079926	-	294	156937997	-	Igni_1210	-	COG1340S	hypothetical protein
+1079930..1080739	-	269	156937998	-	Igni_1211	-	COG1100R	GTPase
+1080780..1081763	+	327	156937999	-	Igni_1212	-	COG2524K	signal transduction protein
+1081791..1082213	+	140	156938000	-	Igni_1213	-	-	hypothetical protein
+1082219..1083244	-	341	156938001	-	Igni_1214	-	COG1527C	hypothetical protein
+1083250..1083591	-	113	156938002	-	Igni_1215	-	COG0556L	hypothetical protein
+1083677..1084327	+	216	156938003	-	Igni_1216	-	-	hypothetical protein
+1084342..1084641	+	99	156938004	-	Igni_1217	-	COG1993S	hypothetical protein
+1084691..1085377	+	228	156938005	-	Igni_1218	-	-	hypothetical protein
+1085467..1086186	+	239	156938006	-	Igni_1219	-	COG0396O	FeS assembly ATPase SufC
+1086183..1087499	+	438	156938007	-	Igni_1220	-	COG0719O	SufBD protein
+1087520..1087924	+	134	156938008	-	Igni_1221	-	-	hypothetical protein
+1087921..1089624	-	567	156938009	-	Igni_1222	-	COG0038P	hypothetical protein
+1089896..1090060	-	54	156938010	-	Igni_1223	-	-	hypothetical protein
+1090244..1090477	+	77	156938011	-	Igni_1224	-	-	hypothetical protein
+1090512..1091024	+	170	156938012	-	Igni_1225	-	COG0794M	hypothetical protein
+1091016..1092605	-	529	156938013	pheT	Igni_1226	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+1092633..1094069	-	478	156938014	-	Igni_1227	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+1094163..1095656	-	497	156938015	-	Igni_1228	-	COG0174E	L-glutamine synthetase
+1095870..1096097	+	75	156938016	-	Igni_1229	-	COG1918P	FeoA family protein
+1096094..1096384	+	96	156938017	-	Igni_1230	-	COG5625K	hypothetical protein
+1096362..1096784	-	140	156938018	-	Igni_1231	-	COG2062T	phosphohistidine phosphatase, SixA
+1096836..1097627	+	263	156938019	-	Igni_1232	-	-	hypothetical protein
+1097609..1098055	-	148	156938020	-	Igni_1233	-	-	hypothetical protein
+1098043..1098405	-	120	156938021	-	Igni_1234	-	-	hypothetical protein
+1098500..1099033	-	177	156938022	-	Igni_1235	-	COG1853R	flavin reductase domain-containing protein
+1099030..1099581	-	183	156938023	-	Igni_1236	-	COG0235G	class II aldolase/adducin family protein
+1099574..1099885	-	103	156938024	-	Igni_1237	-	COG0727R	hypothetical protein
+1099959..1100231	+	90	156938025	-	Igni_1238	-	COG1149C	4Fe-4S ferredoxin
+1100485..1100943	+	152	156938026	-	Igni_1239	-	COG1719R	hypothetical protein
+1101301..1102104	-	267	156938027	-	Igni_1240	-	-	hypothetical protein
+1102314..1102850	-	178	156938028	-	Igni_1241	-	-	hypothetical protein
+1102859..1103047	-	62	156938029	-	Igni_1242	-	-	hypothetical protein
+1103174..1103722	+	182	156938030	-	Igni_1243	-	-	hypothetical protein
+1103699..1104433	-	244	156938031	-	Igni_1244	-	-	hypothetical protein
+1104477..1105991	+	504	156938032	-	Igni_1245	-	COG1855R	ATPase
+1106038..1107189	-	383	156938033	-	Igni_1246	-	COG1574R	amidohydrolase
+1107179..1108027	-	282	156938034	-	Igni_1247	-	COG0604CR	alcohol dehydrogenase
+1108024..1108551	-	175	156938035	-	Igni_1248	-	COG0066E	3-isopropylmalate dehydratase small subunit
+1108645..1110078	+	477	156938036	-	Igni_1249	-	COG0119E	2-isopropylmalate synthase
+1110059..1110682	-	207	156938037	-	Igni_1250	-	-	hypothetical protein
+1110776..1111843	+	355	156938038	-	Igni_1251	-	COG1423L	ATP dependent DNA ligase
+1111835..1113976	-	713	156938039	-	Igni_1252	-	COG0046F	phosphoribosylformylglycinamidine synthase II
+1114017..1114862	-	281	156938040	-	Igni_1253	-	COG1831R	TatD-related deoxyribonuclease
+1114878..1115579	-	233	156938041	-	Igni_1254	-	COG2220R	beta-lactamase domain-containing protein
+1115735..1119571	+	1278	156938042	-	Igni_1255	-	COG3889R	hypothetical protein
+1119623..1120192	+	189	156938043	-	Igni_1256	-	COG1014C	pyruvate/ketoisovalerate oxidoreductase subunit gamma
+1120189..1120497	+	102	156938044	-	Igni_1257	-	COG1144C	pyruvate ferredoxin oxidoreductase subunit delta
+1120494..1121684	+	396	156938045	-	Igni_1258	-	COG0674C	pyruvate ferredoxin oxidoreductase subunit alpha
+1121742..1122710	+	322	156938046	-	Igni_1259	-	COG1013C	pyruvate ferredoxin oxidoreductase subunit beta
+1122712..1123749	-	345	156938047	-	Igni_1260	-	COG0585S	tRNA pseudouridine synthase D, TruD
+1123746..1124057	-	103	156938048	-	Igni_1261	-	COG2163J	50S ribosomal protein L14
+1124107..1125192	+	361	156938049	-	Igni_1262	-	COG0265O	peptidase M50
+1125184..1126119	-	311	156938050	-	Igni_1263	-	COG0039C	malate dehydrogenase (NAD)
+1126192..1126926	+	244	156938051	-	Igni_1264	-	COG1603J	hypothetical protein
+1126947..1128062	-	371	156938052	-	Igni_1265	-	COG1092R	SAM-dependent methyltransferase
+1128160..1128417	+	85	156938053	-	Igni_1266	-	-	hypothetical protein
+1128577..1129416	+	279	156938054	-	Igni_1267	-	COG3959G	transketolase
+1129492..1129884	+	130	156938055	-	Igni_1268	-	COG1601J	translation initiation factor 2 subunit beta (aeIF-2b)
+1130094..1132403	-	769	156938056	-	Igni_1269	-	COG3127Q	hypothetical protein
+1132391..1133062	-	223	156938057	-	Igni_1270	-	COG1136V	ABC transporter
+1133120..1133983	-	287	156938058	-	Igni_1271	-	-	hypothetical protein
+1134040..1134537	+	165	156938059	-	Igni_1272	-	COG1860S	hypothetical protein
+1134895..1135371	-	158	156938060	-	Igni_1273	-	-	PA-phosphatase-like phosphoesterase
+1135382..1135828	-	148	156938061	-	Igni_1274	-	COG0200J	50S ribosomal protein L15
+1135878..1136357	-	159	156938062	rpl30p	Igni_1275	-	COG1841J	50S ribosomal protein L30
+1136371..1137006	-	211	156938063	rps5p	Igni_1276	-	COG0098J	30S ribosomal protein S5
+1137013..1137627	-	204	156938064	rpl18p	Igni_1277	-	COG0256J	50S ribosomal protein L18
+1137629..1138081	-	150	156938065	rpl19e	Igni_1278	-	COG2147J	50S ribosomal protein L19
+1138078..1138524	-	148	156938066	rpl32e	Igni_1279	-	COG1717J	50S ribosomal protein L32
+1138524..1139084	-	186	156938067	rpl6p	Igni_1280	-	COG0097J	50S ribosomal protein L6
+1139160..1139474	-	104	156938068	-	Igni_1281	-	COG0023J	translation initiation factor Sui1
+1139546..1139716	+	56	156938069	-	Igni_1282	-	COG1996K	RNA polymerase Rbp10
+1139812..1140393	+	193	156938070	-	Igni_1283	-	-	hypothetical protein
+1140375..1141121	+	248	156938071	-	Igni_1284	-	COG0561R	SPP-like hydrolase
+1141193..1141603	+	136	156938072	-	Igni_1285	-	-	hypothetical protein
+1141608..1142075	+	155	156938073	-	Igni_1286	-	-	hypothetical protein
+1142065..1144161	-	698	156938074	-	Igni_1287	-	COG1204R	DEAD/DEAH box helicase
+1144173..1145504	+	443	156938075	-	Igni_1288	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+1145485..1145937	+	150	156938076	-	Igni_1289	-	-	hypothetical protein
+1145934..1146560	+	208	156938077	-	Igni_1290	-	-	hypothetical protein
+1146807..1147040	-	77	156938078	-	Igni_1291	-	-	hypothetical protein
+1147044..1147166	-	40	156938079	-	Igni_1292	-	-	hypothetical protein
+1147434..1148657	+	407	156938080	-	Igni_1293	-	COG0004P	ammonium transporter
+1148671..1149021	+	116	156938081	-	Igni_1294	-	COG0347E	nitrogen regulatory protein P-II
+1150318..1151592	+	424	156938082	-	Igni_1295	-	COG1474LO	ORC complex protein Cdc6/Orc1
+1151576..1151800	+	74	156938083	-	Igni_1296	-	COG2345K	transcriptional regulator
+1151795..1153864	-	689	156938084	-	Igni_1297	-	COG1241L	replicative DNA helicase Mcm
+1153857..1154429	-	190	156938085	-	Igni_1298	-	-	hypothetical protein
+1154552..1155541	+	329	156938086	rfc	Igni_1299	-	COG0470L	replication factor C small subunit
+1155538..1156968	+	476	156938087	-	Igni_1300	-	COG0470L	replication factor C large subunit
+1156955..1158094	-	379	156938088	-	Igni_1301	-	COG0180J	tryptophanyl-tRNA synthetase
+1158195..1158521	+	108	156938089	-	Igni_1302	-	-	hypothetical protein
+1158677..1158898	-	73	156938090	-	Igni_1303	-	-	hypothetical protein
+1158918..1160228	+	436	156938091	-	Igni_1304	-	COG3356S	hypothetical protein
+1160301..1162091	-	596	156938092	-	Igni_1305	-	COG1155C	V-type ATP synthase subunit A
+1162324..1163307	-	327	156938093	-	Igni_1306	-	COG2404R	DHH superfamily phosphohydrolase
+1163474..1164232	+	252	156938094	-	Igni_1307	-	COG2521R	methyltransferase-like protein
+1164245..1165162	-	305	156938095	-	Igni_1308	-	-	hypothetical protein
+1165200..1165676	-	158	156938096	-	Igni_1309	-	-	hypothetical protein
+1165751..1166629	-	292	156938097	-	Igni_1310	-	COG1814S	hypothetical protein
+1166883..1167446	+	187	156938098	-	Igni_1311	-	-	hypothetical protein
+1167450..1168292	+	280	156938099	-	Igni_1312	-	-	hypothetical protein
+1168413..1168949	+	178	156938100	-	Igni_1313	-	-	hypothetical protein
+1168955..1169701	+	248	156938101	-	Igni_1314	-	-	hypothetical protein
+1169677..1170753	+	358	156938102	-	Igni_1315	-	-	hypothetical protein
+1170657..1171685	+	342	156938103	-	Igni_1316	-	-	hypothetical protein
+1171675..1172334	-	219	156938104	-	Igni_1317	-	COG2517R	tRNA-binding domain-containing protein
+1172408..1172923	+	171	156938105	-	Igni_1318	-	-	hypothetical protein
+1172865..1173842	-	325	156938106	-	Igni_1319	-	COG3448T	hypothetical protein
+1173845..1174567	+	240	156938107	-	Igni_1320	-	-	hypothetical protein
+1174672..1175220	+	182	156938108	-	Igni_1321	-	-	hypothetical protein
+1175217..1175501	-	94	156938109	-	Igni_1322	-	-	hypothetical protein
+1175589..1175867	-	92	156938110	-	Igni_1323	-	-	hypothetical protein
+1175927..1177711	-	594	156938111	-	Igni_1324	-	COG1966T	carbon starvation protein CstA
+1177842..1178102	+	86	156938112	-	Igni_1325	-	-	hypothetical protein
+1178105..1179034	+	309	156938113	-	Igni_1326	-	COG0003P	arsenite-transporting ATPase
+1179022..1179618	+	198	156938114	-	Igni_1327	-	-	hypothetical protein
+1181068..1181577	+	169	156938115	-	Igni_1328	-	COG2226H	RNA methylase
+1182111..1182875	+	254	156938116	-	Igni_1329	-	COG0134E	indole-3-glycerol phosphate synthase
+1182914..1183969	+	351	156938117	-	Igni_1330	-	COG1123R	oligopeptide/dipeptide ABC transporter ATPase
+1183971..1185188	-	405	156938118	-	Igni_1331	-	COG0144J	Fmu (Sun) domain-containing protein
+1185344..1185838	+	164	156938119	-	Igni_1332	-	COG1719R	hypothetical protein
+1185822..1186889	-	355	156938120	-	Igni_1333	-	COG0079E	histidinol phosphate aminotransferase
+1186972..1187418	+	148	156938121	-	Igni_1334	-	COG1731H	riboflavin synthase
+1187326..1188444	-	372	156938122	-	Igni_1335	-	COG1818R	THUMP domain-containing protein
+1188624..1189682	+	352	156938123	-	Igni_1336	-	COG0601EP	binding-protein-dependent transporters inner membrane component
+1189689..1191011	+	440	156938124	-	Igni_1337	-	COG1173EP	binding-protein-dependent transporters inner membrane component
+1191015..1191980	+	321	156938125	-	Igni_1338	-	COG0444EP	oligopeptide/dipeptide ABC transporter ATPase
+1192299..1192901	-	200	156938126	-	Igni_1339	-	COG1131V	ABC transporter
+1192898..1193638	-	246	156938127	-	Igni_1340	-	COG4149P	binding-protein-dependent transporters inner membrane component
+1193643..1194422	-	259	156938128	-	Igni_1341	-	COG0725P	molybdenum ABC transporter, periplasmic molybdate-binding protein
+1194435..1194872	-	145	156938129	-	Igni_1342	-	COG1356S	hypothetical protein
+1194872..1195555	-	227	156938130	-	Igni_1343	-	COG1525L	nuclease
+1195572..1196663	-	363	156938131	-	Igni_1344	-	COG1503J	peptide chain release factor 1
+1196710..1197276	-	188	156938132	-	Igni_1345	-	COG0518F	glutamine amidotransferase
+1197335..1198090	-	251	156938133	rpl2p	Igni_1346	-	COG0090J	50S ribosomal protein L2
+1198412..1201096	-	894	156938134	-	Igni_1347	-	COG1201R	DEAD/DEAH box helicase
+1201136..1201510	-	124	156938135	-	Igni_1348	-	COG2033C	desulfoferrodoxin, ferrous iron-binding region
+1201569..1202324	-	251	156938136	-	Igni_1349	-	COG1712R	aspartate dehydrogenase
+1202321..1203166	-	281	156938137	-	Igni_1350	-	COG0157H	nicotinate-nucleotide pyrophosphorylase
+1203279..1206818	+	1179	156938138	-	Igni_1351	-	COG1033R	RND efflux transporter
+1206892..1207536	-	214	156938139	-	Igni_1352	-	COG2429S	GTP cyclohydrolase II
+1207908..1209266	+	452	156938140	-	Igni_1353	-	COG1549J	radical SAM domain-containing protein
+1209284..1209967	+	227	156938141	-	Igni_1354	-	-	hypothetical protein
+1209982..1210308	+	108	156938142	-	Igni_1355	-	-	hypothetical protein
+1210340..1211596	+	418	156938143	-	Igni_1356	-	COG0312R	C69 family peptidase
+1211552..1212196	-	214	156938144	-	Igni_1357	-	-	hypothetical protein
+1212230..1212865	+	211	156938145	-	Igni_1358	-	COG0284F	orotidine 5'-phosphate decarboxylase
+1212947..1214863	+	638	156938146	-	Igni_1359	-	-	multiheme cytochrome
+1214914..1216854	-	646	156938147	-	Igni_1360	-	COG0175EH	phosphoadenosine phosphosulfate reductase
+1216887..1217798	+	303	156938148	-	Igni_1361	-	COG1940KG	glucokinase
+1217849..1218271	+	140	156938149	-	Igni_1362	-	-	hypothetical protein
+1218276..1218866	-	196	156938150	-	Igni_1363	-	COG0071O	heat shock protein Hsp20
+1218860..1219405	-	181	156938151	-	Igni_1364	-	COG1309K	TetR family transcriptional regulator
+1219681..1220886	+	401	156938152	-	Igni_1365	-	COG0012J	translation-associated GTPase
+1220970..1222238	+	422	156938153	-	Igni_1366	-	COG1740C	nickel-dependent hydrogenase small subunit
+1222253..1224247	+	664	156938154	-	Igni_1367	-	COG0374C	nickel-dependent hydrogenase, large subunit
+1224314..1225138	+	274	156938155	-	Igni_1368	-	-	hypothetical protein
+1225135..1226574	+	479	156938156	-	Igni_1369	-	COG0247C	4Fe-4S ferredoxin
+1226539..1227078	-	179	156938157	-	Igni_1370	-	COG1913R	peptidase, zinc-dependent
+1227119..1227964	+	281	156938158	-	Igni_1371	-	COG0010E	agmatinase
+1227915..1228865	-	316	156938159	-	Igni_1372	-	COG1405K	transcription initiation factor IIB
+1229191..1229982	-	263	156938160	-	Igni_1373	-	COG4047S	N-glycosylase/DNA lyase
+1229984..1231234	-	416	156938161	-	Igni_1374	-	COG3635G	cofactor-independent phosphoglycerate mutase
+1231312..1232133	+	273	156938162	-	Igni_1375	-	-	hypothetical protein
+1232141..1232554	+	137	156938163	-	Igni_1376	-	COG1656S	hypothetical protein
+1232547..1233512	-	321	156938164	-	Igni_1377	-	COG0348C	nitrate reductase subunit H
+1233515..1234477	-	320	156938165	-	Igni_1378	-	COG0437C	nitrate reductase, subunit G
+1234612..1238361	-	1249	156938166	-	Igni_1379	-	COG0243C	nitrate reductase, subunit A
+1238522..1238863	-	113	156938167	-	Igni_1380	-	-	nitrate reductase subunit D
+1238933..1239574	+	213	156938168	-	Igni_1381	-	-	hypothetical protein
+1239651..1241516	+	621	156938169	-	Igni_1382	-	COG1509E	lysine 2,3-aminomutase YodO family protein
+1241742..1243964	-	740	156938170	-	Igni_1383	-	COG0480J	elongation factor EF-2
+1244014..1244871	-	285	156938171	-	Igni_1384	-	-	hypothetical protein
+1245159..1247795	+	878	156938172	-	Igni_1385	-	COG0419L	SMC domain-containing protein
+1247782..1248291	-	169	156938173	-	Igni_1386	-	-	hypothetical protein
+1248418..1249353	+	311	156938174	-	Igni_1387	-	COG0078E	ornithine carbamoyltransferase
+1249350..1250147	-	265	156938175	-	Igni_1388	-	COG2441C	hypothetical protein
+1250089..1250559	-	156	156938176	-	Igni_1389	-	-	hypothetical protein
+1250761..1251969	+	402	156938177	-	Igni_1390	-	COG0303H	molybdenum cofactor synthesis domain-containing protein
+1252125..1252952	-	275	156938178	-	Igni_1391	-	COG0171H	NH(3)-dependent NAD(+) synthetase
+1252989..1254935	-	648	156938179	-	Igni_1392	-	COG2433S	hypothetical protein
+1254922..1255809	-	295	156938180	-	Igni_1393	-	COG0478T	hypothetical protein
+1255745..1256641	-	298	156938181	-	Igni_1394	-	COG1395K	helix-turn-helix domain-containing protein
+1256634..1257080	-	148	156938182	-	Igni_1395	-	COG2083S	hypothetical protein
+1257129..1257485	-	118	156938183	-	Igni_1396	-	-	hypothetical protein
+1257592..1257936	+	114	156938184	-	Igni_1397	-	-	hypothetical protein
+1257942..1258544	+	200	156938185	-	Igni_1398	-	COG1280E	lysine exporter protein LysE/YggA
+1258600..1261743	-	1047	156938186	carB	Igni_1399	-	COG0458EF	carbamoyl phosphate synthase large subunit
+1261740..1262861	-	373	156938187	-	Igni_1400	-	COG0505EF	carbamoyl-phosphate synthase small subunit
+1262987..1264177	+	396	156938188	-	Igni_1401	-	COG0183I	acetyl-CoA acetyltransferase
+1264309..1264479	+	56	156938189	-	Igni_1402	-	COG2995S	hypothetical protein
+1264496..1265353	+	285	156938190	-	Igni_1403	-	COG0189HJ	lysine biosynthesis protein LysX
+1265406..1265900	-	164	156938191	-	Igni_1404	-	COG0537FGR	histidine triad (HIT) protein
+1265907..1266698	-	263	156938192	-	Igni_1405	-	-	peptidase A24A, prepilin type IV
+1266944..1268113	-	389	156938193	-	Igni_1406	-	COG0175EH	phosphoadenosine phosphosulfate reductase
+1268357..1268725	+	122	156938194	-	Igni_1407	-	COG0186J	30S ribosomal protein S17
+1268725..1269138	+	137	156938195	rpl14p	Igni_1408	-	COG0093J	50S ribosomal protein L14
+1269149..1269526	+	125	156938196	-	Igni_1409	-	COG0198J	50S ribosomal protein L24
+1269528..1270295	+	255	156938197	-	Igni_1410	-	COG1471J	30S ribosomal protein S4
+1270286..1270882	+	198	156938198	rpl5p	Igni_1411	-	COG0094J	50S ribosomal protein L5
+1270918..1271082	+	54	156938199	rps14P	Igni_1412	-	COG0199J	30S ribosomal protein S14
+1271088..1271489	+	133	156938200	rps8p	Igni_1413	-	COG0096J	30S ribosomal protein S8
+1271553..1271936	+	127	156938201	-	Igni_1414	-	COG0517R	hypothetical protein
+1271969..1273903	+	644	156938202	-	Igni_1415	-	COG1293K	hypothetical protein
+1273947..1275155	+	402	156938203	purT	Igni_1416	-	COG0027F	phosphoribosylglycinamide formyltransferase 2
+1275180..1275899	-	239	156938204	-	Igni_1417	-	COG1889J	fibrillarin
+1276191..1277312	+	373	156938205	-	Igni_1418	-	-	hypothetical protein
+1277346..1278617	+	423	156938206	-	Igni_1419	-	COG0621J	RNA modification protein
+1278602..1279117	+	171	156938207	-	Igni_1420	-	-	hypothetical protein
+1279114..1280163	+	349	156938208	-	Igni_1421	-	-	hypothetical protein
+1280155..1280961	-	268	156938209	-	Igni_1422	-	COG1351F	thymidylate synthase, flavin-dependent
+1281025..1281258	+	77	156938210	-	Igni_1423	-	-	hypothetical protein
+1281255..1281563	+	102	156938211	-	Igni_1424	-	-	hypothetical protein
+1281560..1282015	+	151	156938212	-	Igni_1425	-	COG1369J	ribonuclease P-related
+1281938..1282234	-	98	156938213	-	Igni_1426	-	COG2345K	ArsR family transcriptional regulator
+1282245..1282874	-	209	156938214	-	Igni_1427	-	-	hypothetical protein
+1282871..1283872	-	333	156938215	-	Igni_1428	-	-	hypothetical protein
+1283915..1284175	-	86	156938216	-	Igni_1429	-	-	hypothetical protein
+1284245..1285603	+	452	156938217	-	Igni_1430	-	COG0165E	argininosuccinate lyase
+1285613..1287802	+	729	156938218	-	Igni_1431	-	COG0464O	ATPase AAA
+1287799..1288185	-	128	156938219	-	Igni_1432	-	-	hypothetical protein
+1288262..1289323	+	353	156938220	-	Igni_1433	-	COG0731C	tRNA-modifying protein
+1289720..1290694	-	324	156938221	-	Igni_1434	-	-	hypothetical protein
+1290898..1292259	-	453	156938222	aspC	Igni_1435	-	COG0017J	aspartyl-tRNA synthetase
+1292290..1293288	-	332	156938223	-	Igni_1436	-	COG2876E	3-deoxy-7-phosphoheptulonate synthase
+1293281..1293928	-	215	156938224	-	Igni_1437	-	COG0164L	RNase HII
+1294044..1294457	+	137	156938225	-	Igni_1438	-	-	hypothetical protein
+1294457..1294912	+	151	156938226	-	Igni_1439	-	COG1763H	molybdopterin-guanine dinucleotide biosynthesis MobB region
+1294945..1295352	-	135	156938227	-	Igni_1440	-	COG1988R	membrane-bound metal-dependent hydrolase
+1295349..1296275	-	308	156938228	-	Igni_1441	-	COG1907R	beta-ribofuranosylaminobenzene 5'-phosphate synthase
+1296515..1297534	+	339	156938229	-	Igni_1442	-	COG0547E	anthranilate phosphoribosyltransferase

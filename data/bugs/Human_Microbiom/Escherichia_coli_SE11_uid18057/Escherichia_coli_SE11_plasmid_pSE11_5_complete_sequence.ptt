@@ -1,0 +1,10 @@
+Escherichia coli SE11 plasmid pSE11-5, complete sequence - 1..5366
+7 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1554	+	517	209916818	-	ECSE_P5-0001	-	-	mobilization protein MobA
+689..1207	+	172	209916819	-	ECSE_P5-0002	-	-	mobilization protein MobB
+1636..1782	+	48	209916820	-	ECSE_P5-0003	-	-	hypothetical protein
+1819..2799	-	326	209916821	-	ECSE_P5-0004	-	-	hypothetical protein
+2801..3448	-	215	209916822	-	ECSE_P5-0005	-	COG3950R	hypothetical protein
+4367..4621	+	84	209916823	-	ECSE_P5-0006	-	-	hypothetical protein
+4798..4989	-	63	209916824	-	ECSE_P5-0007	-	-	hypothetical protein

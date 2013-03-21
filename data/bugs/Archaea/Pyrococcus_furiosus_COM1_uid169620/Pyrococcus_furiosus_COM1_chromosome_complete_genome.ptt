@@ -1,0 +1,2067 @@
+Pyrococcus furiosus COM1 chromosome, complete genome - 1..1909827
+2064 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+43..2532	+	829	397650688	-	PFC_00005	-	-	hypothetical protein
+2720..3769	+	349	397650689	-	PFC_00010	-	-	oligopeptide transport system permease
+3780..5204	+	474	397650690	-	PFC_00015	-	-	oligopeptide transporter permease appc
+5215..6174	+	319	397650691	-	PFC_00020	-	-	ABC transport ATP binding protein
+6185..7192	+	335	397650692	-	PFC_00025	-	-	dipeptide ABC transporter ATP-binding protein
+7204..7710	+	168	397650693	-	PFC_00030	-	-	hypothetical protein
+7703..8272	+	189	397650694	-	PFC_00035	-	-	glucose-6-phosphate isomerase
+8340..8579	+	79	397650695	-	PFC_00040	-	-	phosphoribosylformylglycinamidine synthase subunit PurS
+8585..9256	+	223	397650696	-	PFC_00045	-	-	phosphoribosylformylglycinamidine synthase I
+9365..11479	+	704	397650697	-	PFC_00050	-	-	phosphoribosylformylglycinamidine synthase II
+11469..11639	-	56	397650698	-	PFC_00055	-	-	hypothetical protein
+11643..13085	-	480	397650699	-	PFC_00060	-	-	hypothetical protein
+13128..15623	-	831	397650700	-	PFC_00065	-	-	aconitate hydratase
+15628..16830	-	400	397650701	-	PFC_00070	-	-	isocitrate dehydrogenase
+16836..17969	-	377	397650702	-	PFC_00075	-	-	citrate synthase
+18326..19435	+	369	397650703	-	PFC_00080	-	-	hypothetical protein
+19432..20940	+	502	397650704	-	PFC_00085	-	-	glutamate synthase subunit alpha
+20937..21764	+	275	397650705	-	PFC_00090	-	-	hypothetical protein
+21853..23085	+	410	397650706	-	PFC_00095	-	-	argininosuccinate synthase
+23099..24478	+	459	397650707	-	PFC_00100	-	-	argininosuccinate lyase
+24447..25268	+	273	397650708	-	PFC_00105	-	-	ribosomal protein s6 modification protein
+25265..26857	-	530	397650709	-	PFC_00110	-	-	oxidative cyclase
+27013..27627	+	204	397650710	-	PFC_00115	-	-	hypothetical protein
+27614..29941	-	775	397650711	-	PFC_00120	-	-	DNA-directed DNA polymerase
+30042..30854	+	270	397650712	-	PFC_00125	-	-	hypothetical protein
+30851..31591	-	246	397650713	-	PFC_00130	-	-	n-type ATP pyrophosphatase
+31629..32921	-	430	397650714	eno	PFC_00135	-	-	enolase
+32956..33543	-	195	397650715	-	PFC_00140	-	-	Maf-like protein
+33654..33938	+	94	397650716	rpl44e	PFC_00145	-	-	50S ribosomal protein L44e
+33943..34134	+	63	397650717	rps27e	PFC_00150	-	-	30S ribosomal protein S27e
+34109..34564	-	151	397650718	-	PFC_00155	-	-	6-pyruvoyl tetrahydrobiopterin synthase
+34642..35862	+	406	397650719	-	PFC_00160	-	-	D-arabino 3-hexulose 6-phosphate formaldehyde lyase
+35953..36642	+	229	397650720	-	PFC_00165	-	-	hypothetical protein
+36636..37295	+	219	397650721	-	PFC_00170	-	-	hydrolase related to 2-haloalkanoic acid dehalogenase
+37279..37461	+	60	397650722	-	PFC_00175	-	-	hypothetical protein
+37458..38246	+	262	397650723	-	PFC_00180	-	-	hypothetical protein
+38239..38853	-	204	397650724	-	PFC_00185	-	-	hypothetical protein
+38903..39385	+	160	397650725	-	PFC_00190	-	-	putative N-acetyltransferase
+39945..41564	-	539	397650726	-	PFC_00195	-	-	hypothetical protein
+41655..42233	+	192	397650727	-	PFC_00200	-	-	ArsR family transcriptional regulator
+42242..42547	+	101	397650728	-	PFC_00205	-	-	hypothetical protein
+42547..43110	+	187	397650729	-	PFC_00210	-	-	ArsR family transcriptional regulator
+43170..44567	+	465	397650730	-	PFC_00215	-	-	hypothetical protein
+44553..45626	-	357	397650731	-	PFC_00220	-	-	hypothetical protein
+45623..46885	-	420	397650732	-	PFC_00225	-	-	glucose-1-phosphate thymidylyltransferase
+46938..47777	-	279	397650733	-	PFC_00230	-	-	ribose-phosphate pyrophosphokinase
+47790..48485	-	231	397650734	-	PFC_00235	-	-	hypothetical protein
+48482..48835	-	117	397650735	-	PFC_00240	-	-	hypothetical protein
+48887..49147	-	86	397650736	-	PFC_00245	-	-	hypothetical protein
+49886..50728	+	280	397650737	-	PFC_00250	-	-	hypothetical protein
+50797..51954	-	385	397650738	-	PFC_00255	-	-	tryptophanyl-tRNA ligase
+52405..52593	-	62	397650739	-	PFC_00260	-	-	transposase
+52728..53921	-	397	397650740	-	PFC_00265	-	-	DEXX-box atpase
+54155..54361	+	68	397650741	-	PFC_00270	-	-	HEPN domain-containing protein
+54438..54548	-	36	397650742	-	PFC_00275	-	-	hypothetical protein
+54770..55081	+	103	397650743	-	PFC_00280	-	-	hypothetical protein
+55074..56003	-	309	397650744	-	PFC_00285	-	-	HTH transcription regulator
+56157..56645	+	162	397650745	-	PFC_00290	-	-	hypothetical protein
+56657..57214	+	185	397650746	-	PFC_00295	-	-	deoxyribonucleotide triphosphate pyrophosphatase
+57246..57698	+	150	397650747	-	PFC_00300	-	-	transcriptional regulator
+58054..59250	+	398	397650748	-	PFC_00305	-	-	tRNA/rRNA methyltransferase
+60406..60660	-	84	397650749	-	PFC_00310	-	-	hypothetical protein
+61407..61559	-	50	397650750	-	PFC_00315	-	-	30S ribosomal protein S27ae
+61562..61861	-	99	397650751	rps24e	PFC_00320	-	-	30S ribosomal protein S24e
+61851..62384	-	177	397650752	-	PFC_00325	-	-	hypothetical protein
+62384..62569	-	61	397650753	-	PFC_00330	-	-	DNA-directed RNA polymerase subunit E''
+62566..63135	-	189	397650754	-	PFC_00335	-	-	DNA-directed RNA polymerase subunit E'
+63174..63710	-	178	397650755	-	PFC_00340	-	-	inorganic pyrophosphatase
+63780..64625	-	281	397650756	-	PFC_00345	-	-	endonuclease IV
+64697..64999	+	100	397650757	-	PFC_00350	-	-	hypothetical protein
+64996..66126	+	376	397650758	-	PFC_00355	-	-	hypothetical protein
+66118..68889	-	923	397650759	-	PFC_00360	-	-	hypothetical protein
+68876..71122	-	748	397650760	-	PFC_00365	-	-	MFS family transporter
+71196..71714	+	172	397650761	-	PFC_00370	-	-	hypothetical protein
+71784..73082	-	432	397650762	hisS	PFC_00375	-	-	histidyl-tRNA ligase
+73186..74373	+	395	397650763	-	PFC_00380	-	-	2-amino-3-ketobutyrate coenzyme A ligase
+75087..75599	-	170	397650764	-	PFC_00385	-	-	tRNA-splicing endonuclease subunit alpha
+75596..76108	-	170	397650765	-	PFC_00390	-	-	acetyltransferase
+76201..77328	+	375	397650766	-	PFC_00395	-	-	Na+/H+ antiporter-like protein
+77422..77688	+	88	397650767	-	PFC_00400	-	-	hypothetical protein
+77734..80478	+	914	397650768	alaS	PFC_00405	-	-	alanyl-tRNA ligase
+80483..80944	-	153	397650769	-	PFC_00410	-	-	hypothetical protein
+81847..83796	+	649	397650770	-	PFC_00425	-	-	alpha-amylase
+83847..84758	-	303	397650771	-	PFC_00430	-	-	n-type ATP pyrophosphatase superfamily protein
+84924..85625	+	233	397650772	-	PFC_00435	-	-	transposase
+85651..86790	+	379	397650773	-	PFC_00440	-	-	Na+/H+ antiporter
+86791..88242	-	483	397650774	-	PFC_00445	-	-	oxidoreductase
+88288..90444	-	718	397650775	-	PFC_00450	-	-	hypothetical protein
+90448..91236	-	262	397650776	-	PFC_00455	-	-	ABC transporter permease
+91229..92167	-	312	397650777	-	PFC_00460	-	-	ABC transporter
+92205..92519	-	104	397650778	-	PFC_00465	-	-	hypothetical protein
+92561..92947	-	128	397650779	-	PFC_00470	-	-	hypothetical protein
+93042..93683	+	213	397650780	-	PFC_00475	-	-	hypothetical protein
+93718..93993	+	91	397650781	-	PFC_00480	-	-	acylphosphatase
+93983..94564	-	193	397650782	-	PFC_00485	-	-	hypothetical protein
+94674..96131	+	485	397650783	-	PFC_00490	-	-	inosine 5'-monophosphate dehydrogenase
+96284..97102	+	272	397650784	-	PFC_00495	-	-	intein/rRNA intron-related DNA endonuclease
+97426..101622	+	1398	397650785	-	PFC_00500	-	-	pyrolysin
+101648..102169	-	173	397650786	-	PFC_00505	-	-	hypothetical protein
+102304..104178	+	624	397650787	-	PFC_00510	-	-	phosphoenolpyruvate carboxykinase
+104183..106858	-	891	397650788	valS	PFC_00515	-	-	valyl-tRNA ligase
+107017..107817	-	266	397650789	-	PFC_00520	-	-	prephenate dehydratase
+107857..108867	-	336	397650790	-	PFC_00525	-	-	deoxyhypusine synthase
+108883..109839	-	318	397650791	-	PFC_00530	-	-	aminotransferase
+109836..110261	-	141	397650792	-	PFC_00535	-	-	low temperature requirement C - like protein
+110209..110904	-	231	397650793	-	PFC_00540	-	-	n-type ATP pyrophosphatase superfamily protein
+110908..111765	-	285	397650794	-	PFC_00545	-	-	cobalamin biosynthesis protein
+112158..112349	+	63	397650795	-	PFC_00550	-	-	hypothetical protein
+114130..114552	+	140	397650796	-	PFC_00555	-	-	hypothetical protein
+114609..115079	+	156	397650797	-	PFC_00560	-	-	hypothetical protein
+115076..115336	+	86	397650798	-	PFC_00565	-	-	hypothetical protein
+115317..115982	+	221	397650799	cobS	PFC_00570	-	-	cobalamin synthase
+115979..116530	+	183	397650800	-	PFC_00575	-	-	hypothetical protein
+116508..117959	-	483	397650801	-	PFC_00580	-	-	cobyric acid synthase
+117963..118673	-	236	397650802	-	PFC_00585	-	-	co-factor modifying protein
+118729..119724	+	331	397650803	-	PFC_00590	-	-	hypothetical protein
+119758..121161	-	467	397650804	-	PFC_00595	-	-	DEXX-box atpase
+121258..121839	-	193	397650805	-	PFC_00600	-	-	hypothetical protein
+121841..122866	-	341	397650806	-	PFC_00605	-	-	sua5 superfamily-like protein
+122863..123873	-	336	397650807	-	PFC_00610	-	-	glycosyltransferase
+124000..125019	+	339	397650808	-	PFC_00615	-	-	adenylosuccinate synthetase
+125284..125985	+	233	397650809	-	PFC_00620	-	-	transposase
+125999..127276	-	425	397650810	-	PFC_00625	-	-	ABC transporter
+127269..128006	-	245	397650811	-	PFC_00630	-	-	daunorubicin resistance ATP-binding protein drrA
+128003..128344	-	113	397650812	-	PFC_00635	-	-	hypothetical protein
+128420..129787	-	455	397650813	-	PFC_00640	-	-	ADP-dependent glucokinase
+129888..130352	-	154	397650814	-	PFC_00645	-	-	signal peptidase I
+130337..130915	-	192	397650815	-	PFC_00650	-	-	hypothetical protein
+130950..132002	+	350	397650816	-	PFC_00655	-	-	hypothetical protein
+131999..132841	+	280	397650817	-	PFC_00660	-	-	hypothetical protein
+132875..134737	+	620	397650818	-	PFC_00665	-	-	acylaminoacyl peptidase
+134785..135795	-	336	397650819	-	PFC_00670	-	-	glyoxylate reductase
+135843..136820	+	325	397650820	-	PFC_00675	-	-	hypothetical protein
+136792..137970	-	392	397650821	-	PFC_00680	-	-	inosine monophosphate dehydrogenase-like protein
+138071..138487	-	138	397650822	-	PFC_00685	-	-	nickel responsive regulator
+138963..139403	+	146	397650823	-	PFC_00695	-	-	hypothetical protein
+139507..140103	+	198	397650824	-	PFC_00700	-	-	hypothetical protein
+140120..140653	+	177	397650825	-	PFC_00705	-	-	hypothetical protein
+140670..141665	+	331	397650826	-	PFC_00710	-	-	hypothetical protein
+141662..142045	+	127	397650827	-	PFC_00715	-	-	hypothetical protein
+142032..142955	+	307	397650828	-	PFC_00720	-	-	hypothetical protein
+142903..144867	-	654	397650829	-	PFC_00725	-	-	hypothetical protein
+144873..146579	-	568	397650830	-	PFC_00730	-	-	flagellar assembly protein J
+146591..148204	-	537	397650831	-	PFC_00735	-	-	type II secretion system protein
+148225..148923	-	232	397650832	-	PFC_00740	-	-	flagellar accessory protein FlaH
+148950..149432	-	160	397650833	-	PFC_00745	-	-	flagella-related protein g
+149432..149950	-	172	397650834	-	PFC_00750	-	-	flagella-like protein
+149968..151176	-	402	397650835	-	PFC_00755	-	-	flagella-related protein D
+151180..151656	-	158	397650836	-	PFC_00760	-	-	hypothetical protein
+151667..152461	-	264	397650837	-	PFC_00765	-	-	flagellin
+152471..153085	-	204	397650838	-	PFC_00770	-	-	flagellin
+153193..154143	-	316	397650839	-	PFC_00775	-	-	methyltransferase
+154156..154482	-	108	397650840	-	PFC_00780	-	-	HTH transcription regulator
+154677..155645	+	322	397650841	-	PFC_00785	-	-	hypothetical protein
+155617..156318	-	233	397650842	-	PFC_00790	-	-	hypothetical protein
+156404..157669	-	421	397650843	-	PFC_00795	-	-	S-adenosyl-L-homocysteine hydrolase
+157710..158843	-	377	397650844	-	PFC_00800	-	-	tungsten-containing aldehyde ferredoxin oxidoreductase cofactor modifying protein
+158845..159093	-	82	397650845	-	PFC_00805	-	-	molybdopterin converting factor subunit 1
+159142..160959	-	605	397650846	-	PFC_00810	-	-	tungsten-containing aldehyde ferredoxin oxidoreductase
+161154..161948	+	264	397650847	-	PFC_00815	-	-	hypothetical protein
+162252..162953	-	233	397650848	-	PFC_00820	-	-	transposase
+163100..164008	+	302	397650849	-	PFC_00825	-	-	hypothetical protein
+164005..164343	-	112	397650850	-	PFC_00830	-	-	carbohydrate-binding protein
+164347..165072	-	241	397650851	-	PFC_00835	-	-	hypothetical protein
+165078..165404	-	108	397650852	-	PFC_00840	-	-	hypothetical protein
+165409..166401	-	330	397650853	-	PFC_00845	-	-	hypothetical protein
+166358..166693	-	111	397650854	-	PFC_00850	-	-	hypothetical protein
+166730..167083	-	117	397650855	-	PFC_00855	-	-	prefoldin protein
+167118..168038	-	306	397650856	-	PFC_00860	-	-	hypothetical protein
+168087..168815	-	242	397650857	-	PFC_00865	-	-	hypothetical protein
+168942..169097	+	51	397650858	rpl39e	PFC_00870	-	-	50S ribosomal protein L39e
+169108..169395	+	95	397650859	-	PFC_00875	-	-	50S ribosomal protein L31e
+169422..170105	+	227	397650860	-	PFC_00880	-	-	translation initiation factor IF-6
+170119..170352	+	77	397650861	rplX	PFC_00885	-	-	50S ribosomal protein LX
+170377..170817	+	146	397650862	-	PFC_00890	-	-	prefoldin subunit alpha
+170831..172024	-	397	397650863	-	PFC_00895	-	-	translation-associated GTPase
+172073..173050	-	325	397650864	-	PFC_00900	-	-	ABC transporter substrate-binding protein
+173099..173608	-	169	397650865	-	PFC_00905	-	-	molybdenum cofactor biosynthesis protein
+173759..175042	-	427	397650866	-	PFC_00910	-	-	transporter
+175242..176243	+	333	397650867	-	PFC_00915	-	-	2-hydroxyacid dehydrogenase
+176257..177255	+	332	397650868	-	PFC_00920	-	-	endoglucanase
+177267..178022	+	251	397650869	-	PFC_00925	-	-	hypothetical protein
+178032..178832	+	266	397650870	-	PFC_00930	-	-	hypothetical protein
+178820..179401	+	193	397650871	-	PFC_00935	-	-	hypothetical protein
+179387..180301	-	304	397650872	-	PFC_00940	-	-	hypothetical protein
+180505..181440	+	311	397650873	-	PFC_00945	-	-	tyrosine-protein kinase
+181437..183770	-	777	397650874	-	PFC_00950	-	-	beta-galactosidase
+183773..184750	-	325	397650875	-	PFC_00955	-	-	glucosamine-fructose-6-phosphate aminotransferase
+184747..185712	-	321	397650876	-	PFC_00960	-	-	oligopeptide ABC transporter
+185705..186679	-	324	397650877	-	PFC_00965	-	-	oligopeptide ABC transporter
+186676..187590	-	304	397650878	-	PFC_00970	-	-	oligopeptide ABC transporter permease
+187594..188586	-	330	397650879	-	PFC_00975	-	-	oppbc family ABC transporter
+188625..190517	-	630	397650880	-	PFC_00980	-	-	dipeptide-binding protein
+190694..192145	+	483	397650881	-	PFC_00985	-	-	beta-galactosidase
+192142..192351	+	69	397650882	-	PFC_00990	-	-	hypothetical protein
+192354..192803	+	149	397650883	-	PFC_00995	-	-	hypothetical protein
+192796..193599	-	267	397650884	-	PFC_01000	-	-	hypothetical protein
+193725..194864	+	379	397650885	-	PFC_01005	-	-	ATP dependent DNA ligase
+195050..196378	+	442	397650886	-	PFC_01010	-	-	hypothetical protein
+196619..197563	+	314	397650887	-	PFC_01015	-	-	cation antiporter
+197642..198253	+	203	397650888	-	PFC_01020	-	-	hypothetical protein
+198424..199125	+	233	397650889	-	PFC_01025	-	-	transposase
+199320..200477	+	385	397650890	-	PFC_01030	-	-	hypothetical protein
+200477..200881	+	134	397650891	-	PFC_01035	-	-	hypothetical protein
+200862..202088	+	408	397650892	-	PFC_01040	-	-	metalloprotease
+202201..202902	-	233	397650893	-	PFC_01045	-	-	transposase
+202990..203673	+	227	397650894	-	PFC_01050	-	-	hypothetical protein
+203657..204553	-	298	397650895	-	PFC_01055	-	-	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+204543..205073	-	176	397650896	-	PFC_01060	-	-	oxetanocin-like protein
+205084..205395	-	103	397650897	-	PFC_01065	-	-	hypothetical protein
+205454..206014	+	186	397650898	-	PFC_01070	-	-	GTP-binding protein
+206015..206527	-	170	397650899	-	PFC_01075	-	-	hypothetical protein
+206520..208742	-	740	397650900	-	PFC_01080	-	-	s1p family ribosomal protein
+208755..209744	-	329	397650901	-	PFC_01085	-	-	hypothetical protein
+209780..210358	-	192	397650902	-	PFC_01090	-	-	methyltransferase
+210504..211205	+	233	397650903	-	PFC_01095	-	-	transposase
+211268..212218	-	316	397650904	-	PFC_01100	-	-	UDP- or dTTP-glucose 4-epimerase or 4-6-dehydratase
+212224..212739	-	171	397650905	-	PFC_01105	-	-	hypothetical protein
+212736..213992	-	418	397650906	-	PFC_01110	-	-	hypothetical protein
+213989..214921	-	310	397650907	-	PFC_01115	-	-	methanol dehydrogenase regulatory protein
+214872..215936	-	354	397650908	-	PFC_01120	-	-	hypothetical protein
+215933..217696	-	587	397650909	-	PFC_01125	-	-	hypothetical protein
+217757..218527	+	256	397650910	-	PFC_01130	-	-	hypothetical protein
+218538..218780	+	80	397650911	-	PFC_01135	-	-	hypothetical protein
+218777..221008	+	743	397650912	-	PFC_01140	-	-	protein-export membrane protein
+221005..222009	-	334	397650913	-	PFC_01145	-	-	hypothetical protein
+222013..222636	-	207	397650914	-	PFC_01150	-	-	hypothetical protein
+222690..223175	+	161	397650915	-	PFC_01155	-	-	hypothetical protein
+223134..224321	-	395	397650916	-	PFC_01160	-	-	dehydrogenase
+224324..225139	-	271	397650917	-	PFC_01165	-	-	hypothetical protein
+225136..226335	-	399	397650918	-	PFC_01170	-	-	hypothetical protein
+226345..227298	-	317	397650919	-	PFC_01175	-	-	methanol dehydrogenase regulatory protein
+227288..228274	-	328	397650920	-	PFC_01180	-	-	hypothetical protein
+228256..231114	-	952	397650921	-	PFC_01185	-	-	hypothetical protein
+231170..232312	-	380	397650922	-	PFC_01190	-	-	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+232324..233640	-	438	397650923	-	PFC_01195	-	-	phosphoribosylamine--glycine ligase
+234471..235235	+	254	397650924	-	PFC_01210	-	-	hypothetical protein
+235297..236415	+	372	397650925	-	PFC_01215	-	-	phosphoribosylaminoimidazole carboxylase ATPase subunit
+236408..236920	+	170	397650926	-	PFC_01220	-	-	phosphoribosylaminoimidazole carboxylase catalytic subunit
+237005..237454	+	149	397650927	-	PFC_01225	-	-	hypothetical protein
+237476..238363	-	295	397650928	-	PFC_01230	-	-	proline permease
+238395..239096	-	233	397650929	-	PFC_01235	-	-	transposase
+239153..239746	-	197	397650930	-	PFC_01240	-	-	proline permease
+240075..240173	-	32	397650931	-	PFC_01245	-	-	transposase
+240709..241998	-	429	397650932	purT	PFC_01250	-	-	phosphoribosylglycinamide formyltransferase 2
+242134..243138	+	334	397650933	-	PFC_01255	-	-	phosphoribosylaminoimidazole synthetase
+243168..243983	+	271	397650934	-	PFC_01260	-	-	sugar-catabolism phosphotransferase
+244330..244485	+	51	397650935	-	PFC_01265	-	-	methyl-accepting chemotaxis-like protein
+244501..244818	+	105	397650936	-	PFC_01270	-	-	hypothetical protein
+245217..245564	-	115	397650937	-	PFC_01275	-	-	hypothetical protein
+245565..246932	+	455	397650938	-	PFC_01280	-	-	DEXX-box atpase
+247715..248689	-	324	397650939	-	PFC_01285	-	-	hypothetical protein
+248691..249989	-	432	397650940	-	PFC_01290	-	-	hypothetical protein
+250032..250283	-	83	397650941	-	PFC_01295	-	-	hypothetical protein
+250564..250941	+	125	397650942	-	PFC_01300	-	-	hypothetical protein
+251443..252579	-	378	397650943	-	PFC_01305	-	-	hypothetical protein
+253596..253823	+	75	397650944	-	PFC_01310	-	-	hypothetical protein
+254056..259278	-	1740	397650945	-	PFC_01315	-	-	ribonucleotide-diphosphate reductase subunit alpha
+259485..260468	-	327	397650946	-	PFC_01320	-	-	galactose-1-phosphate uridylyltransferase
+260525..261790	+	421	397650947	-	PFC_01325	-	-	beta-glucosidase
+261779..263110	-	443	397650948	-	PFC_01330	-	-	membrane transport protein
+263097..264191	-	364	397650949	-	PFC_01335	-	-	hydrolase
+264188..265246	-	352	397650950	-	PFC_01340	-	-	galactokinase
+265288..265746	-	152	397650951	-	PFC_01345	-	-	NDP-sugar synthase
+265859..266560	-	233	397650952	-	PFC_01350	-	-	transposase
+266618..267079	-	153	397650953	-	PFC_01355	-	-	mannose-1-phosphate guanyltransferase
+267141..268019	+	292	397650954	-	PFC_01360	-	-	hypothetical protein
+268016..269335	-	439	397650955	-	PFC_01365	-	-	glutamine synthetase
+269494..269772	-	92	397650956	-	PFC_01370	-	-	hypothetical protein
+269775..270185	-	136	397650957	-	PFC_01375	-	-	hypothetical protein
+270195..271778	-	527	397650958	-	PFC_01380	-	-	hypothetical protein
+271884..272996	+	370	397650959	-	PFC_01385	-	-	bacteriochlorophyll synthase, 43 kDa subunit
+273007..273339	+	110	397650960	-	PFC_01390	-	-	hypothetical protein
+273336..274835	-	499	397650961	-	PFC_01395	-	-	carboxypeptidase 1
+274940..275506	-	188	397650962	-	PFC_01400	-	-	metalloprotease
+275517..276083	-	188	397650963	-	PFC_01405	-	-	nicotinamide-nucleotide adenylyltransferase
+276089..276862	-	257	397650964	-	PFC_01410	-	-	hypothetical protein
+276935..278539	+	534	397650965	-	PFC_01415	-	-	hypothetical protein
+278555..279136	+	193	397650966	-	PFC_01420	-	-	tRNA 2'-O-methylase
+279084..279647	+	187	397650967	-	PFC_01425	-	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+279694..280398	-	234	397650968	-	PFC_01430	-	-	hydrolase related to 2-haloalkanoic acid dehalogenase
+280439..282400	-	653	397650969	-	PFC_01435	-	-	aldehyde ferredoxin oxidoreductase
+282450..283502	-	350	397650970	-	PFC_01440	-	-	glycosyl transferase family protein
+283492..283782	-	96	397650971	-	PFC_01445	-	-	hypothetical protein
+283769..286855	-	1028	397650972	-	PFC_01450	-	-	ATP-dependent protease LA
+286911..287279	+	122	397650973	-	PFC_01455	-	-	hypothetical protein
+287276..287848	-	190	397650974	-	PFC_01460	-	-	hypothetical protein
+287845..288186	-	113	397650975	-	PFC_01465	-	-	hypothetical protein
+288260..289453	-	397	397650976	-	PFC_01470	-	-	hypothetical protein
+289467..289631	-	54	397650977	-	PFC_01475	-	-	hypothetical protein
+289703..290365	+	220	397650978	-	PFC_01480	-	-	serine/threonine protein kinase
+290355..292043	-	562	397650979	-	PFC_01485	-	-	DNA mismatch repair protein
+292040..292870	-	276	397650980	-	PFC_01490	-	-	translation initiation factor IF-2
+292870..293628	-	252	397650981	-	PFC_01495	-	-	competence damage-inducible protein A
+293779..295161	+	460	397650982	-	PFC_01500	-	-	alpha-amylase
+295087..297255	-	722	397650983	-	PFC_01505	-	-	alpha-amylase
+297329..298726	-	465	397650984	-	PFC_01510	-	-	hypothetical protein
+298886..299659	+	257	397650985	-	PFC_01515	-	-	lysophospholipase
+299810..300232	-	140	397650986	-	PFC_01520	-	-	translation initiation factor IF-2
+300275..303424	-	1049	397650987	-	PFC_01525	-	-	cell division control protein 21
+303426..303914	-	162	397650988	-	PFC_01530	-	-	hypothetical protein
+303967..304713	-	248	397650989	-	PFC_01535	-	-	GTPase
+304761..305498	-	245	397650990	-	PFC_01540	-	-	cell division inhibitor minD - like protein
+305612..306466	+	284	397650991	-	PFC_01545	-	-	hypothetical protein
+306453..307454	-	333	397650992	-	PFC_01550	-	-	autolysin-like protein
+307644..308021	+	125	397650993	-	PFC_01555	-	-	30S ribosomal protein S6e
+308328..308915	+	195	397650994	-	PFC_01560	-	-	hypothetical protein
+308912..309643	-	243	397650995	-	PFC_01565	-	-	hypothetical protein
+309661..310248	-	195	397650996	-	PFC_01570	-	-	transcription initiation factor E subunit alpha
+310365..310646	-	93	397650997	-	PFC_01575	-	-	hypothetical protein
+310887..312866	+	659	397650998	-	PFC_01580	-	-	hypothetical protein
+312863..316045	+	1060	397650999	-	PFC_01585	-	-	DNA topoisomerase I
+316129..319773	+	1214	397651000	-	PFC_01590	-	-	reverse gyrase
+319986..320780	+	264	397651001	-	PFC_01595	-	-	hypothetical protein
+320885..321097	-	70	397651002	-	PFC_01600	-	-	hypothetical protein
+321173..321874	+	233	397651003	-	PFC_01605	-	-	transposase
+321884..322201	-	105	397651004	-	PFC_01610	-	-	hypothetical protein
+322198..322911	-	237	397651005	-	PFC_01615	-	-	arginase
+322916..323752	-	278	397651006	-	PFC_01620	-	-	met-10+ protein
+323721..324275	-	184	397651007	-	PFC_01625	-	-	NTPase
+324306..325022	-	238	397651008	-	PFC_01630	-	-	iron(III) dicitrate transport system permease fece
+325015..326010	-	331	397651009	-	PFC_01635	-	-	iron ABC transporter
+326040..328490	-	816	397651010	-	PFC_01640	-	-	DNA helicase
+328530..329078	-	182	397651011	-	PFC_01645	-	-	hypothetical protein
+329188..329370	+	60	397651012	-	PFC_01650	-	-	hypothetical protein
+329457..329651	+	64	397651013	-	PFC_01655	-	-	hypothetical protein
+329641..331668	-	675	397651014	-	PFC_01660	-	-	integral membrane glycosyltransferase
+331674..333776	-	700	397651015	-	PFC_01665	-	-	integral membrane glycosyltransferase
+333773..334063	-	96	397651016	-	PFC_01670	-	-	nucleotide pyrophosphohydrolase
+334060..334878	-	272	397651017	-	PFC_01675	-	-	3-methyladenine DNA glycosylase
+335004..335528	+	174	397651018	-	PFC_01680	-	-	transcription factor
+335529..336908	-	459	397651019	-	PFC_01685	-	-	4-aminobutyrate aminotransferase
+336967..338520	-	517	397651020	-	PFC_01690	-	-	d-alanine glycine permease
+338669..339460	+	263	397651021	-	PFC_01695	-	-	hypothetical protein
+339450..339869	+	139	397651022	-	PFC_01700	-	-	hypothetical protein
+339856..340800	+	314	397651023	-	PFC_01705	-	-	methanol dehydrogenase regulatory protein
+340811..342034	+	407	397651024	-	PFC_01710	-	-	hypothetical protein
+342028..342441	+	137	397651025	-	PFC_01715	-	-	hypothetical protein
+342434..343624	-	396	397651026	-	PFC_01720	-	-	hypothetical protein
+343635..343895	-	86	397651027	-	PFC_01725	-	-	hypothetical protein
+343906..345078	-	390	397651028	-	PFC_01730	-	-	aspartate aminotransferase
+345240..345668	-	142	397651029	-	PFC_01735	-	-	KEOPS complex Cgi121-like subunit
+345872..346045	+	57	397651030	-	PFC_01740	-	-	hypothetical protein
+346080..347306	+	408	397651031	-	PFC_01745	-	-	cell division protein FtsZ
+347353..348129	+	258	397651032	-	PFC_01750	-	-	Soj family protein
+348110..348451	+	113	397651033	-	PFC_01755	-	-	hypothetical protein
+348431..349240	-	269	397651034	-	PFC_01760	-	-	cobalt transport ATP-binding protein
+349237..349890	-	217	397651035	-	PFC_01765	-	-	cobalt ABC transporter permease CbiQ
+349893..350144	-	83	397651036	-	PFC_01770	-	-	hypothetical protein
+350141..350755	-	204	397651037	-	PFC_01775	-	-	cobalamin biosynthesis protein m
+350931..352304	+	457	397651038	-	PFC_01780	-	-	hypothetical protein
+352297..354237	+	646	397651039	-	PFC_01785	-	-	indolepyruvate ferredoxin oxidoreductase subunit alpha
+354234..354848	+	204	397651040	-	PFC_01790	-	-	indolepyruvate oxidoreductase subunit beta
+354938..355366	-	142	397651041	tfx	PFC_01795	-	-	transcriptional regulator
+355638..356339	-	233	397651042	-	PFC_01800	-	-	transposase
+356765..359077	-	770	397651043	-	PFC_01805	-	-	hypothetical protein
+359957..361393	-	478	397651044	-	PFC_01810	-	-	hypothetical protein
+361509..361955	+	148	397651045	-	PFC_01815	-	-	transposase
+361979..362371	+	130	397651046	-	PFC_01820	-	-	transposase
+362516..363250	+	244	397651047	thyX	PFC_01825	-	-	FAD-dependent thymidylate synthase
+363451..364338	+	295	397651048	-	PFC_01830	-	-	methionine aminopeptidase
+364495..365700	+	401	397651049	-	PFC_01835	-	-	molybdenum cofactor biosynthesis protein MoeA
+365712..365984	+	90	397651050	-	PFC_01840	-	-	molybdopterin converting factor subunit 1
+365981..366382	-	133	397651051	-	PFC_01845	-	-	hypothetical protein
+366375..366668	-	97	397651052	-	PFC_01850	-	-	hypothetical protein
+366628..367920	-	430	397651053	-	PFC_01855	-	-	hypothetical protein
+368140..369486	-	448	397651054	-	PFC_01860	-	-	hypothetical protein
+369727..369954	+	75	397651055	-	PFC_01865	-	-	hydrogenase expression/formation protein
+369955..371058	+	367	397651056	-	PFC_01870	-	-	hydrogenase expression/formation protein HypD
+371107..371805	+	232	397651057	-	PFC_01875	-	-	NAD(P)H-flavin oxidoreductase
+371809..371988	+	59	397651058	-	PFC_01880	-	-	hypothetical protein
+371990..373093	-	367	397651059	-	PFC_01885	-	-	arsenical-resistance protein
+373234..373683	+	149	397651060	-	PFC_01890	-	-	arsenate reductase
+373754..373861	+	35	397651061	-	PFC_01895	-	-	hypothetical protein
+373970..374959	+	329	397651062	-	PFC_01900	-	-	hypothetical protein
+376750..377532	-	260	397651063	fabG	PFC_01915	-	-	3-ketoacyl-ACP reductase
+377719..378606	+	295	397651064	-	PFC_01920	-	-	cation efflux system protein
+378697..381018	+	773	397651065	-	PFC_01925	-	-	hydrogenase maturation protein HypF
+381049..381951	-	300	397651066	-	PFC_01930	-	-	hypothetical protein
+382054..382557	+	167	397651067	-	PFC_01935	-	-	hypothetical protein
+382614..383315	+	233	397651068	-	PFC_01940	-	-	transposase
+383323..384288	+	321	397651069	-	PFC_01945	-	-	hypothetical protein
+384347..387169	-	940	397651070	-	PFC_01950	-	-	ATP-dependent RNA helicase hepa
+387166..387594	-	142	397651071	-	PFC_01955	-	-	hypothetical protein
+387594..390911	-	1105	397651072	-	PFC_01960	-	-	hypothetical protein
+390908..393490	-	860	397651073	-	PFC_01965	-	-	hypothetical protein
+393483..393899	-	138	397651074	-	PFC_01970	-	-	hypothetical protein
+393959..394384	+	141	397651075	-	PFC_01975	-	-	hypothetical protein
+395638..397605	+	655	397651076	-	PFC_01990	-	-	dna2-nam7 helicase family protein
+397682..397909	+	75	397651077	-	PFC_01995	-	-	hypothetical protein
+397897..398298	+	133	397651078	-	PFC_02000	-	-	hypothetical protein
+398757..399095	-	112	397651079	-	PFC_02005	-	-	hypothetical protein
+399134..399274	-	46	397651080	-	PFC_02010	-	-	hypothetical protein
+399385..400236	+	283	397651081	-	PFC_02015	-	-	ATP-binding transport protein
+400233..400934	+	233	397651082	-	PFC_02020	-	-	hypothetical protein
+400931..401623	+	230	397651083	-	PFC_02025	-	-	hypothetical protein
+401884..402885	+	333	397651084	-	PFC_02030	-	-	hypothetical protein
+403118..404440	-	440	397651085	-	PFC_02035	-	-	hypothetical protein
+404548..405312	-	254	397651086	-	PFC_02040	-	-	daunorubicin resistance membrane protein
+405309..406274	-	321	397651087	-	PFC_02045	-	-	daunorubicin resistance ATP-binding protein
+406243..406728	-	161	397651088	-	PFC_02050	-	-	hypothetical protein
+406793..408100	-	435	397651089	-	PFC_02055	-	-	DEXX-box atpase
+408516..409103	+	195	397651090	-	PFC_02060	-	-	hypothetical protein
+409096..409710	+	204	397651091	-	PFC_02065	-	-	hypothetical protein
+409891..411258	-	455	397651092	-	PFC_02070	-	-	bifunctional phosphomannomutase/phosphoglucomutase
+411299..412684	-	461	397651093	-	PFC_02075	-	-	mannose-6-phosphate isomerase
+412698..413426	-	242	397651094	-	PFC_02080	-	-	mannosyl-3-phosphoglycerate phosphatase
+413423..414607	-	394	397651095	-	PFC_02085	-	-	mannosyl-3-phosphoglycerate synthase
+414649..417252	-	867	397651096	-	PFC_02090	-	-	ATP-dependent RNA helicase
+417249..418181	-	310	397651097	-	PFC_02095	-	-	hypothetical protein
+418240..419187	-	315	397651098	-	PFC_02100	-	-	ornithine carbamoyltransferase
+419288..420097	-	269	397651099	-	PFC_02105	-	-	diphthine synthase
+420097..420924	-	275	397651100	-	PFC_02110	-	-	mRNA 3'-end processing factor
+420973..422121	+	382	397651101	-	PFC_02115	-	-	IAA-amino acid hydrolase
+422111..422569	-	152	397651102	-	PFC_02120	-	-	aspartate carbamoyltransferase regulatory subunit
+422570..423496	-	308	397651103	pyrB	PFC_02125	-	-	aspartate carbamoyltransferase catalytic subunit
+423588..424646	+	352	397651104	-	PFC_02130	-	-	hypothetical protein
+424643..425530	+	295	397651105	-	PFC_02135	-	-	phosphomethylpyrimidine kinase
+425566..426084	+	172	397651106	-	PFC_02140	-	-	hypothetical protein
+428779..429246	+	155	397651107	-	PFC_02145	-	-	hypothetical protein
+429233..430243	-	336	397651108	-	PFC_02150	-	-	hydrogenase expression/formation protein HypE
+430318..430713	-	131	397651109	-	PFC_02155	-	-	transposase
+430734..431180	-	148	397651110	-	PFC_02160	-	-	hypothetical protein
+431245..432435	+	396	397651111	-	PFC_02165	-	-	hypothetical protein
+432461..433126	+	221	397651112	-	PFC_02170	-	-	hypothetical protein
+433136..434263	+	375	397651113	-	PFC_02175	-	-	Fe-containing alcohol dehydrogenase
+434253..434630	+	125	397651114	-	PFC_02180	-	-	hypothetical protein
+434611..434904	-	97	397651115	-	PFC_02185	-	-	hypothetical protein
+436096..436887	-	263	397651116	-	PFC_02200	-	-	hypothetical protein
+437131..438258	+	375	397651117	-	PFC_02205	-	-	fructose-1,6-bisphosphatase
+438313..438711	+	132	397651118	-	PFC_02210	-	-	inosine-5'-monophosphate dehydrogenase
+438762..439181	+	139	397651119	hypA	PFC_02215	-	-	hydrogenase nickel incorporation protein
+439178..439903	+	241	397651120	-	PFC_02220	-	-	Mrp/NBP35 family nucleotide-binding protein
+439916..440392	+	158	397651121	-	PFC_02225	-	-	hydrogenase maturation protease HycI
+440357..440947	-	196	397651122	mobA	PFC_02230	-	-	molybdopterin-guanine dinucleotide biosynthesis protein MobA
+440941..441345	-	134	397651123	-	PFC_02235	-	-	hypothetical protein
+441435..441728	+	97	397651124	-	PFC_02240	-	-	hypothetical protein
+441725..442576	+	283	397651125	-	PFC_02245	-	-	hypothetical protein
+442577..443077	-	166	397651126	-	PFC_02250	-	-	hypothetical protein
+443476..443937	-	153	397651127	-	PFC_02255	-	-	hypothetical protein
+445507..445803	+	98	397651128	-	PFC_02275	-	-	hypothetical protein
+445809..446477	+	222	397651129	-	PFC_02280	-	-	hypothetical protein
+446474..446653	-	59	397651130	-	PFC_02285	-	-	hypothetical protein
+446687..447604	-	305	397651131	-	PFC_02290	-	-	radical SAM domain-containing protein
+447744..448481	-	245	397651132	-	PFC_02295	-	-	hypothetical protein
+448529..448984	-	151	397651133	-	PFC_02300	-	-	flavodoxin
+448977..450353	-	458	397651134	-	PFC_02305	-	-	DEXX-box atpase
+450413..451762	-	449	397651135	-	PFC_02310	-	-	DEXX-box atpase
+451855..453225	-	456	397651136	-	PFC_02315	-	-	DEXX-box atpase
+453290..454336	-	348	397651137	-	PFC_02320	-	-	hypothetical protein
+454333..455481	-	382	397651138	-	PFC_02325	-	-	hypothetical protein
+455494..456207	-	237	397651139	-	PFC_02330	-	-	hypothetical protein
+456204..458180	-	658	397651140	-	PFC_02335	-	-	ATP-dependent RNA helicase
+458150..458941	-	263	397651141	-	PFC_02340	-	-	hypothetical protein
+458942..459967	-	341	397651142	-	PFC_02345	-	-	hypothetical protein
+459964..460326	-	120	397651143	-	PFC_02350	-	-	hypothetical protein
+460454..461116	+	220	397651144	-	PFC_02355	-	-	hypothetical protein
+461238..461537	+	99	397651145	-	PFC_02360	-	-	hypothetical protein
+461498..461608	+	36	397651146	-	PFC_02365	-	-	hypothetical protein
+461870..462199	-	109	397651147	-	PFC_02370	-	-	hypothetical protein
+462886..464532	-	548	397651148	-	PFC_02375	-	-	heme biosynthesis protein
+464671..465021	+	116	397651149	-	PFC_02380	-	-	hypothetical protein
+465056..465523	+	155	397651150	-	PFC_02385	-	-	hypothetical protein
+465629..466615	-	328	397651151	-	PFC_02390	-	-	hypothetical protein
+466600..467367	-	255	397651152	-	PFC_02395	-	-	hypothetical protein
+467778..468962	+	394	397651153	-	PFC_02400	-	-	DEXX-box atpase
+469115..469639	+	174	397651154	-	PFC_02405	-	-	hypothetical protein
+469841..470218	+	125	397651155	-	PFC_02410	-	-	hypothetical protein
+470215..471321	+	368	397651156	-	PFC_02415	-	-	serine/threonine-protein kinase
+471363..471602	+	79	397651157	-	PFC_02420	-	-	hypothetical protein
+471649..472047	-	132	397651158	-	PFC_02425	-	-	hypothetical protein
+472087..472983	-	298	397651159	-	PFC_02430	-	-	dihydrodipicolinate synthase
+472996..473112	-	38	397651160	-	PFC_02435	-	-	hypothetical protein
+473096..473578	-	160	397651161	-	PFC_02440	-	-	hypothetical protein
+473550..473774	-	74	397651162	-	PFC_02445	-	-	hypothetical protein
+473773..473967	+	64	397651163	-	PFC_02450	-	-	hypothetical protein
+474113..475069	-	318	397651164	-	PFC_02455	-	-	iron-sulfur cluster binding protein
+475152..475934	+	260	397651165	-	PFC_02460	-	-	hypothetical protein
+476027..476218	+	63	397651166	-	PFC_02465	-	-	hypothetical protein
+476283..477245	+	320	397651167	-	PFC_02470	-	-	hypothetical protein
+477276..477584	+	102	397651168	-	PFC_02475	-	-	hypothetical protein
+477604..477954	-	116	397651169	-	PFC_02480	-	-	hypothetical protein
+478069..479427	-	452	397651170	-	PFC_02485	-	-	nol1-nop2-sun family nucleolar protein IV
+479674..481026	-	450	397651171	-	PFC_02490	-	-	adenylosuccinate lyase
+481194..481574	-	126	397651172	-	PFC_02495	-	-	hypothetical protein
+481830..482597	+	255	397651173	-	PFC_02500	-	-	hypothetical protein
+482806..484578	-	590	397651174	-	PFC_02505	-	-	ATPase RIL
+484650..484853	+	67	397651175	-	PFC_02510	-	-	hypothetical protein
+484911..486479	+	522	397651176	-	PFC_02515	-	-	methylmalonyl-CoA decarboxylase subunit alpha
+486490..486846	+	118	397651177	-	PFC_02520	-	-	hypothetical protein
+486849..487283	+	144	397651178	-	PFC_02525	-	-	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+487290..488492	+	400	397651179	-	PFC_02530	-	-	ion gradient-generating decarboxylase subunit beta
+488549..488800	+	83	397651180	-	PFC_02535	-	-	hypothetical protein
+488797..489741	-	314	397651181	-	PFC_02540	-	-	carbamate kinase-like carbamoyl phosphate synthetase
+489873..492035	-	720	397651182	-	PFC_02545	-	-	ski2-like helicase
+492045..493193	-	382	397651183	-	PFC_02550	-	-	hypothetical protein
+493220..493879	+	219	397651184	-	PFC_02555	-	-	hypothetical protein
+493854..494267	-	137	397651185	-	PFC_02560	-	-	hypothetical protein
+494474..495151	+	225	397651186	-	PFC_02565	-	-	hypothetical protein
+495226..495366	+	46	397651187	-	PFC_02570	-	-	hypothetical protein
+495373..495789	+	138	397651188	-	PFC_02575	-	-	hypothetical protein
+496207..497127	-	306	397651189	-	PFC_02580	-	-	hypothetical protein
+497139..497558	-	139	397651190	-	PFC_02585	-	-	hypothetical protein
+497565..498386	-	273	397651191	-	PFC_02590	-	-	transcription initiation factor IIB chain b
+501686..501874	+	62	397651192	-	PFC_02595	-	-	hypothetical protein
+502010..502603	+	197	397651193	-	PFC_02600	-	-	subtilisin-like protease
+502674..503045	+	123	397651194	-	PFC_02605	-	-	hypothetical protein
+503175..503561	-	128	397651195	-	PFC_02610	-	-	hypothetical protein
+503729..505105	+	458	397651196	-	PFC_02615	-	-	hydroxylamine reductase
+505130..505606	-	158	397651197	-	PFC_02620	-	-	hypothetical protein
+505717..506892	+	391	397651198	-	PFC_02625	-	-	flavoprotein
+506894..508234	+	446	397651199	-	PFC_02630	-	-	putative PAS/PAC sensor protein
+508236..508547	+	103	397651200	-	PFC_02635	-	-	carbohydrate-binding protein
+508629..508946	+	105	397651201	-	PFC_02640	-	-	multidrug resistance protein
+510008..510103	+	31	397651202	-	PFC_02645	-	-	PepQ-1 X-pro dipeptidase
+510094..510357	+	87	397651203	-	PFC_02650	-	-	x-pro dipeptidase
+510243..510764	+	173	397651204	-	PFC_02655	-	-	x-pro dipeptidase
+510779..511594	-	271	397651205	-	PFC_02660	-	-	hypothetical protein
+511666..512019	-	117	397651206	-	PFC_02665	-	-	hypothetical protein
+512033..513334	-	433	397651207	-	PFC_02670	-	-	cytochrome c-type biogenesis protein
+513396..513725	-	109	397651208	-	PFC_02675	-	-	hypothetical protein
+513728..513934	-	68	397651209	-	PFC_02680	-	-	hypothetical protein
+514098..514475	+	125	397651210	-	PFC_02685	-	-	hypothetical protein
+514299..515684	-	461	397651211	-	PFC_02690	-	-	hypothetical protein
+515724..516041	-	105	397651212	-	PFC_02695	-	-	Regulatory protein, MarR
+517315..517839	+	174	397651213	-	PFC_02715	-	-	hypothetical protein
+518102..518638	-	178	397651214	-	PFC_02720	-	-	NAD(P)H oxidase
+518700..519536	+	278	397651215	-	PFC_02725	-	-	3-hydroxyisobutyrate dehydrogenase
+519924..520448	+	174	397651216	-	PFC_02730	-	-	methyltransferase
+521024..521767	+	247	397651217	-	PFC_02735	-	-	hypothetical protein
+521803..522027	+	74	397651218	-	PFC_02740	-	-	hypothetical protein
+522210..522497	-	95	397651219	-	PFC_02745	-	-	hypothetical protein
+522729..523295	-	188	397651220	-	PFC_02750	-	-	hypothetical protein
+523437..524006	+	189	397651221	-	PFC_02755	-	-	alkyl hydroperoxide reductase
+524341..525177	+	278	397651222	-	PFC_02760	-	-	hypothetical protein
+525276..525860	+	194	397651223	-	PFC_02765	-	-	hypothetical protein
+525896..526288	+	130	397651224	-	PFC_02770	-	-	hypothetical protein
+526292..526666	+	124	397651225	-	PFC_02775	-	-	hypothetical protein
+526760..526978	+	72	397651226	-	PFC_02780	-	-	hypothetical protein
+527095..527736	+	213	397651227	-	PFC_02785	-	-	hypothetical protein
+527740..528906	+	388	397651228	-	PFC_02790	-	-	mulitcopper oxidase domain-containing protein
+528964..529878	+	304	397651229	-	PFC_02795	-	-	hypothetical protein
+529976..530143	+	55	397651230	-	PFC_02800	-	-	copper-transporting atpase, p-type
+530228..530977	-	249	397651231	-	PFC_02805	-	-	daunorubicin resistance ATP-binding protein
+531716..532624	-	302	397651232	-	PFC_02810	-	-	ABC transporter
+532621..533736	-	371	397651233	-	PFC_02815	-	-	hypothetical protein
+533740..534456	-	238	397651234	-	PFC_02820	-	-	hypothetical protein
+534828..535388	-	186	397651235	-	PFC_02825	-	-	hypothetical protein
+536231..536365	+	44	397651236	-	PFC_02830	-	-	hypothetical protein
+536384..536989	-	201	397651237	-	PFC_02835	-	-	ubiquinone/menaquinone biosynthesis methyltransferase
+537145..537504	+	119	397651238	-	PFC_02840	-	-	hypothetical protein
+537953..538309	-	118	397651239	-	PFC_02845	-	-	hypothetical protein
+538197..538361	+	54	397651240	-	PFC_02850	-	-	putative cytochrome C-type biogenesis protein
+538302..538922	-	206	397651241	-	PFC_02855	-	-	AsnC family transcriptional regulator
+539047..541446	+	799	397651242	-	PFC_02860	-	-	heavy-metal transporting cpx-type atpase
+541462..541764	+	100	397651243	-	PFC_02865	-	-	hypothetical protein
+541865..542389	+	174	397651244	-	PFC_02870	-	-	ferritin
+542666..542908	+	80	397651245	-	PFC_02875	-	-	hypothetical protein
+543138..544727	-	529	397651246	-	PFC_02880	-	-	ABC transporter
+545415..546050	-	211	397651247	-	PFC_02885	-	-	hypothetical protein
+546113..546922	+	269	397651248	-	PFC_02890	-	-	hypothetical protein
+546914..547990	-	358	397651249	-	PFC_02895	-	-	proline dipeptidase
+548761..549348	+	195	397651250	-	PFC_02910	-	-	NADH oxidase
+549318..550562	-	414	397651251	-	PFC_02915	-	-	flavoprotein
+550611..551060	-	149	397651252	-	PFC_02920	-	-	thioredoxin peroxidase
+551065..551931	-	288	397651253	-	PFC_02925	-	-	2-oxoacid:ferredoxin oxidoreductase subunit beta
+551928..553640	-	570	397651254	-	PFC_02930	-	-	2-oxoacid:ferredoxin oxidoreductase subunit alpha
+553691..554860	-	389	397651255	-	PFC_02935	-	-	non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase
+554976..555260	+	94	397651256	-	PFC_02940	-	-	hypothetical protein
+555221..556243	+	340	397651257	-	PFC_02945	-	-	hypothetical protein
+556352..556486	+	44	397651258	-	PFC_02950	-	-	ATPase 1
+557209..557346	+	45	397651259	-	PFC_02965	-	-	hypothetical protein
+558697..560043	-	448	397651260	-	PFC_02980	-	-	NDP-sugar dehydrogenase
+560044..560994	-	316	397651261	-	PFC_02985	-	-	dehydrogenase
+561000..562094	-	364	397651262	-	PFC_02990	-	-	pleiotropic regulatory protein degT
+562104..562718	-	204	397651263	-	PFC_02995	-	-	acetyl / acyl transferase-like protein
+562788..563684	-	298	397651264	-	PFC_03000	-	-	glycosyl transferase family protein
+563677..564555	-	292	397651265	-	PFC_03005	-	-	glucose-1-phosphate uridylyltransferase
+564552..565793	-	413	397651266	-	PFC_03010	-	-	NDP-sugar dehydrogenase
+565847..566245	+	132	397651267	-	PFC_03015	-	-	hypothetical protein
+566498..566734	-	78	397651268	-	PFC_03020	-	-	hypothetical protein
+566939..567169	+	76	397651269	-	PFC_03025	-	-	hypothetical protein
+567302..567568	+	88	397651270	-	PFC_03030	-	-	hypothetical protein
+568265..568471	-	68	397651271	-	PFC_03035	-	-	hypothetical protein
+568490..568669	-	59	397651272	-	PFC_03040	-	-	hypothetical protein
+568666..568800	-	44	397651273	-	PFC_03045	-	-	hypothetical protein
+568877..569578	+	233	397651274	-	PFC_03050	-	-	transposase
+569618..569758	+	46	397651275	-	PFC_03055	-	-	hypothetical protein
+569755..570171	+	138	397651276	-	PFC_03060	-	-	hypothetical protein
+570510..570833	+	107	397651277	-	PFC_03065	-	-	hypothetical protein
+570860..572077	+	405	397651278	-	PFC_03070	-	-	hypothetical protein
+572045..572542	-	165	397651279	-	PFC_03075	-	-	hypothetical protein
+572701..573402	+	233	397651280	-	PFC_03080	-	-	transposase
+573394..573672	-	92	397651281	-	PFC_03085	-	-	hypothetical protein
+573740..573952	-	70	397651282	-	PFC_03090	-	-	hypothetical protein
+574104..574550	+	148	397651283	-	PFC_03095	-	-	hypothetical protein
+574571..574966	+	131	397651284	-	PFC_03100	-	-	transposase
+574947..575327	-	126	397651285	-	PFC_03105	-	-	hypothetical protein
+575333..575992	-	219	397651286	-	PFC_03110	-	-	glycosyl transferase family protein
+575997..576467	-	156	397651287	-	PFC_03115	-	-	hypothetical protein
+576480..578189	-	569	397651288	-	PFC_03120	-	-	hypothetical protein
+578186..579355	-	389	397651289	-	PFC_03125	-	-	hypothetical protein
+579356..580966	-	536	397651290	-	PFC_03130	-	-	hypothetical protein
+580968..581303	-	111	397651291	-	PFC_03135	-	-	hypothetical protein
+581293..582369	-	358	397651292	-	PFC_03140	-	-	UDP-n-acetylglucosamine 2-epimerase
+582366..583568	-	400	397651293	-	PFC_03145	-	-	capsular polysaccharide biosynthesis protein
+583581..584066	-	161	397651294	-	PFC_03150	-	-	galactoside o-acetyltransferase
+584090..585133	-	347	397651295	-	PFC_03155	-	-	hypothetical protein
+585146..586054	-	302	397651296	-	PFC_03160	-	-	glycosyl transferase family protein
+586066..586266	-	66	397651297	-	PFC_03165	-	-	hypothetical protein
+586456..586902	+	148	397651298	-	PFC_03170	-	-	transposase
+586926..587186	+	86	397651299	-	PFC_03175	-	-	transposase
+587334..587738	-	134	397651300	-	PFC_03180	-	-	hypothetical protein
+587735..588979	-	414	397651301	-	PFC_03185	-	-	hypothetical protein
+588976..589905	-	309	397651302	-	PFC_03190	-	-	methanol dehydrogenase regulator
+590889..592577	-	562	397651303	-	PFC_03205	-	-	hypothetical protein
+592633..593391	+	252	397651304	-	PFC_03210	-	-	hypothetical protein
+593382..593624	+	80	397651305	-	PFC_03215	-	-	hypothetical protein
+593742..594731	+	329	397651306	-	PFC_03220	-	-	hypothetical protein
+594787..595131	-	114	397651307	-	PFC_03225	-	-	hypothetical protein
+595160..595291	+	43	397651308	-	PFC_03230	-	-	hypothetical protein
+595413..595829	-	138	397651309	-	PFC_03235	-	-	hypothetical protein
+595826..596056	-	76	397651310	-	PFC_03240	-	-	hypothetical protein
+596281..596769	+	162	397651311	-	PFC_03245	-	-	hypothetical protein
+597089..597217	+	42	397651312	-	PFC_03250	-	-	hypothetical protein
+597513..598325	-	270	397651313	-	PFC_03255	-	-	hypothetical protein
+598444..599145	-	233	397651314	-	PFC_03260	-	-	transposase
+599448..600455	-	335	397651315	-	PFC_03265	-	-	aminohydrolase
+600508..600759	-	83	397651316	-	PFC_03270	-	-	50S ribosomal protein L14e
+600760..601338	-	192	397651317	-	PFC_03275	-	-	cytidylate kinase
+601350..601619	-	89	397651318	rpl34e	PFC_03280	-	-	50S ribosomal protein L34e
+601698..601943	+	81	397651319	-	PFC_03285	-	-	hypothetical protein
+602001..602357	+	118	397651320	-	PFC_03290	-	-	hypothetical protein
+602349..603050	-	233	397651321	-	PFC_03295	-	-	transposase
+603171..604205	+	344	397651322	-	PFC_03300	-	-	hypothetical protein
+604216..605655	+	479	397651323	-	PFC_03305	-	-	hypothetical protein
+605639..607489	-	616	397651324	-	PFC_03310	-	-	prolyl endopeptidase
+607522..608628	-	368	397651325	-	PFC_03315	-	-	transport membrane protein
+608652..609881	-	409	397651326	-	PFC_03320	-	-	RNA methyltransferase
+609878..610567	-	229	397651327	-	PFC_03325	-	-	n-type ATP pyrophosphatase superfamily protein
+610616..610810	-	64	397651328	-	PFC_03330	-	-	hypothetical protein
+610846..611232	-	128	397651329	-	PFC_03335	-	-	hypothetical protein
+611229..611897	-	222	397651330	-	PFC_03340	-	-	hypothetical protein
+612278..612418	-	46	397651331	-	PFC_03345	-	-	hypothetical protein
+612464..612721	+	85	397651332	-	PFC_03350	-	-	low temperature requirement C - like protein
+612780..613478	-	232	397651333	-	PFC_03355	-	-	hypothetical protein
+613475..614356	-	293	397651334	-	PFC_03360	-	-	daunorubicin resistance ATP-binding protein drrA
+614701..615168	+	155	397651335	-	PFC_03365	-	-	cobalamin synthase
+615278..615397	+	39	397651336	cobS	PFC_03370	-	-	cobalamin synthase
+615451..615645	+	64	397651337	-	PFC_03375	-	-	hypothetical protein
+615645..616025	+	126	397651338	-	PFC_03380	-	-	hypothetical protein
+616127..616360	+	77	397651339	-	PFC_03385	-	-	nucleotidyltransferase
+616366..616593	+	75	397651340	-	PFC_03390	-	-	hypothetical protein
+617365..617601	+	78	397651341	-	PFC_03405	-	-	hypothetical protein
+617817..618614	+	265	397651342	-	PFC_03410	-	-	radical SAM domain-containing protein
+618615..619418	+	267	397651343	-	PFC_03415	-	-	hypothetical protein
+619396..621234	-	612	397651344	-	PFC_03420	-	-	indolepyruvate ferredoxin oxidoreductase subunit alpha
+621305..622714	+	469	397651345	-	PFC_03425	-	-	hypothetical protein
+622685..623431	-	248	397651346	-	PFC_03430	-	-	hypothetical protein
+623482..624252	-	256	397651347	-	PFC_03435	-	-	hypothetical protein
+624523..625599	+	358	397651348	-	PFC_03440	-	-	hypothetical protein
+625619..626737	+	372	397651349	-	PFC_03445	-	-	hypothetical protein
+626780..627217	+	145	397651350	-	PFC_03450	-	-	iron-dependent repressor
+627199..628527	-	442	397651351	-	PFC_03455	-	-	hypothetical protein
+628673..629470	-	265	397651352	-	PFC_03460	-	-	5'-methylthioadenosine phosphorylase
+629757..630716	-	319	397651353	-	PFC_03465	-	-	endo-1,4-beta-glucanase b
+630713..631603	-	296	397651354	-	PFC_03470	-	-	hypothetical protein
+632453..633577	+	374	397651355	-	PFC_03475	-	-	isopentenyl pyrophosphate isomerase
+633567..633806	-	79	397651356	-	PFC_03480	-	-	hypothetical protein
+633799..635790	-	663	397651357	-	PFC_03485	-	-	ferrous iron transport protein B
+635793..636026	-	77	397651358	-	PFC_03490	-	-	hypothetical protein
+636126..636884	-	252	397651359	-	PFC_03495	-	-	hypothetical protein
+636939..637727	+	262	397651360	-	PFC_03500	-	-	btpA family protein
+637730..639088	+	452	397651361	glmM	PFC_03505	-	-	phosphoglucosamine mutase
+639108..639305	-	65	397651362	-	PFC_03510	-	-	hypothetical protein
+639337..639645	-	102	397651363	-	PFC_03515	-	-	hypothetical protein
+639706..640833	+	375	397651364	-	PFC_03520	-	-	tyrosyl-tRNA ligase
+640805..641320	-	171	397651365	-	PFC_03525	-	-	hypothetical protein
+641327..641815	-	162	397651366	-	PFC_03530	-	-	AsnC family transcriptional regulator
+641819..642352	-	177	397651367	-	PFC_03535	-	-	aromatic acid decarboxylase
+642462..643271	+	269	397651368	-	PFC_03540	-	-	hypothetical protein
+643268..643579	-	103	397651369	-	PFC_03545	-	-	hypothetical protein
+643715..644956	+	413	397651370	-	PFC_03550	-	-	NDP-sugar synthase
+645017..646333	+	438	397651371	aspC	PFC_03555	-	-	aspartyl-tRNA ligase
+646334..648127	-	597	397651372	-	PFC_03560	-	-	hypothetical protein
+648127..648534	-	135	397651373	-	PFC_03565	-	-	hypothetical protein
+648536..649246	-	236	397651374	-	PFC_03570	-	-	hypothetical protein
+649314..650252	+	312	397651375	-	PFC_03575	-	-	membrane dipeptidase
+650252..651112	+	286	397651376	-	PFC_03580	-	-	SAM-dependent methyltransferase
+651090..651674	-	194	397651377	-	PFC_03585	-	-	50S ribosomal protein L15e
+651840..651935	+	31	397651378	-	PFC_03590	-	-	hypothetical protein
+652151..652549	+	132	397651379	-	PFC_03595	-	-	hypothetical protein
+652672..654075	+	467	397651380	-	PFC_03600	-	-	DEXX-box atpase
+654269..654976	-	235	397651381	-	PFC_03605	-	-	ABC transporter
+654963..655427	-	154	397651382	-	PFC_03610	-	-	hypothetical protein
+655424..656179	-	251	397651383	-	PFC_03615	-	-	hypothetical protein
+656176..657219	-	347	397651384	-	PFC_03620	-	-	hypothetical protein
+657313..657660	-	115	397651385	-	PFC_03625	-	-	hypothetical protein
+658048..658176	+	42	397651386	-	PFC_03630	-	-	hypothetical protein
+658329..658475	+	48	397651387	-	PFC_03635	-	-	hypothetical protein
+658624..659592	+	322	397651388	-	PFC_03640	-	-	hypothetical protein
+659577..660500	+	307	397651389	-	PFC_03645	-	-	hypothetical protein
+660626..661489	+	287	397651390	-	PFC_03650	-	-	hypothetical protein
+661503..662480	-	325	397651391	-	PFC_03655	-	-	hypothetical protein
+662716..665619	+	967	397651392	leuS	PFC_03660	-	-	leucyl-tRNA ligase
+665851..666954	+	367	397651393	-	PFC_03665	-	-	sulfhydrogenase subunit beta
+666951..667829	+	292	397651394	-	PFC_03670	-	-	cytochrome-c3 hydrogenase subunit gamma
+667840..668625	+	261	397651395	-	PFC_03675	-	-	sulfhydrogenase subunit delta
+668622..669908	+	428	397651396	-	PFC_03680	-	-	sulfhydrogenase subunit alpha
+669905..670525	-	206	397651397	-	PFC_03685	-	-	ABC transporter
+670522..670950	-	142	397651398	-	PFC_03690	-	-	hypothetical protein
+670943..672091	-	382	397651399	-	PFC_03695	-	-	hypothetical protein
+672091..672354	-	87	397651400	-	PFC_03700	-	-	hypothetical protein
+672744..673445	-	233	397651401	-	PFC_03705	-	-	transposase
+673583..673852	+	89	397651402	-	PFC_03710	-	-	hypothetical protein
+674354..675187	+	277	397651403	-	PFC_03715	-	-	hypothetical protein
+675310..675483	-	57	397651404	-	PFC_03720	-	-	hypothetical protein
+675624..676064	-	146	397651405	-	PFC_03725	-	-	hypothetical protein
+676291..677286	+	331	397651406	-	PFC_03730	-	-	hypothetical protein
+677651..678619	+	322	397651407	-	PFC_03735	-	-	hypothetical protein
+678629..679357	+	242	397651408	-	PFC_03740	-	-	N-glycosylase/DNA lyase
+679616..680377	+	253	397651409	-	PFC_03745	-	-	ABC transporter
+680377..681840	+	487	397651410	-	PFC_03750	-	-	hypothetical protein
+681852..682178	+	108	397651411	-	PFC_03755	-	-	hypothetical protein
+682188..683027	+	279	397651412	-	PFC_03760	-	-	hypothetical protein
+683024..683770	-	248	397651413	-	PFC_03765	-	-	ferric enterobactin transport ATP-binding protein
+683767..684798	-	343	397651414	-	PFC_03770	-	-	iron ABC transporter permease
+684830..685915	-	361	397651415	-	PFC_03775	-	-	iron (III) ABC transporter
+685912..686028	-	38	397651416	-	PFC_03780	-	-	hypothetical protein
+686106..686483	-	125	397651417	-	PFC_03785	-	-	hypothetical protein
+686489..686599	-	36	397651418	-	PFC_03790	-	-	hypothetical protein
+686721..687434	-	237	397651419	-	PFC_03795	-	-	hypothetical protein
+687492..687881	-	129	397651420	-	PFC_03800	-	-	hypothetical protein
+687891..688394	-	167	397651421	-	PFC_03805	-	-	hypothetical protein
+688443..689243	+	266	397651422	truA	PFC_03810	-	-	tRNA pseudouridine synthase A
+689376..689480	+	34	397651423	-	PFC_03815	-	-	hypothetical protein
+689379..690071	-	230	397651424	-	PFC_03820	-	-	nucleotidyltransferase
+690106..691023	-	305	397651425	-	PFC_03825	-	-	ABC transporter
+691035..691841	-	268	397651426	-	PFC_03830	-	-	hypothetical protein
+691828..692310	-	160	397651427	-	PFC_03835	-	-	hypothetical protein
+692307..692735	-	142	397651428	-	PFC_03840	-	-	hypothetical protein
+692732..693583	-	283	397651429	-	PFC_03845	-	-	heme biosynthesis protein
+693897..694124	-	75	397651430	-	PFC_03850	-	-	hypothetical protein
+694531..694953	-	140	397651431	-	PFC_03855	-	-	hypothetical protein
+695277..695435	+	52	397651432	-	PFC_03860	-	-	hypothetical protein
+695489..695959	+	156	397651433	-	PFC_03865	-	-	hypothetical protein
+696059..696754	+	231	397651434	-	PFC_03870	-	-	hypothetical protein
+696744..697229	-	161	397651435	ndk	PFC_03875	-	-	mulitfunctional nucleoside diphosphate kinase/apyrimidinic endonuclease/3'-phosphodiesterase
+697216..697470	-	84	397651436	-	PFC_03880	-	-	hypothetical protein
+697445..699388	-	647	397651437	-	PFC_03885	-	-	DNA repair helicase rad3
+699728..700114	+	128	397651438	-	PFC_03890	-	-	hypothetical protein
+700423..702117	+	564	397651439	-	PFC_03895	-	-	acetolactate synthase
+702128..703117	+	329	397651440	-	PFC_03900	-	-	ketol-acid reductoisomerase
+703107..704651	+	514	397651441	-	PFC_03905	-	-	2-isopropylmalate synthase
+704665..705930	+	421	397651442	-	PFC_03910	-	-	3-isopropylmalate dehydratase large subunit
+705927..706421	+	164	397651443	leuD	PFC_03915	-	-	3-isopropylmalate dehydratase small subunit
+706418..707485	+	355	397651444	-	PFC_03920	-	-	3-isopropylmalate dehydrogenase
+707466..709043	+	525	397651445	-	PFC_03925	-	-	alpha-isopropylmalate/homocitrate synthase family transferase
+709040..710695	+	551	397651446	-	PFC_03930	-	-	dihydroxy-acid dehydratase
+710857..711192	+	111	397651447	-	PFC_03935	-	-	hypothetical protein
+711155..711523	+	122	397651448	-	PFC_03940	-	-	hypothetical protein
+711524..711913	-	129	397651449	-	PFC_03945	-	-	hypothetical protein
+712036..712737	+	233	397651450	-	PFC_03950	-	-	transposase
+712697..713470	-	257	397651451	-	PFC_03955	-	-	hypothetical protein
+714125..714856	+	243	397651452	-	PFC_03960	-	-	hypothetical protein
+714869..715225	+	118	397651453	-	PFC_03965	-	-	hypothetical protein
+715432..715608	+	58	397651454	-	PFC_03970	-	-	hypothetical protein
+715634..715963	+	109	397651455	-	PFC_03975	-	-	hypothetical protein
+716034..717101	+	355	397651456	-	PFC_03980	-	-	hypothetical protein
+717057..717923	-	288	397651457	-	PFC_03985	-	-	hypothetical protein
+718031..718480	-	149	397651458	-	PFC_03990	-	-	hypothetical protein
+718496..719434	-	312	397651459	-	PFC_03995	-	-	hypothetical protein
+719638..720501	-	287	397651460	-	PFC_04000	-	-	hypothetical protein
+720651..720791	-	46	397651461	-	PFC_04005	-	-	hypothetical protein
+721001..721375	-	124	397651462	-	PFC_04010	-	-	hypothetical protein
+721834..722061	-	75	397651463	-	PFC_04015	-	-	hypothetical protein
+722100..722282	-	60	397651464	-	PFC_04020	-	-	hypothetical protein
+722279..722464	-	61	397651465	-	PFC_04025	-	-	hypothetical protein
+722500..722865	-	121	397651466	-	PFC_04030	-	-	hypothetical protein
+723160..723378	-	72	397651467	-	PFC_04035	-	-	hypothetical protein
+723540..724058	-	172	397651468	-	PFC_04040	-	-	hypothetical protein
+724134..726647	-	837	397651469	-	PFC_04045	-	-	cell division protein CDC48
+726652..727407	-	251	397651470	-	PFC_04050	-	-	hypothetical protein
+727472..728467	-	331	397651471	-	PFC_04055	-	-	pyruvate ferredoxin oxidoreductase subunit beta
+728478..729668	-	396	397651472	porA	PFC_04060	-	-	pyruvate ferredoxin oxidoreductase subunit alpha
+729679..729996	-	105	397651473	porD	PFC_04065	-	-	pyuvate ferredoxin oxidoreductase subunit delta
+730045..730980	-	311	397651474	-	PFC_04070	-	-	2-ketoisovalerate ferredoxin oxidoreductase subunit beta
+730986..732170	-	394	397651475	vorA	PFC_04075	-	-	2-ketoisovalerate ferredoxin oxidoreductase subunit alpha
+732183..732500	-	105	397651476	vorD	PFC_04080	-	-	2-ketoisovalerate ferredoxin oxidoreductase subunit delta
+732537..733094	-	185	397651477	-	PFC_04085	-	-	pyruvate/ketoisovalerate ferredoxin oxidoreductase subunit gamma
+733333..734385	+	350	397651478	-	PFC_04090	-	-	hypothetical protein
+734399..735565	+	388	397651479	-	PFC_04095	-	-	acetyl-CoA acetyltransferase
+735567..735977	+	136	397651480	-	PFC_04100	-	-	hypothetical protein
+736048..736461	+	137	397651481	-	PFC_04105	-	-	hypothetical protein
+736463..736711	+	82	397651482	-	PFC_04110	-	-	transmembrane protein
+736708..737301	+	197	397651483	-	PFC_04115	-	-	hypothetical protein
+737303..738253	+	316	397651484	-	PFC_04120	-	-	hypothetical protein
+738262..738780	+	172	397651485	-	PFC_04125	-	-	cobalamin adenosyltransferase
+738777..739463	+	228	397651486	-	PFC_04130	-	-	aspartate racemase
+739711..740964	+	417	397651487	-	PFC_04135	-	-	efflux transport protein
+740921..741481	-	186	397651488	-	PFC_04140	-	-	hypothetical protein
+741518..742267	-	249	397651489	-	PFC_04145	-	-	DNA polymerase sliding clamp
+742257..742436	-	59	397651490	-	PFC_04150	-	-	hypothetical protein
+742418..742747	-	109	397651491	-	PFC_04155	-	-	DNA-directed RNA polymerase subunit M
+742838..743461	+	207	397651492	-	PFC_04160	-	-	haloacid dehalogenase superfamily protein
+743448..744023	+	191	397651493	-	PFC_04165	-	-	endonuclease V
+744010..744648	+	212	397651494	-	PFC_04170	-	-	hypothetical protein
+744867..746366	+	499	397651495	pheS	PFC_04175	-	-	phenylalanyl-tRNA ligase subunit alpha
+746377..748047	+	556	397651496	pheT	PFC_04180	-	-	phenylalanyl-tRNA ligase subunit beta
+748217..749263	-	348	397651497	tdh	PFC_04185	-	-	L-threonine 3-dehydrogenase
+749343..750272	-	309	397651498	-	PFC_04190	-	-	hypothetical protein
+750283..751350	-	355	397651499	-	PFC_04195	-	-	hypothetical protein
+751363..754788	-	1141	397651500	-	PFC_04200	-	-	type II secretion system protein
+754797..755726	-	309	397651501	-	PFC_04205	-	-	hypothetical protein
+755731..757140	-	469	397651502	-	PFC_04210	-	-	hypothetical protein
+757266..757601	+	111	397651503	-	PFC_04215	-	-	hypothetical protein
+757555..758622	+	355	397651504	-	PFC_04220	-	-	GTP-binding protein
+758623..758742	-	39	397651505	-	PFC_04225	-	-	dipeptide/oligopeptide ABC transporter permease
+758735..759868	-	377	397651506	-	PFC_04230	-	-	oligopeptide transport system permease protein appc
+759870..760901	-	343	397651507	-	PFC_04235	-	-	oligopeptide transport system permease
+761031..762128	+	365	397651508	-	PFC_04240	-	-	N6-adenine-specific DNA methylase
+762223..763350	+	375	397651509	-	PFC_04245	-	-	phosphate-binding periplasmic protein
+763364..764848	+	494	397651510	-	PFC_04250	-	-	alkaline phosphatase
+764882..765724	+	280	397651511	-	PFC_04255	-	-	hypothetical protein
+765721..766641	+	306	397651512	-	PFC_04260	-	-	phosphate ABC transporter permease
+766628..767458	+	276	397651513	-	PFC_04265	-	-	phosphate ABC transporter permease
+767455..768216	+	253	397651514	-	PFC_04270	-	-	phosphate ABC transporter ATP-binding protein
+768213..768806	+	197	397651515	-	PFC_04275	-	-	hypothetical protein
+768869..769408	+	179	397651516	-	PFC_04280	-	-	phosphate ABC transporter regulatory protein
+769512..770396	+	294	397651517	-	PFC_04285	-	-	daunorubicin resistance ATP-binding protein drrA
+770393..771574	+	393	397651518	-	PFC_04290	-	-	ABC transporter
+771865..772254	+	129	397651519	-	PFC_04295	-	-	hypothetical protein
+772259..772819	-	186	397651520	-	PFC_04300	-	-	hypothetical protein
+773145..774359	-	404	397651521	-	PFC_04305	-	-	transposase b - like protein
+774349..774519	-	56	397651522	-	PFC_04310	-	-	hypothetical protein
+774938..775621	-	227	397651523	-	PFC_04315	-	-	2-hydroxyhepta-2,4-diene-1,7-dioate isomerase
+775627..776415	-	262	397651524	-	PFC_04320	-	-	hypothetical protein
+776712..776825	+	37	397651525	-	PFC_04325	-	-	50S ribosomal protein L41
+776825..777478	+	217	397651526	-	PFC_04330	-	-	hypothetical protein
+777550..778788	+	412	397651527	-	PFC_04335	-	-	phosphate transport protein pitb
+778793..779461	+	222	397651528	-	PFC_04340	-	-	hypothetical protein
+779468..779695	-	75	397651529	-	PFC_04345	-	-	AsnC family transcriptional regulator
+779762..780463	-	233	397651530	-	PFC_04350	-	-	transposase
+780596..782029	+	477	397651531	cysS	PFC_04355	-	-	cysteinyl-tRNA ligase
+782026..783084	-	352	397651532	-	PFC_04360	-	-	hypothetical protein
+783172..784479	-	435	397651533	-	PFC_04365	-	-	malate oxidoreductase
+784526..785647	-	373	397651534	-	PFC_04370	-	-	hypothetical protein
+785751..786713	+	320	397651535	-	PFC_04375	-	-	hypothetical protein
+786718..787566	+	282	397651536	-	PFC_04380	-	-	hypothetical protein
+787642..789816	+	724	397651537	metG	PFC_04385	-	-	methionyl-tRNA ligase
+789809..790129	-	106	397651538	-	PFC_04390	-	-	divalent cation tolerance protein
+790126..791289	-	387	397651539	-	PFC_04395	-	-	hypothetical protein
+791358..792008	-	216	397651540	-	PFC_04400	-	-	peroxiredoxin
+792143..792691	-	182	397651541	pyrE	PFC_04405	-	-	orotate phosphoribosyltransferase
+792890..793183	+	97	397651542	-	PFC_04410	-	-	50S ribosomal protein L21e
+793190..793552	+	120	397651543	-	PFC_04415	-	-	DNA-directed RNA polymerase subunit F
+793650..793868	+	72	397651544	-	PFC_04420	-	-	hypothetical protein
+793857..794474	-	205	397651545	-	PFC_04425	-	-	hypothetical protein
+794488..795300	+	270	397651546	-	PFC_04430	-	-	geranylgeranylglyceryl phosphate synthase
+795297..795725	+	142	397651547	-	PFC_04435	-	-	hypothetical protein
+795679..797487	-	602	397651548	-	PFC_04440	-	-	ATPase
+797586..798188	+	200	397651549	-	PFC_04445	-	-	hypothetical protein
+798274..799494	+	406	397651550	-	PFC_04450	-	-	hypothetical protein
+799497..799943	-	148	397651551	-	PFC_04455	-	-	hypothetical protein
+800003..800665	+	220	397651552	adk	PFC_04460	-	-	adenylate kinase
+800721..802460	+	579	397651553	-	PFC_04465	-	-	7-cyano-7-deazaguanine tRNA-ribosyltransferase
+802498..802797	+	99	397651554	-	PFC_04470	-	-	hypothetical protein
+802777..803901	-	374	397651555	-	PFC_04475	-	-	hypothetical protein
+804003..805016	+	337	397651556	-	PFC_04480	-	-	Pyruvate formate lyase activating like protein
+805022..805372	+	116	397651557	-	PFC_04485	-	-	hypothetical protein
+805400..808000	+	866	397651558	-	PFC_04490	-	-	ATP-dependent helicase
+808140..809261	+	373	397651559	-	PFC_04495	-	-	aspartate kinase
+809272..810351	+	359	397651560	-	PFC_04500	-	-	aspartate kinase
+810302..811180	+	292	397651561	-	PFC_04505	-	-	homoserine kinase
+811171..812355	+	394	397651562	-	PFC_04510	-	-	threonine synthase
+812352..813356	+	334	397651563	-	PFC_04515	-	-	aspartate-semialdehyde dehydrogenase
+813563..814795	+	410	397651564	pgk	PFC_04520	-	-	phosphoglycerate kinase
+814851..816119	+	422	397651565	-	PFC_04525	-	-	hypothetical protein
+816112..817287	+	391	397651566	-	PFC_04530	-	-	hypothetical protein
+817256..817879	-	207	397651567	-	PFC_04535	-	-	hypothetical protein
+817951..818154	+	67	397651568	-	PFC_04540	-	-	sulfur carrier protein ThiS
+818276..818518	+	80	397651569	-	PFC_04545	-	-	hypothetical protein
+818553..819584	+	343	397651570	-	PFC_04550	-	-	hypothetical protein
+819547..819948	+	133	397651571	-	PFC_04555	-	-	hypothetical protein
+819943..820701	-	252	397651572	-	PFC_04560	-	-	hypothetical protein
+820758..821918	+	386	397651573	-	PFC_04565	-	-	aminotransferase
+822569..822952	+	127	397651574	-	PFC_04570	-	-	30S ribosomal protein S8e
+822930..823352	+	140	397651575	-	PFC_04575	-	-	hypothetical protein
+823438..824853	+	471	397651576	-	PFC_04580	-	-	asparagine synthase
+824980..825393	+	137	397651577	-	PFC_04585	-	-	hypothetical protein
+825386..826678	+	430	397651578	-	PFC_04590	-	-	hypothetical protein
+826680..827324	+	214	397651579	-	PFC_04595	-	-	hypothetical protein
+827360..828082	+	240	397651580	-	PFC_04600	-	-	hypothetical protein
+828166..829587	+	473	397651581	-	PFC_04605	-	-	hypothetical protein
+829599..830921	+	440	397651582	-	PFC_04610	-	-	hypothetical protein
+832506..833222	+	238	397651583	-	PFC_04625	-	-	hypothetical protein
+833227..833589	+	120	397651584	-	PFC_04630	-	-	hypothetical protein
+834289..835530	-	413	397651585	-	PFC_04635	-	-	hypothetical protein
+835527..836009	-	160	397651586	-	PFC_04640	-	-	phosphopantetheine adenylyltransferase
+836056..837384	+	442	397651587	-	PFC_04645	-	-	hypothetical protein
+837371..837562	-	63	397651588	-	PFC_04650	-	-	hypothetical protein
+837702..838124	-	140	397651589	-	PFC_04655	-	-	hypothetical protein
+838148..838486	-	112	397651590	-	PFC_04660	-	-	hypothetical protein
+838520..838822	-	100	397651591	-	PFC_04665	-	-	hypothetical protein
+838822..839328	-	168	397651592	-	PFC_04670	-	-	hypothetical protein
+839389..839997	-	202	397651593	-	PFC_04675	-	-	ABC transporter
+839994..840422	-	142	397651594	-	PFC_04680	-	-	hypothetical protein
+840482..840664	+	60	397651595	-	PFC_04685	-	-	hypothetical protein
+841551..841826	-	91	397651596	-	PFC_04690	-	-	hypothetical protein
+842043..842324	+	93	397651597	-	PFC_04695	-	-	hypothetical protein
+842321..842632	+	103	397651598	-	PFC_04700	-	-	hypothetical protein
+842826..846026	-	1066	397651599	ileS	PFC_04705	-	-	isoleucyl-tRNA ligase
+846156..847220	-	354	397651600	-	PFC_04710	-	-	hypothetical protein
+847263..847865	-	200	397651601	-	PFC_04715	-	-	hypothetical protein
+847852..848796	+	314	397651602	-	PFC_04720	-	-	formamidase (formamide amidohydrolase)
+849230..850216	+	328	397651603	-	PFC_04725	-	-	hypothetical protein
+850313..851632	+	439	397651604	-	PFC_04730	-	-	hypothetical protein
+851646..852668	+	340	397651605	-	PFC_04735	-	-	bifunctional short chain isoprenyl diphosphate synthase
+852732..853565	+	277	397651606	ppnK	PFC_04740	-	-	inorganic polyphosphate/ATP-NAD kinase
+853566..854528	-	320	397651607	-	PFC_04745	-	-	homoserine dehydrogenase
+854636..855172	+	178	397651608	-	PFC_04750	-	-	pyrazinamidase/nicotinamidase pxnc
+855159..856139	-	326	397651609	-	PFC_04755	-	-	hypothetical protein
+856129..856569	-	146	397651610	-	PFC_04760	-	-	hit family protein
+856763..857977	+	404	397651611	-	PFC_04765	-	-	alpha-dextrin endo-1, 6-alpha-glucosidase
+858051..861449	+	1132	397651612	-	PFC_04770	-	-	hypothetical protein
+861488..862537	-	349	397651613	-	PFC_04775	-	-	hypothetical protein
+862682..863512	-	276	397651614	-	PFC_04780	-	-	hypothetical protein
+863513..863710	-	65	397651615	-	PFC_04785	-	-	hypothetical protein
+864019..864621	+	200	397651616	-	PFC_04790	-	-	hypothetical protein
+864606..865124	+	172	397651617	-	PFC_04795	-	-	RNA-binding protein
+865103..865549	+	148	397651618	-	PFC_04800	-	-	glycerol-3-phosphate cytidyltransferase
+868541..868798	+	85	397651619	-	PFC_04805	-	-	hypothetical protein
+868795..869763	-	322	397651620	-	PFC_04810	-	-	CRISPR-associated protein Cas1
+869768..870277	-	169	397651621	-	PFC_04815	-	-	hypothetical protein
+870277..872451	-	724	397651622	-	PFC_04820	-	-	ATP-dependent RNA helicase
+872448..873077	-	209	397651623	-	PFC_04825	-	-	hypothetical protein
+873088..874143	-	351	397651624	-	PFC_04830	-	-	hypothetical protein
+874140..875477	-	445	397651625	-	PFC_04835	-	-	hypothetical protein
+875470..876492	-	340	397651626	-	PFC_04840	-	-	hypothetical protein
+876476..876973	-	165	397651627	-	PFC_04845	-	-	hypothetical protein
+876963..877850	-	295	397651628	-	PFC_04850	-	-	hypothetical protein
+877847..879289	-	480	397651629	-	PFC_04855	-	-	hypothetical protein
+879280..880248	-	322	397651630	-	PFC_04860	-	-	hypothetical protein
+880245..882860	-	871	397651631	-	PFC_04865	-	-	hypothetical protein
+882853..883866	-	337	397651632	-	PFC_04870	-	-	hypothetical protein
+883984..884778	-	264	397651633	-	PFC_04875	-	-	hypothetical protein
+884887..886497	-	536	397651634	-	PFC_04880	-	-	carbamoyltransferase
+886530..886736	-	68	397651635	-	PFC_04885	-	-	hypothetical protein
+886871..887413	+	180	397651636	-	PFC_04890	-	-	kinase
+887416..888285	+	289	397651637	-	PFC_04895	-	-	heat shock protein HtpX
+888358..890481	+	707	397651638	-	PFC_04900	-	-	hypothetical protein
+890515..893469	-	984	397651639	-	PFC_04905	-	-	translation initiation factor IF-2
+893997..894191	+	64	397651640	-	PFC_04910	-	-	hypothetical protein
+894850..896112	-	420	397651641	-	PFC_04915	-	-	hypothetical protein
+896093..897259	-	388	397651642	-	PFC_04920	-	-	pseudouridylate synthase
+897325..898152	+	275	397651643	-	PFC_04925	-	-	translation initiation factor IF-2
+898158..898340	+	60	397651644	-	PFC_04930	-	-	H/ACA RNA-protein complex component Nop10p
+898337..899140	+	267	397651645	-	PFC_04935	-	-	hypothetical protein
+899169..900020	+	283	397651646	panB	PFC_04940	-	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+900010..900813	-	267	397651647	-	PFC_04945	-	-	hypothetical protein
+900797..901684	-	295	397651648	-	PFC_04950	-	-	Mrp/Nbp35 family ATP-binding protein
+901812..902009	+	65	397651649	-	PFC_04955	-	-	hypothetical protein
+902018..903481	-	487	397651650	-	PFC_04960	-	-	monovalent cation/H+ antiporter subunit D
+903478..903750	-	90	397651651	-	PFC_04965	-	-	monovalent cation/H+ antiporter subunit C
+903753..904136	-	127	397651652	-	PFC_04970	-	-	monovalent cation/H+ antiporter subunit B
+904136..904603	-	155	397651653	-	PFC_04975	-	-	monovalent cation/H+ antiporter subunit B
+904584..904898	-	104	397651654	-	PFC_04980	-	-	monovalent cation/H+ antiporter subunit G
+904895..905164	-	89	397651655	-	PFC_04985	-	-	monovalent cation/H+ antiporter subunit F
+905140..905745	-	201	397651656	-	PFC_04990	-	-	monovalent cation/H+ antiporter subunit E
+905742..906494	-	250	397651657	-	PFC_04995	-	-	NAD-dependent deacetylase
+906570..907097	+	175	397651658	-	PFC_05000	-	-	hypothetical protein
+907099..908361	-	420	397651659	rbcL	PFC_05005	-	-	ribulose bisophosphate carboxylase
+908465..909631	+	388	397651660	-	PFC_05010	-	-	hypothetical protein
+909624..910448	-	274	397651661	-	PFC_05015	-	-	hypothetical protein
+910445..911593	-	382	397651662	-	PFC_05020	-	-	L-tyrosine decarboxylase
+911593..912201	-	202	397651663	-	PFC_05025	-	-	hypothetical protein
+912235..912921	-	228	397651664	-	PFC_05030	-	-	hypothetical protein
+912924..913175	+	83	397651665	-	PFC_05035	-	-	hypothetical protein
+913177..914358	+	393	397651666	-	PFC_05040	-	-	Na+/H+ antiporter
+914379..916034	+	551	397651667	-	PFC_05045	-	-	hypothetical protein
+916050..917336	+	428	397651668	-	PFC_05050	-	-	exonuclease
+917333..919981	+	882	397651669	-	PFC_05055	-	-	chromosome segregation protein
+919978..921333	+	451	397651670	-	PFC_05060	-	-	hypothetical protein
+921352..921651	+	99	397651671	-	PFC_05065	-	-	hypothetical protein
+921676..921945	-	89	397651672	-	PFC_05070	-	-	hypothetical protein
+921939..922463	-	174	397651673	-	PFC_05075	-	-	hypothetical protein
+922923..924158	+	411	397651674	-	PFC_05080	-	-	RNA methyltransferase
+924141..924533	-	130	397651675	-	PFC_05085	-	-	hypothetical protein
+924587..925000	+	137	397651676	-	PFC_05090	-	-	hypothetical protein
+925000..925632	+	210	397651677	-	PFC_05095	-	-	hypothetical protein
+925633..925926	+	97	397651678	-	PFC_05100	-	-	hypothetical protein
+925950..927242	+	430	397651679	-	PFC_05105	-	-	gtp1/obg family GTP-binding protein
+927226..928167	-	313	397651680	-	PFC_05110	-	-	Na-dependent transporter
+928230..928433	-	67	397651681	-	PFC_05115	-	-	hypothetical protein
+928507..929658	+	383	397651682	-	PFC_05120	-	-	threonine synthase
+929661..930995	-	444	397651683	-	PFC_05125	-	-	hypothetical protein
+931163..931672	-	169	397651684	-	PFC_05130	-	-	hypothetical protein
+931715..932101	-	128	397651685	-	PFC_05135	-	-	hypothetical protein
+932132..932854	-	240	397651686	-	PFC_05140	-	-	hypothetical protein
+933014..934066	+	350	397651687	-	PFC_05145	-	-	acetylornithine deacetylase
+934063..935391	-	442	397651688	-	PFC_05150	-	-	NADH oxidase
+935450..936517	-	355	397651689	-	PFC_05155	-	-	hypothetical protein
+936582..938006	+	474	397651690	-	PFC_05160	-	-	pyruvate kinase
+938017..938340	+	107	397651691	-	PFC_05165	-	-	hypothetical protein
+938378..938902	+	174	397651692	-	PFC_05170	-	-	hypothetical protein
+938906..939943	-	345	397651693	-	PFC_05175	-	-	hypothetical protein
+940023..940580	-	185	397651694	-	PFC_05180	-	-	DNA protection protein DPS
+940686..941069	+	127	397651695	-	PFC_05185	-	-	FUR family transcriptional regulator
+941077..941556	-	159	397651696	-	PFC_05190	-	-	hypothetical protein
+941652..942206	+	184	397651697	-	PFC_05195	-	-	hypothetical protein
+942211..943290	+	359	397651698	-	PFC_05200	-	-	NADH oxidase /nitrite reductase
+943273..943956	-	227	397651699	-	PFC_05205	-	-	DNA-binding transcriptional regulator
+943968..944492	-	174	397651700	-	PFC_05210	-	-	hypothetical protein
+944558..945259	-	233	397651701	-	PFC_05215	-	-	transposase
+945386..945880	-	164	397651702	-	PFC_05220	-	-	hypothetical protein
+946056..947915	+	619	397651703	-	PFC_05225	-	-	aldehyde ferredoxin oxidoreductase
+947988..949355	+	455	397651704	-	PFC_05230	-	-	seryl-tRNA ligase
+949352..949819	+	155	397651705	-	PFC_05235	-	-	hypothetical protein
+949816..950259	-	147	397651706	-	PFC_05240	-	-	hypothetical protein
+950284..950514	-	76	397651707	-	PFC_05245	-	-	hypothetical protein
+950518..952050	-	510	397651708	-	PFC_05250	-	-	beta-mannosidase
+952222..954090	+	622	397651709	-	PFC_05255	-	-	oligopeptide ABC transporter
+954164..955147	+	327	397651710	-	PFC_05260	-	-	dipeptide ABC transporter permease
+955152..956084	+	310	397651711	-	PFC_05265	-	-	dipeptide ABC transporter permease
+956086..957054	+	322	397651712	-	PFC_05270	-	-	peptide ABC uptake protein
+957047..957997	+	316	397651713	-	PFC_05275	-	-	oligopeptide ABC transporter
+958181..958678	-	165	397651714	-	PFC_05280	-	-	transcription elongation factor NusA-like protein
+959017..959271	-	84	397651715	-	PFC_05285	-	-	hypothetical protein
+959925..960068	-	47	397651716	-	PFC_05300	-	-	hypothetical protein
+960096..960272	+	58	397651717	-	PFC_05305	-	-	hypothetical protein
+960604..960981	+	125	397651718	-	PFC_05310	-	-	hypothetical protein
+960932..961114	-	60	397651719	-	PFC_05315	-	-	hypothetical protein
+961187..961393	-	68	397651720	-	PFC_05320	-	-	sulfate adenylyltransferase
+961405..962184	-	259	397651721	-	PFC_05325	-	-	dissimilatory sulfate adenylyltransferase
+962281..962517	+	78	397651722	-	PFC_05330	-	-	hypothetical protein
+962514..962861	+	115	397651723	-	PFC_05335	-	-	hypothetical protein
+963481..963624	-	47	397651724	-	PFC_05340	-	-	hypothetical protein
+964162..964863	+	233	397651725	-	PFC_05355	-	-	transposase
+964926..965507	+	193	397651726	-	PFC_05360	-	-	hypothetical protein
+965504..966181	-	225	397651727	-	PFC_05365	-	-	endonuclease III
+966144..966569	-	141	397651728	-	PFC_05370	-	-	atpase
+966580..967026	-	148	397651729	-	PFC_05375	-	-	AsnC family transcriptional regulator
+967149..968480	+	443	397651730	-	PFC_05380	-	-	4-aminobutyrate aminotransferase
+969127..971280	-	717	397651731	-	PFC_05385	-	-	chitinase
+971318..972355	-	345	397651732	-	PFC_05390	-	-	chitinase
+972684..973055	+	123	397651733	-	PFC_05395	-	-	camphor resistance protein CrcB
+973061..973441	+	126	397651734	-	PFC_05400	-	-	hypothetical protein
+973503..973859	+	118	397651735	-	PFC_05405	-	-	hypothetical protein
+973904..975802	+	632	397651736	-	PFC_05410	-	-	ABC transporter
+975799..976257	-	152	397651737	-	PFC_05415	-	-	hypothetical protein
+977119..978402	+	427	397651738	-	PFC_05430	-	-	purine permease
+978407..979105	+	232	397651739	upp	PFC_05435	-	-	uracil phosphoribosyltransferase
+979074..980999	-	641	397651740	-	PFC_05440	-	-	dehydrogenase subunit alpha
+981015..981302	-	95	397651741	-	PFC_05445	-	-	hypothetical protein
+981305..981583	-	92	397651742	-	PFC_05450	-	-	hypothetical protein
+981757..983226	+	489	397651743	-	PFC_05455	-	-	d-nopaline dehydrogenase
+983232..984380	+	382	397651744	-	PFC_05460	-	-	sarcosine oxidase subunit beta
+984532..985482	+	316	397651745	-	PFC_05465	-	-	hypothetical protein
+985869..986315	-	148	397651746	-	PFC_05470	-	-	transposase
+986403..987215	+	270	397651747	-	PFC_05475	-	-	sodium dependent transporter
+987226..987324	+	32	397651748	-	PFC_05480	-	-	hypothetical protein
+987372..988106	+	244	397651749	-	PFC_05485	-	-	hypothetical protein
+988103..989035	-	310	397651750	-	PFC_05490	-	-	nol1-nop2-sun family nucleolar protein III
+989037..989726	-	229	397651751	-	PFC_05495	-	-	ribose-5-phosphate isomerase A
+989730..990053	-	107	397651752	-	PFC_05500	-	-	hypothetical protein
+990104..990304	-	66	397651753	-	PFC_05505	-	-	hypothetical protein
+990548..991249	+	233	397651754	-	PFC_05510	-	-	transposase
+991241..991807	-	188	397651755	-	PFC_05515	-	-	hypothetical protein
+991809..992381	-	190	397651756	-	PFC_05520	-	-	hypothetical protein
+992428..993099	+	223	397651757	-	PFC_05525	-	-	ribosome biogenesis protein
+993161..994534	+	457	397651758	-	PFC_05530	-	-	hypothetical protein
+994596..995012	+	138	397651759	-	PFC_05535	-	-	translation initiation factor IF-5A
+995033..996334	-	433	397651760	-	PFC_05540	-	-	nol1-nop2-sun family nucleolar protein II
+996527..997627	+	366	397651761	-	PFC_05545	-	-	cystathionine gamma-synthase
+997630..998652	+	340	397651762	-	PFC_05550	-	-	hypothetical protein
+998665..999594	+	309	397651763	-	PFC_05555	-	-	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+999596..1000612	+	338	397651764	-	PFC_05560	-	-	methionine synthase
+1000609..1001469	-	286	397651765	-	PFC_05565	-	-	hypothetical protein
+1001743..1002054	-	103	397651766	-	PFC_05570	-	-	hypothetical protein
+1002438..1003205	+	255	397651767	-	PFC_05575	-	-	LamB/YcsF family protein
+1003202..1003885	+	227	397651768	-	PFC_05580	-	-	hypothetical protein
+1003878..1004867	+	329	397651769	-	PFC_05585	-	-	urea amidolyase
+1004903..1005211	+	102	397651770	-	PFC_05590	-	-	hypothetical protein
+1005208..1005489	-	93	397651771	-	PFC_05595	-	-	hypothetical protein
+1005490..1006251	-	253	397651772	-	PFC_05600	-	-	hypothetical protein
+1006248..1006592	-	114	397651773	-	PFC_05605	-	-	6-pyruvoyl-tetrahydropterin synthase
+1006633..1007178	-	181	397651774	rpl10e	PFC_05610	-	-	50S ribosomal protein L10e
+1007401..1007796	+	131	397651775	-	PFC_05615	-	-	hypothetical protein
+1008047..1008421	-	124	397651776	-	PFC_05620	-	-	superoxide reductase
+1008432..1008596	-	54	397651777	-	PFC_05625	-	-	rubredoxin
+1008673..1009188	-	171	397651778	-	PFC_05630	-	-	rubrerythrin
+1009293..1009472	-	59	397651779	-	PFC_05635	-	-	hypothetical protein
+1009602..1010693	-	363	397651780	-	PFC_05640	-	-	hypothetical protein
+1010693..1012120	-	475	397651781	-	PFC_05645	-	-	hypothetical protein
+1012110..1012841	-	243	397651782	-	PFC_05650	-	-	ABC transporter
+1012931..1014022	-	363	397651783	-	PFC_05655	-	-	thiamine biosynthesis/tRNA modification protein ThiI
+1014025..1014987	-	320	397651784	-	PFC_05660	-	-	molybdopterin biosynthesis protein moeb
+1015077..1015646	+	189	397651785	-	PFC_05665	-	-	hypothetical protein
+1015709..1016467	+	252	397651786	-	PFC_05670	-	-	hypothetical protein
+1016436..1017728	-	430	397651787	-	PFC_05675	-	-	hypothetical protein
+1017796..1019235	+	479	397651788	-	PFC_05680	-	-	prolyl-tRNA ligase
+1019251..1019811	+	186	397651789	-	PFC_05685	-	-	hypothetical protein
+1019860..1020435	+	191	397651790	-	PFC_05690	-	-	transcription factor
+1020440..1021264	+	274	397651791	-	PFC_05695	-	-	dihydropteroate synthase
+1021254..1021661	-	135	397651792	-	PFC_05700	-	-	hypothetical protein
+1021700..1022209	-	169	397651793	-	PFC_05705	-	-	endonuclease
+1022206..1022832	-	208	397651794	-	PFC_05710	-	-	pyrrolidone-carboxylate peptidase
+1022829..1023083	-	84	397651795	-	PFC_05715	-	-	hypothetical protein
+1023083..1023769	-	228	397651796	-	PFC_05720	-	-	hypothetical protein
+1024019..1024426	-	135	397651797	-	PFC_05725	-	-	hypothetical protein
+1024495..1025202	-	235	397651798	-	PFC_05730	-	-	hypothetical protein
+1025212..1027698	-	828	397651799	-	PFC_05735	-	-	hypothetical protein
+1027698..1029863	-	721	397651800	-	PFC_05740	-	-	hypothetical protein
+1029860..1031302	-	480	397651801	-	PFC_05745	-	-	hypothetical protein
+1031360..1031779	-	139	397651802	-	PFC_05750	-	-	hypothetical protein
+1031896..1032099	+	67	397651803	-	PFC_05755	-	-	hypothetical protein
+1033173..1034663	+	496	397651804	-	PFC_05760	-	-	hypothetical protein
+1034811..1035194	+	127	397651805	-	PFC_05765	-	-	hypothetical protein
+1035250..1035924	+	224	397651806	-	PFC_05770	-	-	hypothetical protein
+1035926..1036579	+	217	397651807	-	PFC_05775	-	-	DNA processing SMF protein
+1036784..1037341	+	185	397651808	-	PFC_05780	-	-	hypothetical protein
+1037399..1037656	+	85	397651809	-	PFC_05785	-	-	hypothetical protein
+1037672..1039042	+	456	397651810	-	PFC_05790	-	-	hypothetical protein
+1040378..1040548	+	56	397651811	-	PFC_05815	-	-	hypothetical protein
+1040770..1042152	+	460	397651812	-	PFC_05820	-	-	DEXX-box atpase
+1042435..1042665	+	76	397651813	-	PFC_05825	-	-	hypothetical protein
+1042662..1042889	+	75	397651814	-	PFC_05830	-	-	hypothetical protein
+1043362..1043835	+	157	397651815	-	PFC_05835	-	-	hypothetical protein
+1043841..1044929	+	362	397651816	-	PFC_05840	-	-	hypothetical protein
+1044926..1045417	-	163	397651817	-	PFC_05845	-	-	hypothetical protein
+1045460..1046884	-	474	397651818	-	PFC_05850	-	-	oxidoreductase
+1046885..1047721	-	278	397651819	-	PFC_05855	-	-	ferredoxin-NADP(+) reductase subunit alpha
+1047880..1048884	+	334	397651820	-	PFC_05860	-	-	hydrogenase subunit beta
+1048881..1049747	+	288	397651821	-	PFC_05865	-	-	cytochrome-c3 hydrogenase subunit gamma
+1049747..1050460	+	237	397651822	-	PFC_05870	-	-	hydrogenase subunit delta
+1050463..1051701	+	412	397651823	-	PFC_05875	-	-	hydrogenase subunit alpha
+1051698..1053053	-	451	397651824	-	PFC_05880	-	-	phosphomethylpyrimidine kinase
+1053050..1053673	-	207	397651825	thiE	PFC_05885	-	-	thiamine-phosphate pyrophosphorylase
+1053670..1054467	-	265	397651826	-	PFC_05890	-	-	hydroxyethylthiazole kinase
+1054464..1055717	-	417	397651827	-	PFC_05895	-	-	cytosine permease
+1055710..1056348	-	212	397651828	-	PFC_05900	-	-	transcriptional activator
+1056338..1056982	-	214	397651829	-	PFC_05905	-	-	transcriptional activator
+1057075..1057746	-	223	397651830	-	PFC_05910	-	-	hypothetical protein
+1057743..1058408	-	221	397651831	-	PFC_05915	-	-	hypothetical protein
+1058506..1059702	-	398	397651832	gcvT	PFC_05920	-	-	glycine cleavage system aminomethyltransferase T
+1059827..1060369	+	180	397651833	-	PFC_05925	-	-	hypothetical protein
+1060361..1061407	-	348	397651834	-	PFC_05930	-	-	X-Pro dipeptidase
+1061543..1062253	+	236	397651835	-	PFC_05935	-	-	maleate cis-trans isomerase
+1062253..1063176	+	307	397651836	-	PFC_05940	-	-	ribonuclease Z
+1063211..1063822	+	203	397651837	-	PFC_05945	-	-	pheromone shutdown protein
+1063786..1064052	-	88	397651838	-	PFC_05950	-	-	hypothetical protein
+1064137..1064343	-	68	397651839	-	PFC_05955	-	-	hypothetical protein
+1064479..1065549	+	356	397651840	-	PFC_05960	-	-	translation initiation factor IF-2
+1065656..1066942	+	428	397651841	-	PFC_05965	-	-	hypothetical protein
+1066885..1068762	-	625	397651842	-	PFC_05970	-	-	threonyl-tRNA ligase
+1068834..1069238	-	134	397651843	-	PFC_05975	-	-	hypothetical protein
+1069225..1069446	-	73	397651844	-	PFC_05980	-	-	hypothetical protein
+1069670..1070926	+	418	397651845	-	PFC_05985	-	-	oligosaccharide transporter
+1070936..1072219	+	427	397651846	-	PFC_05990	-	-	NDP-sugar dehydrogenase
+1072216..1073067	+	283	397651847	-	PFC_05995	-	-	glucose-1-phosphate uridylyltransferase
+1073064..1074074	+	336	397651848	-	PFC_06000	-	-	UDP- or dTTP-glucose 4-epimerase or 4-6-dehydratase
+1074075..1074308	+	77	397651849	-	PFC_06005	-	-	hypothetical protein
+1074390..1075226	+	278	397651850	-	PFC_06010	-	-	glycosyl transferase family protein
+1075250..1076155	+	301	397651851	-	PFC_06015	-	-	glycosyl transferase family protein
+1076152..1077249	+	365	397651852	-	PFC_06020	-	-	hypothetical protein
+1077239..1078390	-	383	397651853	-	PFC_06025	-	-	glycosyl transferase family protein
+1078399..1079637	-	412	397651854	-	PFC_06030	-	-	hypothetical protein
+1079615..1080583	-	322	397651855	-	PFC_06035	-	-	glycosyl transferase family protein
+1080580..1081701	-	373	397651856	-	PFC_06040	-	-	hypothetical protein
+1081815..1082129	+	104	397651857	-	PFC_06045	-	-	hypothetical protein
+1082177..1082878	-	233	397651858	-	PFC_06050	-	-	transposase
+1083032..1083403	+	123	397651859	rpl7ae	PFC_06055	-	-	50S ribosomal protein L7Ae
+1083450..1083665	+	71	397651860	rps28e	PFC_06060	-	-	30S ribosomal protein S28e
+1083671..1083871	+	66	397651861	-	PFC_06065	-	-	50S ribosomal protein L24e
+1084066..1084287	+	73	397651862	-	PFC_06070	-	-	hypothetical protein
+1084322..1085152	+	276	397651863	-	PFC_06075	-	-	hypothetical protein
+1085659..1085892	+	77	397651864	-	PFC_06085	-	-	hypothetical protein
+1086132..1086986	+	284	397651865	-	PFC_06090	-	-	cation transporter
+1086988..1087737	-	249	397651866	-	PFC_06095	-	-	lipoate-protein ligase A
+1088008..1089294	+	428	397651867	-	PFC_06100	-	-	elongation factor 1-alpha
+1089334..1089642	+	102	397651868	rps10p	PFC_06105	-	-	30S ribosomal protein S10P
+1089858..1090760	-	300	397651869	tfb	PFC_06110	-	-	transcription initiation factor IIB
+1090908..1091270	+	120	397651870	-	PFC_06115	-	-	ribonuclease P protein component 2
+1091276..1092346	+	356	397651871	-	PFC_06120	-	-	cell division protein pelota
+1092357..1094246	+	629	397651872	argS	PFC_06125	-	-	arginyl-tRNA ligase
+1094251..1094685	-	144	397651873	-	PFC_06130	-	-	hypothetical protein
+1094699..1095739	-	346	397651874	egsA	PFC_06135	-	-	NAD(P)-dependent glycerol-1-phosphate dehydrogenase
+1095979..1096782	+	267	397651875	-	PFC_06140	-	-	hypothetical protein
+1096788..1097162	+	124	397651876	-	PFC_06145	-	-	hypothetical protein
+1097163..1097753	+	196	397651877	-	PFC_06150	-	-	DNA polymerase
+1097798..1098517	+	239	397651878	-	PFC_06155	-	-	XRE family transcriptional regulator
+1098514..1099299	-	261	397651879	-	PFC_06160	-	-	hypothetical protein
+1099360..1099791	-	143	397651880	-	PFC_06165	-	-	hypothetical protein
+1099861..1100697	+	278	397651881	-	PFC_06170	-	-	hypothetical protein
+1100683..1101516	-	277	397651882	-	PFC_06175	-	-	hypothetical protein
+1101601..1102038	-	145	397651883	-	PFC_06180	-	-	hypothetical protein
+1102038..1103987	-	649	397651884	-	PFC_06185	-	-	hypothetical protein
+1104171..1106069	+	632	397651885	-	PFC_06190	-	-	hypothetical protein
+1106052..1106972	-	306	397651886	-	PFC_06195	-	-	phosphoglycerate dehydrogenase
+1106978..1107616	-	212	397651887	-	PFC_06200	-	-	hypothetical protein
+1107594..1108520	-	308	397651888	-	PFC_06205	-	-	2-dehydropantoate 2-reductase
+1108584..1109630	+	348	397651889	-	PFC_06210	-	-	pyruvate formate-lyase activating enzyme-like protein
+1109632..1110435	+	267	397651890	-	PFC_06215	-	-	hypothetical protein
+1110623..1112440	+	605	397651891	-	PFC_06220	-	-	ATPase, vanadate-sensitive
+1112485..1113225	+	246	397651892	-	PFC_06225	-	-	hypothetical protein
+1113271..1114047	+	258	397651893	-	PFC_06230	-	-	peptidyl-prolyl cis-trans isomerase
+1114080..1114976	+	298	397651894	-	PFC_06235	-	-	hypothetical protein
+1114991..1115599	+	202	397651895	-	PFC_06240	-	-	hypothetical protein
+1115697..1116308	+	203	397651896	-	PFC_06245	-	-	proteasome subunit beta
+1116327..1118273	+	648	397651897	-	PFC_06250	-	-	cleavage and polyadenylation specifity factor protein
+1118278..1119615	+	445	397651898	-	PFC_06255	-	-	threonine synthase
+1119649..1120326	+	225	397651899	pyrH	PFC_06260	-	-	uridylate kinase
+1120567..1122684	+	705	397651900	-	PFC_06265	-	-	dipeptide-binding protein
+1122803..1123801	+	332	397651901	-	PFC_06270	-	-	dipeptide transport system permease
+1123813..1124964	+	383	397651902	-	PFC_06275	-	-	binding-protein-dependent transport system inner membrane protein
+1124957..1125937	+	326	397651903	-	PFC_06280	-	-	dipeptide transport ATP-binding protein
+1125948..1126937	+	329	397651904	-	PFC_06285	-	-	dipeptide transport ATP-binding protein
+1126989..1127351	+	120	397651905	-	PFC_06290	-	-	hypothetical protein
+1127439..1128461	+	340	397651906	-	PFC_06295	-	-	flap endonuclease-1
+1128451..1129446	-	331	397651907	-	PFC_06300	-	-	met-10+ protein
+1129461..1129877	-	138	397651908	-	PFC_06305	-	-	hypothetical protein
+1130029..1130169	-	46	397651909	-	PFC_06310	-	-	hypothetical protein
+1130169..1131023	-	284	397651910	-	PFC_06315	-	-	hypothetical protein
+1131238..1131933	+	231	397651911	-	PFC_06320	-	-	phosphoglycolate phosphatase
+1132104..1132187	+	27	397651912	-	PFC_06325	-	-	hypothetical protein
+1132584..1133948	-	454	397651913	-	PFC_06330	-	-	4-aminobutyrate aminotransferase
+1134056..1135048	-	330	397651914	-	PFC_06335	-	-	thioredoxin reductase
+1135275..1135778	+	167	397651915	-	PFC_06340	-	-	monovalent cation/H+ antiporter subunit E
+1135775..1136029	+	84	397651916	-	PFC_06345	-	-	monovalent cation/H+ antiporter subunit F
+1136026..1136400	+	124	397651917	-	PFC_06350	-	-	monovalent cation/H+ antiporter subunit G
+1136381..1136647	+	88	397651918	-	PFC_06355	-	-	hypothetical protein
+1136644..1136943	+	99	397651919	-	PFC_06360	-	-	hypothetical protein
+1136936..1137382	+	148	397651920	-	PFC_06365	-	-	monovalent cation/H+ antiporter subunit B
+1137379..1137732	+	117	397651921	-	PFC_06370	-	-	monovalent cation/H+ antiporter subunit C
+1137729..1139261	+	510	397651922	-	PFC_06375	-	-	monovalent cation/H+ antiporter subunit D
+1139263..1139610	+	115	397651923	-	PFC_06380	-	-	hypothetical protein
+1139615..1140118	+	167	397651924	-	PFC_06385	-	-	mbh10 NADH dehydrogenase subunit
+1140111..1140632	+	173	397651925	-	PFC_06390	-	-	membrane bound hydrogenase beta
+1140629..1141912	+	427	397651926	-	PFC_06395	-	-	membrane bound hydrogenase alpha
+1141915..1142880	+	321	397651927	-	PFC_06400	-	-	mbh13 NADH dehydrogenase subunit
+1142877..1143296	+	139	397651928	-	PFC_06405	-	-	NADH-plastoquinone oxidoreductase subunit
+1143408..1144712	+	434	397651929	-	PFC_06410	-	-	hypothetical protein
+1144683..1146587	-	634	397651930	-	PFC_06415	-	-	hypothetical protein
+1146641..1146979	-	112	397651931	-	PFC_06420	-	-	hypothetical protein
+1147053..1148261	+	402	397651932	-	PFC_06425	-	-	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+1148250..1148876	-	208	397651933	-	PFC_06430	-	-	NADH dehydrogenase subunit I
+1148882..1150057	-	391	397651934	-	PFC_06435	-	-	NADH dehydrogenase subunit D
+1150068..1150592	-	174	397651935	-	PFC_06440	-	-	NADH dehydrogenase subunit C
+1150589..1151167	-	192	397651936	-	PFC_06445	-	-	NADH dehydrogenase subunit B
+1151178..1151483	-	101	397651937	-	PFC_06450	-	-	NADH dehydrogenase subunit
+1151600..1151716	-	38	397651938	-	PFC_06455	-	-	NADH dehydrogenase subunit B
+1151727..1152656	-	309	397651939	-	PFC_06460	-	-	NADH dehydrogenase subunit
+1152660..1154516	-	618	397651940	-	PFC_06465	-	-	NADH dehydrogenase subunit M
+1154513..1155994	-	493	397651941	-	PFC_06470	-	-	NADH dehydrogenase subunit N
+1155991..1156335	-	114	397651942	-	PFC_06475	-	-	monovalent cation/H+ antiporter subunit C
+1156332..1157039	-	235	397651943	-	PFC_06480	-	-	monovalent cation/H+ antiporter subunit B
+1157042..1157326	-	94	397651944	-	PFC_06485	-	-	hypothetical protein
+1157323..1157697	-	124	397651945	-	PFC_06490	-	-	monovalent cation/H+ antiporter subunit G
+1157694..1157948	-	84	397651946	-	PFC_06495	-	-	monovalent cation/H+ antiporter subunit F
+1157945..1158451	-	168	397651947	-	PFC_06500	-	-	monovalent cation/H+ antiporter subunit E
+1158657..1160423	+	588	397651948	-	PFC_06505	-	-	hypothetical protein
+1160433..1160699	+	88	397651949	-	PFC_06510	-	-	hypothetical protein
+1160736..1161266	+	176	397651950	-	PFC_06515	-	-	hypothetical protein
+1161326..1161670	+	114	397651951	-	PFC_06520	-	-	glutaredoxin/thioredoxin-like protein
+1161651..1162586	-	311	397651952	-	PFC_06525	-	-	sugar kinase
+1162661..1164112	+	483	397651953	-	PFC_06530	-	-	hypothetical protein
+1164090..1165823	-	577	397651954	-	PFC_06535	-	-	hypothetical protein
+1165885..1167201	+	438	397651955	-	PFC_06540	-	-	glutamyl-tRNA(Gln) amidotransferase subunit D
+1167329..1167487	+	52	397651956	-	PFC_06545	-	-	hypothetical protein
+1167540..1169426	+	628	397651957	-	PFC_06550	-	-	glutamyl-tRNA(Gln) amidotransferase subunit E
+1169589..1170122	+	177	397651958	-	PFC_06555	-	-	hypothetical protein
+1170119..1170940	+	273	397651959	-	PFC_06560	-	-	hypothetical protein
+1171710..1172102	+	130	397651960	-	PFC_06565	-	-	hypothetical protein
+1172077..1172592	+	171	397651961	-	PFC_06570	-	-	ABC transporter
+1172606..1172878	+	90	397651962	-	PFC_06575	-	-	hypothetical protein
+1173116..1174396	+	426	397651963	-	PFC_06580	-	-	glutamate/aspartate transport protein
+1174347..1175453	-	368	397651964	-	PFC_06585	-	-	hypothetical protein
+1175588..1176169	+	193	397651965	-	PFC_06590	-	-	hypothetical protein
+1176166..1177317	-	383	397651966	-	PFC_06595	-	-	aspartate/serine transaminase
+1177382..1178032	+	216	397651967	-	PFC_06600	-	-	putative serine/threonine protein kinase
+1178015..1178311	-	98	397651968	-	PFC_06605	-	-	hypothetical protein
+1178376..1178531	+	51	397651969	rpl40e	PFC_06610	-	-	50S ribosomal protein L40e
+1178532..1178858	-	108	397651970	-	PFC_06615	-	-	hypothetical protein
+1178983..1180671	-	562	397651971	-	PFC_06620	-	-	methylmalonyl-CoA mutase
+1180818..1181048	+	76	397651972	-	PFC_06625	-	-	hypothetical protein
+1181330..1181851	+	173	397651973	-	PFC_06630	-	-	oxidoreductase, Fe-S subunit
+1181862..1183736	+	624	397651974	-	PFC_06635	-	-	formaldehyde:ferredoxin oxidoreductase wor5
+1183809..1184240	+	143	397651975	-	PFC_06640	-	-	hypothetical protein
+1184274..1184495	+	73	397651976	-	PFC_06645	-	-	hypothetical protein
+1184896..1185624	+	242	397651977	-	PFC_06650	-	-	hypothetical protein
+1185794..1186483	-	229	397651978	-	PFC_06655	-	-	hypothetical protein
+1186710..1186988	+	92	397651979	-	PFC_06660	-	-	hypothetical protein
+1186999..1187391	+	130	397651980	-	PFC_06665	-	-	hypothetical protein
+1187382..1188305	-	307	397651981	-	PFC_06670	-	-	thiamine biosynthesis protein ThiI
+1188395..1189063	+	222	397651982	-	PFC_06675	-	-	hypothetical protein
+1189109..1189651	+	180	397651983	-	PFC_06680	-	-	hypothetical protein
+1189637..1190284	-	215	397651984	-	PFC_06685	-	-	hypothetical protein
+1190364..1190567	+	67	397651985	rps17E	PFC_06690	-	-	30S ribosomal protein S17e
+1190564..1190968	-	134	397651986	-	PFC_06695	-	-	glycine cleavage system protein H
+1191032..1191493	+	153	397651987	-	PFC_06700	-	-	hypothetical protein
+1191584..1192147	+	187	397651988	-	PFC_06705	-	-	hypothetical protein
+1192121..1193194	-	357	397651989	-	PFC_06710	-	-	gtp1/obg family GTP-binding protein
+1193209..1194225	-	338	397651990	-	PFC_06715	-	-	hypothetical protein
+1194297..1195493	+	398	397651991	-	PFC_06720	-	-	alanine aminotransferase
+1196207..1196626	+	139	397651992	-	PFC_06725	-	-	hypothetical protein
+1196630..1197082	+	150	397651993	-	PFC_06730	-	-	30S ribosomal protein S19e
+1197147..1197425	+	92	397651994	-	PFC_06735	-	-	hypothetical protein
+1197422..1198033	+	203	397651995	-	PFC_06740	-	-	hypothetical protein
+1198013..1199575	-	520	397651996	-	PFC_06745	-	-	hypothetical protein
+1199572..1199943	-	123	397651997	-	PFC_06750	-	-	hypothetical protein
+1200014..1202752	+	912	397651998	-	PFC_06755	-	-	large helicase-like protein
+1202826..1204922	+	698	397651999	-	PFC_06760	-	-	hypothetical protein
+1205015..1207111	+	698	397652000	-	PFC_06765	-	-	hypothetical protein
+1207125..1208225	+	366	397652001	-	PFC_06770	-	-	cell division protein FtsZ
+1208212..1208805	+	197	397652002	-	PFC_06775	-	-	hypothetical protein
+1208853..1209434	+	193	397652003	-	PFC_06780	-	-	hypothetical protein
+1209442..1209879	+	145	397652004	-	PFC_06785	-	-	hypothetical protein
+1209857..1210285	+	142	397652005	-	PFC_06790	-	-	hypothetical protein
+1210282..1210560	-	92	397652006	-	PFC_06795	-	-	hypothetical protein
+1210707..1211162	+	151	397652007	-	PFC_06800	-	-	hypothetical protein
+1211207..1211785	+	192	397652008	-	PFC_06805	-	-	hypothetical protein
+1211871..1212437	-	188	397652009	-	PFC_06810	-	-	GMP synthase subunit A
+1212447..1213370	-	307	397652010	-	PFC_06815	-	-	GMP synthase subunit B
+1213490..1214494	-	334	397652011	purP	PFC_06820	-	-	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+1214606..1215646	+	346	397652012	-	PFC_06825	-	-	thiamin-binding periplasmic protein
+1215633..1216628	-	331	397652013	-	PFC_06830	-	-	sugar-binding transport ATP-binding protein
+1216622..1218160	-	512	397652014	-	PFC_06835	-	-	iron(III) ABC transporter permease
+1218210..1220195	-	661	397652015	-	PFC_06840	-	-	formate dehydrogenase subunit alpha
+1220268..1221041	-	257	397652016	-	PFC_06845	-	-	ABC transporter
+1221013..1221426	-	137	397652017	-	PFC_06850	-	-	hypothetical protein
+1222707..1223015	-	102	397652018	-	PFC_06855	-	-	hypothetical protein
+1223020..1223214	-	64	397652019	-	PFC_06860	-	-	hypothetical protein
+1223192..1223587	-	131	397652020	-	PFC_06865	-	-	hypothetical protein
+1223719..1224312	-	197	397652021	-	PFC_06870	-	-	glutamine amidotransferase subunit PdxT
+1224344..1225330	-	328	397652022	-	PFC_06875	-	-	pyridoxal biosynthesis lyase PdxS
+1225452..1226210	-	252	397652023	-	PFC_06880	-	-	ribulose-1,5-biphosphate synthetase
+1226339..1227628	+	429	397652024	-	PFC_06885	-	-	phosphomethylpyrimidine synthase ThiC
+1227734..1229050	+	438	397652025	-	PFC_06890	-	-	NADH oxidase
+1229175..1230512	+	445	397652026	-	PFC_06895	-	-	nodulation protein nfeD
+1230512..1231321	+	269	397652027	-	PFC_06900	-	-	stomatin
+1231326..1233845	-	839	397652028	-	PFC_06905	-	-	alpha-glucan phosphorylase
+1233848..1234399	-	183	397652029	-	PFC_06910	-	-	RNase III inhibitor
+1234383..1235330	-	315	397652030	-	PFC_06915	-	-	hypothetical protein
+1235330..1236589	-	419	397652031	-	PFC_06920	-	-	N-ethylammeline chlorohydrolase
+1236671..1237573	+	300	397652032	-	PFC_06925	-	-	dihydroorotate dehydrogenase 1B
+1237668..1239056	+	462	397652033	-	PFC_06930	-	-	ADP forming acetyl coenzyme A synthetase
+1239065..1239253	-	62	397652034	rpl37e	PFC_06935	-	-	50S ribosomal protein L37e
+1239265..1239495	-	76	397652035	-	PFC_06940	-	-	small nuclear ribonucleoprotein
+1239749..1240204	+	151	397652036	-	PFC_06945	-	-	AsnC family transcriptional regulator
+1240222..1241688	+	488	397652037	-	PFC_06950	-	-	hypothetical protein
+1241669..1242004	-	111	397652038	nac	PFC_06955	-	-	nascent polypeptide-associated complex protein
+1242537..1242878	-	113	397652039	-	PFC_06960	-	-	hypothetical protein
+1242913..1243959	-	348	397652040	-	PFC_06965	-	-	endoglucanase
+1244069..1245247	+	392	397652041	-	PFC_06970	-	-	hypothetical protein
+1245244..1246272	+	342	397652042	-	PFC_06975	-	-	RNA 3'-terminal-phosphate cyclase
+1246284..1246796	+	170	397652043	-	PFC_06980	-	-	hypothetical protein
+1246793..1248067	-	424	397652044	-	PFC_06985	-	-	hypothetical protein
+1248119..1248547	+	142	397652045	-	PFC_06990	-	-	hypothetical protein
+1248561..1249496	+	311	397652046	-	PFC_06995	-	-	nol1-nop2-sun family nucleolar protein I
+1249503..1249754	+	83	397652047	-	PFC_07000	-	-	hypothetical protein
+1249751..1250974	-	407	397652048	truD	PFC_07005	-	-	tRNA pseudouridine synthase D
+1250985..1251344	-	119	397652049	-	PFC_07010	-	-	peptidyl-tRNA hydrolase
+1251357..1252190	-	277	397652050	-	PFC_07015	-	-	hypothetical protein
+1252258..1252905	-	215	397652051	-	PFC_07020	-	-	30S ribosomal protein S7
+1252912..1253355	-	147	397652052	rps12P	PFC_07025	-	-	30S ribosomal protein S12
+1253366..1253803	-	145	397652053	-	PFC_07030	-	-	transcription elongation factor NusA-like protein
+1253812..1254111	-	99	397652054	-	PFC_07035	-	-	50S ribosomal protein L30e
+1254115..1255308	-	397	397652055	-	PFC_07040	-	-	DNA-directed RNA polymerase subunit A''
+1255319..1258051	-	910	397652056	-	PFC_07045	-	-	DNA-directed RNA polymerase subunit A'
+1258055..1261408	-	1117	397652057	-	PFC_07050	-	-	DNA-directed RNA polymerase subunit B
+1261429..1261677	-	82	397652058	rpoH	PFC_07055	-	-	DNA-directed RNA polymerase subunit H
+1261907..1262527	-	206	397652059	-	PFC_07060	-	-	hypothetical protein
+1262756..1263589	-	277	397652060	-	PFC_07065	-	-	exosome complex RNA-binding protein Rrp42
+1263579..1264331	-	250	397652061	-	PFC_07070	-	-	exosome complex exonuclease Rrp41
+1264306..1265100	-	264	397652062	-	PFC_07075	-	-	exosome complex RNA-binding protein Rrp4
+1265097..1265807	-	236	397652063	-	PFC_07080	-	-	RNA-associated protein
+1265841..1266623	-	260	397652064	-	PFC_07085	-	-	proteasome subunit alpha
+1266784..1267284	+	166	397652065	-	PFC_07090	-	-	hypothetical protein
+1267392..1268759	+	455	397652066	-	PFC_07095	-	-	hypothetical protein
+1268772..1270100	+	442	397652067	-	PFC_07100	-	-	hypothetical protein
+1270078..1270671	-	197	397652068	-	PFC_07105	-	-	hypothetical protein
+1270661..1271071	-	136	397652069	-	PFC_07110	-	-	hypothetical protein
+1271076..1272323	-	415	397652070	-	PFC_07115	-	-	hypothetical protein
+1272330..1273478	-	382	397652071	-	PFC_07120	-	-	DNA topoisomerase VI subunit A
+1273453..1275159	-	568	397652072	-	PFC_07125	-	-	DNA topoisomerase VI subunit B
+1275169..1275834	-	221	397652073	-	PFC_07130	-	-	RNA-processing protein
+1275807..1276607	-	266	397652074	-	PFC_07135	-	-	rio1 protein
+1276614..1276955	-	113	397652075	-	PFC_07140	-	-	translation initiation factor IF-1
+1277106..1278095	+	329	397652076	-	PFC_07145	-	-	endopeptidase IV
+1278101..1278559	+	152	397652077	-	PFC_07150	-	-	hypothetical protein
+1278562..1279587	+	341	397652078	-	PFC_07155	-	-	hypothetical protein
+1279547..1280530	-	327	397652079	-	PFC_07160	-	-	hydrogenase expression/formation protein
+1280587..1281441	+	284	397652080	-	PFC_07165	-	-	hypothetical protein
+1281438..1282061	-	207	397652081	-	PFC_07170	-	-	hypothetical protein
+1282118..1282873	+	251	397652082	-	PFC_07175	-	-	hypothetical protein
+1282932..1283441	+	169	397652083	-	PFC_07180	-	-	mutt
+1283483..1284319	+	278	397652084	-	PFC_07185	-	-	dipeptide transport protein
+1284447..1285787	+	446	397652085	-	PFC_07190	-	-	tryptophan synthase subunit beta
+1285761..1287014	-	417	397652086	-	PFC_07195	-	-	peptide chain release factor 1
+1287099..1287962	+	287	397652087	-	PFC_07200	-	-	dolichol-phosphate mannose synthase
+1287976..1288335	+	119	397652088	-	PFC_07205	-	-	hypothetical protein
+1288381..1288749	+	122	397652089	-	PFC_07210	-	-	hypothetical protein
+1288755..1289546	+	263	397652090	-	PFC_07215	-	-	heat shock protein x
+1289583..1290140	+	185	397652091	-	PFC_07220	-	-	dCMP deaminase
+1290137..1290931	-	264	397652092	-	PFC_07225	-	-	undecaprenyl diphosphate synthase
+1290928..1291449	-	173	397652093	-	PFC_07230	-	-	ferripyochelin binding protein
+1291575..1292000	-	141	397652094	-	PFC_07235	-	-	AsnC family transcriptional regulator
+1292091..1293353	-	420	397652095	-	PFC_07240	-	-	glutamate dehydrogenase
+1293635..1294231	-	198	397652096	-	PFC_07245	-	-	Na antiporter
+1294454..1295155	+	233	397652097	-	PFC_07250	-	-	transposase
+1295441..1296685	+	414	397652098	-	PFC_07255	-	-	dihydroorotase
+1296633..1297376	+	247	397652099	-	PFC_07260	-	-	dihydroorotate dehydrogenase electron transfer subunit
+1297387..1298295	+	302	397652100	-	PFC_07265	-	-	cofactor synthesis protein
+1298361..1299188	+	275	397652101	-	PFC_07270	-	-	n-type ATP pyrophosphatase superfamily protein
+1299163..1300377	-	404	397652102	-	PFC_07275	-	-	hypothetical protein
+1300409..1301053	-	214	397652103	-	PFC_07280	-	-	V-type ATP synthase subunit D
+1301084..1302478	-	464	397652104	-	PFC_07285	-	-	V-type ATP synthase subunit B
+1302478..1305519	-	1013	397652105	-	PFC_07290	-	-	V-type ATP synthase subunit A
+1305526..1305837	-	103	397652106	-	PFC_07295	-	-	V-type ATP synthase subunit F
+1305834..1306946	-	370	397652107	-	PFC_07300	-	-	V-type ATP synthase subunit C
+1306953..1307549	-	198	397652108	-	PFC_07305	-	-	V-type ATP synthase subunit E
+1307584..1308063	-	159	397652109	-	PFC_07310	-	-	V-type ATP synthase subunit K
+1308065..1310056	-	663	397652110	-	PFC_07315	-	-	V-type ATP synthase subunit I
+1310058..1310369	-	103	397652111	-	PFC_07320	-	-	V-type ATP synthase subunit H
+1310462..1311154	-	230	397652112	-	PFC_07325	-	-	trk system potassium uptake - like protein
+1311160..1312677	-	505	397652113	secD	PFC_07330	-	-	preprotein translocase subunit SecD
+1312674..1313546	-	290	397652114	-	PFC_07335	-	-	preprotein translocase subunit SecF
+1313664..1314638	+	324	397652115	-	PFC_07340	-	-	UGMP family protein
+1314846..1315361	+	171	397652116	-	PFC_07345	-	-	hypothetical protein
+1315358..1316356	-	332	397652117	-	PFC_07350	-	-	hypothetical protein
+1316353..1317513	-	386	397652118	-	PFC_07355	-	-	nol1-nop2-sun family nucleolar protein III
+1317510..1318013	-	167	397652119	-	PFC_07360	-	-	hypothetical protein
+1318081..1319214	+	377	397652120	-	PFC_07365	-	-	metalloprotease
+1319214..1319729	+	171	397652121	-	PFC_07370	-	-	oxidoreductase
+1319726..1320418	+	230	397652122	-	PFC_07375	-	-	hydrolase related to 2-haloalkanoic acid dehalogenase
+1320402..1321607	-	401	397652123	-	PFC_07380	-	-	nifS protein
+1321606..1322316	+	236	397652124	-	PFC_07385	-	-	hypothetical protein
+1322319..1322885	-	188	397652125	-	PFC_07390	-	-	hypothetical protein
+1322936..1324198	-	420	397652126	-	PFC_07395	-	-	hypothetical protein
+1324195..1325568	-	457	397652127	-	PFC_07400	-	-	TLDD - like protein
+1325643..1326233	+	196	397652128	-	PFC_07405	-	-	proteasome subunit beta
+1326230..1327279	+	349	397652129	-	PFC_07410	-	-	hypothetical protein
+1327357..1329153	+	598	397652130	-	PFC_07415	-	-	glucosamine--fructose-6-phosphate aminotransferase
+1329169..1332072	+	967	397652131	-	PFC_07420	-	-	oligosaccharyl transferase stt3 subunit related protein
+1332379..1333683	+	434	397652132	asnC	PFC_07425	-	-	asparaginyl-tRNA ligase
+1333853..1335184	-	443	397652133	-	PFC_07430	-	-	amidophosphoribosyltransferase
+1335273..1335977	+	234	397652134	-	PFC_07435	-	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+1336013..1336672	+	219	397652135	-	PFC_07440	-	-	hypothetical protein
+1336669..1337460	-	263	397652136	-	PFC_07445	-	-	hypothetical protein
+1337457..1338071	-	204	397652137	-	PFC_07450	-	-	hypothetical protein
+1338136..1338927	+	263	397652138	-	PFC_07455	-	-	short chain dehydrogenase
+1338942..1339514	+	190	397652139	-	PFC_07460	-	-	hypothetical protein
+1339789..1340325	+	178	397652140	-	PFC_07465	-	-	potassium channel-like protein
+1340312..1340902	+	196	397652141	-	PFC_07470	-	-	potassium channel
+1340899..1341513	-	204	397652142	-	PFC_07475	-	-	hypothetical protein
+1341515..1342444	-	309	397652143	-	PFC_07480	-	-	hypothetical protein
+1342434..1343597	-	387	397652144	-	PFC_07485	-	-	quinolone resistance protein norA - like protein
+1343597..1344517	-	306	397652145	-	PFC_07490	-	-	asparaginase
+1344570..1345487	-	305	397652146	-	PFC_07495	-	-	hypothetical protein
+1345576..1346739	+	387	397652147	-	PFC_07500	-	-	sugar transporter protein
+1346714..1347313	-	199	397652148	-	PFC_07505	-	-	indolepyruvate oxidoreductase subunit B
+1347384..1348355	-	323	397652149	-	PFC_07510	-	-	hypothetical protein
+1348422..1349108	+	228	397652150	-	PFC_07515	-	-	methyltransferase
+1349079..1349981	-	300	397652151	-	PFC_07520	-	-	hypothetical protein
+1349987..1351558	-	523	397652152	lysK	PFC_07525	-	-	lysyl-tRNA ligase
+1351673..1352281	+	202	397652153	-	PFC_07530	-	-	hypothetical protein
+1352275..1352841	-	188	397652154	-	PFC_07535	-	-	hypothetical protein
+1352847..1354313	-	488	397652155	-	PFC_07540	-	-	phosphate transport system substrate-binding protein
+1359581..1360492	-	303	397652156	-	PFC_07545	-	-	hypothetical protein
+1360545..1361153	+	202	397652157	-	PFC_07550	-	-	hypothetical protein
+1361140..1361652	-	170	397652158	-	PFC_07555	-	-	hypothetical protein
+1361649..1362848	-	399	397652159	-	PFC_07560	-	-	hypothetical protein
+1362935..1363780	+	281	397652160	-	PFC_07565	-	-	spermidine synthase
+1363768..1365102	-	444	397652161	-	PFC_07570	-	-	DNA repair protein rad25
+1365214..1365447	+	77	397652162	-	PFC_07575	-	-	hypothetical protein
+1365431..1366456	-	341	397652163	-	PFC_07580	-	-	hypothetical protein
+1366574..1366972	+	132	397652164	-	PFC_07585	-	-	hypothetical protein
+1366969..1367934	+	321	397652165	-	PFC_07590	-	-	translation initiation factor IF-2
+1368245..1369486	+	413	397652166	-	PFC_07595	-	-	aspartate aminotransferase
+1369497..1370495	-	332	397652167	-	PFC_07600	-	-	hypothetical protein
+1370492..1370653	-	53	397652168	-	PFC_07605	-	-	hypothetical protein
+1371027..1372652	+	541	397652169	-	PFC_07610	-	-	perplasmic sugar binding protein
+1372653..1373600	+	315	397652170	-	PFC_07615	-	-	ABC transporter permease
+1373597..1374466	+	289	397652171	-	PFC_07620	-	-	maltose transport system permease
+1374478..1375572	+	364	397652172	-	PFC_07625	-	-	multiple sugar transport protein
+1375656..1376846	+	396	397652173	-	PFC_07630	-	-	proteasome-activating nucleotidase
+1376897..1377481	+	194	397652174	-	PFC_07635	-	-	GTP-binding protein
+1377453..1377920	-	155	397652175	-	PFC_07640	-	-	hypothetical protein
+1377983..1379047	-	354	397652176	-	PFC_07645	-	-	hypothetical protein
+1379097..1380287	+	396	397652177	-	PFC_07650	-	-	DNA primase large subunit
+1380238..1381281	+	347	397652178	-	PFC_07655	-	-	DNA primase small subunit
+1381274..1382119	+	281	397652179	-	PFC_07660	-	-	hypothetical protein
+1382449..1383018	-	189	397652180	-	PFC_07665	-	-	L-fuculose phosphate aldolase
+1383005..1383592	-	195	397652181	-	PFC_07670	-	-	hypothetical protein
+1383625..1384746	-	373	397652182	-	PFC_07675	-	-	hypothetical protein
+1384725..1385852	-	375	397652183	-	PFC_07680	-	-	hypothetical protein
+1386694..1387440	-	248	397652184	-	PFC_07695	-	-	hypothetical protein
+1387572..1388486	-	304	397652185	-	PFC_07700	-	-	hypothetical protein
+1388580..1389017	-	145	397652186	-	PFC_07705	-	-	molybdopterin converting factor subunit 2
+1389072..1390022	+	316	397652187	-	PFC_07710	-	-	hypothetical protein
+1390019..1390792	+	257	397652188	-	PFC_07715	-	-	NAD synthetase
+1390776..1391957	-	393	397652189	-	PFC_07720	-	-	43 kDa subunit bacteriochlorophyll synthase-like protein
+1391954..1392145	-	63	397652190	-	PFC_07725	-	-	hypothetical protein
+1392132..1392830	-	232	397652191	-	PFC_07730	-	-	hypothetical protein
+1392963..1393643	+	226	397652192	-	PFC_07735	-	-	glutaredoxin-like protein
+1393738..1396296	+	852	397652193	-	PFC_07740	-	-	replication factor C small subunit
+1396303..1397742	+	479	397652194	-	PFC_07745	-	-	replication factor C large subunit
+1397743..1398564	-	273	397652195	-	PFC_07750	-	-	hypothetical protein
+1398612..1399535	-	307	397652196	moaA	PFC_07755	-	-	molybdenum cofactor biosynthesis protein A
+1399594..1400595	-	333	397652197	-	PFC_07760	-	-	met-10+ protein
+1400600..1402105	-	501	397652198	-	PFC_07765	-	-	icc related protein
+1402112..1402522	-	136	397652199	-	PFC_07770	-	-	inosine-5'-monophosphate dehydrogenase
+1402578..1403222	+	214	397652200	-	PFC_07775	-	-	hypothetical protein
+1403236..1407294	+	1352	397652201	-	PFC_07780	-	-	DNA helicase
+1407278..1407829	+	183	397652202	-	PFC_07785	-	-	RNA 2'-phosphotransferase
+1407826..1408860	-	344	397652203	-	PFC_07790	-	-	hypothetical protein
+1408853..1409602	-	249	397652204	-	PFC_07795	-	-	anion transport system permease
+1409675..1410694	-	339	397652205	-	PFC_07800	-	-	molybdate ABC transporter periplasmic substrate-binding protein
+1410836..1412128	+	430	397652206	-	PFC_07805	-	-	cyclic 2,3-diphosphoglycerate synthetase
+1412112..1413020	+	302	397652207	-	PFC_07810	-	-	2-phosphoglycerate kinase
+1413003..1413710	-	235	397652208	-	PFC_07815	-	-	biotin--protein ligase
+1413752..1414645	-	297	397652209	-	PFC_07820	-	-	endo-beta-1,3-glucanase
+1414658..1415830	-	390	397652210	-	PFC_07825	-	-	iron-containing alcohol dehydrogenase
+1415841..1416545	-	234	397652211	-	PFC_07830	-	-	alcohol dehydrogenase
+1416721..1417365	+	214	397652212	-	PFC_07835	-	-	beta-glucosidase
+1417586..1418728	+	380	397652213	-	PFC_07840	-	-	hypothetical protein
+1418725..1420437	-	570	397652214	-	PFC_07845	-	-	hypothetical protein
+1420443..1421345	-	300	397652215	-	PFC_07850	-	-	hypothetical protein
+1421523..1422224	+	233	397652216	-	PFC_07855	-	-	transposase
+1422282..1423064	+	260	397652217	-	PFC_07860	-	-	cobalt transport ATP-binding protein
+1423061..1423792	+	243	397652218	-	PFC_07865	-	-	cobalt ABC transporter permease
+1423746..1424378	-	210	397652219	-	PFC_07870	-	-	hypothetical protein
+1424495..1425658	+	387	397652220	-	PFC_07875	-	-	bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein
+1425655..1426128	+	157	397652221	ribH	PFC_07880	-	-	6,7-dimethyl-8-ribityllumazine synthase
+1426118..1427182	+	354	397652222	-	PFC_07885	-	-	riboflavin-specific deaminase
+1427175..1427675	+	166	397652223	-	PFC_07890	-	-	riboflavin synthase subunit alpha
+1427667..1428368	-	233	397652224	-	PFC_07895	-	-	transposase
+1428582..1429790	+	402	397652225	-	PFC_07900	-	-	C/D box methylation guide ribonucleoprotein complex aNOP56 subunit
+1429796..1430479	+	227	397652226	-	PFC_07905	-	-	fibrillarin
+1430514..1431572	+	352	397652227	-	PFC_07910	-	-	dolichol monophosphate mannose synthase
+1431565..1433217	-	550	397652228	-	PFC_07915	-	-	hypothetical protein
+1433289..1433657	+	122	397652229	-	PFC_07920	-	-	carbohydrate binding protein
+1433720..1434055	+	111	397652230	-	PFC_07925	-	-	HTH transcription regulator
+1434541..1437051	+	836	397652231	-	PFC_07940	-	-	ATP dependent RNA helicase
+1437048..1437641	+	197	397652232	-	PFC_07945	-	-	exosome complex RNA-binding protein Csl4
+1437638..1438297	+	219	397652233	-	PFC_07950	-	-	hypothetical protein
+1438257..1438544	+	95	397652234	-	PFC_07955	-	-	DNA-directed RNA polymerase subunit L
+1438545..1439450	+	301	397652235	-	PFC_07960	-	-	cytosine-specific DNA-methyltransferase
+1439434..1440066	-	210	397652236	-	PFC_07965	-	-	succinoglycan biosynthesis regulator
+1440212..1440880	+	222	397652237	-	PFC_07970	-	-	hypothetical protein
+1440880..1441848	+	322	397652238	-	PFC_07975	-	-	hypothetical protein
+1441835..1442869	+	344	397652239	-	PFC_07980	-	-	hypothetical protein
+1442859..1444244	+	461	397652240	-	PFC_07985	-	-	hypothetical protein
+1444368..1446821	+	817	397652241	-	PFC_07990	-	-	phosphoenolpyruvate synthase
+1446886..1447629	+	247	397652242	-	PFC_07995	-	-	metal-dependent hydrolase
+1447626..1449368	+	580	397652243	-	PFC_08000	-	-	oxidative cyclase
+1449391..1449966	+	191	397652244	-	PFC_08005	-	-	type II phosphatidic acid phosphatase
+1449991..1450452	+	153	397652245	-	PFC_08010	-	-	xanthine-guanine phosphoribosyltransferase
+1450495..1451085	+	196	397652246	-	PFC_08015	-	-	glyoxalase II
+1451082..1452776	+	564	397652247	-	PFC_08020	-	-	hypothetical protein
+1453149..1453940	-	263	397652248	-	PFC_08025	-	-	daunorubicin resistance membrane protein
+1453927..1454895	-	322	397652249	-	PFC_08030	-	-	daunorubicin resistance ATP-binding protein
+1455021..1455599	+	192	397652250	-	PFC_08035	-	-	hypothetical protein
+1455734..1456030	-	98	397652251	-	PFC_08040	-	-	permease
+1455985..1456269	-	94	397652252	-	PFC_08045	-	-	permease
+1456315..1456488	-	57	397652253	-	PFC_08050	-	-	hypothetical protein
+1456769..1457671	+	300	397652254	-	PFC_08055	-	-	threonine synthase
+1457674..1458771	+	365	397652255	-	PFC_08060	-	-	hypothetical protein
+1458752..1460185	+	477	397652256	-	PFC_08065	-	-	hypothetical protein
+1460166..1460618	+	150	397652257	-	PFC_08070	-	-	acetyl transferase
+1460905..1461459	+	184	397652258	-	PFC_08075	-	-	2'-5' RNA ligase
+1461664..1463025	+	453	397652259	-	PFC_08080	-	-	tRNA CCA-pyrophosphorylase
+1463006..1463797	-	263	397652260	-	PFC_08085	-	-	hypothetical protein
+1463852..1465192	+	446	397652261	-	PFC_08090	-	-	glycerate kinase
+1466910..1467167	+	85	397652262	-	PFC_08095	-	-	hypothetical protein
+1469435..1470142	+	235	397652263	-	PFC_08100	-	-	hypothetical protein
+1470096..1471505	+	469	397652264	-	PFC_08105	-	-	RNA-binding protein FAU-1
+1471502..1472179	-	225	397652265	radB	PFC_08110	-	-	DNA repair and recombination protein RadB
+1472190..1472822	-	210	397652266	-	PFC_08115	-	-	hypothetical protein
+1472874..1476665	-	1263	397652267	-	PFC_08120	-	-	DNA polymerase II large subunit
+1476665..1478506	-	613	397652268	-	PFC_08125	-	-	DNA polymerase II small subunit
+1478506..1479768	-	420	397652269	cdc6	PFC_08130	-	-	cell division control protein 6
+1480650..1481423	-	257	397652270	-	PFC_08135	-	-	5'-methylthioadenosine phosphorylase
+1481525..1482253	+	242	397652271	-	PFC_08140	-	-	hypothetical protein
+1482268..1482654	+	128	397652272	-	PFC_08145	-	-	hypothetical protein
+1482641..1483405	-	254	397652273	-	PFC_08150	-	-	hypothetical protein
+1483465..1484259	+	264	397652274	-	PFC_08155	-	-	ABC transporter transmembrane component
+1484310..1485299	-	329	397652275	-	PFC_08160	-	-	1-aminocyclopropane-1-carboxylate deaminase
+1485985..1486677	-	230	397652276	-	PFC_08165	-	-	hypothetical protein
+1486667..1487161	-	164	397652277	-	PFC_08170	-	-	hit family protein
+1487264..1488751	-	495	397652278	-	PFC_08175	-	-	hypothetical protein
+1488915..1489907	-	330	397652279	-	PFC_08180	-	-	ABC transporter
+1490289..1491092	+	267	397652280	-	PFC_08185	-	-	ABC transporter ATP-binding protein
+1491089..1491862	+	257	397652281	-	PFC_08190	-	-	hypothetical protein
+1491875..1492975	+	366	397652282	-	PFC_08195	-	-	moeB-like protein
+1492972..1494276	+	434	397652283	-	PFC_08200	-	-	hypothetical protein
+1494288..1495121	+	277	397652284	-	PFC_08205	-	-	hypothetical protein
+1495286..1497055	+	589	397652285	-	PFC_08210	-	-	aminopeptidase
+1497554..1498972	+	472	397652286	-	PFC_08215	-	-	arylsulfatase
+1499030..1500784	+	584	397652287	-	PFC_08220	-	-	aminopeptidase
+1500790..1501017	-	75	397652288	-	PFC_08225	-	-	hypothetical protein
+1501078..1501890	-	270	397652289	-	PFC_08230	-	-	ABC transporter
+1502263..1502856	+	197	397652290	-	PFC_08235	-	-	arylsulfatase
+1503039..1503632	+	197	397652291	-	PFC_08240	-	-	hypothetical protein
+1503804..1504505	+	233	397652292	-	PFC_08245	-	-	transposase
+1504702..1506138	+	478	397652293	-	PFC_08250	-	-	aminopeptidase
+1506534..1506731	+	65	397652294	-	PFC_08255	-	-	hypothetical protein
+1507516..1507992	+	158	397652295	rps15p	PFC_08270	-	-	30S ribosomal protein S15
+1508024..1509457	+	477	397652296	-	PFC_08275	-	-	hypothetical protein
+1509435..1509686	+	83	397652297	-	PFC_08280	-	-	hypothetical protein
+1509686..1510282	+	198	397652298	-	PFC_08285	-	-	30S ribosomal protein S3Ae
+1510279..1510725	-	148	397652299	-	PFC_08290	-	-	AsnC family transcriptional regulator
+1510806..1511081	-	91	397652300	-	PFC_08295	-	-	regulatory protein
+1511059..1511457	-	132	397652301	-	PFC_08300	-	-	transcription regulator ArsR
+1511576..1512334	+	252	397652302	-	PFC_08305	-	-	hypothetical protein
+1512394..1513101	+	235	397652303	-	PFC_08310	-	-	hypothetical protein
+1513092..1513307	+	71	397652304	-	PFC_08315	-	-	hypothetical protein
+1513296..1514606	-	436	397652305	-	PFC_08320	-	-	peptidase
+1514812..1515027	+	71	397652306	-	PFC_08325	-	-	hypothetical protein
+1515024..1516004	-	326	397652307	-	PFC_08330	-	-	l-asparaginase
+1516093..1516782	-	229	397652308	-	PFC_08335	-	-	hypothetical protein
+1516843..1517301	+	152	397652309	-	PFC_08340	-	-	hypothetical protein
+1517338..1518693	-	451	397652310	-	PFC_08345	-	-	glycogen synthase
+1518732..1519607	+	291	397652311	-	PFC_08350	-	-	hypothetical protein
+1519608..1520192	-	194	397652312	-	PFC_08355	-	-	hypothetical protein
+1520248..1520838	+	196	397652313	-	PFC_08360	-	-	hypothetical protein
+1520903..1521454	+	183	397652314	-	PFC_08365	-	-	hypothetical protein
+1521396..1521875	+	159	397652315	-	PFC_08370	-	-	hypothetical protein
+1521872..1522399	-	175	397652316	-	PFC_08375	-	-	cob(I)alamin adenolsyltransferase/cobinamide ATP-dependent adenolsyltransferase
+1522428..1522736	-	102	397652317	-	PFC_08380	-	-	hypothetical protein
+1523160..1523912	-	250	397652318	-	PFC_08385	-	-	hypothetical protein
+1523946..1524932	-	328	397652319	-	PFC_08390	-	-	magnesium and cobalt transporter
+1525757..1526377	+	206	397652320	-	PFC_08395	-	-	hypothetical protein
+1526343..1527335	-	330	397652321	-	PFC_08400	-	-	hypothetical protein
+1527578..1529179	+	533	397652322	-	PFC_08405	-	-	hypothetical protein
+1529191..1529565	-	124	397652323	-	PFC_08410	-	-	iron-sulfur cluster binding protein
+1529555..1529767	-	70	397652324	-	PFC_08415	-	-	ferredoxin-family protein
+1529874..1530080	-	68	397652325	-	PFC_08420	-	-	nitrogenase reductase (c-terminus)
+1530080..1530505	-	141	397652326	-	PFC_08425	-	-	nitrogenase reductase (n-terminus)
+1530596..1530943	-	115	397652327	-	PFC_08430	-	-	polyferredoxin
+1531108..1531647	+	179	397652328	-	PFC_08435	-	-	hypothetical protein
+1531804..1533057	-	417	397652329	-	PFC_08440	-	-	transposase
+1533050..1533679	-	209	397652330	-	PFC_08445	-	-	DNA invertase
+1533731..1534480	+	249	397652331	-	PFC_08450	-	-	hypothetical protein
+1534509..1535075	+	188	397652332	-	PFC_08455	-	-	segregation and condensation protein B
+1535129..1536205	+	358	397652333	-	PFC_08460	-	-	replication factor A
+1536207..1536575	+	122	397652334	-	PFC_08465	-	-	hypothetical protein
+1536572..1537381	+	269	397652335	-	PFC_08470	-	-	hypothetical protein
+1537427..1538077	+	216	397652336	-	PFC_08475	-	-	hypothetical protein
+1538074..1538244	-	56	397652337	-	PFC_08480	-	-	preprotein translocase subunit SecG
+1538375..1540666	-	763	397652338	-	PFC_08485	-	-	Hef nuclease
+1540675..1541439	-	254	397652339	-	PFC_08490	-	-	bifunctional inositol-1 monophosphatase/fructose-1,6-bisphosphatase
+1541442..1542245	-	267	397652340	-	PFC_08495	-	-	hypothetical protein
+1542309..1544507	-	732	397652341	-	PFC_08500	-	-	elongation factor EF-2
+1544600..1544848	-	82	397652342	-	PFC_08505	-	-	KEOPS complex Pcc1-like subunit
+1544811..1545482	-	223	397652343	-	PFC_08510	-	-	ribosomal biogenesis protein
+1545529..1545678	-	49	397652344	rpoP	PFC_08515	-	-	DNA-directed RNA polymerase subunit P
+1545686..1545937	-	83	397652345	rpl37ae	PFC_08520	-	-	50S ribosomal protein L37Ae
+1546000..1546350	-	116	397652346	-	PFC_08525	-	-	hypothetical protein
+1546343..1547584	-	413	397652347	-	PFC_08530	-	-	NADH oxidase
+1547577..1549067	-	496	397652348	-	PFC_08535	-	-	glycerol-3-phosphate dehydrogenase
+1549080..1550552	-	490	397652349	glpK	PFC_08540	-	-	glycerol kinase
+1550597..1551343	-	248	397652350	-	PFC_08545	-	-	glycerophosphoryl diester phosphodiesterase
+1551498..1552826	+	442	397652351	-	PFC_08550	-	-	sucrose transport protein
+1552840..1553706	+	288	397652352	-	PFC_08555	-	-	hypothetical protein
+1553675..1553878	+	67	397652353	-	PFC_08560	-	-	hypothetical protein
+1554035..1555537	-	500	397652354	-	PFC_08565	-	-	glycine dehydrogenase subunit 2
+1555538..1556884	-	448	397652355	-	PFC_08570	-	-	glycine dehydrogenase subunit 1
+1556943..1557650	-	235	397652356	-	PFC_08575	-	-	HAD superfamily hydrolase
+1557678..1558349	-	223	397652357	-	PFC_08580	-	-	hypothetical protein
+1558819..1559289	+	156	397652358	dcd	PFC_08585	-	-	deoxycytidine triphosphate deaminase
+1559269..1559811	-	180	397652359	-	PFC_08590	-	-	hypothetical protein
+1559916..1560239	-	107	397652360	rpl12p	PFC_08595	-	-	50S ribosomal protein L12
+1560286..1561305	-	339	397652361	rplP0	PFC_08600	-	-	acidic ribosomal protein P0
+1561311..1561961	-	216	397652362	rpl1P	PFC_08605	-	-	50S ribosomal protein L1P
+1562040..1562534	-	164	397652363	rpl11p	PFC_08610	-	-	50S ribosomal protein L11
+1562546..1563004	-	152	397652364	nusG	PFC_08615	-	-	transcription antitermination protein NusG
+1563008..1563193	-	61	397652365	secE	PFC_08620	-	-	preprotein translocase subunit SecE
+1563250..1564368	-	372	397652366	-	PFC_08625	-	-	cell division protein FtsZ
+1564437..1564850	-	137	397652367	-	PFC_08630	-	-	hypothetical protein
+1566833..1567372	-	179	397652368	-	PFC_08660	-	-	hypothetical protein
+1567379..1570366	-	995	397652369	-	PFC_08665	-	-	hypothetical protein
+1570499..1571311	-	270	397652370	-	PFC_08670	-	-	hypothetical protein
+1571383..1572081	+	232	397652371	-	PFC_08675	-	-	hypothetical protein
+1572234..1572803	+	189	397652372	-	PFC_08680	-	-	hypothetical protein
+1572796..1573428	+	210	397652373	-	PFC_08685	-	-	hypothetical protein
+1573406..1574236	-	276	397652374	-	PFC_08690	-	-	nicotinate-nucleotide pyrophosphorylase
+1574246..1575157	-	303	397652375	-	PFC_08695	-	-	quinolinate synthetase
+1575202..1576596	-	464	397652376	-	PFC_08700	-	-	L-aspartate oxidase
+1576642..1578060	-	472	397652377	-	PFC_08705	-	-	phosphoenolpyruvate carboxylase
+1578203..1579852	-	549	397652378	-	PFC_08710	-	-	thermosome, single subunit
+1580006..1580728	+	240	397652379	-	PFC_08715	-	-	hypothetical protein
+1580712..1581428	-	238	397652380	-	PFC_08720	-	-	anaerobic ribonucleoside-triphosphate reductase activating protein
+1581438..1583255	-	605	397652381	-	PFC_08725	-	-	anaerobic ribonucleoside triphosphate reductase
+1583475..1584569	-	364	397652382	-	PFC_08730	-	-	multiple sugar-binding transport ATP-binding protein
+1584575..1585408	-	277	397652383	-	PFC_08735	-	-	binding-protein-dependent transport system inner membrane protein
+1585405..1586259	-	284	397652384	-	PFC_08740	-	-	sugar transport membrane protein
+1586298..1587581	-	427	397652385	-	PFC_08745	-	-	hypothetical protein
+1587766..1588770	+	334	397652386	-	PFC_08750	-	-	hypothetical protein
+1588767..1589042	-	91	397652387	ef1B	PFC_08755	-	-	elongation factor 1-beta
+1589043..1589225	-	60	397652388	-	PFC_08760	-	-	Zn-ribbon RNA-binding protein
+1589326..1590159	+	277	397652389	ubiA	PFC_08765	-	-	prenyltransferase UbiA-like protein
+1590163..1590543	+	126	397652390	-	PFC_08770	-	-	hypothetical protein
+1590524..1592392	-	622	397652391	-	PFC_08775	-	-	aldehyde:ferredoxin oxidoreductase
+1592392..1593228	-	278	397652392	-	PFC_08780	-	-	aldose reductase
+1593336..1594571	-	411	397652393	-	PFC_08785	-	-	cofactor-independent phosphoglycerate mutase
+1594620..1595093	-	157	397652394	-	PFC_08790	-	-	hypothetical protein
+1595090..1595950	-	286	397652395	-	PFC_08795	-	-	agmatinase
+1596012..1596857	-	281	397652396	-	PFC_08800	-	-	fructose-bisphosphate aldolase
+1596962..1597171	+	69	397652397	-	PFC_08805	-	-	hypothetical protein
+1597181..1597915	+	244	397652398	-	PFC_08810	-	-	molybdopterin-guanine dinucleotide biosynthesis protein MobB
+1597966..1598505	-	179	397652399	-	PFC_08815	-	-	inosine-5'-monophosphate dehydrogenase
+1598582..1600483	+	633	397652400	-	PFC_08820	-	-	hypothetical protein
+1600624..1601508	+	294	397652401	-	PFC_08825	-	-	asparagine ligase A
+1601554..1602201	+	215	397652402	-	PFC_08830	-	-	xanthine-guanine phosphoribosyltransferase
+1602205..1602483	+	92	397652403	-	PFC_08835	-	-	hypothetical protein
+1602484..1602885	-	133	397652404	-	PFC_08840	-	-	hypothetical protein
+1602878..1603843	-	321	397652405	-	PFC_08845	-	-	hypothetical protein
+1603886..1604320	-	144	397652406	-	PFC_08850	-	-	methylmalony-CoA mutase
+1604440..1605036	+	198	397652407	-	PFC_08855	-	-	hypothetical protein
+1606910..1608376	+	488	397652408	-	PFC_08870	-	-	hypothetical protein
+1608378..1609901	+	507	397652409	-	PFC_08875	-	-	dihydropteroate synthase
+1609936..1610130	+	64	397652410	-	PFC_08880	-	-	hypothetical protein
+1610120..1610620	+	166	397652411	-	PFC_08885	-	-	hypothetical protein
+1611149..1613086	+	645	397652412	-	PFC_08890	-	-	neopullulanase (alpha-amylase II)
+1613185..1614489	+	434	397652413	-	PFC_08895	-	-	malE-like sugar binding protein
+1614528..1615424	+	298	397652414	-	PFC_08900	-	-	malf-like sugar transport inner membrane protein
+1615421..1616668	+	415	397652415	-	PFC_08905	-	-	malg-like sugar transport inner membrane protein
+1616679..1620746	+	1355	397652416	-	PFC_08910	-	-	pullulanase
+1620786..1621898	+	370	397652417	-	PFC_08915	-	-	sugar transport ATP-hydrolyzing
+1621895..1622704	-	269	397652418	-	PFC_08920	-	-	hypothetical protein
+1622720..1623463	-	247	397652419	-	PFC_08925	-	-	hypothetical protein
+1623646..1624065	-	139	397652420	-	PFC_08930	-	-	S-adenosylmethionine decarboxylase
+1624398..1625090	+	230	397652421	-	PFC_08935	-	-	hypothetical protein
+1625137..1625913	-	258	397652422	-	PFC_08940	-	-	ATP-binding protein phnp
+1625974..1626594	+	206	397652423	-	PFC_08945	-	-	hypothetical protein
+1626734..1627783	+	349	397652424	radA	PFC_08950	-	-	DNA repair and recombination protein RadA
+1627780..1627893	-	37	397652425	-	PFC_08955	-	-	hypothetical protein
+1627877..1628953	-	358	397652426	-	PFC_08960	-	-	hypothetical protein
+1628950..1630035	-	361	397652427	-	PFC_08965	-	-	d-aminopeptidase
+1630091..1630867	-	258	397652428	-	PFC_08970	-	-	hypothetical protein
+1630872..1631636	+	254	397652429	pcm	PFC_08975	-	-	protein-L-isoaspartate O-methyltransferase
+1631633..1632247	+	204	397652430	-	PFC_08980	-	-	phosphoserine phosphatase
+1632285..1632971	+	228	397652431	-	PFC_08985	-	-	triosephosphate isomerase
+1632975..1633982	-	335	397652432	-	PFC_08990	-	-	dehydrogenase
+1633989..1635119	-	376	397652433	-	PFC_08995	-	-	hypothetical protein
+1635274..1636320	-	348	397652434	-	PFC_09000	-	-	dehydrogenase
+1636428..1637585	+	385	397652435	-	PFC_09005	-	-	hypothetical protein
+1637573..1638760	-	395	397652436	-	PFC_09010	-	-	hypothetical protein
+1638799..1639422	-	207	397652437	-	PFC_09015	-	-	ribonuclease P protein component 3
+1639419..1639886	-	155	397652438	-	PFC_09020	-	-	hypothetical protein
+1639930..1641207	-	425	397652439	-	PFC_09025	-	-	2-methylthioadenine synthetase
+1641347..1642216	+	289	397652440	-	PFC_09030	-	-	ferredoxin-NADP(+) reductase subunit alpha
+1642217..1643647	+	476	397652441	-	PFC_09035	-	-	oxidoreductase
+1643723..1643926	+	67	397652442	-	PFC_09040	-	-	ferredoxin
+1644005..1644856	-	283	397652443	-	PFC_09045	-	-	hypothetical protein
+1644868..1645392	-	174	397652444	-	PFC_09050	-	-	hypothetical protein
+1645572..1646951	-	459	397652445	-	PFC_09055	-	-	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+1646963..1648276	-	437	397652446	-	PFC_09060	-	-	protease
+1648449..1649618	-	389	397652447	-	PFC_09065	-	-	nicotinate phosphoribosyltransferase
+1649716..1650843	-	375	397652448	-	PFC_09070	-	-	translation initiation factor IF-2
+1650894..1652237	+	447	397652449	-	PFC_09075	-	-	DNA repair helicase
+1652226..1654013	-	595	397652450	-	PFC_09080	-	-	histone acetyltransferase
+1654084..1654683	+	199	397652451	-	PFC_09085	-	-	hypothetical protein
+1654675..1655466	-	263	397652452	-	PFC_09090	-	-	2-deoxy-D-gluconate 3-dehydrogenase
+1655717..1656025	+	102	397652453	-	PFC_09095	-	-	hypothetical protein
+1655984..1656163	-	59	397652454	-	PFC_09100	-	-	hypothetical protein
+1656571..1657332	-	253	397652455	-	PFC_09105	-	-	l-isoaspartyl protein carboxyl methyltransferase
+1657329..1657943	-	204	397652456	-	PFC_09110	-	-	biotin synthetase
+1658001..1658303	+	100	397652457	-	PFC_09115	-	-	signal recognition particle protein Srp19
+1658304..1658549	-	81	397652458	-	PFC_09120	-	-	AsnC family transcriptional regulator
+1658721..1659869	+	382	397652459	-	PFC_09125	-	-	hypothetical protein
+1659869..1660393	+	174	397652460	-	PFC_09130	-	-	hypothetical protein
+1660545..1661327	+	260	397652461	-	PFC_09135	-	-	hypothetical protein
+1661393..1662349	+	318	397652462	-	PFC_09140	-	-	daunorubicin resistance ATP-binding protein drrA
+1662346..1663149	+	267	397652463	-	PFC_09145	-	-	hypothetical protein
+1663136..1663957	+	273	397652464	-	PFC_09150	-	-	hypothetical protein
+1663951..1664835	-	294	397652465	-	PFC_09155	-	-	sugar kinase
+1664862..1665998	-	378	397652466	-	PFC_09160	-	-	glycosyl transferase family protein
+1665979..1666893	-	304	397652467	-	PFC_09165	-	-	ABC transporter
+1667202..1667705	+	167	397652468	-	PFC_09170	-	-	small heat shock protein
+1667877..1670267	+	796	397652469	-	PFC_09175	-	-	cell division protein CDC48
+1670370..1670651	+	93	397652470	-	PFC_09180	-	-	DNA/RNA-binding protein albA
+1670654..1671253	-	199	397652471	-	PFC_09185	-	-	hypothetical protein
+1671541..1672557	-	338	397652472	-	PFC_09190	-	-	o-linked GlcNAc transferase
+1672545..1673069	-	174	397652473	-	PFC_09195	-	-	methylated-DNA--protein-cysteine methyltransferase
+1673053..1673967	-	304	397652474	-	PFC_09200	-	-	thiamine monophosphate kinase
+1674034..1674627	+	197	397652475	-	PFC_09205	-	-	hypothetical protein
+1674614..1674913	-	99	397652476	-	PFC_09210	-	-	hypothetical protein
+1674970..1675974	-	334	397652477	-	PFC_09215	-	-	glyceraldehyde-3-phosphate dehydrogenase
+1676023..1676571	-	182	397652478	-	PFC_09220	-	-	hypothetical protein
+1676783..1677046	+	87	397652479	-	PFC_09225	-	-	50S ribosomal protein L35
+1677057..1678196	+	379	397652480	-	PFC_09230	-	-	N(2),N(2)-dimethylguanosine tRNA methyltransferase
+1678193..1678408	-	71	397652481	-	PFC_09235	-	-	hypothetical protein
+1678401..1679306	-	301	397652482	-	PFC_09240	-	-	hypothetical protein
+1679307..1680167	-	286	397652483	-	PFC_09245	-	-	integrase-recombinase protein
+1680142..1681011	-	289	397652484	-	PFC_09250	-	-	hypothetical protein
+1681167..1682372	+	401	397652485	-	PFC_09255	-	-	S-adenosylmethionine synthetase
+1682369..1683121	-	250	397652486	-	PFC_09260	-	-	regulatory protein
+1683227..1683928	+	233	397652487	-	PFC_09265	-	-	transposase
+1683969..1684790	-	273	397652488	ksgA	PFC_09270	-	-	KsgA/Dim1 family 16S ribosomal RNA methyltransferase
+1684793..1685410	-	205	397652489	-	PFC_09275	-	-	DNA-binding protein
+1685692..1686732	+	346	397652490	-	PFC_09280	-	-	endo-1,4-beta-glucanase-like protein
+1686738..1687307	+	189	397652491	-	PFC_09285	-	-	archaemetzincin-like protein
+1687288..1687839	+	183	397652492	-	PFC_09290	-	-	hypothetical protein
+1687754..1688608	-	284	397652493	-	PFC_09295	-	-	cysteine synthase
+1688589..1688687	-	32	397652494	-	PFC_09300	-	-	hypothetical protein
+1688731..1689591	-	286	397652495	-	PFC_09305	-	-	cobalt transport ATP-binding protein
+1689588..1691069	-	493	397652496	-	PFC_09310	-	-	trk system potassium uptake protein
+1691112..1692386	-	424	397652497	-	PFC_09315	-	-	transcription-associated protein TFIIS
+1692438..1692908	+	156	397652498	-	PFC_09320	-	-	molybdenum cofactor biosynthesis protein MoaC
+1692889..1693668	-	259	397652499	-	PFC_09325	-	-	glucose-1-dehydrogenase
+1693889..1694941	+	350	397652500	-	PFC_09330	-	-	glutamate synthase subunit beta
+1695015..1695926	+	303	397652501	-	PFC_09335	-	-	hypothetical protein
+1695923..1697290	-	455	397652502	-	PFC_09340	-	-	damage-inducible protein DinF
+1697455..1698216	+	253	397652503	-	PFC_09345	-	-	cell division inhibitor minD
+1698232..1699458	+	408	397652504	-	PFC_09350	-	-	3-hydroxy-3-methylglutaryl-CoA reductase
+1699534..1700859	+	441	397652505	-	PFC_09355	-	-	tbp-interacting protein tip49
+1700852..1701433	-	193	397652506	-	PFC_09360	-	-	hypothetical protein
+1701443..1702117	-	224	397652507	-	PFC_09365	-	-	murein hydrolase
+1702114..1702443	-	109	397652508	-	PFC_09370	-	-	hypothetical protein
+1702517..1706050	+	1177	397652509	-	PFC_09375	-	-	chromosome segregation ATPase
+1706040..1706678	+	212	397652510	-	PFC_09380	-	-	hypothetical protein
+1707048..1707419	+	123	397652511	-	PFC_09385	-	-	hypothetical protein
+1707402..1707836	-	144	397652512	-	PFC_09390	-	-	hypothetical protein
+1707823..1709436	-	537	397652513	pyrG	PFC_09395	-	-	CTP synthetase
+1709527..1710987	+	486	397652514	-	PFC_09400	-	-	hypothetical protein
+1710991..1711701	+	236	397652515	-	PFC_09405	-	-	hypothetical protein
+1711710..1711997	-	95	397652516	-	PFC_09410	-	-	hypothetical protein
+1711994..1712599	-	201	397652517	-	PFC_09415	-	-	hypothetical protein
+1712596..1713093	-	165	397652518	-	PFC_09420	-	-	hypothetical protein
+1713153..1713767	+	204	397652519	-	PFC_09425	-	-	hypothetical protein
+1713745..1714548	-	267	397652520	-	PFC_09430	-	-	GTP cyclohydrolase
+1714635..1714838	-	67	397652521	-	PFC_09435	-	-	histone a1
+1715052..1715498	-	148	397652522	-	PFC_09440	-	-	regulatory protein
+1715582..1716820	+	412	397652523	-	PFC_09445	-	-	nucleotidyltransferase
+1716905..1717300	+	131	397652524	-	PFC_09450	-	-	hypothetical protein
+1717405..1718244	+	279	397652525	-	PFC_09455	-	-	hypothetical protein
+1718393..1719175	+	260	397652526	-	PFC_09460	-	-	hypothetical protein
+1719178..1720275	+	365	397652527	rpl3p	PFC_09465	-	-	50S ribosomal protein L3P
+1720291..1721058	+	255	397652528	rpl4lp	PFC_09470	-	-	50S ribosomal protein L4P
+1721064..1721324	+	86	397652529	-	PFC_09475	-	-	50S ribosomal protein L23
+1721336..1722055	+	239	397652530	rpl2p	PFC_09480	-	-	50S ribosomal protein L2
+1722066..1722464	+	132	397652531	rps19p	PFC_09485	-	-	30S ribosomal protein S19
+1722475..1722942	+	155	397652532	rpl22p	PFC_09490	-	-	50S ribosomal protein L22
+1722947..1723579	+	210	397652533	rps3p	PFC_09495	-	-	30S ribosomal protein S3
+1723566..1723784	+	72	397652534	-	PFC_09500	-	-	50S ribosomal protein L29
+1723797..1724093	+	98	397652535	-	PFC_09505	-	-	translation initiation factor Sui1
+1724207..1724362	+	51	397652536	-	PFC_09510	-	-	ribonuclease P protein component 1
+1724362..1724700	+	112	397652537	rps17p	PFC_09515	-	-	30S ribosomal protein S17
+1724706..1725131	+	141	397652538	rpl14p	PFC_09520	-	-	50S ribosomal protein L14
+1725142..1725507	+	121	397652539	rpl24p	PFC_09525	-	-	50S ribosomal protein L24
+1725507..1726238	+	243	397652540	-	PFC_09530	-	-	30S ribosomal protein S4e
+1726249..1726809	+	186	397652541	rpl5p	PFC_09535	-	-	50S ribosomal protein L5
+1726814..1726984	+	56	397652542	rps14P	PFC_09540	-	-	30S ribosomal protein S14
+1727000..1727392	+	130	397652543	rps8p	PFC_09545	-	-	30S ribosomal protein S8
+1727412..1727966	+	184	397652544	rpl6p	PFC_09550	-	-	50S ribosomal protein L6
+1727977..1728369	+	130	397652545	rpl32e	PFC_09555	-	-	50S ribosomal protein L32e
+1728381..1728833	+	150	397652546	rpl19e	PFC_09560	-	-	50S ribosomal protein L19e
+1728845..1729456	+	203	397652547	rpl18p	PFC_09565	-	-	50S ribosomal protein L18
+1729453..1730163	+	236	397652548	rps5p	PFC_09570	-	-	30S ribosomal protein S5
+1730175..1730642	+	155	397652549	rpl30p	PFC_09575	-	-	50S ribosomal protein L30
+1730653..1731096	+	147	397652550	rpl15p	PFC_09580	-	-	50S ribosomal protein L15
+1731148..1732554	+	468	397652551	-	PFC_09585	-	-	preprotein translocase subunit SecY
+1732629..1733219	+	196	397652552	-	PFC_09590	-	-	adenylate kinase
+1733212..1733739	+	175	397652553	-	PFC_09595	-	-	hypothetical protein
+1733736..1734872	-	378	397652554	-	PFC_09600	-	-	sarcosine oxidase subunit beta
+1734869..1735129	-	86	397652555	-	PFC_09605	-	-	d-nopaline dehydrogenase
+1735126..1735629	-	167	397652556	-	PFC_09610	-	-	polyferredoxin
+1735629..1737053	-	474	397652557	-	PFC_09615	-	-	sarcosine oxidase subunit alpha
+1737120..1737683	-	187	397652558	-	PFC_09620	-	-	inosine-5'-monophosphate dehydrogenase
+1738014..1738643	+	209	397652559	-	PFC_09625	-	-	hypothetical protein
+1738622..1739116	-	164	397652560	-	PFC_09630	-	-	5'-cyclic-nucleotide phosphodiesterase
+1739135..1739428	-	97	397652561	-	PFC_09635	-	-	H/ACA RNA-protein complex component Gar1
+1739463..1740071	-	202	397652562	-	PFC_09640	-	-	ArsR family transcriptional regulator
+1740155..1740811	-	218	397652563	-	PFC_09645	-	-	hydrolase related to 2-haloalkanoic acid dehalogenase
+1740868..1741791	+	307	397652564	-	PFC_09650	-	-	NDP-sugar dehydratase or epimerase
+1741838..1742536	+	232	397652565	-	PFC_09655	-	-	acetyl-CoA synthetase I subunit beta
+1742641..1742973	+	110	397652566	-	PFC_09660	-	-	hypothetical protein
+1742976..1743998	-	340	397652567	-	PFC_09665	-	-	H/ACA RNA-protein complex component Cbf5p
+1744111..1745475	+	454	397652568	-	PFC_09670	-	-	ADP-specific phosphofructokinase
+1745516..1746703	+	395	397652569	-	PFC_09675	-	-	molybdenum cofactor biosynthesis protein MoeA
+1746772..1748226	+	484	397652570	-	PFC_09680	-	-	hypothetical protein
+1748194..1748868	-	224	397652571	rnhB	PFC_09685	-	-	ribonuclease HII
+1748868..1749695	-	275	397652572	-	PFC_09690	-	-	ABC transporter
+1749692..1750480	-	262	397652573	-	PFC_09695	-	-	ABC transporter
+1750652..1751935	+	427	397652574	glyA	PFC_09700	-	-	serine hydroxymethyltransferase
+1751978..1752700	+	240	397652575	-	PFC_09705	-	-	hydrolase related to 2-haloalkanoic acid dehalogenase
+1752660..1753235	+	191	397652576	-	PFC_09710	-	-	hypothetical protein
+1753250..1753705	+	151	397652577	-	PFC_09715	-	-	small multidrug export protein
+1753721..1754761	-	346	397652578	-	PFC_09720	-	-	iron ABC transporter ATP-binding protein
+1754841..1755383	-	180	397652579	-	PFC_09725	-	-	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+1755380..1756225	-	281	397652580	-	PFC_09730	-	-	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+1756222..1757385	-	387	397652581	-	PFC_09735	-	-	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+1757378..1757893	-	171	397652582	-	PFC_09740	-	-	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+1757897..1758745	-	282	397652583	-	PFC_09745	-	-	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+1758745..1759935	-	396	397652584	-	PFC_09750	-	-	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+1759938..1760198	-	86	397652585	-	PFC_09755	-	-	2-keto acid:ferredoxin oxidoreductase subunit delta
+1760367..1761335	+	322	397652586	-	PFC_09760	-	-	cell division protein FtsY
+1761328..1761606	+	92	397652587	-	PFC_09765	-	-	hypothetical protein
+1761595..1762272	-	225	397652588	-	PFC_09770	-	-	metal-dependent hydrolase
+1762381..1763544	+	387	397652589	-	PFC_09775	-	-	gtp1/obg family GTP-binding protein
+1763545..1764618	-	357	397652590	-	PFC_09780	-	-	hypothetical protein
+1765880..1767007	-	375	397652591	-	PFC_09795	-	-	hypothetical protein
+1767013..1768458	-	481	397652592	-	PFC_09800	-	-	hypothetical protein
+1768642..1769601	+	319	397652593	-	PFC_09805	-	-	n-type ATP pyrophosphatase superfamily protein
+1769591..1770301	-	236	397652594	-	PFC_09810	-	-	hypothetical protein
+1770301..1770633	-	110	397652595	-	PFC_09815	-	-	hypothetical protein
+1770694..1770879	+	61	397652596	-	PFC_09820	-	-	hypothetical protein
+1770884..1771711	+	275	397652597	-	PFC_09825	-	-	fumarate hydratase
+1771702..1772202	+	166	397652598	-	PFC_09830	-	-	fumarate hydratase
+1772214..1773932	-	572	397652599	gltX	PFC_09835	-	-	glutamyl-tRNA ligase
+1773998..1774699	-	233	397652600	-	PFC_09840	-	-	transposase
+1774841..1775914	+	357	397652601	-	PFC_09845	-	-	solute binding lipoprotein
+1775903..1776916	-	337	397652602	-	PFC_09850	-	-	sugar-binding transport ATP-binding protein
+1776910..1778535	-	541	397652603	-	PFC_09855	-	-	iron(III) ABC transporter permease
+1778565..1779524	-	319	397652604	-	PFC_09860	-	-	hypothetical protein
+1779505..1781418	-	637	397652605	-	PFC_09865	-	-	hypothetical protein
+1781443..1782927	-	494	397652606	-	PFC_09870	-	-	hypothetical protein
+1782992..1784110	-	372	397652607	-	PFC_09875	-	-	trehalose/maltose transport ATP-hydrolyzing
+1784116..1785132	-	338	397652608	-	PFC_09880	-	-	hypothetical protein
+1785165..1786403	-	412	397652609	-	PFC_09885	-	-	group 1 glycosyl transferase
+1786408..1787244	-	278	397652610	-	PFC_09890	-	-	trehalose/maltose transport inner membrane protein
+1787241..1788134	-	297	397652611	-	PFC_09895	-	-	trehalose/maltose transport inner membrane protein
+1788176..1789528	-	450	397652612	-	PFC_09900	-	-	trehalose/maltose binding protein
+1789598..1790299	-	233	397652613	-	PFC_09905	-	-	transposase
+1790551..1791489	+	312	397652614	-	PFC_09910	-	-	sugar kinase
+1791473..1791790	-	105	397652615	-	PFC_09915	-	-	hypothetical protein
+1791860..1792561	-	233	397652616	-	PFC_09920	-	-	transposase
+1792748..1793152	+	134	397652617	-	PFC_09925	-	-	hypothetical protein
+1793419..1794132	+	237	397652618	-	PFC_09930	-	-	adenine phosphoribosyltransferase
+1794129..1794575	-	148	397652619	-	PFC_09935	-	-	transcriptional regulator
+1794508..1795059	-	183	397652620	-	PFC_09940	-	-	hypothetical protein
+1795069..1795302	-	77	397652621	-	PFC_09945	-	-	AsnC family transcriptional regulator
+1795302..1796633	-	443	397652622	-	PFC_09950	-	-	signal recognition particle protein Srp54
+1796620..1797252	-	210	397652623	tmk	PFC_09955	-	-	thymidylate kinase
+1797268..1797972	-	234	397652624	-	PFC_09960	-	-	phospho-sugar mutase
+1797983..1799068	-	361	397652625	-	PFC_09965	-	-	NDP-sugar synthase
+1800499..1801857	-	452	397652626	-	PFC_09980	-	-	DNA primase
+1801857..1802252	-	131	397652627	-	PFC_09985	-	-	hypothetical protein
+1802318..1803595	-	425	397652628	-	PFC_09990	-	-	hypothetical protein
+1803675..1803878	-	67	397652629	-	PFC_09995	-	-	histone a2
+1804112..1805023	-	303	397652630	-	PFC_10000	-	-	hypothetical protein
+1805007..1805735	-	242	397652631	-	PFC_10005	-	-	hypothetical protein
+1805805..1806305	-	166	397652632	-	PFC_10010	-	-	intracellular protease
+1806478..1807494	+	338	397652633	-	PFC_10015	-	-	tRNA-modifying protein
+1807553..1808788	+	411	397652634	-	PFC_10020	-	-	translation initiation factor IF-2
+1808794..1809210	+	138	397652635	-	PFC_10025	-	-	hypothetical protein
+1809277..1810062	+	261	397652636	-	PFC_10030	-	-	pyrroline-5-carboxylate reductase
+1810051..1813221	-	1056	397652637	carB	PFC_10035	-	-	carbamoyl phosphate synthase large subunit
+1813218..1814333	-	371	397652638	-	PFC_10040	-	-	carbamoyl phosphate synthase small subunit
+1814428..1815108	-	226	397652639	-	PFC_10045	-	-	hypothetical protein
+1815265..1815951	+	228	397652640	trpC	PFC_10050	-	-	Indole-3-glycerol phosphate synthase
+1815951..1816925	+	324	397652641	trpD	PFC_10055	-	-	anthranilate phosphoribosyltransferase
+1816907..1818205	+	432	397652642	-	PFC_10060	-	-	anthranilate synthase component I
+1818207..1818773	+	188	397652643	-	PFC_10065	-	-	anthranilate synthase component II
+1818773..1819399	+	208	397652644	-	PFC_10070	-	-	N-(5'-phosphoribosyl)anthranilate isomerase
+1819386..1820552	+	388	397652645	-	PFC_10075	-	-	tryptophan synthase subunit beta
+1820545..1821291	+	248	397652646	trpA	PFC_10080	-	-	tryptophan synthase subunit alpha
+1821280..1821603	-	107	397652647	-	PFC_10085	-	-	hypothetical protein
+1821608..1822054	-	148	397652648	-	PFC_10090	-	-	prephenate dehydrogenase
+1822039..1823076	-	345	397652649	-	PFC_10095	-	-	aspartate aminotransferase
+1823060..1823290	-	76	397652650	-	PFC_10100	-	-	chorismate mutase
+1823357..1824442	-	361	397652651	-	PFC_10105	-	-	chorismate synthase
+1824439..1825761	-	440	397652652	-	PFC_10110	-	-	3-phosphoshikimate 1-carboxyvinyltransferase
+1825736..1826644	-	302	397652653	-	PFC_10115	-	-	ribose ABC transporter
+1826637..1827626	-	329	397652654	-	PFC_10120	-	-	ribose/galactose ABC transporter
+1827610..1829115	-	501	397652655	-	PFC_10125	-	-	ABC sugar transporter
+1829160..1830356	-	398	397652656	-	PFC_10130	-	-	lipoprotein
+1830406..1831227	-	273	397652657	-	PFC_10135	-	-	shikimate kinase
+1831202..1832017	-	271	397652658	aroE	PFC_10140	-	-	shikimate 5-dehydrogenase
+1832014..1832667	-	217	397652659	aroD	PFC_10145	-	-	3-dehydroquinate dehydratase
+1832660..1833667	-	335	397652660	aroB	PFC_10150	-	-	3-dehydroquinate synthase
+1833655..1834443	-	262	397652661	-	PFC_10155	-	-	3-deoxy-7-phosphoheptulonate synthase
+1834454..1835377	-	307	397652662	-	PFC_10160	-	-	transketolase
+1835374..1836027	-	217	397652663	-	PFC_10165	-	-	transketolase
+1836020..1836334	-	104	397652664	-	PFC_10170	-	-	hypothetical protein
+1836488..1837468	-	326	397652665	-	PFC_10175	-	-	acetyl-lysine deacetylase
+1837443..1838552	-	369	397652666	argD	PFC_10180	-	-	acetylornithine/acetyl-lysine aminotransferase
+1838549..1839298	-	249	397652667	-	PFC_10185	-	-	acetylglutamate/acetylaminoadipate kinase
+1839309..1840301	-	330	397652668	argC	PFC_10190	-	-	N-acetyl-gamma-glutamyl-phosphate reductase
+1840298..1841119	-	273	397652669	-	PFC_10195	-	-	ribosomal protein s6 modification protein
+1841157..1841324	-	55	397652670	-	PFC_10200	-	-	lysine biosynthesis protein
+1841518..1842012	-	164	397652671	leuD	PFC_10205	-	-	3-isopropylmalate dehydratase small subunit
+1842009..1843151	-	380	397652672	-	PFC_10210	-	-	3-isopropylmalate dehydratase large subunit
+1843148..1844146	-	332	397652673	-	PFC_10215	-	-	2-isopropylmalate synthase
+1844452..1844967	-	171	397652674	-	PFC_10220	-	-	Biotin biosynthesis protein BioY
+1845063..1845800	+	245	397652675	-	PFC_10225	-	-	biotin operon repressor/biotin--[acetyl CoA carboxylase] ligase
+1845771..1846457	-	228	397652676	-	PFC_10230	-	-	aspartate racemase
+1846486..1846974	+	162	397652677	-	PFC_10235	-	-	hypothetical protein
+1847272..1847862	+	196	397652678	-	PFC_10240	-	-	methyltransferase
+1847989..1848648	-	219	397652679	-	PFC_10245	-	-	hypothetical protein
+1848716..1849573	+	285	397652680	-	PFC_10250	-	-	hypothetical protein
+1849851..1851815	+	654	397652681	-	PFC_10255	-	-	alkaline serine protease
+1851863..1853593	+	576	397652682	-	PFC_10260	-	-	hypothetical protein
+1853594..1853953	-	119	397652683	-	PFC_10265	-	-	hypothetical protein
+1854071..1854400	-	109	397652684	-	PFC_10270	-	-	hypothetical protein
+1854405..1855121	-	238	397652685	-	PFC_10275	-	-	hypothetical protein
+1855112..1856128	-	338	397652686	-	PFC_10280	-	-	histidinol-phosphate aminotransferase
+1856125..1856754	-	209	397652687	-	PFC_10285	-	-	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase
+1856765..1857520	-	251	397652688	-	PFC_10290	-	-	imidazole glycerol phosphate synthase subunit HisF
+1857489..1858211	-	240	397652689	-	PFC_10295	-	-	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+1858213..1858797	-	194	397652690	hisH	PFC_10300	-	-	imidazole glycerol phosphate synthase subunit HisH
+1858797..1859327	-	176	397652691	hisB	PFC_10305	-	-	imidazoleglycerol-phosphate dehydratase
+1859394..1860521	-	375	397652692	hisD	PFC_10310	-	-	bifunctional histidinal dehydrogenase/ histidinol dehydrogenase
+1860511..1861125	-	204	397652693	hisG	PFC_10315	-	-	ATP phosphoribosyltransferase catalytic subunit
+1861122..1862003	-	293	397652694	-	PFC_10320	-	-	histidyl-tRNA synthetase
+1862205..1862768	+	187	397652695	-	PFC_10325	-	-	NADH oxidase
+1862765..1864501	-	578	397652696	-	PFC_10330	-	-	ABC transporter
+1864491..1866143	-	550	397652697	-	PFC_10335	-	-	ABC transporter
+1866338..1866691	+	117	397652698	-	PFC_10340	-	-	hypothetical protein
+1866688..1867188	-	166	397652699	-	PFC_10345	-	-	hypothetical protein
+1867283..1867870	+	195	397652700	-	PFC_10350	-	-	hypothetical protein
+1867980..1868426	+	148	397652701	rps13p	PFC_10355	-	-	30S ribosomal protein S13
+1868445..1868987	+	180	397652702	rps4p	PFC_10360	-	-	30S ribosomal protein S4
+1868984..1869397	+	137	397652703	rps11p	PFC_10365	-	-	30S ribosomal protein S11
+1869431..1870216	+	261	397652704	-	PFC_10370	-	-	DNA-directed RNA polymerase subunit D
+1870378..1870740	+	120	397652705	-	PFC_10375	-	-	50S ribosomal protein L18e
+1870747..1871175	+	142	397652706	rpl13p	PFC_10380	-	-	50S ribosomal protein L13
+1871187..1871594	+	135	397652707	rps9p	PFC_10385	-	-	30S ribosomal protein S9
+1871654..1871851	+	65	397652708	-	PFC_10390	-	-	DNA-directed RNA polymerase subunit N
+1871979..1872152	+	57	397652709	rpoK	PFC_10395	-	-	DNA-directed RNA polymerase subunit K
+1872159..1873178	+	339	397652710	-	PFC_10400	-	-	hypothetical protein
+1873192..1873800	+	202	397652711	rps2P	PFC_10405	-	-	30S ribosomal protein S2
+1873842..1874879	+	345	397652712	-	PFC_10410	-	-	threonine synthase
+1874927..1875805	+	292	397652713	-	PFC_10415	-	-	hypothetical protein
+1875816..1876820	+	334	397652714	-	PFC_10420	-	-	mevalonate kinase
+1876817..1877587	+	256	397652715	-	PFC_10425	-	-	acetylglutamate kinase
+1877584..1879269	-	561	397652716	-	PFC_10430	-	-	ATP-dependent DNA ligase
+1879425..1879706	+	93	397652717	-	PFC_10435	-	-	hypothetical protein
+1879703..1880260	+	185	397652718	-	PFC_10440	-	-	hypothetical protein
+1880192..1881286	-	364	397652719	-	PFC_10445	-	-	hypothetical protein
+1881531..1882787	+	418	397652720	-	PFC_10450	-	-	UDP-N-acetyl-D-mannosaminuronate dehydrogenase
+1882784..1883926	+	380	397652721	-	PFC_10455	-	-	UDP-N-acetylglucosamine 2-epimerase
+1883909..1884601	-	230	397652722	-	PFC_10460	-	-	hypothetical protein
+1884714..1885973	-	419	397652723	-	PFC_10465	-	-	molybdenum cofactor biosynthesis protein A
+1886037..1887743	+	568	397652724	-	PFC_10470	-	-	glycyl-tRNA ligase
+1887767..1888264	+	165	397652725	-	PFC_10475	-	-	hypothetical protein
+1888256..1888654	-	132	397652726	-	PFC_10480	-	-	hypothetical protein
+1888930..1889457	-	175	397652727	-	PFC_10485	-	-	hypothetical protein
+1889597..1890073	+	158	397652728	-	PFC_10490	-	-	pyruvoyl-dependent arginine decarboxylase
+1890057..1890818	-	253	397652729	-	PFC_10495	-	-	n-type ATP pyrophosphatase superfamily protein
+1891099..1891638	+	179	397652730	-	PFC_10500	-	-	hypothetical protein
+1892165..1892416	+	83	397652731	-	PFC_10505	-	-	hypothetical protein
+1892434..1893096	+	220	397652732	-	PFC_10510	-	-	hypothetical protein
+1893212..1893961	-	249	397652733	-	PFC_10515	-	-	ATP-binding protein phnp
+1893987..1895327	-	446	397652734	-	PFC_10520	-	-	hypothetical protein
+1895371..1896522	-	383	397652735	-	PFC_10525	-	-	myo-inositol-1-phosphate synthase
+1896790..1899678	+	962	397652736	-	PFC_10530	-	-	hypothetical protein
+1899685..1901148	+	487	397652737	-	PFC_10535	-	-	hypothetical protein
+1901141..1901494	+	117	397652738	-	PFC_10540	-	-	ribonuclease P protein component 4
+1901549..1901794	+	81	397652739	-	PFC_10545	-	-	hypothetical protein
+1901788..1902036	-	82	397652740	-	PFC_10550	-	-	hypothetical protein
+1902033..1902812	-	259	397652741	-	PFC_10555	-	-	cell division inhibitor minD
+1903039..1903260	+	73	397652742	-	PFC_10560	-	-	hypothetical protein
+1903540..1904499	-	319	397652743	-	PFC_10565	-	-	hypothetical protein
+1904839..1905030	+	63	397652744	-	PFC_10570	-	-	transposase b - like protein
+1905167..1905565	+	132	397652745	-	PFC_10575	-	-	hypothetical protein
+1905568..1907079	-	503	397652746	-	PFC_10580	-	-	thymidine phosphorylase
+1907097..1907744	-	215	397652747	-	PFC_10585	-	-	dolichol-phosphate mannose synthase
+1907793..1908032	+	79	397652748	-	PFC_10590	-	-	hypothetical protein
+1908023..1908502	+	159	397652749	-	PFC_10595	-	-	hypothetical protein
+1908502..1909062	+	186	397652750	-	PFC_10600	-	-	Na antiporter
+1909054..1909755	-	233	397652751	-	PFC_10605	-	-	transposase

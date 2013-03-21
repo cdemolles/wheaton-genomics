@@ -1,0 +1,286 @@
+Enterococcus faecium DO plasmid 3, complete sequence - 1..251926
+283 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+11..1471	-	486	389869888	-	HMPREF0351_12832	-	-	hypothetical protein
+1532..3943	-	803	389869889	-	HMPREF0351_12833	-	-	hypothetical protein
+3936..4130	-	64	389869890	-	HMPREF0351_12834	-	-	tRNA pseudouridine synthase D
+4275..4610	-	111	389869891	-	HMPREF0351_12835	-	-	hypothetical protein
+4631..6226	-	531	389869892	-	HMPREF0351_12836	-	-	hypothetical protein
+6243..6665	-	140	389869893	-	HMPREF0351_12837	-	-	hypothetical protein
+6683..6961	-	92	389869894	-	HMPREF0351_12838	-	-	hypothetical protein
+7680..8798	-	372	389869895	-	HMPREF0351_12839	-	-	hypothetical protein
+8816..9046	-	76	389869896	cca	HMPREF0351_12840	-	-	CCA-adding enzyme
+9069..9929	-	286	389869897	-	HMPREF0351_12841	-	-	hypothetical protein
+9886..10530	-	214	389869898	-	HMPREF0351_12842	-	-	hypothetical protein
+10546..11739	-	397	389869899	-	HMPREF0351_12843	-	-	lysozyme
+11739..13763	-	674	389869900	-	HMPREF0351_12844	-	-	vancomycin-resistant virulence factor
+13757..13936	-	59	389869901	-	HMPREF0351_12845	-	-	transposase
+13926..14519	-	197	389869902	-	HMPREF0351_12846	-	-	hypothetical protein
+14520..14876	-	118	389869903	-	HMPREF0351_12847	-	-	hypothetical protein
+14904..17276	-	790	389869904	-	HMPREF0351_12848	-	-	hypothetical protein
+17273..19882	-	869	389869905	-	HMPREF0351_12849	-	-	conjugation protein
+19882..21945	-	687	389869906	-	HMPREF0351_12850	-	-	hypothetical protein
+22015..22317	-	100	389869907	-	HMPREF0351_12851	-	-	hypothetical protein
+22335..22577	-	80	389869908	-	HMPREF0351_12852	-	-	hypothetical protein
+22574..23047	-	157	389869909	-	HMPREF0351_12853	-	-	hypothetical protein
+23065..25155	-	696	389869910	fms20	HMPREF0351_12854	-	-	LPXTG family cell surface protein Fms20
+25152..25298	-	48	389869911	-	HMPREF0351_12855	-	-	hypothetical protein
+25425..26180	-	251	389869912	-	HMPREF0351_12856	-	-	hypothetical protein
+26196..26948	-	250	389869913	srtC4	HMPREF0351_12857	-	-	sortase
+26963..28939	-	658	389869914	fms21	HMPREF0351_12858	-	-	pilus subunit protein Fms21
+28992..29663	-	223	389869915	srtA1	HMPREF0351_12859	-	-	sortase SrtA1
+29749..29943	-	64	389869916	-	HMPREF0351_12860	-	-	hypothetical protein
+30055..30294	-	79	389869917	-	HMPREF0351_12861	-	-	hypothetical protein
+30408..30749	-	113	389869918	-	HMPREF0351_12862	-	-	hypothetical protein
+30791..30943	-	50	389869919	-	HMPREF0351_12863	-	-	hypothetical protein
+31368..31700	-	110	389869920	-	HMPREF0351_12864	-	-	hypothetical protein
+32532..33572	-	346	389869921	repA	HMPREF0351_12865	-	-	replication initiator protein A
+34960..35079	-	39	389869922	-	HMPREF0351_12866	-	-	hypothetical protein
+35250..36428	-	392	389869923	-	HMPREF0351_12867	-	-	transposase
+36808..36948	+	46	389869924	-	HMPREF0351_12868	-	-	addiction module toxin RelE
+37208..37462	+	84	389869925	-	HMPREF0351_12869	-	-	toxin-antitoxin system protein
+37463..37780	+	105	389869926	-	HMPREF0351_12870	-	-	addiction module toxin RelE
+38309..39265	+	318	389869927	-	HMPREF0351_12871	-	-	hypothetical protein
+39375..39638	+	87	389869928	-	HMPREF0351_12872	-	-	prevent-host-death protein
+39638..39910	+	90	389869929	-	HMPREF0351_12873	-	-	addiction module toxin
+39987..40199	+	70	389869930	-	HMPREF0351_12874	-	-	hypothetical protein
+40212..40892	-	226	389869931	-	HMPREF0351_12875	-	-	integrase
+40943..41179	+	78	389869932	-	HMPREF0351_12876	-	-	lipoprotein
+41592..42335	-	247	389869933	-	HMPREF0351_12877	-	-	ISPsy4 transposase
+42335..43759	-	474	389869934	-	HMPREF0351_12878	-	-	transposase
+44154..44996	-	280	389869935	-	HMPREF0351_12879	-	-	metallo-beta-lactamase superfamily protein
+45315..45737	+	140	389869936	-	HMPREF0351_12880	-	-	PTS system mannose/fructose/sorbose transporter subunit IIA
+45734..46204	+	156	389869937	-	HMPREF0351_12881	-	-	PTS system mannose/fructose/sorbose transporter subunit IIB
+46212..46991	+	259	389869938	-	HMPREF0351_12882	-	-	PTS system transporter subunit IIC
+47005..47817	+	270	389869939	-	HMPREF0351_12883	-	-	PTS system mannose/fructose/sorbose transporter subunit IID
+47871..48836	+	321	389869940	-	HMPREF0351_12884	-	-	phosphosugar isomerase
+48955..51696	+	913	389869941	-	HMPREF0351_12885	-	-	transcriptional antiterminator
+51709..52341	+	210	389869942	-	HMPREF0351_12886	-	-	haloacid dehalogenase (HAD) superfamily hydrolase
+53107..54654	-	515	389869943	-	HMPREF0351_12887	-	-	transposase IS66
+54756..55109	-	117	389869944	-	HMPREF0351_12888	-	-	transposase
+55099..55341	-	80	389869945	-	HMPREF0351_12889	-	-	hypothetical protein
+55593..56420	+	275	389869946	-	HMPREF0351_12890	-	-	transcriptional regulator
+56443..57132	-	229	389869947	-	HMPREF0351_12891	-	-	IS1216 family transposase
+57180..58385	-	401	389869948	-	HMPREF0351_12892	-	-	IS204/IS1001/IS1096/IS1165 transposase
+58378..58500	+	40	389869949	-	HMPREF0351_12893	-	-	hypothetical protein
+58563..59354	-	263	389869950	-	HMPREF0351_12894	-	-	IS204/IS1001/IS1096/IS1165 transposase
+59357..60559	+	400	389869951	-	HMPREF0351_12895	-	-	type I site-specific deoxyribonuclease restriction subunit
+61293..62261	+	322	389869952	-	HMPREF0351_12896	-	-	phosphosugar isomerase
+62227..63087	+	286	389869953	-	HMPREF0351_12897	-	-	carbohydrate kinase
+63140..63865	+	241	389869954	-	HMPREF0351_12898	-	-	GntR family transcriptional regulator
+63901..65142	+	413	389869955	-	HMPREF0351_12899	-	-	metal-dependent hydrolase
+65200..65781	-	193	389869956	-	HMPREF0351_12900	-	-	IS256 family transposase
+65753..66388	-	211	389869957	-	HMPREF0351_12901	-	-	mutator family transposase
+66923..68323	+	466	389869958	-	HMPREF0351_12902	-	-	MFS family major facilitator transporter, arginine-ornithine antiporter
+68356..68523	+	55	389869959	-	HMPREF0351_12903	-	-	hypothetical protein
+68577..68732	+	51	389869960	-	HMPREF0351_12904	-	-	transposase
+68799..69257	+	152	389869961	-	HMPREF0351_12905	-	-	IS1216 transposase
+69532..69861	+	109	389869962	-	HMPREF0351_12906	-	-	hypothetical protein
+69851..70138	+	95	389869963	-	HMPREF0351_12907	-	-	addiction module toxin RelE
+70424..71281	+	285	389869964	repB2	HMPREF0351_12908	-	-	replication-associated protein RepB
+71282..71830	+	182	389869965	-	HMPREF0351_12909	-	-	hypothetical protein
+72003..72461	-	152	389869966	-	HMPREF0351_12910	-	-	IS431mec transposase
+72528..72683	-	51	389869967	-	HMPREF0351_12911	-	-	transposase
+73002..73148	-	48	389869968	-	HMPREF0351_12912	-	-	hypothetical protein
+73431..74129	-	232	389869969	-	HMPREF0351_12913	-	-	transcriptional regulator
+74113..74847	-	244	389869970	-	HMPREF0351_12914	-	-	transcriptional regulator
+75010..76077	+	355	389869971	-	HMPREF0351_12915	-	-	sugar isomerase domain-containing protein
+76088..76498	+	136	389869972	-	HMPREF0351_12916	-	-	PTS system transporter subunit IIA
+76498..76965	+	155	389869973	-	HMPREF0351_12917	-	-	PTS system transporter subunit IIB
+76983..77729	+	248	389869974	-	HMPREF0351_12918	-	-	PTS system transporter subunit IID
+77729..78538	+	269	389869975	-	HMPREF0351_12919	-	-	PTS system mannose/fructose/sorbose transporter subunit IID
+79099..79785	-	228	389869976	-	HMPREF0351_12920	-	-	IS431mec transposase
+80115..82013	+	632	389869977	bglF	HMPREF0351_12921	-	-	PTS system beta-glucoside transporter subunit IIABC
+82024..83535	+	503	389869978	bglH3	HMPREF0351_12922	-	-	beta-glucosidase
+83572..84414	+	280	389869979	bglG2	HMPREF0351_12923	-	-	transcriptional antiterminator BglG
+84631..85929	-	432	389869980	-	HMPREF0351_12924	-	-	transposase
+86308..86901	+	197	389869981	bglF2	HMPREF0351_12925	-	-	PTS system beta-glucoside transporter subunit IIABC
+86905..87657	+	250	389869982	-	HMPREF0351_12926	-	-	PTS system glucose/glucoside transporter subunit IIABC
+87739..88410	+	223	389869983	-	HMPREF0351_12927	-	-	integrase
+88501..89460	+	319	389869984	-	HMPREF0351_12928	-	-	integrase
+89484..90335	+	283	389869985	-	HMPREF0351_12929	-	-	hypothetical protein
+90296..90592	+	98	389869986	fnr	HMPREF0351_12930	-	-	fumarate and nitrate reduction regulatory protein
+90948..91784	-	278	389869987	-	HMPREF0351_12931	-	-	transposase
+91820..92149	-	109	389869988	-	HMPREF0351_12932	-	-	IS3/IS911 transposase
+92437..92628	-	63	389869989	cscK4	HMPREF0351_12933	-	-	fructokinase
+92674..92922	-	82	389869990	-	HMPREF0351_12934	-	-	IS3 family transposon protein
+93289..93807	+	172	389869991	-	HMPREF0351_12935	-	-	hypothetical protein
+94211..95380	-	389	389869992	-	HMPREF0351_12936	-	-	IS256 family transposase
+95618..96478	+	286	389869993	-	HMPREF0351_12937	-	-	hypothetical protein
+96490..97317	+	275	389869994	panB	HMPREF0351_12938	-	-	3-methyl-2-oxobutanoate hydroxymethyltransferase
+97332..98180	+	282	389869995	panC	HMPREF0351_12939	-	-	pantoate--beta-alanine ligase
+98190..98585	+	131	389869996	panD	HMPREF0351_12940	-	-	aspartate decarboxylase
+98787..99077	+	96	389869997	-	HMPREF0351_12941	-	-	IS3/IS911 family transposase
+99113..99724	+	203	389869998	-	HMPREF0351_12942	-	-	ISSdy1 transposon protein
+100089..102056	+	655	389869999	-	HMPREF0351_12943	-	-	hypothetical protein
+102059..102709	+	216	389870000	macB2	HMPREF0351_12944	-	-	macrolide-specific efflux protein MacB
+103138..103782	-	214	389870001	-	HMPREF0351_12945	-	-	transposase
+103894..104088	+	64	389870002	-	HMPREF0351_12946	-	-	hypothetical protein
+104078..104461	+	127	389870003	-	HMPREF0351_12947	-	-	transposase
+104533..106080	+	515	389870004	-	HMPREF0351_12948	-	-	IS66 transposase
+106208..107503	-	431	389870005	-	HMPREF0351_12949	-	-	IS204/IS1001/IS1096/IS1165 family transposase
+107698..108990	+	430	389870006	-	HMPREF0351_12950	-	-	IS256 family transposase
+109418..110152	+	244	389870007	-	HMPREF0351_12951	-	-	GntR family transcriptional regulator
+110168..111337	+	389	389870008	-	HMPREF0351_12952	-	-	phosphosugar isomerase
+111353..112348	+	331	389870009	lacD	HMPREF0351_12953	-	-	tagatose-bisphosphate aldolase 2
+112427..113353	+	308	389870010	-	HMPREF0351_12954	-	-	PEP phosphonomutase family protein
+113372..114622	+	416	389870011	-	HMPREF0351_12955	-	-	PTS system transporter subunit IIC
+114841..115794	+	317	389870012	-	HMPREF0351_12956	-	-	transposase
+116005..117300	-	431	389870013	-	HMPREF0351_12957	-	-	IS204/IS1001/IS1096/IS1165 transposase
+117462..117860	-	132	389870014	-	HMPREF0351_12958	-	-	ATP-dependent protease
+117829..118758	-	309	389870015	-	HMPREF0351_12959	-	-	transposase
+118935..120029	-	364	389870016	-	HMPREF0351_12960	-	-	tyrosine recombinase
+120690..121598	+	302	389870017	-	HMPREF0351_12961	-	-	IS4 transposase
+122941..124416	-	491	389870018	-	HMPREF0351_12962	-	-	arylsulfatase
+124717..125535	-	272	389870019	-	HMPREF0351_12963	-	-	PTS system mannose/fructose/sorbose transporter subunit IID
+125519..126331	-	270	389870020	-	HMPREF0351_12964	-	-	PTS system mannose/fructose/sorbose transporter subunit IIC
+126353..126487	-	44	389870021	-	HMPREF0351_12965	-	-	hypothetical protein
+126704..126928	-	74	389870022	-	HMPREF0351_12966	-	-	parallel beta-helix repeat-containing protein
+126921..127328	-	135	389870023	-	HMPREF0351_12967	-	-	PTS system mannose/fructose/sorbose transporter subunit IIA
+127351..127830	-	159	389870024	-	HMPREF0351_12968	-	-	PTS system mannose/fructose/sorbose transporter subunit IIB
+127834..129612	-	592	389870025	lacZ2	HMPREF0351_12969	-	-	beta-galactosidase
+130143..130436	+	97	389870026	-	HMPREF0351_12970	-	-	GntR family transcriptional regulator
+130517..131629	+	370	389870027	-	HMPREF0351_12971	-	-	arylsulfatase regulator, anaerobic sulfatase-maturating enzyme
+131626..132402	+	258	389870028	-	HMPREF0351_12972	-	-	hypothetical protein
+132424..132669	-	81	389870029	-	HMPREF0351_12973	-	-	hypothetical protein
+132690..133034	-	114	389870030	-	HMPREF0351_12974	-	-	IS1167 transposase
+133357..134652	+	431	389870031	-	HMPREF0351_12975	-	-	IS204/IS1001/IS1096/IS1165 transposase
+134780..135805	-	341	389870032	-	HMPREF0351_12976	-	-	transposase IS66
+135802..135957	-	51	389870033	-	HMPREF0351_12977	-	-	hypothetical protein
+135954..136328	-	124	389870034	-	HMPREF0351_12978	-	-	hypothetical protein
+136430..136783	-	117	389870035	-	HMPREF0351_12979	-	-	transposase
+136773..137015	-	80	389870036	-	HMPREF0351_12980	-	-	hypothetical protein
+137326..137562	-	78	389870037	-	HMPREF0351_12981	-	-	hypothetical protein
+137835..138830	+	331	389870038	-	HMPREF0351_12982	-	-	transposase
+139105..140424	-	439	389870039	vncS	HMPREF0351_12983	-	-	sensor histidine kinase VncS
+140421..141074	-	217	389870040	vncR	HMPREF0351_12984	-	-	response regulator VncR
+141362..142636	+	424	389870041	-	HMPREF0351_12985	-	-	IS204/IS1001/IS1096/IS1165 family transposase
+142643..144256	+	537	389870042	guaA2	HMPREF0351_12986	-	-	GMP synthase
+144615..145547	-	310	389870043	-	HMPREF0351_12987	-	-	hypothetical protein
+145587..147248	-	553	389870044	hyl	HMPREF0351_12988	-	-	hyaluronate lyase
+147245..150226	-	993	389870045	-	HMPREF0351_12989	-	-	beta-galactosidase subunit alpha
+150354..152267	-	637	389870046	-	HMPREF0351_12990	-	-	family 20 glycoside hydrolase
+152297..152908	-	203	389870047	-	HMPREF0351_12991	-	-	hypothetical protein
+152959..154431	-	490	389870048	-	HMPREF0351_12992	-	-	carbohydrate ABC superfamily ATP binding cassette transporter, binding protein
+154455..155366	-	303	389870049	-	HMPREF0351_12993	-	-	carbohydrate ABC superfamily ATP binding cassette transporter, membrane protein
+155378..156316	-	312	389870050	-	HMPREF0351_12994	-	-	carbohydrate ABC superfamily ATP binding cassette transporter, membrane protein
+156545..158119	+	524	389870051	-	HMPREF0351_12995	-	-	sensor histidine kinase
+158097..158408	+	103	389870052	-	HMPREF0351_12996	-	-	AraC family response regulator
+158459..158824	+	121	389870053	-	HMPREF0351_12997	-	-	AraC family response regulator
+159207..160481	-	424	389870054	-	HMPREF0351_12998	-	-	transposase
+160694..161896	+	400	389870055	-	HMPREF0351_12999	-	-	transposase
+162041..163336	+	431	389870056	-	HMPREF0351_13000	-	-	IS204/IS1001/IS1096/IS1165 transposase
+163435..163770	-	111	389870057	-	HMPREF0351_13001	-	-	MazF family toxin-antitoxin system
+163754..164026	-	90	389870058	-	HMPREF0351_13002	-	-	DNA-damage-inducible protein
+164477..165280	-	267	389870059	-	HMPREF0351_13003	-	-	metallophosphoesterase
+165258..166382	-	374	389870060	-	HMPREF0351_13004	-	-	SN-glycerol-3-phosphate ABC superfamily ATP binding cassette transporter, ABC protein
+166398..167213	-	271	389870061	-	HMPREF0351_13005	-	-	SN-glycerol-3-phosphate ABC superfamily ATP binding cassette transporter, membrane protein
+167203..168093	-	296	389870062	-	HMPREF0351_13006	-	-	ABC superfamily ATP binding cassette transporter, membrane protein
+168160..169449	-	429	389870063	-	HMPREF0351_13007	-	-	ABC superfamily ATP binding cassette transporter, binding protein
+169593..170138	-	181	389870064	-	HMPREF0351_13008	-	-	hypothetical protein
+170172..170357	-	61	389870065	glpQ3	HMPREF0351_13009	-	-	glycerophosphodiester phosphodiesterase
+170886..171143	-	85	389870066	-	HMPREF0351_13010	-	-	hypothetical protein
+171220..171846	-	208	389870067	-	HMPREF0351_13011	-	-	ISSag8 transposase
+171885..172289	-	134	389870068	-	HMPREF0351_13012	-	-	ISSag8 transposase
+172261..173460	-	399	389870069	-	HMPREF0351_13013	-	-	mutator family transposase
+173590..174966	-	458	389870070	-	HMPREF0351_13014	-	-	ABC superfamily ATP binding cassette transporter, membrane protein
+174966..175622	-	218	389870071	-	HMPREF0351_13015	-	-	ABC superfamily ATP binding cassette transporter, ABC/membrane protein
+175632..176909	-	425	389870072	-	HMPREF0351_13016	-	-	ABC superfamily ATP binding cassette transporter, membrane protein
+177159..177449	+	96	389870073	-	HMPREF0351_13017	-	-	IS3/IS911 family transposase
+177485..178321	+	278	389870074	-	HMPREF0351_13018	-	-	integrase
+178351..178662	-	103	389870075	-	HMPREF0351_13019	-	-	thioredoxin family protein
+178945..179487	-	180	389870076	-	HMPREF0351_13020	-	-	hypothetical protein
+179762..179893	+	43	389870077	-	HMPREF0351_13021	-	-	ISSdy1 transposase
+179894..180052	+	52	389870078	-	HMPREF0351_13022	-	-	ISSag4 transposase
+180088..180924	+	278	389870079	-	HMPREF0351_13023	-	-	ISSdy1 transposase
+180925..181245	+	106	389870080	-	HMPREF0351_13024	-	-	IS256/ISEf1 family transposase
+181517..181813	-	98	389870081	-	HMPREF0351_13025	-	-	hypothetical protein
+181883..182836	+	317	389870082	-	HMPREF0351_13026	-	-	transposase
+182833..183432	-	199	389870083	-	HMPREF0351_13027	-	-	hypothetical protein
+183638..184546	+	302	389870084	-	HMPREF0351_13028	-	-	IS4 transposase
+184549..184677	-	42	389870085	-	HMPREF0351_13029	-	-	hypothetical protein
+184733..185350	-	205	389870086	-	HMPREF0351_13030	-	-	integrase
+185792..187276	-	494	389870087	-	HMPREF0351_13031	-	-	ISSag8 transposase
+187329..187496	+	55	389870088	-	HMPREF0351_13032	-	-	hypothetical protein
+188045..188374	+	109	389870089	-	HMPREF0351_13033	-	-	IS3/IS911/ISSag4 family transposase
+188410..189246	+	278	389870090	-	HMPREF0351_13034	-	-	ISSdy1 integrase
+189753..191048	-	431	389870091	-	HMPREF0351_13035	-	-	IS204/IS1001/IS1096/IS1165 family transposase
+191256..191732	-	158	389870092	-	HMPREF0351_13036	-	-	PTS system transporter subunit IIA
+191745..193247	-	500	389870093	-	HMPREF0351_13037	-	-	PTS system transporter subunit IIBC
+193261..193950	-	229	389870094	nanE2	HMPREF0351_13038	-	-	N-acylglucosamine-6-phosphate 2-epimerase
+194111..194929	+	272	389870095	rpiR2	HMPREF0351_13039	-	-	RpiR family phosphosugar-binding transcriptional regulator
+195159..195389	+	76	389870096	-	HMPREF0351_13040	-	-	resolvase family site-specific recombinase
+195929..197224	+	431	389870097	-	HMPREF0351_13041	-	-	IS204/IS1001/IS1096/IS1165 family transposase
+197404..198276	-	290	389870098	-	HMPREF0351_13042	-	-	ROK family sugar kinase
+198504..199463	-	319	389870099	-	HMPREF0351_13043	-	-	transposase
+199534..200391	-	285	389870100	-	HMPREF0351_13044	-	-	twin-arginine translocation pathway signal protein
+200429..200860	-	143	389870101	-	HMPREF0351_13045	-	-	acetyltransferase
+200883..202037	-	384	389870102	gbsB	HMPREF0351_13046	-	-	alcohol dehydrogenase
+202059..203975	-	638	389870103	iolD	HMPREF0351_13047	-	-	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+203968..204945	-	325	389870104	iolC	HMPREF0351_13048	-	-	5-dehydro-2-deoxygluconokinase
+204995..205813	-	272	389870105	iolB	HMPREF0351_13049	-	-	myo-inositol catabolism protein IolB
+205888..207255	-	455	389870106	pepC2	HMPREF0351_13050	-	-	bleomycin hydrolase
+207224..210313	-	1029	389870107	-	HMPREF0351_13051	-	-	alpha-mannosidase
+210356..211309	-	317	389870108	-	HMPREF0351_13052	-	-	integrase
+211375..211998	-	207	389870109	-	HMPREF0351_13053	-	-	hypothetical protein
+212014..213249	-	411	389870110	-	HMPREF0351_13054	-	-	PTS system transporter subunit IIC
+213262..213633	-	123	389870111	-	HMPREF0351_13055	-	-	PTS system transporter subunit IIB
+213599..213910	-	103	389870112	-	HMPREF0351_13056	-	-	PTS system transporter subunit IIA
+213912..215921	-	669	389870113	-	HMPREF0351_13057	-	-	PTS system transporter subunit IIA
+215921..216511	-	196	389870114	-	HMPREF0351_13058	-	-	hypothetical protein
+216847..217134	+	95	389870115	-	HMPREF0351_13059	-	-	transposase
+217247..218071	-	274	389870116	-	HMPREF0351_13060	-	-	sugar ABC transporter ATP-binding protein
+218074..219072	-	332	389870117	-	HMPREF0351_13061	-	-	sugar ABC transporter ATP-binding protein
+219080..220333	-	417	389870118	-	HMPREF0351_13062	-	-	sugar ABC superfamily ATP binding cassette transporter, binding protein
+220350..221114	-	254	389870119	-	HMPREF0351_13063	-	-	family 2 AP endonuclease
+221120..222067	-	315	389870120	-	HMPREF0351_13064	-	-	aldo/keto reductase
+222239..223114	+	291	389870121	-	HMPREF0351_13065	-	-	metallophosphoesterase
+223284..223712	-	142	389870122	-	HMPREF0351_13066	-	-	hypothetical protein
+223731..224195	-	154	389870123	-	HMPREF0351_13067	-	-	hypothetical protein
+224269..224577	-	102	389870124	-	HMPREF0351_13068	-	-	hypothetical protein
+224602..224853	-	83	389870125	-	HMPREF0351_13069	-	-	hypothetical protein
+224846..225319	-	157	389870126	-	HMPREF0351_13070	-	-	hypothetical protein
+225452..225679	-	75	389870127	-	HMPREF0351_13071	-	-	hypothetical protein
+225777..225989	-	70	389870128	-	HMPREF0351_13072	-	-	hypothetical protein
+225977..226225	-	82	389870129	-	HMPREF0351_13073	-	-	hypothetical protein
+226297..226425	+	42	389870130	-	HMPREF0351_13074	-	-	hypothetical protein
+226638..227330	-	230	389870131	-	HMPREF0351_13075	-	-	hypothetical protein
+227605..227937	+	110	389870132	-	HMPREF0351_13076	-	-	hypothetical protein
+227986..229311	-	441	389870133	-	HMPREF0351_13077	-	-	phage protein
+229317..230168	-	283	389870134	-	HMPREF0351_13078	-	-	hypothetical protein
+230368..230511	+	47	389870135	-	HMPREF0351_13079	-	-	hypothetical protein
+230523..230657	-	44	389870136	-	HMPREF0351_13080	-	-	hypothetical protein
+230770..231039	-	89	389870137	-	HMPREF0351_13081	-	-	plasmid stabilization system protein
+231029..231295	-	88	389870138	-	HMPREF0351_13082	-	-	toxin-antitoxin system protein
+231424..231885	-	153	389870139	-	HMPREF0351_13083	-	-	IS431mec transposase
+231952..232107	-	51	389870140	-	HMPREF0351_13084	-	-	transposase
+232696..233112	-	138	389870141	-	HMPREF0351_13085	-	-	sugar isomerase (SIS)
+233112..233387	-	91	389870142	-	HMPREF0351_13086	-	-	transcriptional regulator
+233428..234045	+	205	389870143	-	HMPREF0351_13087	-	-	hypothetical protein
+234181..235431	-	416	389870144	-	HMPREF0351_13088	-	-	IS116/IS110/IS902 family transposase
+235840..237141	+	433	389870145	-	HMPREF0351_13089	-	-	PTS system cellobiose transporter subunit IIC
+237540..238730	+	396	389870146	-	HMPREF0351_13090	-	-	transposase
+238785..239135	-	116	389870147	-	HMPREF0351_13091	-	-	hypothetical protein
+239168..239647	-	159	389870148	-	HMPREF0351_13092	-	-	resolvase
+240276..240698	+	140	389870149	-	HMPREF0351_13093	-	-	hypothetical protein
+240708..240911	+	67	389870150	-	HMPREF0351_13094	-	-	hypothetical protein
+241231..241866	+	211	389870151	-	HMPREF0351_13095	-	-	resolvase
+241890..242240	-	116	389870152	-	HMPREF0351_13096	-	-	PemK family protein
+242234..242524	-	96	389870153	-	HMPREF0351_13097	-	-	PemI family protein
+242651..242800	+	49	389870154	-	HMPREF0351_13098	-	-	hypothetical protein
+242838..243017	-	59	389870155	-	HMPREF0351_13099	-	-	hypothetical protein
+243049..243351	+	100	389870156	-	HMPREF0351_13100	-	-	hypothetical protein
+243462..243899	-	145	389870157	-	HMPREF0351_13101	-	-	hypothetical protein
+243915..244166	-	83	389870158	-	HMPREF0351_13102	-	-	hypothetical protein
+244166..244372	-	68	389870159	-	HMPREF0351_13103	-	-	hypothetical protein
+244815..245075	-	86	389870160	-	HMPREF0351_13104	-	-	hypothetical protein
+245230..245352	+	40	389870161	-	HMPREF0351_13105	-	-	hypothetical protein
+245511..245768	-	85	389870162	-	HMPREF0351_13106	-	-	hypothetical protein
+245790..246275	-	161	389870163	-	HMPREF0351_13107	-	-	single-strand DNA binding protein
+246278..247177	-	299	389870164	-	HMPREF0351_13108	-	-	hypothetical protein
+247193..247786	-	197	389870165	-	HMPREF0351_13109	-	-	transcriptional regulator
+248069..248473	+	134	389870166	-	HMPREF0351_13110	-	-	transposase
+248490..249638	+	382	389870167	-	HMPREF0351_13111	-	-	transposase
+249775..249900	-	41	389870168	-	HMPREF0351_13112	-	-	hypothetical protein
+249916..250050	-	44	389870169	-	HMPREF0351_13113	-	-	hypothetical protein
+250016..251926	-	636	389870170	topB2	HMPREF0351_13114	-	-	DNA topoisomerase

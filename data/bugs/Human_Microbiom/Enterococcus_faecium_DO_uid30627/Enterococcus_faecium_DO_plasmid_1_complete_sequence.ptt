@@ -1,0 +1,46 @@
+Enterococcus faecium DO plasmid 1, complete sequence - 1..36262
+43 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1920	+	639	389870258	tetP	HMPREF0351_12704	-	-	tetracycline resistance protein TetP
+2114..3490	+	458	389870259	tetL	HMPREF0351_12705	-	-	MFS family major facilitator transporter, tetracycline:cation symporter TetL
+3538..3708	-	56	389870260	-	HMPREF0351_12706	-	-	hypothetical protein
+3750..4430	+	226	389870261	-	HMPREF0351_12707	-	-	IS431mec transposase
+4628..5233	+	201	389870262	fic	HMPREF0351_12708	-	-	cell filamentation protein
+5249..5821	+	190	389870263	-	HMPREF0351_12709	-	-	resolvase
+6073..6234	-	53	389870264	-	HMPREF0351_12710	-	-	hypothetical protein
+6294..6716	-	140	389870265	-	HMPREF0351_12711	-	-	integrase catalytic region protein
+6967..7230	-	87	389870266	-	HMPREF0351_12712	-	-	ISSag4 transposase
+7323..7610	-	95	389870267	-	HMPREF0351_12713	-	-	ISSdy1 transposase
+7665..7799	-	44	389870268	-	HMPREF0351_12714	-	-	hypothetical protein
+7835..8164	-	109	389870269	-	HMPREF0351_12715	-	-	IS3/IS911 transposase
+8166..8480	-	104	389870270	-	HMPREF0351_12716	-	-	transposase
+8531..8785	-	84	389870271	-	HMPREF0351_12717	-	-	IS3/IS911 family transposase
+8978..9253	-	91	389870272	prgO	HMPREF0351_12718	-	-	Prg family repication protein PrgO
+9225..10178	-	317	389870273	parA	HMPREF0351_12719	-	-	Par family ATPase ParA
+10790..12283	+	497	389870274	repR	HMPREF0351_12720	-	-	plasmid replication protein RepR
+12418..12714	+	98	389870275	prgN	HMPREF0351_12721	-	-	replication control protein PrgN
+12738..13697	-	319	389870276	-	HMPREF0351_12722	-	-	transposase
+13764..13883	+	39	389870277	-	HMPREF0351_12723	-	-	hypothetical protein
+13880..14731	+	283	389870278	-	HMPREF0351_12724	-	-	hypothetical protein
+14734..15033	+	99	389870279	-	HMPREF0351_12725	-	-	hypothetical protein
+15377..16075	+	232	389870280	-	HMPREF0351_12726	-	-	IS431mec transposase
+16515..17777	+	420	389870281	mobB	HMPREF0351_12727	-	-	plasmid recombinase enzyme Pre
+18001..18921	+	306	389870282	repU	HMPREF0351_12728	-	-	plasmid replication protein RepU
+18944..19630	-	228	389870283	-	HMPREF0351_12729	-	-	integrase
+19802..20404	-	200	389870284	-	HMPREF0351_12730	-	-	resolvase
+20675..21187	-	170	389870285	-	HMPREF0351_12731	-	-	hypothetical protein
+21194..21412	-	72	389870286	-	HMPREF0351_12732	-	-	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+21576..21695	+	39	389870287	-	HMPREF0351_12733	-	-	hypothetical protein
+21718..22032	+	104	389870288	-	HMPREF0351_12734	-	-	conjugative transposon protein
+22048..22434	+	128	389870289	-	HMPREF0351_12735	-	-	conjugative transposon protein
+22463..23848	+	461	389870290	-	HMPREF0351_12736	-	-	FtsK/SpoIIIE family cell division protein
+23851..24003	+	50	389870291	-	HMPREF0351_12737	-	-	hypothetical protein
+24026..25231	+	401	389870292	-	HMPREF0351_12738	-	-	replication initiation protein
+26015..27925	+	636	389870293	-	HMPREF0351_12739	-	-	RNA-directed DNA polymerase (reverse transcriptase):HNH endonuclease
+28086..28253	+	55	389870294	-	HMPREF0351_12740	-	-	hypothetical protein
+28370..28867	+	165	389870295	adrA	HMPREF0351_12741	-	-	antirestriction protein ArdA
+28842..29348	+	168	389870296	-	HMPREF0351_12742	-	-	conjugative transposon membrane protein
+29332..31779	+	815	389870297	-	HMPREF0351_12743	-	-	conjugative transposon protein
+31782..33959	+	725	389870298	-	HMPREF0351_12744	-	-	conjugative transposon membrane protein
+33956..34957	+	333	389870299	-	HMPREF0351_12745	-	-	NLP/P60 family protein
+34954..35886	+	310	389870300	-	HMPREF0351_12746	-	-	conjugative transposon protein

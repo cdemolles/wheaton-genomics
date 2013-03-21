@@ -1,0 +1,558 @@
+Buchnera aphidicola str. 5A (Acyrthosiphon pisum) chromosome, complete genome - 1..642122
+555 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+197..2083	+	628	219681390	gidA	BUAP5A_001	-	COG0445D	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA
+2278..3102	+	274	219681391	atpB	BUAP5A_002	-	COG0356C	F0F1 ATP synthase subunit A
+3139..3378	+	79	219681392	atpE	BUAP5A_003	-	COG0636C	F0F1 ATP synthase subunit C
+3497..3982	+	161	219681393	atpF	BUAP5A_004	-	COG0711C	F0F1 ATP synthase subunit B
+3982..4515	+	177	219681394	atpH	BUAP5A_005	-	COG0712C	F0F1 ATP synthase subunit delta
+4530..6068	+	512	219681395	atpA	BUAP5A_006	-	COG0056C	F0F1 ATP synthase subunit alpha
+6101..6973	+	290	219681396	atpG	BUAP5A_007	-	COG0224C	F0F1 ATP synthase subunit gamma
+6997..8394	+	465	219681397	atpD	BUAP5A_008	-	COG0055C	F0F1 ATP synthase subunit beta
+8421..8837	+	138	219681398	atpC	BUAP5A_009	-	COG0355C	F0F1 ATP synthase subunit epsilon
+8911..11322	-	803	219681399	gyrB	BUAP5A_010	-	COG0187L	DNA gyrase subunit B
+11449..12549	-	366	219681400	dnaN	BUAP5A_011	-	COG0592L	DNA polymerase III beta chain
+12554..13918	-	454	219681401	dnaA	BUAP5A_012	-	COG0593L	chromosomal replication initiation protein
+14369..14512	+	47	219681402	rpmH	BUAP5A_013	-	COG0230J	50S ribosomal protein L34
+15010..16608	+	532	219681403	yidC	BUAP5A_015	-	COG0706U	60 kDa inner-membrane protein
+16647..18008	+	453	219681404	trmE	BUAP5A_016	-	COG0486R	tRNA modification GTPase TrmE
+18375..18665	+	96	219681405	groES	BUAP5A_018	-	COG0234O	co-chaperonin GroES
+18714..20360	+	548	219681406	groEL	BUAP5A_019	-	COG0459O	chaperonin GroEL
+20985..21596	+	203	219681407	efp	BUAP5A_020	-	COG0231J	elongation factor P
+21614..22354	-	246	219681408	dnaC	BUAP5A_021	-	COG1484L	DNA replication protein DnaC
+22354..22848	-	164	219681409	dnaT	BUAP5A_022	-	COG5529R	primosomal protein DnaI
+22945..23520	-	191	219681410	rsmD	BUAP5A_023	-	COG0742L	16S rRNA m2G966 methyltransferase (YhhF)
+23651..24787	+	378	219681411	ftsY	BUAP5A_024	-	COG0552U	cell division protein FtsY
+24950..25804	+	284	219681412	rpoH	BUAP5A_025	-	COG0568K	RNA polymerase factor sigma-32
+25945..27774	-	609	219681413	glmS	BUAP5A_026	-	COG0449M	glucosamine--fructose-6-phosphate aminotransferase
+27844..29223	-	459	219681414	glmU	BUAP5A_027	-	COG1207M	UDP-N-acetylglucosamine pyrophosphorylase
+29403..30221	+	272	219681415	yigL	BUAP5A_028	-	COG0561R	sugar phosphatase
+31192..33468	+	758	219681416	metE	BUAP5A_029	-	COG0620E	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+33591..35168	-	525	219681417	purH	BUAP5A_030	-	COG0138F	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+35309..35587	-	92	219681418	hupA	BUAP5A_031	-	COG0776L	DNA-binding protein hu-alpha
+36321..40544	-	1407	219681419	rpoC	BUAP5A_032	-	COG0086K	DNA-directed RNA polymerase subunit beta'
+40622..44650	-	1342	219681420	rpoB	BUAP5A_033	-	COG0085K	DNA-directed RNA polymerase subunit beta
+44870..45238	-	122	219681421	rplL	BUAP5A_034	-	COG0222J	50S ribosomal protein L7/L12
+45305..45802	-	165	219681422	rplJ	BUAP5A_035	-	COG0244J	50S ribosomal protein L10
+46068..46763	-	231	219681423	rplA	BUAP5A_036	-	COG0081J	50S ribosomal protein L1
+46766..47194	-	142	219681424	rplK	BUAP5A_037	-	COG0080J	50S ribosomal protein L11
+47242..47787	-	181	219681425	nusG	BUAP5A_038	-	COG0250K	transcription antitermination protein NusG
+47790..48173	-	127	219681426	secE	BUAP5A_039	-	COG0690U	preprotein translocase subunit SecE
+48978..50048	-	356	219681427	murB	BUAP5A_044	-	COG0812M	UDP-N-acetylenolpyruvoylglucosamine reductase
+50164..51042	+	292	219681428	metF	BUAP5A_045	-	COG0685E	5,10-methylenetetrahydrofolate reductase
+51054..52199	-	381	219681429	argE	BUAP5A_046	-	COG0624E	acetylornithine deacetylase
+52360..53364	+	334	219681430	argC	BUAP5A_047	-	COG0002E	N-acetyl-gamma-glutamyl-phosphate reductase
+53385..54158	+	257	219681431	argB	BUAP5A_048	-	COG0548E	acetylglutamate kinase
+54188..55399	+	403	219681432	argG	BUAP5A_049	-	COG0137E	argininosuccinate synthase
+55471..56850	+	459	219681433	argH	BUAP5A_050	-	COG0165E	argininosuccinate lyase
+56932..57366	+	144	219681434	yibN	BUAP5A_051	-	COG0607P	rhodanese-related sulfurtransferase (YibN)
+57474..57902	+	142	219681435	secB	BUAP5A_052	-	COG1952U	preprotein translocase subunit SecB
+58004..58828	+	274	219681436	cysE	BUAP5A_053	-	COG1045E	serine acetyltransferase
+58935..60773	-	612	219681437	rpoD	BUAP5A_054	-	COG0568K	RNA polymerase sigma factor RpoD
+60941..62674	-	577	219681438	dnaG	BUAP5A_055	-	COG0358L	DNA primase
+62755..62970	-	71	219681439	rpsU	BUAP5A_056	-	COG0828J	30S ribosomal protein S21
+63204..64214	+	336	219681440	ygjD	BUAP5A_057	-	COG0533O	putative DNA-binding/iron metalloprotein/AP endonuclease
+64192..64839	-	215	219681441	ribB	BUAP5A_058	-	COG0108H	3,4-dihydroxy-2-butanone 4-phosphate synthase
+65112..66059	-	315	219681442	yb3052	BUAP5A_059	-	COG2870M	kinase
+66273..67517	+	414	219681443	cca	BUAP5A_060	-	COG0617J	tRNA CCA-pyrophosphorylase
+67543..68340	-	265	219681444	bacA	BUAP5A_061	-	COG1968V	undecaprenyl pyrophosphate phosphatase
+68426..68911	-	161	219681445	crr	BUAP5A_062	-	COG2190G	PTS system glucose-specific transporter
+68961..70676	-	571	219681446	ptsI	BUAP5A_063	-	COG1080G	phosphoenolpyruvate-protein phosphotransferase
+70825..71082	-	85	219681447	ptsH	BUAP5A_064	-	COG1925G	phosphocarrier protein HPr
+71232..72179	-	315	219681448	cysK	BUAP5A_065	-	COG0031E	cysteine synthase A
+72434..74461	+	675	219681449	lig	BUAP5A_066	-	COG0272L	DNA ligase
+74773..76176	+	467	219681450	gltX	BUAP5A_069	-	COG0008J	glutamyl-tRNA synthetase
+76516..76812	-	98	219681451	fliE	BUAP5A_071	-	COG1677NU	flagellar hook-basal body complex protein FliE
+77076..78713	+	545	219681452	fliF	BUAP5A_072	-	COG1766NU	flagellar MS-ring protein
+78710..79705	+	331	219681453	fliG	BUAP5A_073	-	COG1536N	flagellar motor switch protein FliG
+79698..80360	+	220	219681454	fliH	BUAP5A_074	-	COG1317NU	flagellar assembly protein FliH
+80318..81721	+	467	219681455	fliI	BUAP5A_075	-	COG1157NU	flagellum-specific ATP synthase
+81745..82188	+	147	219681456	fliJ	BUAP5A_076	-	COG2882NUO	flagellar FliJ protein
+82197..83333	+	378	219681457	fliK	BUAP5A_078	-	COG3144N	flagellar hook-length control protein
+83394..84341	+	315	219681458	fliM	BUAP5A_079	-	COG1868N	flagellar motor switch protein FliM
+84334..84735	+	133	219681459	fliN	BUAP5A_080	-	COG1886NU	flagellar motor switch protein FliN
+84747..85886	+	379	219681460	fliP	BUAP5A_081	-	COG1338NU	putative bifunctional flagellar biosynthesis protein FliO/FliP
+85958..86227	+	89	219681461	fliQ	BUAP5A_082	-	COG1987NU	flagellar biosynthetic protein FliQ
+86227..87003	+	258	219681462	fliR	BUAP5A_083	-	COG1684NU	flagellar biosynthetic protein FliR
+87156..87323	-	55	219681463	rpmG	BUAP5A_084	-	COG0267J	50S ribosomal protein L33
+87334..87561	-	75	219681464	rpmB	BUAP5A_085	-	COG0227J	50S ribosomal protein L28
+87907..90819	+	970	219681465	ytfN	BUAP5A_086	-	COG2911S	hypothetical protein
+90835..91383	-	182	219681466	ppa	BUAP5A_087	-	COG0221C	inorganic pyrophosphatase
+91577..92917	+	446	219681467	pmbA	BUAP5A_088	-	COG0312R	PmbA protein
+94382..95602	+	406	219681468	fabB	BUAP5A_090	-	COG0304IQ	3-oxoacyl-ACP synthase
+95842..96792	+	316	219681469	talA	BUAP5A_091	-	COG0176G	transaldolase B
+96847..98844	+	665	219681470	tktB	BUAP5A_092	-	COG0021G	transketolase
+98949..100076	+	375	219681471	dapE	BUAP5A_093	-	COG0624E	succinyl-diaminopimelate desuccinylase
+100466..101350	-	294	219681472	dapA	BUAP5A_094	-	COG0329EM	dihydrodipicolinate synthase
+101926..102990	-	354	219681473	aroC	BUAP5A_095	-	COG0082E	chorismate synthase
+103285..103845	+	186	219681474	yb2331	BUAP5A_096	-	COG2840S	hypothetical protein
+104170..105069	+	299	219681475	hisG	BUAP5A_097	-	COG0040E	ATP phosphoribosyltransferase
+105078..106385	+	435	219681476	hisD	BUAP5A_098	-	COG0141E	histidinol dehydrogenase
+106382..107488	+	368	219681477	hisC	BUAP5A_099	-	COG0079E	histidinol-phosphate aminotransferase
+107478..108539	+	353	219681478	hisB	BUAP5A_100	-	COG0131E	imidazole glycerol-phosphate dehydratase/histidinol phosphatase
+108539..109129	+	196	219681479	hisH	BUAP5A_101	-	COG0118E	imidazole glycerol phosphate synthase subunit HisH
+109134..109874	+	246	219681480	hisA	BUAP5A_102	-	COG0106E	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+109853..110629	+	258	219681481	hisF	BUAP5A_103	-	COG0107E	imidazole glycerol phosphate synthase subunit HisF
+110623..111270	+	215	219681482	hisI	BUAP5A_104	-	COG0139E	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase
+111629..113035	+	468	219681483	gnd	BUAP5A_105	-	COG0362G	6-phosphogluconate dehydrogenase
+113198..113818	+	206	219681484	dcd	BUAP5A_106	-	COG0717F	deoxycytidine triphosphate deaminase
+113966..115609	+	547	219681485	metG	BUAP5A_107	-	COG0143J	methionyl-tRNA synthetase
+115657..116979	-	440	219681486	mesJ	BUAP5A_108	-	COG0037D	cell cycle protein MesJ
+117205..117831	+	208	219681487	ribE	BUAP5A_110	-	COG0307H	riboflavin synthase subunit alpha
+117868..118449	+	193	219681488	rnfA	BUAP5A_111	-	COG4657C	Na(+)-translocating NADH-quinone reductase subunit E
+118452..118955	+	167	219681489	rnfB	BUAP5A_112	-	COG2878C	ferredoxin II
+119118..120539	+	473	219681490	rnfC	BUAP5A_113	-	COG4656C	membrane protein
+120587..121630	+	347	219681491	ydgO	BUAP5A_114	-	COG4658C	hypothetical protein
+121779..122273	+	164	219681492	rnfG	BUAP5A_115	-	COG4659C	nitrogen fixation protein
+122248..122931	+	227	219681493	ydgQ	BUAP5A_116	-	COG4660C	electron transport complex protein RsxE
+122942..123574	+	210	219681494	nth	BUAP5A_117	-	COG0177L	endonuclease III
+123597..125777	+	726	219681495	priA	BUAP5A_118	-	COG1198L	primosomal protein N'
+125937..127205	+	422	219681496	tyrS	BUAP5A_119	-	COG0162J	tyrosyl-tRNA synthetase
+127213..127605	-	130	219681497	ydiC	BUAP5A_120	-	COG0316S	integral membrane protein of SoxR-reducing complex
+127829..128911	+	360	219681498	yb1688	BUAP5A_121	-	COG0628R	putative inner membrane protein
+129263..130309	+	348	219681499	aroH	BUAP5A_122	-	COG0722E	phospho-2-dehydro-3-deoxyheptonate aldolase
+130477..132405	+	642	219681500	thrS	BUAP5A_123	-	COG0441J	threonyl-tRNA synthetase
+132409..132948	+	179	219681501	infC	BUAP5A_124	-	COG0290J	translation initiation factor IF-3
+133035..133232	+	65	219681502	rpmI	BUAP5A_125	-	COG0291J	50S ribosomal protein L35
+133275..133631	+	118	219681503	rplT	BUAP5A_126	-	COG0292J	50S ribosomal protein L20
+133826..134815	+	329	219681504	pheS	BUAP5A_127	-	COG0016J	phenylalanyl-tRNA synthetase subunit alpha
+134825..137212	+	795	219681505	pheT	BUAP5A_128	-	COG0072J	phenylalanyl-tRNA synthetase subunit beta
+137217..137525	+	102	219681506	ihfA	BUAP5A_129	-	COG0776L	integration host factor subunit alpha
+137567..138640	+	357	219681507	queA	BUAP5A_130	-	COG0809J	S-adenosylmethionine--tRNA ribosyltransferase-isomerase
+138681..139793	+	370	219681508	tgt	BUAP5A_131	-	COG0343J	queuine tRNA-ribosyltransferase
+139818..140153	+	111	219681509	yajC	BUAP5A_132	-	COG1862U	subunit of SecD-SecF-Yajc-YidC secretion complex
+140205..142277	-	690	219681510	glyS	BUAP5A_133	-	COG0751J	glycyl-tRNA synthetase subunit beta
+142252..143190	-	312	219681511	glyQ	BUAP5A_134	-	COG0752J	glycyl-tRNA synthetase subunit alpha
+143886..144731	+	281	219681512	nfo	BUAP5A_135	-	COG0648L	endonuclease IV
+144766..145053	+	95	219681513	rplY	BUAP5A_136	-	COG1825J	50S ribosomal protein L25
+145123..145893	-	256	219681514	yabI	BUAP5A_137	-	COG0586S	hypothetical protein
+146080..147372	+	430	219681515	surA	BUAP5A_138	-	COG0760O	survival protein SurA
+147426..148247	+	273	219681516	ksgA	BUAP5A_139	-	COG0030J	dimethyladenosine transferase
+148292..149116	+	274	219681517	apaH	BUAP5A_140	-	COG0639T	diadenosine tetraphosphatase
+149143..149628	-	161	219681518	folA	BUAP5A_141	-	COG0262H	dihydrofolate reductase
+149718..152957	-	1079	219681519	carB	BUAP5A_142	-	COG0458EF	carbamoyl phosphate synthase large subunit
+152971..154134	-	387	219681520	carA	BUAP5A_143	-	COG0505EF	carbamoyl phosphate synthase small subunit
+154344..155153	-	269	219681521	dapB	BUAP5A_144	-	COG0289E	dihydrodipicolinate reductase
+155157..156116	-	319	219681522	ispH	BUAP5A_145	-	COG0761IM	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+156181..156663	-	160	219681523	lspA	BUAP5A_146	-	COG0597MU	lipoprotein signal peptidase
+156663..159485	-	940	219681524	ileS	BUAP5A_147	-	COG0060J	isoleucyl-tRNA synthetase
+159502..160443	-	313	219681525	ribF	BUAP5A_148	-	COG0196H	FMN adenylyltransferase
+160658..160927	+	89	219681526	rpsT	BUAP5A_149	-	COG0268J	30S ribosomal protein S20
+160977..162110	-	377	219681527	dnaJ	BUAP5A_150	-	COG0484O	chaperone protein DnaJ
+162223..164136	-	637	219681528	dnaK	BUAP5A_151	-	COG0443O	molecular chaperone DnaK
+164472..164876	+	134	219681529	nuoA	BUAP5A_152	-	COG0838C	NADH dehydrogenase I subunit A
+164910..165584	+	224	219681530	nuoB	BUAP5A_153	-	COG0377C	NADH dehydrogenase subunit B
+165675..167477	+	600	219681531	nuoCD	BUAP5A_154	-	COG0649C	bifunctional NADH:ubiquinone oxidoreductase subunit C/D
+167500..167988	+	162	219681532	nuoE	BUAP5A_155	-	COG1905C	NADH dehydrogenase subunit E
+167985..169319	+	444	219681533	nuoF	BUAP5A_156	-	COG1894C	NADH dehydrogenase I subunit F
+169413..172133	+	906	219681534	nuoG	BUAP5A_157	-	COG1034C	NADH dehydrogenase subunit G
+172145..173113	+	322	219681535	nuoH	BUAP5A_158	-	COG1005C	NADH dehydrogenase subunit H
+173138..173680	+	180	219681536	nuoI	BUAP5A_159	-	COG1143C	NADH dehydrogenase subunit I
+173690..174202	+	170	219681537	nuoJ	BUAP5A_160	-	COG0839C	NADH dehydrogenase I subunit J
+174233..174535	+	100	219681538	nuoK	BUAP5A_161	-	COG0713C	NADH dehydrogenase I subunit K
+174532..176376	+	614	219681539	nuoL	BUAP5A_162	-	COG1009CP	NADH dehydrogenase I subunit L
+176473..177990	+	505	219681540	nuoM	BUAP5A_163	-	COG1008C	NADH dehydrogenase I subunit M
+178048..179457	+	469	219681541	nuoN	BUAP5A_164	-	COG1007C	NADH dehydrogenase I subunit N
+180582..181817	+	411	219681542	folC	BUAP5A_165	-	COG0285H	dihydrofolate synthase
+182396..183343	-	315	219681543	prsA	BUAP5A_166	-	COG0462FE	ribose-phosphate pyrophosphokinase
+183463..184347	-	294	219681544	ipk	BUAP5A_167	-	COG1947I	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+184555..185640	+	361	219681545	prfA	BUAP5A_168	-	COG0216J	peptide chain release factor 1
+185637..186470	+	277	219681546	hemK	BUAP5A_169	-	COG2890J	HemK protein
+186630..187439	+	269	219681547	ychA	BUAP5A_170	-	COG2912S	putative transcriptional regulator
+187447..188253	-	268	219681548	nadE	BUAP5A_171	-	COG0171H	NAD synthetase
+188337..189554	+	405	219681549	ackA	BUAP5A_172	-	COG0282C	acetate kinase
+189599..191725	+	708	219681550	pta	BUAP5A_173	-	COG0280C	phosphate acetyltransferase
+191757..192020	-	87	219681551	yfaE	BUAP5A_174	-	COG0633C	diferric-tyrosyl radical cofactor maintenance protein
+192023..193153	-	376	219681552	nrdB	BUAP5A_175	-	COG0208F	ribonucleotide-diphosphate reductase subunit beta
+193221..195506	-	761	219681553	nrdA	BUAP5A_176	-	COG0209F	ribonucleotide-diphosphate reductase subunit alpha
+195579..198071	-	830	219681554	gyrA	BUAP5A_177	-	COG0188L	DNA gyrase subunit A
+198338..199054	+	238	219681555	yba2	BUAP5A_178	-	COG3416S	hypothetical protein
+199176..199769	-	197	219681556	ahpC	BUAP5A_179	-	COG0450O	alkyl hydroperoxide reductase
+200583..201149	-	188	219681557	grpE	BUAP5A_181	-	COG0576O	heat shock protein GrpE2
+201266..202144	+	292	219681558	ppnK	BUAP5A_182	-	COG0061G	inorganic polyphosphate/ATP-NAD kinase
+202277..202585	+	102	219681559	smpA	BUAP5A_183	-	COG2913J	small protein A
+203122..203448	+	108	219681944	grxD	BUAP5A_601	-	COG0278O	glutaredoxin
+203592..204257	-	221	219681560	rnt	BUAP5A_185	-	COG0847L	ribonuclease T
+204477..205088	+	203	219681561	sodA	BUAP5A_186	-	COG0605P	superoxide dismutase
+205276..205809	+	177	219681562	pth	BUAP5A_187	-	COG0193J	peptidyl-tRNA hydrolase
+205850..206938	+	362	219681563	ychF	BUAP5A_188	-	COG0012J	GTP-dependent nucleic acid-binding protein EngD
+207014..208303	-	429	219681564	thrC	BUAP5A_189	-	COG0498E	threonine synthase
+208310..209239	-	309	219681565	thrB	BUAP5A_190	-	COG0083E	homoserine kinase
+209260..211710	-	816	219681566	thrA	BUAP5A_191	-	COG0527E	bifunctional aspartokinase I/homoserine dehydrogenase I
+212369..212905	+	178	219681567	hpt	BUAP5A_192	-	COG0634F	hypoxanthine phosphoribosyltransferase
+212913..213770	-	285	219681568	panC	BUAP5A_193	-	COG0414H	pantoate--beta-alanine ligase
+213785..214576	-	263	219681569	panB	BUAP5A_194	-	COG0413H	3-methyl-2-oxobutanoate hydroxymethyltransferase
+214692..215147	-	151	219681570	dksA	BUAP5A_195	-	COG1734T	DnaK suppressor protein
+215404..216204	+	266	219681571	truA	BUAP5A_196	-	COG0101J	tRNA pseudouridine synthase A
+216276..218558	+	760	219681572	mrcB	BUAP5A_197	-	COG0744M	penicillin-binding protein 1b
+218788..221415	+	875	219681573	secA	BUAP5A_198	-	COG0653U	preprotein translocase subunit SecA
+221491..221865	+	124	219681574	mutT	BUAP5A_199	-	COG0494LR	mutator MutT protein
+221848..222501	-	217	219681575	yacE	BUAP5A_200	-	COG0237H	dephospho-CoA kinase
+222557..223606	+	349	219681576	guaC	BUAP5A_201	-	COG0516F	guanosine 5'-monophosphate oxidoreductase
+223834..226497	+	887	219681577	aceE	BUAP5A_202	-	COG2609C	pyruvate dehydrogenase subunit E1
+226501..227718	+	405	219681578	aceF	BUAP5A_203	-	COG0508C	branched-chain alpha-keto acid dehydrogenase subunit E2
+227762..229183	+	473	219681579	lpdA	BUAP5A_204	-	COG1249C	dihydrolipoamide dehydrogenase
+229356..230153	-	265	219681580	speD	BUAP5A_205	-	COG1586E	S-adenosylmethionine decarboxylase
+230172..231032	-	286	219681581	speE	BUAP5A_206	-	COG0421E	spermidine synthase
+231308..232006	-	232	219681582	pfs	BUAP5A_207	-	COG0775F	5'-methylthioadenosine nucleosidase
+232070..232414	-	114	219681583	yadR	BUAP5A_208	-	COG0316S	iron-sulfur cluster insertion protein ErpA
+232648..233802	-	384	219681584	ftsZ	BUAP5A_209	-	COG0206D	cell division protein FtsZ
+233860..235116	-	418	219681585	ftsA	BUAP5A_210	-	COG0849D	cell division protein FtsA
+236231..237685	-	484	219681586	murC	BUAP5A_211	-	COG0773M	UDP-N-acetylmuramate-alanine ligase
+237728..238792	-	354	219681587	murG	BUAP5A_212	-	COG0707M	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase
+238789..239988	-	399	219681588	ftsW	BUAP5A_213	-	COG0772D	cell division protein FtsW
+239985..241307	-	440	219681589	murD	BUAP5A_214	-	COG0771M	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+241307..242380	-	357	219681590	mraY	BUAP5A_215	-	COG0472M	phospho-N-acetylmuramoyl-pentapeptide-transferase
+242364..243740	-	458	219681591	murF	BUAP5A_216	-	COG0770M	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+243737..245233	-	498	219681592	murE	BUAP5A_217	-	COG0769M	UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase
+245234..246973	-	579	219681593	ftsI	BUAP5A_218	-	COG0768M	cell division protein FtsI
+247038..247291	-	84	219681594	ftsL	BUAP5A_219	-	COG3116D	cell division protein
+247294..248232	-	312	219681595	mraW	BUAP5A_220	-	COG0275M	S-adenosyl-methyltransferase MraW
+248354..248830	-	158	219681596	ilvH	BUAP5A_221	-	COG0440E	acetolactate synthase small subunit
+248835..250550	-	571	219681597	ilvI	BUAP5A_222	-	COG0028EH	acetolactate synthase large subunit
+252168..253604	+	478	219681598	htrA	BUAP5A_223	-	COG0265O	serine endoprotease
+253648..254472	-	274	219681599	dapD	BUAP5A_224	-	COG2171E	2,3,4,5-tetrahydropyridine-2,6-carboxylate N-succinyltransferase
+254533..255327	-	264	219681600	map	BUAP5A_225	-	COG0024J	methionine aminopeptidase
+255590..256324	+	244	219681601	rpsB	BUAP5A_226	-	COG0052J	30S ribosomal protein S2
+256401..257207	+	268	219681602	tsf	BUAP5A_227	-	COG0264J	elongation factor Ts
+257258..257986	+	242	219681603	pyrH	BUAP5A_228	-	COG0528F	uridylate kinase
+258066..258623	+	185	219681604	frr	BUAP5A_229	-	COG0233J	ribosome recycling factor
+258706..259902	+	398	219681605	dxr	BUAP5A_230	-	COG0743I	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+259995..260750	+	251	219681606	uppS	BUAP5A_231	-	COG0020I	undecaprenyl pyrophosphate synthetase
+260984..263386	+	800	219681607	yaeT	BUAP5A_232	-	COG4775M	YaeT
+263513..263968	+	151	219681608	fabZ	BUAP5A_233	-	COG0764I	(3R)-hydroxymyristoyl-ACP dehydratase
+264005..267490	+	1161	219681609	dnaE	BUAP5A_234	-	COG0587L	DNA polymerase III subunit alpha
+267618..269336	-	572	219681610	proS	BUAP5A_235	-	COG0442J	prolyl-tRNA synthetase
+269677..270828	+	383	219681611	flhB	BUAP5A_236	-	COG1377NU	flagellar biosynthesis protein FlhB
+270821..272911	+	696	219681612	flhA	BUAP5A_237	-	COG1298NU	flagellar biosynthesis protein FlhA
+273035..274759	-	574	219681613	argS	BUAP5A_238	-	COG0018J	arginyl-tRNA synthetase
+276943..277698	-	251	219681614	gloB	BUAP5A_242	-	COG0491R	hydroxyacylglutathione hydrolase
+278261..278974	+	237	219681615	dnaQ	BUAP5A_243	-	COG0847L	DNA polymerase III subunit epsilon
+279200..279781	+	193	219681616	gmhA	BUAP5A_245	-	COG0279G	phosphoheptose isomerase
+279888..280364	+	158	219681617	gpt	BUAP5A_246	-	COG0503F	xanthine-guanine phosphoribosyltransferase
+280466..281050	+	194	219681618	grpE1	BUAP5A_247	-	COG0576O	heat shock protein GrpE1
+281129..281428	-	99	219681619	yfjF	BUAP5A_248	-	COG2914S	hypothetical protein
+281522..282010	+	162	219681620	smpB	BUAP5A_249	-	COG0691O	SsrA-binding protein
+282019..282504	+	161	219681621	yfhC	BUAP5A_250	-	COG0590FJ	hypothetical protein YfhC
+282505..282885	-	126	219681622	acpS	BUAP5A_251	-	COG0736I	holo-[acyl-carrier protein] synthase
+283011..283862	-	283	219681623	era	BUAP5A_252	-	COG1159R	GTP-binding protein Era
+283859..284539	-	226	219681624	rnc	BUAP5A_253	-	COG0571K	ribonuclease III
+284670..285614	-	314	219681625	lepB	BUAP5A_254	-	COG0681U	signal peptidase I
+285630..287462	-	610	219681626	lepA	BUAP5A_255	-	COG0481M	GTP-binding protein LepA
+287658..288764	+	368	219681627	mnmA	BUAP5A_256	-	COG0482J	tRNA-specific 2-thiouridylase MnmA
+288800..289435	+	211	219681628	ycfC	BUAP5A_257	-	COG2915R	hypothetical protein
+289474..290844	+	456	219681629	purB	BUAP5A_258	-	COG0015F	adenylosuccinate lyase
+290868..291533	+	221	219681630	mltE	BUAP5A_259	-	COG0741M	membrane-bound lytic murein transglycosylase E
+291647..292429	+	260	219681631	fabI	BUAP5A_260	-	COG0623I	enoyl-[acyl-carrier-protein] reductase (NADH)
+292616..294565	+	649	219681632	rnb	BUAP5A_261	-	COG4776K	exoribonuclease II
+294673..295320	+	215	219681633	ychE	BUAP5A_262	-	COG2095U	hypothetical protein
+295358..295993	+	211	219681634	lipB	BUAP5A_263	-	COG0321H	lipoate-protein ligase B
+296113..297084	+	323	219681635	lipA	BUAP5A_264	-	COG0320H	lipoyl synthase
+297189..297899	+	236	219681636	pyrF	BUAP5A_265	-	COG0284F	orotidine 5'-phosphate decarboxylase
+297947..298531	+	194	219681637	ribA	BUAP5A_266	-	COG0807H	GTP cyclohydrolase II
+298635..299042	-	135	219681638	hns	BUAP5A_267	-	COG2916R	DNA-binding protein H-ns
+299388..300848	-	486	219681639	cls	BUAP5A_268	-	COG1502I	cardiolipin synthetase
+301229..301636	-	135	219681640	yciA	BUAP5A_269	-	COG1607I	acyl-CoA thioesterase (YciA)
+301673..302206	-	177	219681641	yciB	BUAP5A_270	-	COG2917D	intracellular septation protein A
+302234..302977	-	247	219681642	yciC	BUAP5A_271	-	-	hypothetical protein
+303082..303891	-	269	219681643	trpA	BUAP5A_272	-	COG0159E	tryptophan synthase subunit alpha
+305115..306476	-	453	219681644	trpC	BUAP5A_274	-	COG0134E	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase
+306457..307485	-	342	219681645	trpD	BUAP5A_275	-	COG0547E	anthranilate phosphoribosyltransferase
+307720..308643	+	307	219681646	yedA	BUAP5A_276	-	-	hypothetical protein
+308672..309424	+	250	219681647	yciL	BUAP5A_277	-	COG1187J	23S rRNA pseudouridine synthase (YciL)
+309499..310509	+	336	219681648	sohB	BUAP5A_278	-	COG0616OU	putative periplasmic protease
+310595..313180	+	861	219681649	topA	BUAP5A_279	-	COG0550L	DNA topoisomerase I
+313232..314032	-	266	219681650	suhB	BUAP5A_280	-	COG0483G	extragenic suppressor protein SuhB
+314279..315370	+	363	219681651	yfgB	BUAP5A_281	-	COG0820R	23S rRNA m2A2503 methyltransferase (YfgB)
+315421..316527	+	368	219681652	ispG	BUAP5A_282	-	COG0821I	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+316553..317824	+	423	219681653	hisS	BUAP5A_283	-	COG0124J	histidyl-tRNA synthetase
+317884..319137	+	417	219681654	glyA	BUAP5A_284	-	COG0112E	serine hydroxymethyltransferase
+319225..319899	-	224	219681655	bioD	BUAP5A_285	-	COG0132H	dethiobiotin synthetase
+320263..321294	-	343	219681656	bioB	BUAP5A_286	-	COG0502H	biotin synthetase
+321373..322659	+	428	219681657	bioA	BUAP5A_287	-	COG0161H	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+322668..323672	-	334	219681658	ybhE	BUAP5A_288	-	COG2706G	6-phosphogluconolactonase
+323796..326234	-	812	219681659	mfd	BUAP5A_289	-	COG1197LK	transcription-repair coupling factor
+326707..327906	+	399	219681660	lolC	BUAP5A_290	-	COG4591M	LolCDE ABC lipoprotein transporter (YcfU)
+327899..328585	+	228	219681661	lolD	BUAP5A_291	-	COG1136V	LolCDE ABC lipoprotein transporter (YcfV)
+329910..330920	+	336	219681662	gapA	BUAP5A_292	-	COG0057G	glyceraldehyde 3-phosphate dehydrogenase A
+331530..332045	-	171	219681663	fldA	BUAP5A_293	-	COG0716C	flavodoxin FldA
+332252..333703	+	483	219681664	phrB	BUAP5A_294	-	COG0415L	deoxyribodipyrimidine photolyase
+333700..334443	+	247	219681665	ybgI	BUAP5A_295	-	COG0327S	hypothetical protein
+334568..337297	+	909	219681666	sucA	BUAP5A_296	-	COG0567C	2-oxoglutarate dehydrogenase E1 component
+337313..338575	+	420	219681667	sucB	BUAP5A_297	-	COG0508C	2-oxoglutarate dehydrogenase E2 component
+338673..339368	+	231	219681668	gpmA	BUAP5A_298	-	COG0588G	phosphoglyceromutase
+339552..340514	+	320	219681669	pfkA	BUAP5A_299	-	COG0205G	6-phosphofructokinase
+340580..341371	+	263	219681670	glpF	BUAP5A_300	-	COG0580G	glycerol uptake facilitator protein
+341380..342147	-	255	219681671	tpiA	BUAP5A_301	-	COG0149G	triosephosphate isomerase
+342246..342530	-	94	219681672	ihfB	BUAP5A_302	-	COG0776L	integration host factor subunit beta
+342626..344302	-	558	219681673	rpsA	BUAP5A_303	-	COG0539J	30S ribosomal protein S1
+345141..346424	-	427	219681674	aroA	BUAP5A_304	-	COG0128E	3-phosphoshikimate 1-carboxyvinyltransferase
+346492..347577	-	361	219681675	serC	BUAP5A_305	-	COG1932HE	phosphoserine aminotransferase
+347616..348899	-	427	219681676	serS	BUAP5A_306	-	COG0172J	seryl-tRNA synthetase
+349248..350207	+	319	219681677	trxB	BUAP5A_307	-	COG0492O	thioredoxin reductase
+350314..350532	+	72	219681678	infA	BUAP5A_308	-	COG0361J	translation initiation factor IF-1
+350702..352462	+	586	219681679	aspS	BUAP5A_309	-	COG0173J	aspartyl-tRNA synthetase
+352473..353261	-	262	219681680	znuB	BUAP5A_310	-	COG1108P	high-affinity zinc uptake system membrane protein ZnuB
+353319..354035	-	238	219681681	znuC	BUAP5A_311	-	COG1121P	high-affinity zinc uptake system ATP-binding protein ZnuC
+355353..356795	-	480	219681682	pykA	BUAP5A_312	-	COG0469G	pyruvate kinase
+357079..358554	+	491	219681683	zwf	BUAP5A_313	-	COG0364G	glucose-6-phosphate 1-dehydrogenase
+358739..359617	+	292	219681684	htpX	BUAP5A_314	-	COG0501O	heat shock protein HtpX
+359966..360175	+	69	219681685	cspC	BUAP5A_315	-	COG1278K	cold shock-like protein CspC
+360478..362043	+	521	219681686	yoaE	BUAP5A_316	-	COG0861P	inner membrane protein (YoaE)
+362073..362738	+	221	219681687	yeaZ	BUAP5A_317	-	COG1214O	hypothetical protein
+362884..363135	-	83	219681688	minE	BUAP5A_318	-	COG0851D	cell division topological specificity factor MinE
+363139..363951	-	270	219681689	minD	BUAP5A_319	-	COG2894D	septum site-determining protein MinD
+363978..364691	-	237	219681690	minC	BUAP5A_320	-	COG0850D	cell division inhibitor MinC
+365092..365934	+	280	219681691	yjjT	BUAP5A_321	-	COG2813J	16S rRNA m(2)G 1207 methyltransferase
+366486..367535	-	349	219681692	ompA	BUAP5A_326	-	COG2885M	outer membrane protein A
+367691..369226	-	511	219681693	mviN	BUAP5A_327	-	COG0728R	virulence factor MviN-like protein
+369500..370552	+	350	219681694	pyrC	BUAP5A_328	-	COG0418F	dihydroorotase
+370572..370979	-	135	219681695	flgN	BUAP5A_329	-	COG3418NUO	flagella synthesis protein FlgN
+371052..371732	-	226	219681696	flgA	BUAP5A_330	-	COG1261NO	flagella basal-body P-ring formation protein FlgA
+372425..372835	+	136	219681697	flgC	BUAP5A_332	-	COG1558N	flagellar basal-body rod protein FlgC
+372847..373557	+	236	219681698	flgD	BUAP5A_333	-	COG1843N	basal-body rod modification protein FlgD
+373598..374824	+	408	219681699	flgE	BUAP5A_334	-	COG1749N	flagellar hook protein FlgE
+374851..375609	+	252	219681700	flgF	BUAP5A_335	-	COG4787N	flagellar basal body rod protein FlgF
+375627..376409	+	260	219681701	flgG	BUAP5A_336	-	COG4786N	flagellar basal body rod protein FlgG
+376493..377209	+	238	219681702	flgH	BUAP5A_337	-	COG2063N	flagellar basal body L-ring protein
+377390..378547	+	385	219681703	flgI	BUAP5A_338	-	COG1706N	flagellar basal body P-ring protein
+378547..378846	+	99	219681704	flgJ	BUAP5A_339	-	COG3951MNO	flagellar protein FlgJ
+378947..380578	+	543	219681705	flgK	BUAP5A_340	-	COG1256N	flagellar hook-associated protein 1
+380743..383451	-	902	219681706	rne	BUAP5A_341	-	COG1530J	ribonuclease E
+383786..384730	+	314	219681707	rluC	BUAP5A_342	-	COG0564J	ribosomal large subunit pseudouridine synthase C
+384776..384940	+	54	219681708	rpmF	BUAP5A_343	-	COG0333J	50S ribosomal protein L32
+386307..387041	+	244	219681709	fabG	BUAP5A_344	-	COG1028IQR	3-oxoacyl-ACP reductase
+387118..387360	+	80	219681710	acpP	BUAP5A_345	-	COG0236IQ	acyl carrier protein
+387431..388069	+	212	219681711	tmk	BUAP5A_346	-	COG0125F	thymidylate kinase
+388066..389046	+	326	219681712	holB	BUAP5A_347	-	COG0470L	DNA polymerase III subunit delta'
+389080..389874	+	264	219681713	ycfH	BUAP5A_348	-	COG0084L	metallodependent hydrolase (YcfH)
+389970..391403	+	477	219681714	ptsG	BUAP5A_349	-	COG1263G	PTS system glucose-specific transporter subunit IIBC
+391423..391767	+	114	219681715	hinT	BUAP5A_350	-	COG0537FGR	purine nucleoside phosphoramidase (YcfF)
+391844..392353	+	169	219681716	ycfM	BUAP5A_351	-	COG3417R	outer membrane lipoprotein (YcfM)
+392602..393750	-	382	219681717	ompF	BUAP5A_352	-	COG3203M	OmpF-like porin
+393890..395290	-	466	219681718	asnC	BUAP5A_353	-	COG0017J	asparaginyl-tRNA synthetase
+395438..396637	-	399	219681719	pncB	BUAP5A_354	-	COG1488H	nicotinate phosphoribosyltransferase
+397059..397922	+	287	219681720	pyrD	BUAP5A_355	-	COG0167F	dihydroorotate dehydrogenase 2
+398098..400203	+	701	219681721	rlmL	BUAP5A_356	-	COG0116L	23S rRNA m(2)G2445 methyltransferase
+400223..402013	+	596	219681722	uup	BUAP5A_357	-	COG0488R	ABC transporter ATP-binding protein
+402017..402991	-	324	219681723	yceA	BUAP5A_358	-	COG1054R	hypothetical protein
+403048..405915	-	955	219681724	valS	BUAP5A_359	-	COG0525J	valyl-tRNA synthetase
+405992..407491	-	499	219681725	pepA	BUAP5A_360	-	COG0260E	leucyl aminopeptidase
+407751..408767	+	338	219681726	argF	BUAP5A_361	-	COG0078E	ornithine carbamoyltransferase subunit I
+408886..409818	+	310	219681727	pyrB	BUAP5A_362	-	COG0540F	aspartate carbamoyltransferase catalytic subunit
+409826..410290	+	154	219681728	pyrI	BUAP5A_363	-	COG1781F	aspartate carbamoyltransferase regulatory subunit
+410336..410722	+	128	219681729	tdcF	BUAP5A_364	-	COG0251J	L-PSP (mRNA) endoribonuclease (YhaR)
+410809..412614	-	601	219681730	deaD	BUAP5A_365	-	COG0513LKJ	ATP-dependent RNA helicase DeaD
+412995..415118	-	707	219681731	pnp	BUAP5A_366	-	COG1185J	polynucleotide phosphorylase/polyadenylase
+415320..415589	-	89	219681732	rpsO	BUAP5A_367	-	COG0184J	30S ribosomal protein S15
+415694..416632	-	312	219681733	truB	BUAP5A_368	-	COG0130J	tRNA pseudouridine synthase B
+416670..417032	-	120	219681734	rbfA	BUAP5A_369	-	COG0858J	ribosome-binding factor A
+417078..419672	-	864	219681735	infB	BUAP5A_370	-	COG0532J	translation initiation factor IF-2
+419690..421180	-	496	219681736	nusA	BUAP5A_371	-	COG0195K	transcription elongation factor NusA
+421653..421982	-	109	219681737	secG	BUAP5A_373	-	COG1314U	preprotein translocase subunit SecG
+422245..423579	-	444	219681738	glmM	BUAP5A_374	-	COG1109G	phosphoglucosamine mutase
+423799..425634	-	611	219681739	hflB	BUAP5A_375	-	COG0465O	cell division protein FtsH
+426393..426872	-	159	219681740	greA	BUAP5A_377	-	COG0782K	transcription elongation factor GreA
+427396..427638	+	80	219681741	yrbA	BUAP5A_378	-	COG5007K	hypothetical protein
+427700..428950	+	416	219681742	murA	BUAP5A_379	-	COG0766M	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+429089..429415	+	108	219681743	rplU	BUAP5A_380	-	COG0261J	50S ribosomal protein L21
+429420..429674	+	84	219681744	rpmA	BUAP5A_381	-	COG0211J	50S ribosomal protein L27
+429826..430830	+	334	219681745	obgE	BUAP5A_382	-	COG0536R	GTPase ObgE
+430898..431290	-	130	219681746	rpsI	BUAP5A_383	-	COG0103J	30S ribosomal protein S9
+431311..431739	-	142	219681747	rplM	BUAP5A_384	-	COG0102J	50S ribosomal protein L13
+431991..433148	+	385	219681748	pheA	BUAP5A_385	-	COG0077E	chorismate mutase
+433330..434685	+	451	219681749	ffh	BUAP5A_386	-	COG0541U	signal recognition particle protein
+434794..435033	+	79	219681750	rpsP	BUAP5A_387	-	COG0228J	30S ribosomal protein S16
+435035..435565	+	176	219681751	rimM	BUAP5A_388	-	COG0806J	16S rRNA-processing protein RimM
+435580..436293	+	237	219681752	trmD	BUAP5A_389	-	COG0336J	tRNA (guanine-N(1)-)-methyltransferase
+436392..436739	+	115	219681753	rplS	BUAP5A_390	-	COG0335J	50S ribosomal protein L19
+436823..438274	-	483	219681754	tldD	BUAP5A_391	-	COG0312R	TldD protein
+438432..438884	+	150	219681755	aroD	BUAP5A_392	-	COG0757E	3-dehydroquinate dehydratase
+439076..439372	-	98	219681756	fis	BUAP5A_393	-	COG2901KL	factor-for-inversion stimulation protein
+439541..440479	-	312	219681757	rluD	BUAP5A_394	-	COG0564J	ribosomal large subunit pseudouridine synthase D
+440644..441384	+	246	219681758	yfiO	BUAP5A_395	-	COG4105R	hypothetical 27.8 kDa lipoprotein
+441550..444186	+	878	219681759	alaS	BUAP5A_396	-	COG0013J	alanyl-tRNA synthetase
+444381..444554	+	57	219681760	csrA	BUAP5A_397	-	COG1551T	carbon storage regulator
+445012..446568	+	518	219681761	gshA	BUAP5A_400	-	COG2918H	glutamate--cysteine ligase
+446715..447851	-	378	219681762	metK	BUAP5A_401	-	COG0192H	S-adenosylmethionine synthetase
+448086..448838	+	250	219681763	endA	BUAP5A_402	-	COG2356L	endonuclease I
+448810..449571	+	253	219681764	rsmE	BUAP5A_403	-	COG1385S	16S ribosomal RNA methyltransferase RsmE
+449645..450316	-	223	219681765	rpiA	BUAP5A_404	-	COG0120G	ribose-5-phosphate isomerase A
+450943..452658	+	571	219681766	glnS	BUAP5A_408	-	COG0008J	glutaminyl-tRNA synthetase
+452832..454469	+	545	219681767	pyrG	BUAP5A_409	-	COG0504F	CTP synthetase
+454499..455803	+	434	219681768	eno	BUAP5A_410	-	COG0148G	phosphopyruvate hydratase
+455959..456963	-	334	219681769	nlpD	BUAP5A_411	-	COG0739M	lipoprotein NlpD
+457053..457538	-	161	219681770	ispF	BUAP5A_412	-	COG0245I	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+457554..458267	-	237	219681771	ispD	BUAP5A_413	-	COG1211I	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+458350..458565	-	71	219681772	ftsB	BUAP5A_414	-	COG2919D	essential cell division protein FtsB (YgbQ)
+458623..459243	-	206	219681773	cysC	BUAP5A_415	-	COG0529P	adenylylsulfate kinase
+459244..460665	-	473	219681774	cysN	BUAP5A_416	-	COG2895P	sulfate adenylyltransferase
+460684..461592	-	302	219681775	cysD	BUAP5A_417	-	COG0175EH	sulfate adenylyltransferase subunit 2
+461602..463023	-	473	219681776	cysG	BUAP5A_418	-	COG0007H	ferrochelatase
+463362..464096	-	244	219681777	cysH	BUAP5A_419	-	COG0175EH	phosphoadenosine phosphosulfate reductase
+464112..465821	-	569	219681778	cysI	BUAP5A_420	-	COG0155P	sulfite reductase subunit beta
+465821..467626	-	601	219681779	cysJ	BUAP5A_421	-	COG0369P	sulfite reductase (NADPH) flavoprotein alpha-component
+467817..470225	-	802	219681780	mutS	BUAP5A_422	-	COG0249L	DNA mismatch repair protein MutS
+470382..471020	+	212	219681781	dsbA	BUAP5A_423	-	COG1651O	thiol:disulfide interchange protein DsbA precursor
+471141..472001	+	286	219681782	polA	BUAP5A_424	-	COG0258L	DNA polymerase I
+472064..472681	-	205	219681783	engB	BUAP5A_425	-	COG0218R	ribosome biogenesis GTP-binding protein YsxC
+472932..474755	+	607	219681784	typA	BUAP5A_426	-	COG1217T	GTP-binding protein BipA
+474878..475501	-	207	219681785	gmk	BUAP5A_427	-	COG0194F	guanylate kinase
+475601..476560	-	319	219681786	ygfZ	BUAP5A_428	-	COG0354R	folate-binding protein (YgfZ)
+476779..477828	+	349	219681787	prfB	BUAP5A_429	-	COG1186J	peptide chain release factor 2
+477838..479358	+	506	219681788	lysS	BUAP5A_430	-	COG1190J	lysyl-tRNA synthetase
+479424..480671	+	415	219681789	lysA	BUAP5A_431	-	COG0019E	diaminopimelate decarboxylase
+480737..481582	+	281	219681790	lgt	BUAP5A_432	-	COG0682M	prolipoprotein diacylglyceryl transferase
+481596..482390	+	264	219681791	thyA	BUAP5A_433	-	COG0207F	thymidylate synthase
+482458..483777	+	439	219681792	miaB	BUAP5A_434	-	COG0621J	(dimethylallyl)adenosine tRNA methylthiotransferase
+483931..484266	+	111	219681793	ybeY	BUAP5A_435	-	COG0319R	hypothetical protein
+484347..485222	+	291	219681794	ybeX	BUAP5A_436	-	COG4535P	hypothetical protein
+485326..487905	+	859	219681795	leuS	BUAP5A_437	-	COG0495J	leucyl-tRNA synthetase
+487945..488940	+	331	219681796	holA	BUAP5A_438	-	COG1466L	DNA polymerase III subunit delta
+488963..489607	+	214	219681797	nadD	BUAP5A_439	-	COG1057H	nicotinate-mononucleotide adenylyltransferase (YbeN)
+489668..489898	+	76	219681798	sirA	BUAP5A_440	-	COG0425O	sulfur transfer protein SirA
+490045..491160	-	371	219681799	asd	BUAP5A_441	-	COG0136E	aspartate-semialdehyde dehydrogenase
+491456..492046	+	196	219681800	yhgN	BUAP5A_442	-	COG2095U	putative dITP- and XTP- hydrolase
+492159..493331	+	390	219681801	pgk	BUAP5A_443	-	COG0126G	phosphoglycerate kinase
+493347..494423	+	358	219681802	fba	BUAP5A_444	-	COG0191G	fructose-bisphosphate aldolase
+494559..495404	+	281	219681803	yggB	BUAP5A_445	-	COG0668M	mechanosensitive channel MscS
+495463..498687	+	1074	219681804	recC	BUAP5A_446	-	COG1330L	exodeoxyribonuclease V 125 kDa polypeptide
+498692..502216	+	1174	219681805	recB	BUAP5A_447	-	COG1074L	exodeoxyribonuclease V 135 kDa polypeptide
+502222..504030	+	602	219681806	recD	BUAP5A_448	-	COG0507L	exodeoxyribonuclease V 67 kDa polypeptide
+504069..505397	-	442	219681807	argA	BUAP5A_449	-	COG0548E	N-acetylglutamate synthase
+505764..506843	+	359	219681808	mltA	BUAP5A_451	-	COG2821M	murein transglycosylase A
+506882..507364	+	160	219681809	ribH	BUAP5A_452	-	COG0054H	6,7-dimethyl-8-ribityllumazine synthase
+507394..508365	+	323	219681810	thiL	BUAP5A_453	-	COG0611H	thiamin-monophosphate kinase
+508421..508846	+	141	219681811	ribD1	BUAP5A_454	-	COG0117H	riboflavin deaminase
+508889..509512	+	207	219681812	ribD2	BUAP5A_455	-	COG1985H	riboflavin reductase
+509549..509980	+	143	219681813	nusB	BUAP5A_456	-	COG0781K	transcription antitermination protein NusB
+510035..511861	-	608	219681814	dxs	BUAP5A_457	-	COG1154HI	1-deoxy-D-xylulose-5-phosphate synthase
+511919..512767	-	282	219681815	ispA	BUAP5A_458	-	COG0142H	geranyltranstransferase
+512819..513991	-	390	219681816	yajR	BUAP5A_459	-	COG2814G	hypothetical protein
+514065..514409	+	114	219681817	yccK	BUAP5A_460	-	COG2920P	hypothetical protein
+514430..515287	-	285	219681818	cyoE	BUAP5A_461	-	COG0109O	protoheme IX farnesyltransferase
+515315..515632	-	105	219681819	cyoD	BUAP5A_462	-	COG3125C	cytochrome O ubiquinol oxidase subunit IV
+515632..516249	-	205	219681820	cyoC	BUAP5A_463	-	COG1845C	cytochrome O ubiquinol oxidase subunit III
+516246..518234	-	662	219681821	cyoB	BUAP5A_464	-	COG0843C	cytochrome O ubiquinol oxidase subunit I
+518239..519129	-	296	219681822	cyoA	BUAP5A_465	-	COG1622C	cytochrome O ubiquinol oxidase subunit II
+519428..519742	+	104	219681823	bolA	BUAP5A_466	-	COG0271T	BolA protein
+519877..521205	+	442	219681824	tig	BUAP5A_467	-	COG0544O	trigger factor
+521340..521966	+	208	219681825	clpP	BUAP5A_468	-	COG0740OU	ATP-dependent Clp protease proteolytic subunit
+522065..523354	+	429	219681826	clpX	BUAP5A_469	-	COG1219O	ATP-dependent protease ATP-binding subunit ClpX
+523546..525879	+	777	219681827	lon	BUAP5A_470	-	COG0466O	ATP-dependent protease LA
+526021..527892	+	623	219681828	ppiD	BUAP5A_471	-	COG0760O	peptidyl-prolyl cis-trans isomerase D
+528859..530628	+	589	219681829	mdl	BUAP5A_472	-	COG1132V	multidrug resistance-like ATP-binding protein Mdl
+530600..532372	+	590	219681830	mdlB	BUAP5A_473	-	COG1132V	multidrug resistance-like ATP-binding protein MdlB
+532667..533752	+	361	219681831	dnaX	BUAP5A_474	-	COG2812L	DNA polymerase III subunits gamma and tau
+534072..534401	+	109	219681832	ybaB	BUAP5A_475	-	COG0718S	hypothetical protein
+534547..536421	+	624	219681833	htpG	BUAP5A_476	-	COG0326O	heat shock protein 90
+536494..537141	+	215	219681834	adk	BUAP5A_477	-	COG0563F	adenylate kinase
+537372..538229	+	285	219681835	folD	BUAP5A_479	-	COG0190H	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+538226..539620	-	464	219681836	cysS	BUAP5A_480	-	COG0215J	cysteinyl-tRNA synthetase
+539881..540144	+	87	219681837	ybeD	BUAP5A_481	-	COG2921S	hypothetical protein
+540251..540460	-	69	219681838	cspE	BUAP5A_482	-	COG1278K	cold shock protein CspE
+544274..545095	-	273	219681839	aroE	BUAP5A_486	-	COG0169E	shikimate 5-dehydrogenase
+545088..545615	-	175	219681840	rimN	BUAP5A_487	-	COG0009J	dsRNA-binding protein, putative ribosome maturation factor (YrdC)
+545713..546186	-	157	219681841	smg	BUAP5A_488	-	COG2922S	Smg protein
+546430..546951	+	173	219681842	def	BUAP5A_489	-	COG0242J	peptide deformylase
+546959..547903	+	314	219681843	fmt	BUAP5A_490	-	COG0223J	methionyl-tRNA formyltransferase
+548031..548423	-	130	219681844	rplQ	BUAP5A_491	-	COG0203J	50S ribosomal protein L17
+548468..549457	-	329	219681845	rpoA	BUAP5A_492	-	COG0202K	DNA-directed RNA polymerase subunit alpha
+549486..550106	-	206	219681846	rpsD	BUAP5A_493	-	COG0522J	30S ribosomal protein S4
+550132..550527	-	131	219681847	rpsK	BUAP5A_494	-	COG0100J	30S ribosomal protein S11
+550545..550901	-	118	219681848	rpsM	BUAP5A_495	-	COG0099J	30S ribosomal protein S13
+550995..551111	-	38	219681849	rpmJ	BUAP5A_496	-	COG0257J	50S ribosomal protein L36
+551137..552450	-	437	219681850	secY	BUAP5A_497	-	COG0201U	preprotein translocase subunit SecY
+552461..552895	-	144	219681851	rplO	BUAP5A_498	-	COG0200J	50S ribosomal protein L15
+552900..553079	-	59	219681852	rpmD	BUAP5A_499	-	COG1841J	50S ribosomal protein L30
+553089..553592	-	167	219681853	rpsE	BUAP5A_500	-	COG0098J	30S ribosomal protein S5
+553608..553976	-	122	219681854	rplR	BUAP5A_501	-	COG0256J	50S ribosomal protein L18
+553978..554535	-	185	219681855	rplF	BUAP5A_502	-	COG0097J	50S ribosomal protein L6
+554525..554917	-	130	219681856	rpsH	BUAP5A_503	-	COG0096J	30S ribosomal protein S8
+554946..555251	-	101	219681857	rpsN	BUAP5A_504	-	COG0199J	30S ribosomal protein S14
+555269..555808	-	179	219681858	rplE	BUAP5A_505	-	COG0094J	50S ribosomal protein L5
+555823..556137	-	104	219681859	rplX	BUAP5A_506	-	COG0198J	50S ribosomal protein L24
+556163..556531	-	122	219681860	rplN	BUAP5A_507	-	COG0093J	50S ribosomal protein L14
+556645..556896	-	83	219681861	rpsQ	BUAP5A_508	-	COG0186J	30S ribosomal protein S17
+556896..557093	-	65	219681862	rpmC	BUAP5A_509	-	COG0255J	50S ribosomal protein L29
+557093..557503	-	136	219681863	rplP	BUAP5A_510	-	COG0197J	50S ribosomal protein L16
+557524..558225	-	233	219681864	rpsC	BUAP5A_511	-	COG0092J	30S ribosomal protein S3
+558244..558576	-	110	219681865	rplV	BUAP5A_512	-	COG0091J	50S ribosomal protein L22
+558612..558890	-	92	219681866	rpsS	BUAP5A_513	-	COG0185J	30S ribosomal protein S19
+558910..559731	-	273	219681867	rplB	BUAP5A_514	-	COG0090J	50S ribosomal protein L2
+559746..560048	-	100	219681868	rplW	BUAP5A_515	-	COG0089J	50S ribosomal protein L23
+560045..560650	-	201	219681869	rplD	BUAP5A_516	-	COG0088J	50S ribosomal protein L4
+560668..561297	-	209	219681870	rplC	BUAP5A_517	-	COG0087J	50S ribosomal protein L3
+561328..561639	-	103	219681871	rpsJ	BUAP5A_518	-	COG0051J	30S ribosomal protein S10
+561970..563154	-	394	219681872	tufB	BUAP5A_519	-	COG0050J	elongation factor Tu
+563222..565330	-	702	219681873	fusA	BUAP5A_520	-	COG0480J	elongation factor G
+565445..565915	-	156	219681874	rpsG	BUAP5A_521	-	COG0049J	30S ribosomal protein S7
+565957..566331	-	124	219681875	rpsL	BUAP5A_522	-	COG0048J	30S ribosomal protein S12
+566465..566752	-	95	219681876	yheL	BUAP5A_523	-	COG2168P	sulfur transfer complex subunit TusB
+566764..567123	-	119	219681877	yheM	BUAP5A_524	-	COG2923P	sulfur relay protein TusC
+567142..567528	-	128	219681878	yheN	BUAP5A_525	-	COG1553P	sulfur transfer complex subunit TusD
+567611..568336	-	241	219681879	fkpA	BUAP5A_526	-	COG0545O	FKBP-type peptidyl-prolyl cis-trans isomerase FkpA
+568798..570024	-	408	219681880	argD	BUAP5A_527	-	COG4992E	bifunctional N-succinyldiaminopimelate-aminotransferase/acetylornithine transaminase protein
+570341..571507	+	388	219681881	yhfC	BUAP5A_528	-	COG0738G	hypothetical protein
+571569..572576	-	335	219681882	trpS	BUAP5A_529	-	COG0180J	tryptophanyl-tRNA synthetase
+572599..573285	-	228	219681883	rpe	BUAP5A_530	-	COG0036G	ribulose-phosphate 3-epimerase
+574168..575259	-	363	219681884	aroB	BUAP5A_531	-	COG0337E	3-dehydroquinate synthase
+575277..575798	-	173	219681885	aroK	BUAP5A_532	-	COG0703E	shikimate kinase I
+576401..577105	-	234	219681886	deoD	BUAP5A_534	-	COG0813F	purine nucleoside phosphorylase
+577149..578372	-	407	219681887	deoB	BUAP5A_535	-	COG1015G	phosphopentomutase
+578432..580012	-	526	219681888	prfC	BUAP5A_536	-	COG4108J	peptide chain release factor 3
+581124..581702	-	192	219681889	nfuA	BUAP5A_537	-	COG0316S	iron-sulfur cluster scaffold protein (YhgI)
+582315..582830	-	171	219681890	ssb	BUAP5A_538	-	COG0629L	single-strand binding protein
+583500..584897	+	465	219681891	dnaB	BUAP5A_539	-	COG0305L	replicative DNA helicase
+585144..586106	+	320	219681892	gshB	BUAP5A_540	-	COG0189HJ	glutathione synthetase
+586117..586524	+	135	219681893	yqgF	BUAP5A_541	-	COG0816L	Holliday junction resolvase-like protein
+586642..587244	+	200	219681894	yggS	BUAP5A_542	-	COG0325R	hypothetical protein
+587287..588417	+	376	219681895	yggW	BUAP5A_543	-	COG0635H	oxidoreductase (YggW)
+588424..589143	-	239	219681896	trmB	BUAP5A_544	-	COG0220R	tRNA (guanine-N(7)-)-methyltransferase
+589241..590293	+	350	219681897	mutY	BUAP5A_545	-	COG1194L	A/G-specific adenine glycosylase
+590265..590546	+	93	219681898	yggX	BUAP5A_546	-	COG2924CO	hypothetical protein
+590640..591428	+	262	219681899	murI	BUAP5A_547	-	COG0796M	glutamate racemase
+592941..593249	+	102	219681900	yeeX	BUAP5A_549	-	COG2926S	hypothetical protein
+593630..594271	+	213	219681901	pyrE	BUAP5A_552	-	COG0461F	orotate phosphoribosyltransferase
+594283..594747	-	154	219681902	dut	BUAP5A_553	-	COG0756F	deoxyuridine 5'-triphosphate nucleotidohydrolase
+594791..595588	-	265	219681903	cysQ	BUAP5A_554	-	COG1218P	CysQ protein
+595575..596027	-	150	219681904	rplI	BUAP5A_555	-	COG0359J	50S ribosomal protein L9
+596076..596303	-	75	219681905	rpsR	BUAP5A_556	-	COG0238J	30S ribosomal protein S18
+596429..596770	-	113	219681906	rpsF	BUAP5A_557	-	COG0360J	30S ribosomal protein S6
+596936..599173	-	745	219681907	vacB	BUAP5A_558	-	COG0557K	VacB protein
+599261..600562	-	433	219681908	purA	BUAP5A_559	-	COG0104F	adenylosuccinate synthetase
+600612..601544	-	310	219681909	hflC	BUAP5A_560	-	COG0330O	FtsH protease regulator HflC
+601547..602767	-	406	219681910	hflK	BUAP5A_561	-	COG0330O	HflK protein
+602924..603832	-	302	219681911	miaA	BUAP5A_562	-	COG0324J	tRNA delta(2)-isopentenylpyrophosphate transferase
+603870..605624	-	584	219681912	mutL	BUAP5A_563	-	COG0323L	DNA mismatch repair protein MutL
+605724..606881	-	385	219681913	mtlD	BUAP5A_564	-	COG0246G	mannitol-1-phosphate 5-dehydrogenase
+606923..608821	-	632	219681914	mtlA	BUAP5A_565	-	COG2213G	PTS system mannitol-specific transporter subunit IIABC
+608995..610644	-	549	219681915	pgi	BUAP5A_566	-	COG0166G	glucose-6-phosphate isomerase
+610958..611512	+	184	219681916	orn	BUAP5A_567	-	COG1949A	oligoribonuclease
+611965..612678	+	237	219681917	amiB	BUAP5A_569	-	COG0860M	N-acetylmuramoyl-L-alanine amidase
+612785..613003	-	72	219681918	rpmE	BUAP5A_570	-	COG0254J	50S ribosomal protein L31
+613609..614121	+	170	219681919	hslV	BUAP5A_571	-	COG5405O	ATP-dependent protease peptidase subunit
+614134..615465	+	443	219681920	hslU	BUAP5A_572	-	COG1220O	ATP-dependent protease ATP-binding subunit HslU
+615672..616145	+	157	219681921	ibpA	BUAP5A_573	-	COG0071O	16 kDa heat shock protein A
+616222..616980	+	252	219681922	fpr	BUAP5A_574	-	COG1018C	ferredoxin-NADP reductase
+616998..617972	-	324	219681923	yjeA	BUAP5A_575	-	COG2269J	lysyl-tRNA synthetase
+618043..618540	+	165	219681924	coaD	BUAP5A_576	-	COG0669H	phosphopantetheine adenylyltransferase
+618627..619730	-	367	219681925	yba3	BUAP5A_577	-	-	hypothetical protein
+619723..620061	-	112	219681926	yba4	BUAP5A_578	-	-	hypothetical protein
+620217..620957	+	246	219681927	yhiQ	BUAP5A_579	-	-	SAM-dependent methyltransferase (YhiQ)
+621040..622512	-	490	219681928	pitA	BUAP5A_580	-	COG0306P	low-affinity inorganic phosphate transporter
+623931..624785	-	284	219681929	dapF	BUAP5A_582	-	COG0253E	diaminopimelate epimerase
+624974..625324	+	116	219681930	cyaY	BUAP5A_583	-	COG1965P	CyaY protein
+625453..626397	+	314	219681931	hemC	BUAP5A_584	-	COG0181H	porphobilinogen deaminase
+627635..628894	-	419	219681932	rho	BUAP5A_588	-	COG1158K	transcription termination factor Rho
+629024..629350	-	108	219681933	trxA	BUAP5A_589	-	COG3118O	thioredoxin
+629552..631489	-	645	219681934	rep	BUAP5A_590	-	COG0210L	ATP-dependent DNA helicase Rep
+631559..633031	-	490	219681935	ilvC	BUAP5A_591	-	COG0059EH	ketol-acid reductoisomerase
+633079..634932	-	617	219681936	ilvD	BUAP5A_592	-	COG0129EG	dihydroxy-acid dehydratase
+635421..636635	+	404	219681937	mitF	BUAP5A_594	-	COG1104E	cysteine desulfurase
+636666..637049	+	127	219681938	iscU	BUAP5A_595	-	COG0822C	scaffold protein
+637144..637668	+	174	219681939	hscB	BUAP5A_596	-	COG1076O	chaperone protein HscB
+637680..639515	+	611	219681940	hscA	BUAP5A_597	-	COG0443O	chaperone protein HscA
+639515..639850	+	111	219681941	fdx	BUAP5A_598	-	COG0633C	ferredoxin 2fe-2s
+639847..641208	-	453	219681942	engA	BUAP5A_599	-	COG1160R	GTP-binding protein EngA
+641301..641882	-	193	219681943	yfgM	BUAP5A_600	-	COG2976S	hypothetical protein

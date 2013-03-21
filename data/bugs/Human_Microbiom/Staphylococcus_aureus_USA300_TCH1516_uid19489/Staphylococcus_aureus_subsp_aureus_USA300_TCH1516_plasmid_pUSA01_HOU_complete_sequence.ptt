@@ -1,0 +1,9 @@
+Staphylococcus aureus subsp. aureus USA300_TCH1516 plasmid pUSA01-HOU, complete sequence - 1..3125
+6 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..996	+	331	225631040	repA	USA300HOU_pUSA10HOUMR0001	-	COG5655L	replication initiation protein
+1348..1464	+	38	225631041	-	USA300HOU_pUSA10HOUMR0002	-	-	hypothetical protein
+1579..1767	+	62	225631042	-	USA300HOU_pUSA10HOUMR0003	-	-	membrane protein
+1801..1923	+	40	225631043	-	USA300HOU_pUSA10HOUMR0004	-	-	hypothetical protein
+2093..2674	-	193	225631044	-	USA300HOU_pUSA10HOUMR0005	-	-	hypothetical protein
+2749..2922	+	57	225631045	-	USA300HOU_pUSA10HOUMR0006	-	-	membrane protein
