@@ -51,7 +51,7 @@ def main():
 		bug = Bug(bugName)
 
 		# gets a dictionary of RNA sequences (with the key as the name of the RNA and the value as a sequence object)
-		bugRNA = bug.getUniqueRNA()
+		bugRNA = bug.getRNA()
 
 		# gets a dictionary of DNA sequences (with the key as the starting location of the DNA and the value as a sequence object)
 		bugDNA = bug.getDNA()
