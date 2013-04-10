@@ -23,7 +23,7 @@ class Bug:
 		dataDirectory = os.path.join(parser.get('directories', 'root_dir'), parser.get('directories', 'data_subdir'))
 
 		# get the bug directory from the configuration file
-		bugDirectory  = os.path.join(dataDirectory, parser.get('bug_data', 'bug_subdir'))
+		bugDirectory  = os.path.join(dataDirectory, parser.get('directories', 'bug_subdir'))
 
 		# get the database file name and the name of the bug
 		self.databaseFileName = os.path.join(dataDirectory, parser.get('files', 'database_file_name'))
