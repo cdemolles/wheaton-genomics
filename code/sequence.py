@@ -202,8 +202,8 @@ class Sequence:
 								#motifIdentifier = motif + '_' + str(motifLocation)
 								#rCompIdentifer  = reverseComplement + '_' + str(reverseComplementLocation)
 
-								totalInvertedRepeats.update(motifIdentifier)
-								totalInvertedRepeats.update(rCompIdentifer)
+								totalInvertedRepeats.update(motifSpace)
+								totalInvertedRepeats.update(reverseComplementSpace)
 
 								# construct a unique identifier for each motif and its reverse complement along with the starting locations
 								# this is to avoid counting the same thing multiple times
