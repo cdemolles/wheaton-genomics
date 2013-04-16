@@ -1,20 +1,15 @@
-from ftplib import FTP
-from ConfigParser import SafeConfigParser
-import os
-import pickle
-import smtplib
-import re
+import os, pickle, smtplib, re, ConfigParser, ftplib
 
 
 #==============================================================================================
 def main():
 
 	# open the configuration file
-	parser = SafeConfigParser()
+	parser = ConfigParser.SafeConfigParser()
 	parser.read('config.ini')
 
 	# holds a cached copy of the dictionary
-	pickleFileName = os.path.join(parser.get('main', 'script_dir'), parser.get('downloader', 'cached_file_name'))
+	pickleFileName = os.path.join(parser.get('directories', 'root_dir'), parser.get('directories', 'script_subdir'), parser.get('files', 'cached_file_name'))
 
 	# holds a list of new files to download
 	newFiles = []
@@ -26,7 +21,7 @@ def main():
 	ftpDirectory = parser.get('downloader', 'ftp_dir')
 
 	# connect to the ftp server and go to ftpDirectory
-	ftp = FTP(parser.get('downloader', 'ftp_site'))
+	ftp = ftplib.FTP(parser.get('downloader', 'ftp_site'))
 	ftp.login()
 	ftp.cwd(ftpDirectory)
 	
@@ -73,7 +68,7 @@ def main():
 		send = parser.getboolean('downloader', 'send_email')
 
 		if send:
-			sendEmail(['demolles_christopher@wheatoncollege.edu', 'mleblanc@wheatoncollege.edu'], genomeFiles)
+			sendEmail(['demolles_christopher@wheatoncollege.edu'], genomeFiles)
 
 		saveCachedList(pickleFileName, genomeFiles)
 

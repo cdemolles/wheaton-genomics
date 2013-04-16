@@ -158,6 +158,74 @@ class Sequence:
 		return irs
 
 
+	#==============================================================================================#
+	def getTotalInvertedRepeats(self, min, max, mismatches):
+
+		irs = {}
+
+		motifs = self.motifs(min, max)
+
+		# loop over each motif in the list of motifs
+		for motif in motifs:
+
+			# make a set to store the potential inverted repeats
+			# using a set to avoid adding the same element multiple times
+			potentialInvertedRepeats = set()
+
+			# take the reverse complement of the motif
+			reverseComplementMismatches = DNA.reverseComplementMismatches(motif, mismatches)
+
+			# for each reverse complement with one or more mismatched base pairs
+			for reverseComplement in reverseComplementMismatches:
+
+				# if the reverse complement is also in the dictionary, then we know we have a possible IR
+				if motifs.has_key(reverseComplement):
+
+					# get the location(s) where this motif occurs
+					motifLocations = motifs[motif]
+
+					# get the location(s) where the reverse complement occurs
+					reverseComplementLocations = motifs[reverseComplement]
+
+					# loop over each starting position in the list of location(s) where the motif occurs
+					for motifLocation in motifLocations:
+
+						# loop over each starting position in the list of location(s) where the reverse complement occurs
+						for reverseComplementLocation in reverseComplementLocations:
+
+							# make sure there are no letters shared between the motifs
+							if abs(reverseComplementLocation - motifLocation) >= len(motif):
+
+								potentialInvertedRepeats.add(motifLocation)
+								potentialInvertedRepeats.add(reverseComplementLocation)
+
+								# construct a unique identifier for each motif and its reverse complement along with the starting locations
+								# this is to avoid counting the same thing multiple times
+								#if motifLocation < reverseComplementLocation:
+								#	identifier = motif + '_' + reverseComplement + '_' + str(motifLocation) + '_' + str(reverseComplementLocation)
+								#elif reverseComplementLocation < motifLocation:
+								#	identifier = reverseComplement + '_' + motif + '_' + str(reverseComplementLocation) + '_' + str(motifLocation)
+								#else:
+								#	identifier = None
+
+								# add the identifier to the set of potential inverted repeats
+								# the data structure is a set so if the identifer is already in the set, it will not be added again
+								#if identifier is not None:
+								#	potentialInvertedRepeats.add(identifier)
+
+			# get the length of the motif
+			key = len(motif)
+
+			# if we've already begun counting IRs of length 2 * key, then union the exisiting set with the generated set of potential inverted repeats
+			if irs.has_key(key):
+				irs[key] = irs[key].union(potentialInvertedRepeats)
+			# otherwise, initialize an empty set
+			else:
+				irs[key] = set()
+
+		return irs
+
+
 	def getIRDistributions(self, min, max, mismatches, relativePercentages=True):
 
 		irIdentifiers = self.getInvertedRepeats(min, max, mismatches)
@@ -203,6 +271,23 @@ class Sequence:
 
 			if relativePercentages == True:
 				countsOfIRs[key] = float(countsOfIRs[key]) / len(self.sequence)
+
+		for i in range(min, max+1):
+			if not countsOfIRs.has_key(i):
+				countsOfIRs[i] = 0
+
+		return countsOfIRs
+
+
+	def countTotalInvertedRepeats(self, min, max, mismatches):
+
+		irIdentifiers = self.getTotalInvertedRepeats(min, max, mismatches)
+
+		countsOfIRs = {}
+
+		for key in irIdentifiers.keys():
+
+			countsOfIRs[key] = len(irIdentifiers[key])
 
 		for i in range(min, max+1):
 			if not countsOfIRs.has_key(i):
