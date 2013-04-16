@@ -156,13 +156,13 @@ def outputData(outputFile, data, bugName, kingdom, category, type):
         outputFile.write(str(invertedRepeats[5]))
         outputFile.write('\t')
 
-        outputFile.write(str(totalInvertedRepeats[3]))
+        outputFile.write(str(3 * totalInvertedRepeats[3]))
         outputFile.write('\t')
 
-        outputFile.write(str(totalInvertedRepeats[4]))
+        outputFile.write(str(4 * totalInvertedRepeats[4]))
         outputFile.write('\t')
 
-        outputFile.write(str(totalInvertedRepeats[5]))
+        outputFile.write(str(5 * totalInvertedRepeats[5]))
         outputFile.write('\n')
         
 
