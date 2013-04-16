@@ -170,7 +170,7 @@ class Sequence:
 
 			# make a set to store the potential inverted repeats
 			# using a set to avoid adding the same element multiple times
-			potentialInvertedRepeats = set()
+			totalInvertedRepeats = set()
 
 			# take the reverse complement of the motif
 			reverseComplementMismatches = DNA.reverseComplementMismatches(motif, mismatches)
@@ -179,7 +179,7 @@ class Sequence:
 			for reverseComplement in reverseComplementMismatches:
 
 				# if the reverse complement is also in the dictionary, then we know we have a possible IR
-				if motifs.has_key(reverseComplement):
+				if motifs.has_key(reverseComplement) and len(motif) == len(reverseComplement):
 
 					# get the location(s) where this motif occurs
 					motifLocations = motifs[motif]
@@ -196,8 +196,11 @@ class Sequence:
 							# make sure there are no letters shared between the motifs
 							if abs(reverseComplementLocation - motifLocation) >= len(motif):
 
-								potentialInvertedRepeats.add(motifLocation)
-								potentialInvertedRepeats.add(reverseComplementLocation)
+								motifIdentifier = motif + '_' + str(motifLocation)
+								rCompIdentifer  = reverseComplement + '_' + str(reverseComplementLocation)
+
+								totalInvertedRepeats.add(motifIdentifier)
+								totalInvertedRepeats.add(rCompIdentifer)
 
 								# construct a unique identifier for each motif and its reverse complement along with the starting locations
 								# this is to avoid counting the same thing multiple times
@@ -218,7 +221,7 @@ class Sequence:
 
 			# if we've already begun counting IRs of length 2 * key, then union the exisiting set with the generated set of potential inverted repeats
 			if irs.has_key(key):
-				irs[key] = irs[key].union(potentialInvertedRepeats)
+				irs[key] = irs[key].union(totalInvertedRepeats)
 			# otherwise, initialize an empty set
 			else:
 				irs[key] = set()
