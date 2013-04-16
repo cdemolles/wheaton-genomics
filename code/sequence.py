@@ -196,11 +196,14 @@ class Sequence:
 							# make sure there are no letters shared between the motifs
 							if abs(reverseComplementLocation - motifLocation) >= len(motif):
 
-								motifIdentifier = motif + '_' + str(motifLocation)
-								rCompIdentifer  = reverseComplement + '_' + str(reverseComplementLocation)
+								motifSpace = set(range(motifLocation, motifLocation + len(motif)))
+								reverseComplementSpace = set(range(reverseComplementLocation, reverseComplementLocation + len(reverseComplement)))
 
-								totalInvertedRepeats.add(motifIdentifier)
-								totalInvertedRepeats.add(rCompIdentifer)
+								#motifIdentifier = motif + '_' + str(motifLocation)
+								#rCompIdentifer  = reverseComplement + '_' + str(reverseComplementLocation)
+
+								totalInvertedRepeats.update(motifIdentifier)
+								totalInvertedRepeats.update(rCompIdentifer)
 
 								# construct a unique identifier for each motif and its reverse complement along with the starting locations
 								# this is to avoid counting the same thing multiple times
