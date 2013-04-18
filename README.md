@@ -17,3 +17,6 @@ The ``code`` directory contains the source code for this project. The ``data`` d
 After performing the steps above, you may now run ``count.py`` in the ``code`` directory. ``count.py`` expects that the SQLite database ``genomics.sqlite`` is located in the ``data`` directory in order to run properly.
 
 ``count.py`` exports a tab-separated value file containing the RNA and intergenic DNA sequences for each bug. The counts of each of the 256 4-mers, the number of potential perfect IRs of stem-length 3,4,5, and the number of potential IRs of stem-length 3,4,5 with one mismatch are saved to the file. The tab-separated value file is saved as ``IR_counts_345.tsv`` in the ``data`` directory.
+
+##Issues
+If you find any problems with the code, please [create an issue](https://github.com/cdemolles/wheaton-genomics/issues).
