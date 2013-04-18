@@ -1,8 +1,19 @@
+"""
+-----------------------------------------------------------------------------------------------------------------
+count.py
+Programmer: Chris DeMolles
+
+Tested with Python 2.7.3
+
+This script counts each of the 256 4-mers for each of the RNA and intergenic DNA sequences in the bug. It also
+counts the number of potential perfect interted repeats and the number of inverted repeats with one mismatch.
+-----------------------------------------------------------------------------------------------------------------
+"""
+
 from bug import *
 from sequence import *
 import sqlite3
 import os
-import re
 import dnaFunctions
 
 def main():
@@ -19,16 +30,18 @@ def main():
     # get the database file name
     databaseFileName = os.path.join(dataDirectory, parser.get('files', 'database_file_name'))
 
+    # connect to the database
     dbConnection = sqlite3.connect(databaseFileName)
+
+    # make a database cursor
     cursor = dbConnection.cursor()
 
-    svmOutputRNA = open('../data/SVM_RNA_irDistributions_largeRun_noEukaryotic.tsv', 'w')
-    svmOutputDNA = open('../data/SVM_DNA_irDistributions_largeRun_noEukaryotic.tsv', 'w')
+    # open a new file for output
+    tsvOutput = open(os.path.join(dataDirectory + '/IR_counts_345.tsv'), 'w')
     
     allPossibleFourMers = dnaFunctions.allPossibleMotifs(4)
 
-    outputHeading(svmOutputRNA, allPossibleFourMers)
-    outputHeading(svmOutputDNA, allPossibleFourMers)
+    outputHeading(tsvOutput, allPossibleFourMers)
 
     bugDataQuery = "SELECT name, kingdom, category FROM organisms WHERE kingdom <> 'Human_Microbiom' AND kingdom <> 'Eukaryotic'"
 
@@ -56,13 +69,12 @@ def main():
         # gets a dictionary of DNA sequences (with the key as the starting location of the DNA and the value as a sequence object)
         bugDNA = bug.getDNA()
 
-        outputData(svmOutputRNA, bugRNA, bugName, kingdom, category, 'RNA', allPossibleFourMers)
-        outputData(svmOutputDNA, bugDNA, bugName, kingdom, category, 'DNA', allPossibleFourMers)
+        outputData(tsvOutput, bugRNA, bugName, kingdom, category, 'RNA', allPossibleFourMers)
+        outputData(tsvOutput, bugDNA, bugName, kingdom, category, 'DNA', allPossibleFourMers)
 
         print "Done counting", bugName, "..."
 
-    svmOutputRNA.close()
-    svmOutputDNA.close()
+    tsvOutput.close()
 
 
 def outputHeading(outputFile, allPossibleFourMers):
@@ -70,9 +82,12 @@ def outputHeading(outputFile, allPossibleFourMers):
     outputFile.write('Name')
     outputFile.write('\t')
 
-    #for motif in allPossibleFourMers:
-    #   outputFile.write(motif)
-    #   outputFile.write('\t')
+    outputFile.write('Kingdom')
+    outputFile.write('\t')
+
+    for motif in allPossibleFourMers:
+       outputFile.write(motif)
+       outputFile.write('\t')
 
     outputFile.write('IRs_Stem_Len_3_Perfect')
     outputFile.write('\t')
@@ -92,9 +107,6 @@ def outputHeading(outputFile, allPossibleFourMers):
     outputFile.write('IRs_Stem_Len_5_1_Mismatch')
     outputFile.write('\t')
 
-    outputFile.write('Kingdom')
-    outputFile.write('\t')
-
     outputFile.write('Type')
     outputFile.write('\n')
 
@@ -103,7 +115,7 @@ def outputData(outputFile, data, bugName, kingdom, category, type, allPossibleFo
 
     for sequenceName, sequence in data.iteritems():
 
-        #motifs                  = sequence.countMotifs(4, 4)
+        motifs                  = sequence.countMotifs(4, 4)
         invertedRepeats         = sequence.countInvertedRepeats(3, 5, 0)
         invertedRepeatsMismatch = sequence.countInvertedRepeats(3, 5, 1)
 
@@ -126,17 +138,18 @@ def outputData(outputFile, data, bugName, kingdom, category, type, allPossibleFo
         outputFile.write(outputName)
         outputFile.write('\t')
 
-        """
+        outputFile.write(kingdom)
+        outputFile.write('\t')
+
         for motif in allPossibleFourMers:
 
-            if motifs.has_key(motif):
+            if motif in motifs:
                 strCount = str(motifs[motif])
                 outputFile.write(strCount)
             else:
                 outputFile.write('0')
 
             outputFile.write('\t')
-        """
 
         outputFile.write(str(invertedRepeats[3]))
         outputFile.write('\t')
@@ -154,9 +167,6 @@ def outputData(outputFile, data, bugName, kingdom, category, type, allPossibleFo
         outputFile.write('\t')
 
         outputFile.write(str(invertedRepeatsMismatch[5]))
-        outputFile.write('\t')
-
-        outputFile.write(kingdom)
         outputFile.write('\t')
 
         if type == 'DNA':

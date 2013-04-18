@@ -10,7 +10,7 @@ to which it belongs, and whether it is single cellular or multicelluar.
 -----------------------------------------------------------------------------------------------------------------
 """
 
-import os, glob, dnaFunctions, sqlite3
+import os, sqlite3
 from sequence import Sequence
 from ConfigParser import SafeConfigParser
 
