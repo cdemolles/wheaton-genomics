@@ -14,3 +14,4 @@ The ``code`` directory contains the source code for this project. The ``data`` d
 4. Edit the ``root_dir`` entry under ``[directories]`` to match the location of where the repository is stored on your machine.
 
 ###Running the code
+After performing the steps above, you may now run ``count.py`` in the ``code`` directory.
