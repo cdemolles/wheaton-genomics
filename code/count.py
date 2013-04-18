@@ -22,8 +22,13 @@ def main():
     dbConnection = sqlite3.connect(databaseFileName)
     cursor = dbConnection.cursor()
 
-    report = open('../data/report.tsv', 'w')
-    outputHeading(report)
+    svmOutputRNA = open('../data/SVM_RNA_irDistributions_largeRun_noEukaryotic.tsv', 'w')
+    svmOutputDNA = open('../data/SVM_DNA_irDistributions_largeRun_noEukaryotic.tsv', 'w')
+    
+    allPossibleFourMers = dnaFunctions.allPossibleMotifs(4)
+
+    outputHeading(svmOutputRNA, allPossibleFourMers)
+    outputHeading(svmOutputDNA, allPossibleFourMers)
 
     bugDataQuery = "SELECT name, kingdom, category FROM organisms WHERE kingdom <> 'Human_Microbiom' AND kingdom <> 'Eukaryotic'"
 
@@ -51,33 +56,23 @@ def main():
         # gets a dictionary of DNA sequences (with the key as the starting location of the DNA and the value as a sequence object)
         bugDNA = bug.getDNA()
 
-        outputData(report, bugRNA, bugName, kingdom, category, 'RNA')
-        outputData(report, bugDNA, bugName, kingdom, category, 'DNA')
+        outputData(svmOutputRNA, bugRNA, bugName, kingdom, category, 'RNA', allPossibleFourMers)
+        outputData(svmOutputDNA, bugDNA, bugName, kingdom, category, 'DNA', allPossibleFourMers)
 
         print "Done counting", bugName, "..."
 
-    report.close()
+    svmOutputRNA.close()
+    svmOutputDNA.close()
 
 
-def outputHeading(outputFile):
+def outputHeading(outputFile, allPossibleFourMers):
 
-    outputFile.write('Sequence_Name')
+    outputFile.write('Name')
     outputFile.write('\t')
 
-    outputFile.write('Bug_Name')
-    outputFile.write('\t')
-
-    outputFile.write('Kingdom')
-    outputFile.write('\t')
-
-    outputFile.write('Category')
-    outputFile.write('\t')
-
-    outputFile.write('Type')
-    outputFile.write('\t')
-
-    outputFile.write('Sequence_Length')
-    outputFile.write('\t')
+    #for motif in allPossibleFourMers:
+    #   outputFile.write(motif)
+    #   outputFile.write('\t')
 
     outputFile.write('IRs_Stem_Len_3_Perfect')
     outputFile.write('\t')
@@ -88,24 +83,29 @@ def outputHeading(outputFile):
     outputFile.write('IRs_Stem_Len_5_Perfect')
     outputFile.write('\t')
 
-    outputFile.write('Total_IRs_Stem_Len_3')
+    outputFile.write('IRs_Stem_Len_3_1_Mismatch')
     outputFile.write('\t')
 
-    outputFile.write('Total_IRs_Stem_Len_4')
+    outputFile.write('IRs_Stem_Len_4_1_Mismatch')
     outputFile.write('\t')
 
-    outputFile.write('Total_IRs_Stem_Len_5')   
+    outputFile.write('IRs_Stem_Len_5_1_Mismatch')
+    outputFile.write('\t')
+
+    outputFile.write('Kingdom')
+    outputFile.write('\t')
+
+    outputFile.write('Type')
     outputFile.write('\n')
 
 
-def outputData(outputFile, data, bugName, kingdom, category, type):
+def outputData(outputFile, data, bugName, kingdom, category, type, allPossibleFourMers):
 
     for sequenceName, sequence in data.iteritems():
 
         #motifs                  = sequence.countMotifs(4, 4)
-        invertedRepeats         = sequence.countInvertedRepeats(3, 5, 0, False)
-        totalInvertedRepeats    = sequence.countTotalInvertedRepeats(3, 5, 0)
-        #invertedRepeatsMismatch = sequence.countInvertedRepeats(4, 4, 1)
+        invertedRepeats         = sequence.countInvertedRepeats(3, 5, 0)
+        invertedRepeatsMismatch = sequence.countInvertedRepeats(3, 5, 1)
 
         strandName = ''
 
@@ -121,31 +121,22 @@ def outputData(outputFile, data, bugName, kingdom, category, type):
         else:
             outputName = sequenceName
 
-        outputName = str(bugName) + '_' + str(type) + '_' + str(outputName) + '_' + str(sequence.end) + '_' + str(strandName)
-
-        length = abs(sequence.end - sequence.start) + 1
+        outputName = str(bugName) + '_' + str(type) + '_' + str(outputName) + '_' + str(sequence.start) + '_' + str(sequence.end) + '_' + str(strandName)
 
         outputFile.write(outputName)
         outputFile.write('\t')
 
-        outputFile.write(bugName)
-        outputFile.write('\t')
+        """
+        for motif in allPossibleFourMers:
 
-        outputFile.write(kingdom)
-        outputFile.write('\t')
+            if motifs.has_key(motif):
+                strCount = str(motifs[motif])
+                outputFile.write(strCount)
+            else:
+                outputFile.write('0')
 
-        outputFile.write(category)
-        outputFile.write('\t')
-
-        if type == 'DNA':
-            outputFile.write('Intergenic')
-        else:
-            outputFile.write(type)
-
-        outputFile.write('\t')
-
-        outputFile.write(str(length))
-        outputFile.write('\t')
+            outputFile.write('\t')
+        """
 
         outputFile.write(str(invertedRepeats[3]))
         outputFile.write('\t')
@@ -156,15 +147,24 @@ def outputData(outputFile, data, bugName, kingdom, category, type):
         outputFile.write(str(invertedRepeats[5]))
         outputFile.write('\t')
 
-        outputFile.write(str(totalInvertedRepeats[3]))
+        outputFile.write(str(invertedRepeatsMismatch[3]))
         outputFile.write('\t')
 
-        outputFile.write(str(totalInvertedRepeats[4]))
+        outputFile.write(str(invertedRepeatsMismatch[4]))
         outputFile.write('\t')
 
-        outputFile.write(str(totalInvertedRepeats[5]))
+        outputFile.write(str(invertedRepeatsMismatch[5]))
+        outputFile.write('\t')
+
+        outputFile.write(kingdom)
+        outputFile.write('\t')
+
+        if type == 'DNA':
+            outputFile.write('notRNA')
+        else:
+            outputFile.write(type)
+
         outputFile.write('\n')
-        
 
 if __name__ == '__main__':
     main()
